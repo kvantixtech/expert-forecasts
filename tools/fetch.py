@@ -21,6 +21,9 @@ KEY = re.compile(r"(BNP|bruttonationalprodukt|GDP|forbrugerpris|consumer price|H
                  r"nøgletal|key (economic )?(figures|variables)|centrale skøn|tabel|table|prognose|projection)", re.I)
 NUM = re.compile(r"-?\d+[,.]\d")
 MAX_LINES = 800
+ROW_GDP = re.compile(r"(BNP|bruttonationalprodukt|GDP)", re.I)
+ROW_PRICE = re.compile(r"(forbrugerpris|consumer price|HICP|inflation)", re.I)
+AUTO_DUMP_MAX = 6
 GAP = re.compile(r"\s{3,}")
 YEARS = re.compile(r"\b(?:19|20)\d\d\b")
 
@@ -49,6 +52,21 @@ def pdf_lines(path):
             elif (len(NUM.findall(s)) >= 3 or len(YEARS.findall(s)) >= 2) and i > 0 and any(KEY.search(x) for x in lines[max(0, i - 25):i]):
                 out.append("p.%d: %s" % (pno, GAP.sub("  |  ", s)))
     return out[:MAX_LINES], len(pages)
+
+
+def table_pages(pages):
+    """Pages that hold a key-figures table: a GDP row and/or a price row with 3+ numbers.
+    Pages with both come first; at most AUTO_DUMP_MAX pages."""
+    both, one = [], []
+    for pno, page in enumerate(pages, start=1):
+        rows = [l for l in page.splitlines() if len(NUM.findall(l)) >= 3]
+        g = any(ROW_GDP.search(l) for l in rows)
+        c = any(ROW_PRICE.search(l) for l in rows)
+        if g and c:
+            both.append(pno)
+        elif g or c:
+            one.append(pno)
+    return (both + one)[:AUTO_DUMP_MAX]
 
 
 def page_lines(path, base):
@@ -106,9 +124,10 @@ def main():
                 if s["kind"] == "pdf" and is_pdf:
                     body, npages = pdf_lines(f)
                     head.append(f"# pages: {npages}  (lines below are quotes; p.N = PDF page)")
-                    if s.get("dump_pages"):
-                        full = subprocess.run(["pdftotext", "-layout", f, "-"], capture_output=True, text=True).stdout.split("\f")
-                        for pn in s["dump_pages"]:
+                    full = subprocess.run(["pdftotext", "-layout", f, "-"], capture_output=True, text=True).stdout.split("\f")
+                    dump = sorted(set(s.get("dump_pages", [])) | set(table_pages(full)))
+                    if dump:
+                        for pn in dump:
                             if 1 <= pn <= len(full):
                                 body += ["", f"# --- full text of p.{pn} (table layout, for column headers and notes) ---"]
                                 body += [f"p.{pn}| " + l.rstrip() for l in full[pn - 1].splitlines() if l.strip()]

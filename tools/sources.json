@@ -364,6 +364,71 @@
    "id": "nb-2019-09-page-en",
    "kind": "page",
    "url": "https://www.nationalbanken.dk/en/news-and-knowledge/publications-and-speeches/archive-publications/2019/outlook-for-the-danish-economy-slightly-lower-growth-in-the-coming-years"
+  },
+  {
+   "id": "nb-2015-12",
+   "kind": "pdf",
+   "url": "https://www.nationalbanken.dk/media/rmimcval/monetary-review-4th-quarter-2015.pdf"
+  },
+  {
+   "id": "nb-2019-03",
+   "kind": "pdf",
+   "url": "https://www.nationalbanken.dk/media/r54pgrin/analysis-no-7-outlook-for-the-danish-economy-march-2019.pdf"
+  },
+  {
+   "id": "nb-2019-09",
+   "kind": "pdf",
+   "url": "https://www.nationalbanken.dk/media/n2war15y/analysis-no-20-outlook-for-the-danish-economy-september-2019.pdf"
+  },
+  {
+   "id": "nb-2020-06",
+   "kind": "pdf",
+   "url": "https://www.nationalbanken.dk/media/fhdaeaep/analyse-nr-18-udsigt-til-moderat-lavkonjunktur-det-naeste-aars-tid.pdf"
+  },
+  {
+   "id": "nb-2020-09",
+   "kind": "pdf",
+   "url": "https://www.nationalbanken.dk/media/lbmic2pw/analyse-nr-12-udsigt-til-gradvis-genopretning-af-oekonomien.pdf"
+  },
+  {
+   "id": "nb-2020-12",
+   "kind": "pdf",
+   "url": "https://www.nationalbanken.dk/media/xhpfk4uy/analyse-nr-26-smittespredning-forsinker-genopretningen.pdf"
+  },
+  {
+   "id": "nb-2021-03",
+   "kind": "pdf",
+   "url": "https://www.nationalbanken.dk/media/n3nn2qga/analysis-no-7-outlook-for-the-danish-economy-march-2021.pdf"
+  },
+  {
+   "id": "nb-2023-09",
+   "kind": "pdf",
+   "url": "https://www.nationalbanken.dk/media/qgkddum4/persistently-high-inflationary-pressures-call-for-tight-economic-policy.pdf"
+  },
+  {
+   "id": "nb-arch-2018-mar-page",
+   "kind": "page",
+   "url": "https://www.nationalbanken.dk/en/news-and-knowledge/publications-and-speeches/archive-publications/2018/outlook-for-the-danish-economy-moderate-boom-in-the-coming-years"
+  },
+  {
+   "id": "or-2015-12-reg-page",
+   "kind": "page",
+   "url": "https://regeringen.dk/aktuelt/tidligere-publikationer/oekonomisk-redegoerelse-december-2015/"
+  },
+  {
+   "id": "or-2015-12-alt1",
+   "kind": "pdf",
+   "url": "https://legacy.altinget.dk/misc/Oekonomisk_redegoerelse_dec_2015.pdf"
+  },
+  {
+   "id": "or-2015-12-alt2",
+   "kind": "pdf",
+   "url": "https://legacy.altinget.dk/misc/oekonomisk%20redegoerelse_december%202015.pdf"
+  },
+  {
+   "id": "or-2015-08-sm",
+   "kind": "pdf",
+   "url": "https://www.sm.dk/media/7593/oekonomisk-redegoerelse-maj-2015.pdf"
   }
  ],
  "statbank": [
@@ -384,6 +449,30 @@
        "code": "PRISENHED",
        "values": [
         "L_V"
+       ]
+      },
+      {
+       "code": "Tid",
+       "values": [
+        "*"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "private-consumption-deflator",
+     "variables": [
+      {
+       "code": "TRANSAKT",
+       "values": [
+        "P31S1MD"
+       ]
+      },
+      {
+       "code": "PRISENHED",
+       "values": [
+        "V_M",
+        "LAN_M"
        ]
       },
       {
@@ -421,7 +510,32 @@
   },
   {
    "id": "PRIS07",
-   "info": true
+   "info": false,
+   "data": [
+    {
+     "name": "hicp-index",
+     "variables": [
+      {
+       "code": "VAREGR",
+       "values": [
+        "000001"
+       ]
+      },
+      {
+       "code": "ENHED",
+       "values": [
+        "100"
+       ]
+      },
+      {
+       "code": "Tid",
+       "values": [
+        "*"
+       ]
+      }
+     ]
+    }
+   ]
   }
  ],
  "statbank_search": [
