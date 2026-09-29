@@ -612,6 +612,31 @@
    "dump_pages": [
     1
    ]
+  },
+  {
+   "id": "nb-2016-12",
+   "kind": "pdf",
+   "url": "http://www.nationalbanken.dk/media/2g5o32nk/monetary-review-4th-quarter-2016.pdf"
+  },
+  {
+   "id": "nb-2018-09",
+   "kind": "pdf",
+   "url": "https://www.nationalbanken.dk/media/ez5cjioj/analysis-boom-with-no-signs-of-imbalances.pdf"
+  },
+  {
+   "id": "nb-2017-12-g1",
+   "kind": "pdf",
+   "url": "https://www.nationalbanken.dk/en/publications/Documents/2017/12/Analysis_Outlook%20for%20the%20Danish%20Economy_December%202017.pdf"
+  },
+  {
+   "id": "nb-2017-12-g2",
+   "kind": "page",
+   "url": "https://www.nationalbanken.dk/en/publications/Pages/2017/12/Outlook-for-the-Danish-economy-December-2017.aspx"
+  },
+  {
+   "id": "nb-2017-12-g3",
+   "kind": "page",
+   "url": "https://www.nationalbanken.dk/en/publications/Pages/2017/12/Analysis-Outlook-for-the-Danish-economy-December-2017.aspx"
   }
  ],
  "statbank": [
