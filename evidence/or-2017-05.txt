@@ -1,7 +1,7 @@
 # or-2017-05
 # url: https://regeringen.dk/media/u0lnig0x/oekonomisk_redegoerelse_maj_2017_pdfa.pdf
 # http: 200  bytes: 2498570  sha256: 73558d27a5f871479f7417f54a6ecace11f5b5cda9358b895df90ce240e57d2f
-# fetched: 2026-09-29T18:21:18Z
+# fetched: 2026-09-29T18:31:12Z
 # pages: 167  (lines below are quotes; p.N = PDF page)
 
 p.5: peger på en pæn vækst og beskæftigelsesfremgang i 2017 og 2018.
@@ -804,3 +804,248 @@ p.152: Selvstændige og ejerboliger  |  0,3  |  -0,8  |  1,1  |  0,1  |  0,2
 p.152: I øvrigt8)  |  0,1  |  0,0  |  0,1  |  -0,1  |  -0,4
 p.152: Udbetalinger af efterlønsbidrag9)  |  0,0  |  0,0  |  0,0  |  0,0  |  0,0
 p.153: Tabel B.17
+
+# --- full text of p.18 (table layout, for column headers and notes) ---
+p.18|      Kapitel 1                                                                                     Sammenfatning
+p.18|      1.2 Finanspolitikken og de offentlige finanser
+p.18|      Med udsigt til fortsat økonomisk fremgang og en stærk udvikling på arbejdsmarkedet er
+p.18|      dansk økonomi efterhånden tæt på en situation med normal kapacitetsudnyttelse, jf. tabel
+p.18|      1.1. Både outputgabet og beskæftigelsesgabet ventes nu at været lukket i 2018.
+p.18|        Tabel 1.1
+p.18|        Centrale skøn vedrørende tilrettelæggelsen af finanspolitikken
+p.18|                                                              2015           2016           2017           2018
+p.18|        Strukturel saldo, pct. af strukturelt BNP              -0,5           -0,1           -0,5           -0,3
+p.18|        Faktisk saldo, pct. af BNP                             -1,3           -0,9           -1,5           -0,7
+p.18|        ØMU-gæld, pct. af BNP                                 39,6           37,8           36,8           35,6
+p.18|        Offentlig forbrugsvækst, pct.                           0,6           -0,1           0,7           1,01)
+p.18|        Flerårig finanseffekt, pct. af BNP2)                   -0,1           -0,2           -0,1           -0,1
+p.18|                        3)
+p.18|        Outputgab, pct.                                        -1,0           -1,0           -0,4           0,0
+p.18|        Beskæftigelsesgab, 1.000 personer3)                    -40            -22              -5            -1
+p.18|        1)     Forudsætningerne om den offentlige forbugsvækst i 2018 er rent beregningstekniske og afspejler
+p.18|               ikke regeringens prioriteringer, jf. boks 1.3
+p.18|        2)     Beregnet mål for, hvordan ændringer i finanspolitikken påvirker efterspørgsels- og BNP-væksten.
+p.18|        3)     Beregnet mål for, hvor langt produktion og beskæftigelse er fra deres strukturelle niveauer.
+p.18|        Kilde: Danmarks Statistik og egne beregninger.
+p.18|      Finanspolitikken for 2017 blev med finanslovsaftalen og økonomiaftalerne med kommunerne
+p.18|      og regionerne tilrettelagt med et skønnet strukturelt underskud på 0,4 pct. af BNP. Siden er
+p.18|      der kommet nye oplysninger om blandt andet pensionsind- og udbetalinger samt større for-
+p.18|      ventede af- og nedskrivninger af skatterestancer, og det strukturelle underskud i 2017 skøn-
+p.18|      nes på linje med decembervurderingen nu til 0,5 pct. af BNP.
+p.18|      I 2018 skønnes et strukturelt underskud på 0,3 pct. af BNP. Heri indgår beregningsteknisk en
+p.18|      mindredisponering på 1 mia. kr. i 2018 under delloftet for drift, som forudsat i regeringens
+p.18|      2025-plan. Forbedringen fra 2017 til 2018 skyldes den gradvise konsolidering af finanspolitik-
+p.18|      ken, hvor blandt andet de offentlige investeringer gradvist aftager fra et højt niveau. Samtidig
+p.18|      indebærer navnlig tilbagetrækningsreformen en strukturel forbedring af de offentlige finanser i
+p.18|      de kommende år.
+p.18|      Finanspolitikken for 2018 fastlægges med blandt andet finansloven for 2018 og aftalerne om
+p.18|      kommunernes og regionernes økonomi for 2018, jf. boks 1.3. Det bemærkes i den forbind-
+p.18|      else, at forudsætningerne om det offentlige forbrug i 2018 er beregningstekniske og ikke
+p.18|      udtryk for regeringens prioriteter.
+p.18| 16   Økonomisk Redegørelse · Maj 2017
+
+# --- full text of p.20 (table layout, for column headers and notes) ---
+p.20|      Kapitel 1                                                                                                                     Sammenfatning
+p.20|        Figur 1.11                                                            Figur 1.12
+p.20|        Faktisk saldo                                                         Lav offentlig ØMU-gæld og nettogæld
+p.20|         Pct.                                                          Pct.   Pct. af BNP                                             Pct. af BNP
+p.20|          0,5                                                         0,5      80                                                               80
+p.20|                                                                                                Grænse for ØMU-gæld i
+p.20|                                                                               70               Stabilitets- og Vækstpagten                     70
+p.20|          0,0                                                         0,0      60                                                               60
+p.20|                                                                               50                                                               50
+p.20|         -0,5                                                         -0,5
+p.20|                                                                               40                                                               40
+p.20|                                                                               30                                                               30
+p.20|         -1,0                                                         -1,0
+p.20|                                                                               20                                                               20
+p.20|         -1,5                                                         -1,5     10                                                               10
+p.20|                                                                                0                                                               0
+p.20|         -2,0                                                         -2,0    -10                                                               -10
+p.20|                     2015        2016         2017         2018                     00    02      04    06    08     10   12   14    16    18
+p.20|                Faktisk saldo   Faktisk saldo med strukturelt PAL-provenu                      Offentlig nettogæld             ØMU-gæld
+p.20|        Anm.: I figur 1.11 korrigeres der for, hvor meget de volatile indtægter fra pensionsafkastskatten skønnes at
+p.20|               afvige fra det strukturelle niveau, der indgår i beregningen af den strukturelle saldo.
+p.20|        Kilde: Danmarks Statistik og egne beregninger.
+p.20|      Finanspolitikken bidrager til balanceret fremgang
+p.20|      I den nuværende situation, hvor dansk økonomi er inde i et opsving, er det hensigtsmæssigt,
+p.20|      at finanspolitikken gradvist gøres mindre lempelig med sigte på at fastholde en balanceret
+p.20|      fremgang i dansk økonomi. Det bidrager til, at underskuddene på den strukturelle saldo grad-
+p.20|      vist mindskes i de kommende år. Aktuelt skønnes underskuddet på den strukturelle saldo til
+p.20|      0,5 pct. af BNP i 2017 og 0,3 pct. af BNP i 2018, jf. figur 1.13.
+p.20|      Med den gradvise konsolidering af de offentlige finanser har finanspolitikken samlet set en
+p.20|      dæmpende virkning på efterspørgselsfremgangen set i forhold til det lempelige udgangspunkt
+p.20|      i 2014, jf. tabel 1.2 og kapitel 4. Med de beregningstekniske forudsætninger bidrager den
+p.20|      forudsatte finanspolitik siden 2014 samlet til at dæmpe BNP-niveauet med ca. 0,5 pct. i 2018
+p.20|      og dermed til det skønnede outputgab på ca. nul.
+p.20|        Tabel 1.2
+p.20|        Finanspolitikkens aktivitetsvirkning på BNP frem mod 2018
+p.20|                                                                                     2015               2016              2017            2018
+p.20|        Pct. af BNP
+p.20|        Bidrag til BNP-niveau (inkl. flerårig virkning)                                  -0,1             -0,3            -0,4            -0,5
+p.20|        Anm.: I tabel 1.2 er aktivitetsvirkningen af finanspolitikken på BNP-niveauet opgjort ved den flerårige
+p.20|               finanseffekt. Den flerårige finanseffekt måler aktivitetsvirkning af finanspolitiske ændringer i både
+p.20|               det pågældende og de forudgående år siden udgangspunktet i 2014.
+p.20|        Kilde: Danmarks Statistik og egne beregninger.
+p.20| 18   Økonomisk Redegørelse · Maj 2017
+
+# --- full text of p.31 (table layout, for column headers and notes) ---
+p.31| Kapitel 1                                                                               Sammenfatning
+p.31| 1.4 Bilagstabel
+p.31|   Tabel 1.3
+p.31|   Nøgletal fra vurderingen i maj og sammenligning med skøn fra december
+p.31|                                                    2016          2017                   2018
+p.31|                                                           Dec.          Maj     Dec.           Maj
+p.31|    Realvækst, pct.
+p.31|    Privat forbrug                                   1,9    1,8          2,0      2,0            2,0
+p.31|    Samlet offentlig efterspørgsel                   0,2    0,7          0,5      0,4            0,5
+p.31|    - heraf offentligt forbrug                      -0,1    0,7          0,7     0,81)          1,01)
+p.31|    - heraf offentlige investeringer                 2,2    0,6          -0,6    -2,5           -2,9
+p.31|    Boliginvesteringer                              11,0    6,0          7,0      8,0            8,0
+p.31|    Faste erhvervsinvesteringer                      4,0    3,8          3,6      3,9            3,9
+p.31|    I alt endelig indenlandsk efterspørgsel          2,0    1,8          1,8      2,0            2,1
+p.31|    Lagerændringer (vækstbidrag)                    -0,4    0,0          0,0      0,0            0,0
+p.31|    I alt indenlandsk efterspørgsel                  1,6    1,7          1,8      2,0            2,1
+p.31|    Eksport                                          1,7    2,4          2,9      2,7            2,8
+p.31|    - heraf industrieksport                          4,2    2,8          3,9      2,9            3,4
+p.31|    Samlet efterspørgsel                             1,7    2,0          2,2      2,3            2,3
+p.31|    Import                                           2,4    3,0          3,4      3,4            3,7
+p.31|    - heraf vareimport                               1,9    2,9          3,5      3,3            3,7
+p.31|    BNP                                              1,3    1,5          1,7      1,7            1,7
+p.31|    BNP efter outputmetoden (beregningsteknisk)2)    1,3    1,6          1,8      1,8            1,8
+p.31|    Bruttoværditilvækst                              1,0    1,5          1,9      1,8            1,6
+p.31|    - heraf i private byerhverv                      1,9    2,1          2,5      2,4            2,0
+p.31|    Ændring i 1.000 personer
+p.31|    Arbejdsstyrke, i alt                             39     26            42       23             21
+p.31|    Beskæftigelse, i alt                             48     29            37       25             23
+p.31|    - heraf i den private sektor                     54     28            36       23             21
+p.31|    - heraf i offentlig forvaltning og service        -6     1             1        2              2
+p.31|    Bruttoledighed                                   -10     -3            4       -2             -3
+p.31|    Konjunkturgab, pct.
+p.31|    Outputgab                                       -1,0   -0,2          -0,4     0,0            0,0
+p.31|    Beskæftigelsesgab                               -0,8   -0,4          -0,2    -0,1            0,0
+p.31|    Ledighedsgab                                     0,4    0,1          0,0      0,0            0,0
+p.31|                                                                    Økonomisk Redegørelse · Maj 2017     29
+
+# --- full text of p.32 (table layout, for column headers and notes) ---
+p.32|      Kapitel 1                                                                                            Sammenfatning
+p.32|        Tabel 1.3 (fortsat)
+p.32|        Nøgletal fra vurderingen i maj og sammenligning med skøn fra december
+p.32|                                                                2016             2017                   2018
+p.32|                                                                            Dec.         Maj       Dec.         Maj
+p.32|        Stigning, pct.
+p.32|        Huspriser (enfamiliehuse)                                 3,9         4,0         3,0        4,0         4,0
+p.32|        Forbrugerprisindeks                                       0,2         1,2         1,3        1,5         1,6
+p.32|        Timeløn i privat sektor (DA’s StrukturStatistik)          2,2         2,5         2,5        2,7         2,8
+p.32|        Real disponibel indkomst, husholdninger                   1,6         1,2         1,2        1,3         1,2
+p.32|        Timeproduktiviteten i private byerhverv                   -0,6        0,6         0,7        1,1         0,9
+p.32|        Pct. p.a.
+p.32|        Rente, 1-årigt flekslån                                   -0,3       -0,2        -0,5        0,0        -0,1
+p.32|        Rente, 10-årig statsobligation                            0,0         0,7         0,6        1,0         1,0
+p.32|        Rente, 30-årig realkreditobligation                       0,0         2,9         2,5        3,1         3,0
+p.32|        Offentlige finanser
+p.32|        Faktisk offentlig saldo (mia. kr.)                      -18,6       -32,6       -32,8      -20,5       -15,5
+p.32|        Faktisk offentlig saldo (pct. af BNP)                     -0,9       -1,6        -1,5       -0,9        -0,7
+p.32|        Strukturel offentlig saldo (pct. af BNP)                  -0,1       -0,5        -0,5       -0,2        -0,3
+p.32|        ØMU-gæld (pct. af BNP)                                   37,8        37,6        36,8       36,7        35,6
+p.32|        Arbejdsmarked
+p.32|        Arbejdsstyrke, i alt                                    2.983      3.002        3.025      3.025       3.045
+p.32|        Beskæftigelse (inkl. orlov), i alt                      2.877      2.901        2.914      2.926       2.937
+p.32|        Bruttoledighed (årsgns., 1.000 personer)                  113        108         117        106         114
+p.32|        Bruttoledighed (pct. af arbejdsstyrken)                   3,8         3,6         3,9        3,5         3,7
+p.32|        Eksterne forudsætninger
+p.32|        Handelsvægtet BNP-vækst i udlandet, pct.                  2,1         2,0         2,3        2,1         2,2
+p.32|        Eksportmarkedsvækst (industrivarer), pct.                 3,0         3,4         3,8        3,9         4,1
+p.32|        Dollarkurs, kr. pr. dollar                                6,7         6,9         6,9        6,9         6,9
+p.32|        Oliepris, dollar pr. tønde                               43,5        50,8        53,9       58,7        59,4
+p.32|        Betalingsbalance
+p.32|        Betalingsbalancesaldo (pct. af BNP)                       8,1         7,5         8,1        7,5         7,9
+p.32|        1)        Forudsætningerne om det offentlige forbrug i 2018 er rent beregningstekniske, jf. også boks 1.3. Det
+p.32|                  indebærer blandt andet, at råderummet i finanspolitikken i 2018 er regnet ind som realvækst i det
+p.32|                  offentlige forbrug. Realvæksten i det offentlige forbrug i 2018 afspejler således ikke regeringens
+p.32|                  prioriteter.
+p.32|        2)        Korrigeret for det historiske merbidrag til BNP-væksten ved at opgøre det offentlige forbrug ved
+p.32|                  outputmetoden frem for ved inputmetoden.
+p.32| 30   Økonomisk Redegørelse · Maj 2017
+
+# --- full text of p.37 (table layout, for column headers and notes) ---
+p.37| Kapitel 2                                                       International økonomi og finansielle markeder
+p.37| I takt med bedringen i den globale økonomi og med udsigt til gradvist tiltagende inflation er
+p.37| de lange renter generelt steget siden efteråret, jf. figur 2.6. Renteniveauet er dog stadig me-
+p.37| get lavt i et historisk perspektiv. Det er også tilfældet i USA, hvor centralbanken har genopta-
+p.37| get normaliseringen af de pengepolitiske renter, jf. nedenfor. De lave renter er med til at
+p.37| understøtte fremgangen i den internationale og danske økonomi, blandt andet i kraft af lave
+p.37| renteudgifter for husholdningerne og virksomhederne samt stigende boligpriser.
+p.37| Vægtet i forhold til Danmarks eksport er der udsigt til jævn vækst på de danske eksportmar-
+p.37| keder på godt 2,2 pct. i 2017 og 2018, jf. tabel 2.1.
+p.37|   Tabel 2.1
+p.37|   Vækstskøn for udlandet og dansk eksportmarkedsvækst
+p.37|                                                               2016               2017              2018
+p.37|    Realvækst, pct.
+p.37|    Eksportmarkedsvækst                                          3,0               3,8                4,1
+p.37|    Handelsvægtet BNP                                            2,1               2,3                2,2
+p.37|    USA                                                          1,6               2,2                2,3
+p.37|    EU28                                                         1,9               1,9                1,9
+p.37|    Euroområdet                                                  1,8               1,7                1,8
+p.37|    Tyskland                                                     1,9               1,6                1,9
+p.37|    Frankrig                                                     1,2               1,4                1,7
+p.37|    Italien                                                      0,9               0,9                1,1
+p.37|    Spanien                                                      3,2               2,8                2,4
+p.37|    Nederlandene                                                 2,2               2,1                1,8
+p.37|    Storbritannien                                               1,8               1,8                1,3
+p.37|    Polen                                                        2,7               3,5                3,2
+p.37|    Sverige                                                      3,3               2,6                2,2
+p.37|    Norge                                                        1,0               1,4                1,6
+p.37|    Japan                                                        1,0               1,2                0,6
+p.37|    Indien                                                       7,1               7,2                7,5
+p.37|    Kina                                                         6,7               6,6                6,3
+p.37|    Rusland                                                     -0,2               1,2                1,4
+p.37|    Brasilien                                                   -3,6               0,5                1,8
+p.37|   Anm: Handelsvægtet BNP er opgjort ved at sammenveje BNP i Danmarks 29 vigtigste samhandels-
+p.37|          partnere ud fra disse landes andel af Danmarks vareeksport. Eksportmarkedsvæksten er opgjort som
+p.37|          et vægtet gennemsnit af importvæksten hos Danmarks handelspartnere, hvor vægtene afspejler lan-
+p.37|          dets betydning for dansk industrieksport, jf. boks 3.6.
+p.37|   Kilde: EU-Kommissionens forårsprognose, maj 2017, IMF World Economic Outlook, april 2017 samt egne
+p.37|          beregninger.
+p.37|                                                                          Økonomisk Redegørelse · Maj 2017       35
+
+# --- full text of p.164 (table layout, for column headers and notes) ---
+p.164|       Bilagstabeller
+p.164|         Tabel B.29
+p.164|         Skøn på forskellige tidspunkter over centrale størrelser
+p.164|                                               Maj    Aug.     Sep.    Dec.        Maj   Aug.    Dec.     Maj
+p.164|                                              2015    2015     2015    2015    2016      2016    2016    2017
+p.164|         2015
+p.164|         BNP (realvækst, pct.)                  1,7     1,5     1,5      1,4       1,2     1,0     1,6     1,6
+p.164|         Nettoledighed (1.000 personer)        101      101     101     104        102    102     102     102
+p.164|         Bruttoledighed (1.000 personer)       128      128     128     124        124    123     123     123
+p.164|         Forbrugerpriser (pct. stigning)        0,8     0,7     0,7      0,5       0,5     0,5     0,5     0,5
+p.164|         Betalingsbalancesaldo (mia. kr.)     139,4   139,4   141,3    155,1   138,5     138,8   185,6   185,6
+p.164|         Samlet offentlig saldo (mia. kr.)    -26,3   -53,9    -59,6   -39,8   -41,1     -34,3   -27,2   -27,2
+p.164|         BNP i EU28 (procentvis stigning)       1,8     1,9     1,8      1,9       2,0     2,0     2,2     2,2
+p.164|         2016
+p.164|         BNP (realvækst, pct.)                  2,0     1,9     1,9      1,9       1,1     0,9     0,8     1,3
+p.164|         Nettoledighed (1.000 personer)         93       94      94      98         90     91      90      92
+p.164|         Bruttoledighed (1.000 personer)       121      123     123     118        112    113     111     113
+p.164|         Forbrugerpriser (pct. stigning)        1,5     1,5     1,5      1,1       0,6     0,5     0,2     0,3
+p.164|         Betalingsbalancesaldo (mia. kr.)    147,7    153,4   154,4    178,9   150,6     136,7   156,3   167,2
+p.164|         Samlet offentlig saldo (mia. kr.)    -50,3   -56,9    -56,6   -56,6   -40,8     -19,1   -29,3   -18,6
+p.164|         BNP i EU28 (procentvis stigning)       2,1     2,1     2,1      2,0       1,8     1,7     1,8     1,9
+p.164|         2017
+p.164|         BNP (realvækst, pct.)                    -       -        -     2,0       1,7     1,5     1,5     1,7
+p.164|         Nettoledighed (1.000 personer)           -       -        -     94         85     87      87      85
+p.164|         Bruttoledighed (1.000 personer)          -       -        -    113        107    109     117     117
+p.164|         Forbrugerpriser (pct. stigning)          -       -        -     1,7       1,5     1,4     1,2     1,3
+p.164|         Betalingsbalancesaldo (mia. kr.)         -       -        -   181,0   158,6     137,2   158,1   171,6
+p.164|         Samlet offentlig saldo (mia. kr.)        -       -        -   -41,7   -38,2     -39,1   -32,6   -32,8
+p.164|         BNP i EU28 (procentvis stigning)         -       -        -     2,1       1,9     1,4     1,6     1,9
+p.164|         2018
+p.164|         BNP (realvækst, pct.)                    -       -        -       -         -       -     1,7     1,7
+p.164|         Nettoledighed (1.000 personer)           -       -        -       -         -       -     86      84
+p.164|         Bruttoledighed (1.000 personer)          -       -        -       -         -       -    106     114
+p.164|         Forbrugerpriser (pct. stigning)          -       -        -       -         -       -     1,5     1,6
+p.164|         Betalingsbalancesaldo (mia. kr.)         -       -        -       -         -       -   161,7   174,9
+p.164|         Samlet offentlig saldo (mia. kr.)        -       -        -       -         -       -   -20,5   -15,5
+p.164|         BNP i EU28 (procentvis stigning)         -       -        -       -         -       -     1,8     1,9
+p.164|         Kilde:    Danmarks Statistik, EU-Kommissionen, IMF og egne beregninger.
+p.164| 162   Økonomisk Redegørelse · Maj 2017

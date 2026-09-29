@@ -1,7 +1,7 @@
 # dor-2024-kap2
 # url: https://dors.dk/files/media/E24_KapII.pdf
 # http: 200  bytes: 4004186  sha256: 3c00a14f326cacacd2ad8a3ef7a259fbcb712f0aba2d21b6aba864d312483ca0
-# fetched: 2026-09-29T18:24:38Z
+# fetched: 2026-09-29T18:34:34Z
 # pages: 99  (lines below are quotes; p.N = PDF page)
 
 p.3: TABEL II.1  |  HOVEDTAL I PROGNOSEN

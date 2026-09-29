@@ -1,0 +1,171 @@
+# nb-2020-09
+# url: https://www.nationalbanken.dk/media/lbmic2pw/analyse-nr-12-udsigt-til-gradvis-genopretning-af-oekonomien.pdf
+# http: 200  bytes: 610259  sha256: 3f3346a256941f9ba5272fb49ba41dc1db9d7316d2f0fead4342f906fa1c0ad4
+# fetched: 2026-09-29T18:35:24Z
+# pages: 30  (lines below are quotes; p.N = PDF page)
+
+p.1: ligere lempelser i 2021 og 2022. Lempelserne
+p.2: mange lande. Prognoserne fra  |  udsigt til et historisk stort tilbage-  |  soner, mens 300.000 personer
+p.2: Forbrugerpriserne trækkes ak-  |  BNP ventes at falde med 4,1 pct. i  |  Vækstudsigterne er behæftet
+p.2: Realvækst i forhold til året før, pct.  |  2019  |  2020  |  2021  |  2022  |  tiltag, der er aftalt
+p.2: BNP (realt), pct.  |  2,4  |  -4,1  |  4,2  |  1,6  |  på Christiansborg,
+p.2: Beskæftigelse, 1.000 personer  |  2.998  |  2.958  |  2.969  |  2.993
+p.2: Betalingsbalance, pct. af BNP  |  7,8  |  6,5  |  6,1  |  6,0
+p.2: Offentlig saldo, pct. af BNP  |  3,7  |  -5,8  |  -2,0  |  -1,8
+p.2: Huspriser1, pct. år-år  |  3,0  |  -2,3  |  2,0  |  5,4
+p.2: Forbrugerpriser, pct. år-år  |  0,7  |  0,2  |  0,9  |  1,2
+p.2: 2,5  |  2,3  |  2,0  |  2,3
+p.3: høj – og en stor forøgelse af både den private og  |  Indeks 100 = 2020 lig 2019
+p.3: ge i henholdsvis 2019 og 2020. ”Normalt” niveau angiver
+p.3: nedlukningen, faldt BNP med 2,1 pct. Siden medio  |  skøn for kortomsætningen korrigeret for mindre brug af
+p.4: le tendenser), nr. 11, juni 2020.  |  Danmarks Nationalbank Economic Memo, nr. 6, juni 2020.
+p.5: sen. Genåbning af mange økonomier samtidigt kan  |  stimulans i 2021 og 2022. Det bør regeringen være
+p.7: Scandinavian Policy Responses to COVID-19, Working paper, 2020.  |  Danmarks Nationalbank Economic Memo, nr. 7, juni 2020.
+p.8: omkring 6,5 pct. af BNP. Det hænger bl.a. sammen
+p.9: i 2021 og 2022.
+p.9: fra 46 pct. af BNP i 2011 til 33 pct. af BNP i 2019,  |  alene udgør ca. 110 mia. kr. I 2021 og 2022 ventes
+p.9: 6 pct. af BNP. Saldovirkningen fra hjælpepakkerne  |  marts faldt lønmodtagerbeskæftigelsen med 25.000
+p.11: ling i forbrugerpriserne betyder dog, at lønmodta-  |  1,0  |  -0,5
+p.12: på cigaretter trækker op. I 2021 og 2022 skønnes  |  Aktiviteten på boligmarkedet  |  Figur 13
+p.12: forbrugerpriserne at stige med henholdsvis 0,9 og  |  er vendt tilbage
+p.12: 1,2 pct. Inflationen løftes bl.a. af tiltagende oliepriser,
+p.12: tempo med høj handelsaktivitet og et stabilt udbud  |  Salg i 2020  |  Salg i gns. 2015-19
+p.14: 2019  |  2020
+p.14: Realvækst i forhold til perioden før, pct.  |  2019  |  2020  |  2021  |  2022  |  3. kvt.  |  4. kvt.  |  1. kvt.
+p.14: BNP  |  2,4  |  -4,1  |  4,2  |  1,6  |  0,4  |  0,4  |  -2,1
+p.14: Privat forbrug1  |  2,2  |  -2,5  |  7,5  |  2,3  |  0,2  |  1,7  |  -3,3
+p.14: Offentligt forbrug  |  0,5  |  1,8  |  0,1  |  1,0  |  0,2  |  1,4  |  -1,5
+p.14: Boliginvesteringer  |  8,0  |  -3,7  |  9,9  |  -1,4  |  -4,0  |  2,5  |  3,2
+p.14: Offentlige investeringer  |  4,0  |  0,5  |  0,9  |  0,9  |  0,5  |  -5,5  |  5,1
+p.14: Erhvervsinvesteringer  |  1,5  |  -10,3  |  -0,2  |  1,9  |  2,2  |  1,1  |  -2,6
+p.14: Lagerinvesteringer mv.2  |  -0,4  |  0,0  |  0,0  |  0,0  |  -0,1  |  -0,5  |  0,2
+p.14: Eksport  |  1,6  |  -8,0  |  5,8  |  5,9  |  0,8  |  -0,5  |  -0,8
+p.14: Industrieksport  |  8,3  |  -5,6  |  6,5  |  5,9  |  2,6  |  -2,0  |  3,1
+p.14: Import  |  0,1  |  -5,6  |  6,3  |  6,5  |  0,3  |  0,1  |  -0,1
+p.14: Beskæftigelse, 1.000 personer  |  2.998  |  2.958  |  2.969  |  2.993  |  3.001  |  3.009  |  3.008
+p.14: Betalingsbalance, pct. af BNP  |  7,8  |  6,5  |  6,1  |  6,0  |  8,7  |  8,1  |  7,5
+p.14: Offentlig saldo, pct. af BNP  |  3,7  |  -5,8  |  -2,0  |  -1,8  |  2,9  |  3,5  |  -5,8
+p.14: 3,0  |  -2,3  |  2,0  |  5,4  |  3,4  |  3,7  |  3,3
+p.14: Forbrugerpriser (HICP), pct. år-år  |  0,7  |  0,2  |  0,9  |  1,2  |  0,4  |  0,7  |  0,6
+p.14: Timeløn4 (industrien), pct. år-år  |  2,5  |  2,3  |  2,0  |  2,3  |  2,7  |  2,8  |  2,8
+p.15: Udsigterne for den globale økonomi er stadig  |  aktivitet i 1. kvartal. I Kina faldt BNP med 9,8 pct. fra
+p.16: ges BNP steg således med 0,1 pct. i 1. kvartal.  |  af nedlukningsforanstaltninger
+p.18: vil stige fra 0,6 pct. af BNP i 2019 til 8,5 pct. af BNP  |  støtte aktiviteten igennem finanspolitiske stimuli.
+p.20: målefejl af den faktiske inflation, da nedlukninger i  |  2,0
+p.20: ningstakten i det harmoniserede forbrugerprisin-  |  0,0
+p.20: deks, HICP, til 0,1 pct. i maj, jf. figur 25. Inflationen  |  -0,5
+p.20: prognose fra juni, at inflationen vil falde til 0,3 pct.  |  rede inflationsforventninger nåede i slutningen af
+p.20: i 2020 og derefter stige gradvist til 1,3 pct. i 2022.  |  marts et nyt historisk lavpunkt på 0,7 pct., jf. figur 26.
+p.21: 2016  |  2017  |  2018  |  2019  |  2020
+p.21: 2019  |  2020  |  2021
+p.21: at inflationen vil være 0,8 pct. i 2020 og derefter
+p.21: stige til 1,7 pct. frem mod 2022. Inflationen er blevet
+p.23: euroområdets BNP, som primært vil omfatte opkøb  |  intervallet 0,00-0,25 pct., jf. figur 30. Det er de største
+p.23: 0,00-0,25 pct.  |  -0,50 pct.  |  0,00 pct.  |  0,00 pct.
+p.24: i euroområdet vil udgøre 1.000-1.500 mia. euro i 2020 på  |  at Den Europæiske Unions Domstol (ECJ) i 2018 afgjorde, at
+p.25: svarende til 3,3 pct. af det amerikanske BNP. Det blev
+p.25: 2018  |  2019  |  2020  |  2021  |  2022
+p.27: pct. i 2020, 6,0 pct. i 2021 og 6,0 i 2022. Det afspej-
+p.27: 2019  |  2020  |  2021  |  2022
+p.27: Eksportmarkedsvækst, pct. år-år  |  1,8  |  -8,6  |  6,0  |  6,0
+p.27: 0,7  |  1,8  |  1,8  |  1,5
+p.27: Udenlandsk timeløn, pct. år-år  |  2,4  |  2,0  |  2,1  |  2,5
+p.27: 3-måneders pengemarkedsrente, pct. p.a.  |  -0,6  |  -0,4  |  -0,5  |  -0,5
+p.27: Gennemsnitlig obligationsrente, pct. p.a.  |  0,5  |  0,4  |  0,4  |  0,5
+p.27: Effektiv kronekurs, 1980 = 100  |  103,0  |  103,5  |  103,9  |  103,9
+p.28: i 2020 og herefter stige svagt gennem prognoseperi-  |  i 2021 og 0,9 pct. i 2022, jf. tabel 1.
+p.28: I fremskrivningen antages den effektive kronekurs  |  Skønnet for BNP-væksten er nedjusteret med 5,6
+p.28: I begyndelsen af juni 2020 lå olieprisen omkring 35  |  for 2020 og 2021, men trækker op igen i 2022, jf.
+p.28: dollar pr. tønde ved udgangen af 2022.  |  brancher i 2020.
+p.28: maj 2020 og Opdateret 2025-forløb, oktober 2019.
+p.28: Pct., år-år  |  2020  |  2021  |  2022  |  2020  |  2021  |  2022
+p.28: Prognose fra marts 2019  |  1,5  |  1,5  |  1,6  |  1,0  |  1,5  |  1,6
+p.28: Eksportmarkedsvækst  |  -2,9  |  -0,5  |  0,9  |  0,0  |  -0,4  |  -0,7
+p.28: Renteudvikling  |  0,0  |  0,0  |  0,0  |  0,0  |  0,0  |  0,0
+p.28: Valutakurser  |  0,0  |  -0,2  |  0,0  |  0,0  |  -0,1  |  -0,1
+p.28: Oliepriser  |  0,0  |  0,1  |  0,0  |  -0,6  |  -0,1  |  0,0
+p.28: Andre faktorer  |  -2,7  |  3,4  |  -0,9  |  -0,1  |  -0,1  |  0,4
+p.28: Denne prognose  |  -4,1  |  4,2  |  1,6  |  0,2  |  0,9  |  1,2
+
+# --- full text of p.2 (table layout, for column headers and notes) ---
+p.2|      A N A LY S E — D A N M A R K S N AT I O N A L B A N K                                                                            2
+p.2|      UDSIGTER FOR DANSK ØKONOMI — JUNI 2020
+p.2|      Kort fortalt
+p.2|      GLO BA L Ø KO N OMI                                 DANSK A KT IV IT E T                     A R B E JDS M A R KE D
+p.2|      Den globale spredning af coro-                      Ændret adfærd og tiltag til ind-         Krisens omfang kan også ses på
+p.2|      navirussen har medført et kraftigt                  dæmning af smitten har ramt den          arbejdsmarkedet. Ledigheden er
+p.2|      og samtidigt fald i aktiviteten i                   danske økonomi hårdt, og der er          steget med knap 45.000 per-
+p.2|      mange lande. Prognoserne fra                        udsigt til et historisk stort tilbage-   soner, mens 300.000 personer
+p.2|      de internationale organisationer                    slag i 1. halvår 2020. Siden medio       har modtaget kompensation for
+p.2|      tegner et dystert billede med                       april er økonomien gradvist              enten løn eller tabt fortjeneste.
+p.2|      kraftig recession i 1. halvår 2020                  blevet genåbnet, og baseret på           Samlet er 16 pct. af den private
+p.2|      efterfulgt af en gradvis og længe-                  bl.a. kortomsætning er aktivite-         beskæftigelse dermed berørt af
+p.2|      revarende genopretning af den                       ten taget til.                           krisen.
+p.2|      globale økonomi.
+p.2|      LØ N O G P RIS ER                                   VÆK STUDS IGT E R                        R IS IKOB ILLE DE
+p.2|      Forbrugerpriserne trækkes ak-                       BNP ventes at falde med 4,1 pct. i       Vækstudsigterne er behæftet
+p.2|      tuelt ned af et stort fald i olie-                  år, især på grund af udviklingen i       med ekstraordinært stor usik-
+p.2|      priserne i begyndelsen af året.                     årets første halvdel. Genopretnin-       kerhed. Det skyldes, at den
+p.2|      Den øgede ledige kapacitet på                       gen ventes at være træg, særligt         økonomiske udvikling i høj grad
+p.2|      arbejdsmarkedet giver et afdæm-                     som følge af afdæmpet efter-             afhænger af udviklingen i virus-
+p.2|      pet pres på priserne og lønnin-                     spørgsel fra udlandet. Økono-            udbruddet, behandlingsmulighe-
+p.2|      gerne de kommende år.                               mien skønnes dermed fortsat at           derne og afledte reaktioner fra
+p.2|                                                          være i en mild lavkonjunktur ved         husholdninger, virksomheder og
+p.2|                                                          udgangen af 2022.                        myndigheder både herhjemme
+p.2|                                                                                                   og i udlandet.
+p.2| Centrale økonomiske størrelser
+p.2|                                                                                                              De finanspolitiske
+p.2| Realvækst i forhold til året før, pct.           2019         2020        2021         2022                  tiltag, der er aftalt
+p.2| BNP (realt), pct.                                  2,4         -4,1         4,2         1,6                  på Christiansborg,
+p.2| Beskæftigelse, 1.000 personer                    2.998        2.958       2.969       2.993
+p.2|                                                                                                                 bidrager til et
+p.2|                                                                                                                   mere jævnt
+p.2| Ledighed, brutto, 1.000 personer                  104           143         132         123
+p.2|                                                                                                               konjunkturforløb
+p.2| Betalingsbalance, pct. af BNP                      7,8          6,5         6,1         6,0
+p.2| Offentlig saldo, pct. af BNP                       3,7         -5,8         -2,0        -1,8
+p.2| Huspriser1, pct. år-år                             3,0         -2,3         2,0         5,4
+p.2| Forbrugerpriser, pct. år-år                        0,7          0,2         0,9         1,2
+p.2| Timeløn (industrien), pct. år-år
+p.2|          2
+p.2|                                                    2,5          2,3         2,0         2,3
+p.2| 1. Nominelle priser på enfamiliehuse.
+p.2| 2. Danmarks Statistiks implicitte lønindeks.
+p.2| Kilde: Danmarks Statistik og egne beregninger.
+
+# --- full text of p.14 (table layout, for column headers and notes) ---
+p.14| A N A LY S E — D A N M A R K S N AT I O N A L B A N K                                                                                                14
+p.14| UDSIGTER FOR DANSK ØKONOMI — JUNI 2020
+p.14| kunne forhindre yderligere smittespredning og der-
+p.14| igennem skabe betingelser for en hurtig genopret-
+p.14| ning i aktiviteten. For det andet kan genopretningen
+p.14| ske hurtigere, fordi tilbageslaget ikke er kommet på
+p.14| baggrund af væsentlige ubalancer i økonomien, der
+p.14| først skal korrigeres.
+p.14|    Centrale økonomiske størrelser                                                                                                          Tabel 1
+p.14|                                                                                                                              2019           2020
+p.14|    Realvækst i forhold til perioden før, pct.                         2019       2020        2021           2022   3. kvt.     4. kvt.     1. kvt.
+p.14|    BNP                                                                  2,4        -4,1        4,2           1,6      0,4           0,4      -2,1
+p.14|    Privat forbrug1                                                      2,2        -2,5        7,5           2,3      0,2           1,7      -3,3
+p.14|    Offentligt forbrug                                                   0,5        1,8         0,1           1,0      0,2           1,4      -1,5
+p.14|    Boliginvesteringer                                                   8,0        -3,7        9,9          -1,4     -4,0           2,5       3,2
+p.14|    Offentlige investeringer                                             4,0        0,5         0,9           0,9      0,5           -5,5      5,1
+p.14|    Erhvervsinvesteringer                                                1,5      -10,3        -0,2           1,9      2,2           1,1      -2,6
+p.14|    Lagerinvesteringer mv.2                                             -0,4        0,0         0,0           0,0     -0,1           -0,5      0,2
+p.14|    Eksport                                                              1,6        -8,0        5,8           5,9      0,8           -0,5     -0,8
+p.14|       Industrieksport                                                   8,3        -5,6        6,5           5,9      2,6           -2,0      3,1
+p.14|    Import                                                               0,1        -5,6        6,3           6,5      0,3           0,1      -0,1
+p.14|    Beskæftigelse, 1.000 personer                                     2.998       2.958      2.969       2.993      3.001        3.009      3.008
+p.14|    Ledighed, brutto, 1.000 personer                                    104         143        132           123      105            104      108
+p.14|    Betalingsbalance, pct. af BNP                                        7,8        6,5         6,1           6,0      8,7           8,1       7,5
+p.14|    Offentlig saldo, pct. af BNP                                         3,7        -5,8       -2,0          -1,8      2,9           3,5      -5,8
+p.14|    Huspriser , pct. år-år
+p.14|               3
+p.14|                                                                         3,0        -2,3        2,0           5,4      3,4           3,7       3,3
+p.14|    Forbrugerpriser (HICP), pct. år-år                                   0,7        0,2         0,9           1,2      0,4           0,7       0,6
+p.14|    Timeløn4 (industrien), pct. år-år                                    2,5        2,3         2,0           2,3      2,7           2,8       2,8
+p.14|    Kilde: Danmarks Statistik og egne beregninger.
+p.14|    1. Omfatter både husholdninger og NPISH.
+p.14|    2. Bidrag til BNP-vækst (posten omfatter lagerinvesteringer, værdigenstande og statistisk diskrepans).
+p.14|    3. Nominelle priser på enfamiliehuse.
+p.14|    4. Danmarks Statistiks implicitte lønindeks.

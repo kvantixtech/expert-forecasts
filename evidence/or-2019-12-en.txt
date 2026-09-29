@@ -1,7 +1,7 @@
 # or-2019-12-en
 # url: https://en.fm.dk/media/mxwkmcmw/economic-survey-december-2019.pdf
 # http: 200  bytes: 521173  sha256: 1001afe1c102935466a1dd68ff0b496f58944f90ab252dd78e21262ba158fc7d
-# fetched: 2026-09-29T18:21:42Z
+# fetched: 2026-09-29T18:31:39Z
 # pages: 65  (lines below are quotes; p.N = PDF page)
 
 p.1: mately 2½ per cent per year in 2015-2018, and the economy is expected to grow by 2.0
@@ -331,3 +331,261 @@ p.64: Consumer prices (Change, per cent)  |  -  |  -  |  -  |  -  |  1.8  |  1.4
 p.64: -  |  -  |  -  |  -  |  1.8  |  1.6  |  1.4
 p.64: GDP (Real growth rate, per cent)  |  -  |  -  |  -  |  -  |  -  |  -  |  1.4
 p.64: Consumer prices (Change, per cent)  |  -  |  -  |  -  |  -  |  -  |  -  |  1.6
+
+# --- full text of p.11 (table layout, for column headers and notes) ---
+p.11| Chapter 1                                                                                                         Summary
+p.11| 1.2 The fiscal policy and the public finances
+p.11| Healthy public finances and good economic structures – including low public debt and
+p.11| prospect for continuing progress in the structural employment – contribute to favoura-
+p.11| ble conditions for the Danish economy and an ongoing fiscal space, including space for
+p.11| prioritizations of public welfare.
+p.11| On 2 December 2019, The Government reached an agreement on the 2020 budget bill
+p.11| with Radikale Venstre, Socialistisk Folkeparti, Enhedslisten and Alternativet. The ap-
+p.11| proved budget bill for 2020 features prioritizations of public welfare and a better frame-
+p.11| work for green investments, etc., cf. box 1.3. The prioritizations for 2020 are financed
+p.11| within the scope of the expenditure ceilings for state, municipalities, and regions in
+p.11| 2020 and by new financing initiatives, including higher excise duties within health and
+p.11| environment, rollbacks of tax cuts regarding inheritance taxes and taxes on employer-
+p.11| paid phones, computers, and internet, etc. Additionally, the fiscal space is brought for-
+p.11| ward from 2024 to 2020 and there are financing contributions from the framework of
+p.11| public investment that were included in the Government’s budget proposal for 2020.
+p.11|   Table 1.1
+p.11|   Key figures relating to fiscal policy
+p.11|                                                                    2019                     2020                  20214)
+p.11|    Structural budget balance, per cent of
+p.11|                                                                       0.1                    -0.1                     0.3
+p.11|    structural GDP
+p.11|    Actual budget balance, per cent of GDP                             2.5                    -0.2                    -0:2
+p.11|    EMU-debt, per cent of GDP                                        33.5                    33.8                     33.4
+p.11|    Growth in public consumption, per cent1)                           0.7                     1.3                     0.4
+p.11|    One-year fiscal effect, per cent of GDP2)                         -0.1                     0.1                     0.0
+p.11|                          3)
+p.11|    Output gap, per cent                                               0.7                     0.7                     0.5
+p.11|    Employment gap, per cent3)                                         0.7                     0.6                     0.3
+p.11|   1)      Public consumption is calculated by the input method incl. deductions. The estimated growth in public con
+p.11|           sumption measured by the input method and the output method respectively is technically assumed to be
+p.11|           the same. The preconditions for 2021 are technical as the fiscal policy for 2021 is yet to be determined.
+p.11|   2)      Calculated measure of how fiscal and structural policy from one year to another affects the capacity pres
+p.11|           sure for Danish economy (measured by the output gap). The measure includes the assumed effect of one-
+p.11|           time refunds of property taxes in 2020 and 2021.
+p.11|   3)      Calculated measure of how far output and employment are from their structural levels. When the gaps are
+p.11|           approximately zero, the economy has no more available resources than under normal cyclical conditions.
+p.11|           The cyclical correction in the calculation of the structural budget balance is based on the output gap excl. oil
+p.11|           and gas extraction.
+p.11|   4)      The estimates for 2021 are based on technical assumptions for the fiscal policy in 2021.
+p.11|   Source: Statistics Denmark and own calculations.
+p.11| The fiscal policy for 2020 is set by the budget bill and the municipal and regional budg-
+p.11| ets for 2020. In line with the assessment following the presentation of the budget pro-
+p.11| posal for 2020, the structural budget balance is estimated to be approximately balanced
+p.11| at -0.1 per cent of GDP in 2020.
+p.11|                                                                                      Economic Survey ꞏ December 2019         11
+
+# --- full text of p.17 (table layout, for column headers and notes) ---
+p.17| Chapter 1                                                                                                 Summary
+p.17| 1.3 Annex table
+p.17|   Table 1.2
+p.17|   Key figures from the December assessment and comparison with estimates from October
+p.17|                                                               2019                       2020             2021
+p.17|                                                        Oct.          Dec.         Oct.          Dec.       Dec.
+p.17|    Real change, per cent
+p.17|    Private consumption                                  1.9           1.6         2.0            1.9       1.7
+p.17|    Total government demand                              1.0           0.8         1.2            1.2       0.8
+p.17|    - of which government consumption                    0.8           0.7         1.3            1.3       0.4
+p.17|    - of which government investment                     2.9           1.5         0.4            0.6       4.2
+p.17|    Housing investment                                   3.9           5.0         2.1            0.7       1.0
+p.17|    Business fixed investment                            0.2          -3.3         4.4            3.8       2.8
+p.17|    Total domestic demand                                1.3           0.7         2.2            2.0       1.5
+p.17|    Inventory investment
+p.17|                                                         0.0          -0.1        -0.1            0.0       0.0
+p.17|    (per cent contribution to GDP)
+p.17|    Total final domestic demand                          1.3           0.5         2.1            2.0       1.5
+p.17|    Exports                                              2.7           3.4         2.2            1.5       2.2
+p.17|    - of which manufacturing exports                     5.5          10.4         3.0            2.1       3.0
+p.17|    Total demand                                         1.8           1.6         2.1            1.8       1.7
+p.17|    Imports                                              2.0           0.8         3.1            2.5       2.4
+p.17|    - of which imports of goods                          1.8           2.2         2.8            3.3       2.5
+p.17|    GDP                                                  1.7           2.0         1.6            1.5       1.4
+p.17|    Gross value added                                    1.7           2.1         1.4            1.3       1.3
+p.17|    - of which private non-farm sector                   2.2           2.8         2.1            1.6       1.8
+p.17|    Change, 1,000 persons
+p.17|    Labour force, total                                   35           29           24            20         10
+p.17|    Employment, total                                     39           33           26            19          7
+p.17|    - of which private sector                             36           29           21            14          7
+p.17|    - of which public sector                               3            4            5                 5      0
+p.17|    Gross unemployment                                    -5            -4          -3                 1      3
+p.17|    Cyclical developments, per cent
+p.17|    Output gap                                           0.7           0.7         1.0            0.7       0.5
+p.17|    Employment gap                                       0.7           0.7         0.9            0.6       0.3
+p.17|    Unemployment gap                                     0.0          -0.2        -0.1           -0.2       -0.1
+p.17|   Note: Forecasts are compared to Opdateret 2025-forløb: Grundlag for udgiftslofter (October 2019).
+p.17|                                                                                  Economic Survey ꞏ December 2019    17
+
+# --- full text of p.18 (table layout, for column headers and notes) ---
+p.18|      Chapter 1                                                                                               Summary
+p.18|        Table 1.2 (continued)
+p.18|        Key figures from the December assessment and comparison with estimates from October
+p.18|                                                                      2019                      2020           2021
+p.18|                                                               Oct.          Dec.        Oct.          Dec.    Dec.
+p.18|         Change, per cent
+p.18|         House prices (single family homes)                     3.1           2.7        3.4            3.2     3.0
+p.18|         Consumer prices                                        1.0           0.8        1.4            1.2     1.6
+p.18|                                               1)
+p.18|         Hourly earnings in the private sector                  2.5           2.5        2.8            2.6     2.7
+p.18|         Real disposable income, households                     2.0           1.9        2.3            3.5     1.4
+p.18|         Productivity in the private non-farm sector            0.7           1.4        1.3            1.1     1.4
+p.18|         Per cent per year
+p.18|         Interest rate, 1-year rate loan                       -0.6          -0.6       -0.7           -0.6    -0.5
+p.18|         Interest rate, 10-year government bond                -0.1          -0.2       -0.3           -0.3    -0.2
+p.18|         Interest rate, 30-year mortgage credit bond            1.7           1.6        1.6            1.3     1.4
+p.18|         Public finances
+p.18|         Actual public balance (DKK bn.)                      44.4           58.8        9.4           -5.6    -5.1
+p.18|         Actual public balance (per cent of GDP)                1.9           2.5        0.4           -0.2    -0.2
+p.18|         Structural public balance (per cent of GDP)           -0.1           0.1       -0.1           -0.1     0.3
+p.18|         Gross debt (per cent of GDP)                         33.7           33.5       33.5           33.8    33.4
+p.18|         Labour market
+p.18|         Labour force, total (1,000 persons)                 3,111        3,098        3,135       3,118      3,128
+p.18|         Employment, total (1,000 persons)                   3,010        2,996        3,036       3,015      3,023
+p.18|         Gross unemployment
+p.18|                                                               103           104         101           105     108
+p.18|         (yr. avg., 1,000 persons)
+p.18|         Gross unemployment
+p.18|                                                                3.3           3.4        3.2            3.4     3.4
+p.18|         (per cent of labour force)
+p.18|         External assumptions
+p.18|         Trade-weighted international GDP-growth                1.8           1.7        1.9            1.7     1.7
+p.18|         Export market growth (manufactured
+p.18|                                                                2.9           2.0        3.1            1.6     2.3
+p.18|         goods)
+p.18|         Exchange rate (DKK per USD)                            6.6           6.7        6.7            6.8     6.8
+p.18|         Oil price, dollars per barrel                        64.7           63.9       64.5           61.9    64.0
+p.18|         Balance of payments
+p.18|         Current account balance (DKK bn.)                     141           178         136           171     168
+p.18|         Current account balance (per cent of GDP)              6.1           7.7        5.7            7.2     6.9
+p.18|        1)    Hourly earnings is based on the Confederation of Danish Employers’ Structural Statistics.
+p.18|        Note: Forecasts are compared to Opdateret 2025-forløb: Grundlag for udgiftslofter (October 2019).
+p.18| 18   Economic Survey ꞏ December 2019
+
+# --- full text of p.45 (table layout, for column headers and notes) ---
+p.45| Annex tables
+p.45|  Table B.1
+p.45|  Demand, income and production
+p.45|                                          2019     2020    2021     2019     2020      2021    2019     2020     2021
+p.45|                                                 DKK bn.             Volume, per cent            Prices, per cent
+p.45|   Private consumption                   1,073    1,107    1,143      1.6      1.9      1.7      0.8      1.2      1.6
+p.45|                         1)
+p.45|   Public consumption                      559      577      591      0.7      1.3      0.4      1.5      2.0      1.9
+p.45|   Public investments2)                     78       80       85      1.5      0.6      4.2      2.4      1.8      1.5
+p.45|   Residential investment                  117      120      123      5.0      0.7      1.0      1.4      1.4      1.5
+p.45|   Fixed business investment               300      315      329      -3.3     3.8      2.8      0.9      1.1      1.6
+p.45|   Final domestic demand excl.
+p.45|                                         2,129    2,203    2,273      0.7      2.0      1.5      1.1      1.4      1.7
+p.45|   stock building
+p.45|                    3)
+p.45|   Stock building                           16       16       16      -0.1     0.0      0.0
+p.45|   Total domestic demand                 2,145    2,219    2,289      0.5      2.0      1.5      1.1      1.4      1.7
+p.45|   Exports of goods and services         1,314    1,354    1,405      3.4      1.5      2.2      1.7      1.5      1.6
+p.45|   Total demand                          3,459    3,573    3,694      1.6      1.8      1.7      1.3      1.4      1.6
+p.45|   Imports of goods and services         1,151    1,198    1,249      0.8      2.5      2.4      2.4      1.6      1.9
+p.45|   GDP                                   2,309    2,375    2,445      2.0      1.5      1.4      0.8      1.4      1.5
+p.45|   Taxes on products, net                  299      306      315
+p.45|   Gross value added                     2,010    2,069    2,130      2.1      1.3      1.3      1.1      1.6      1.6
+p.45|                              4)
+p.45|   - Non-farm private sector             1,384    1,424    1,471      2.8      1.6      1.8      0.2      1.3      1.5
+p.45|   Gross national income                 2,362    2,428    2,497
+p.45|  Note:   The division into volume and price components is made on the basis of a fixed price calculation in the previ-
+p.45|          ous year's prices. The figures state the annual percentage change.
+p.45|  1)      The volume statement for public consumption is calculated by using the input method. In 2019-2021 growth
+p.45|          in public consumption using the input method is assumed to equal growth using the output method.
+p.45|  2)      Public investments are excluding general government net purchases of buildings, and therefore the figures
+p.45|          will deviate from public investments in table B.8.
+p.45|  3)      The volume figures reflect changes in inventories compared to GDP.
+p.45|  4)      Non-farm private sector consists of manufacturing, construction and private services excl. sea transport.
+p.45|  Source: Statistics Denmark and own calculations.
+p.45| www.oim.dk
+p.45|                                                                                     Economic Survey ∙ December 2019      45
+
+# --- full text of p.46 (table layout, for column headers and notes) ---
+p.46|       Annex tables
+p.46|       Table B.2
+p.46|       Growth projections by country and Danish export market growth
+p.46|                                                2017            2018            2019            2020            2021
+p.46|        Real growth rate, per cent
+p.46|        Export market growth1)                    5.3             3.7             2.0             1.6             2.3
+p.46|        Trade-weighted GDP2)                      2.8             2.4             1.7             1.7             1.7
+p.46|        EU28                                      2.6             2.0             1.4             1.4             1.4
+p.46|        Euro Area                                 2.7             1.9             1.2             1.1             1.2
+p.46|        Germany                                   2.8             1.5             0.6             0.4             0.9
+p.46|        France                                    2.4             1.7             1.3             1.2             1.2
+p.46|        Italy                                     1.8             0.7             0.2             0.4             0.5
+p.46|        Spain                                     2.9             2.4             2.0             1.6             1.6
+p.46|        Netherlands                               3.0             2.5             1.7             1.8             1.6
+p.46|        UK                                        1.9             1.4             1.2             1.0             1.2
+p.46|        Poland                                    4.9             5.1             4.3             3.8             3.0
+p.46|        Sweden                                    2.7             2.4             1.4             1.2             1.2
+p.46|        Norway                                    2.3             1.3             1.1             2.4             2.3
+p.46|        USA                                       2.4             2.9             2.3             2.0             2.0
+p.46|        Japan                                     1.9             0.8             1.0             0.6             0.7
+p.46|        India                                     7.2             6.8             5.8             6.2             6.4
+p.46|        China                                     6.8             6.6             6.2             5.7             5.5
+p.46|        Russia                                    1.6             2.3             1.1             1.6             1.4
+p.46|        Brazil                                    1.1             1.1             0.8             1.7             1.8
+p.46|       1)      Calculated as the weighted average of import growth of Denmark’s 36 most important trade partners. The
+p.46|               weights reflect the countries’ share of Danish industry exports in 2018.
+p.46|       2)      Calculated as the weighted average of the GDP-growth of Denmark’s 36 most important trade partners. The
+p.46|               weights reflect the countries share of Danish export of goods and services in 2018.
+p.46|       Source: Statistics Denmark, The European Commission, November 2019, OECD, Economic Outlook, November
+p.46|               2019 and own calculations.
+p.46| 46   Economic Survey ∙ December 2019
+
+# --- full text of p.64 (table layout, for column headers and notes) ---
+p.64|       Annex tables
+p.64|       Table B.25
+p.64|       Key figures estimated at different times
+p.64|                                                  Aug.      Dec.        May      Aug.    Dec.   Aug.   Dec.
+p.64|                                                  2017      2017       2018      2018    2018   2019   2019
+p.64|        2018
+p.64|        GDP (Real growth rate, per cent)            1.8       1.9        1.9       1.8    1.7    1.5    2.4
+p.64|        Net unemployment (1.000 persons)             86        88        89        87      87     87     87
+p.64|        Gross unemployment (1.000 persons)          113       112       109       108     108    108    108
+p.64|        Consumer prices (Change, per cent)          1.5       1.5        1.0       1.1    0.9    0.8    0.8
+p.64|        Balance of payments (DKK bn.) 1)            175       170       162       137     129    127    158
+p.64|        Actual budget balance (DKK bn.)             -27       -18       -12          0      4     12     11
+p.64|        GDP in EU28 (Real growth rate, per
+p.64|                                                    1.9       2.1        2.3       2.3    2.1    2.0    2.0
+p.64|        cent)
+p.64|        2019
+p.64|        GDP (Real growth rate, per cent)              -       1.7        1.7       1.8    1.7    1.7    2.0
+p.64|        Net unemployment (1.000 persons)              -        87        89        84      84     86     86
+p.64|        Gross unemployment (1.000 persons)            -       107       106       103     103    103    104
+p.64|        Consumer prices (Change, per cent)            -       1.7        1.6       1.6    1.5    1.0    0.8
+p.64|                                         1)
+p.64|        Balance of payments (DKK bn.)                 -       164       160       139     128    141    178
+p.64|        Actual budget balance (DKK bn.)               -       -15       -14         -8     -2     44     59
+p.64|        GDP in EU28 (Real growth rate,
+p.64|                                                      -       1.9        2.0       2.0    1.9    1.4    1.4
+p.64|        per cent)
+p.64|        2020
+p.64|        GDP (Real growth rate, per cent)              -          -         -         -    1.6    1.6    1.5
+p.64|        Net unemployment (1.000 persons)              -          -         -         -     82     84     88
+p.64|        Gross unemployment (1.000 persons)            -          -         -         -     99    101    105
+p.64|        Consumer prices (Change, per cent)            -          -         -         -    1.8    1.4    1.2
+p.64|                                         1)
+p.64|        Balance of payments (DKK bn.)                 -          -         -         -    122    136    171
+p.64|        Actual budget balance (DKK bn.)               -          -         -         -     -3     10     -6
+p.64|        GDP in EU28 (Real growth rate,
+p.64|                                                      -          -         -         -    1.8    1.6    1.4
+p.64|        per cent)
+p.64|        2021
+p.64|        GDP (Real growth rate, per cent)              -          -         -         -      -      -    1.4
+p.64|        Net unemployment (1.000 persons)              -          -         -         -      -      -     90
+p.64|        Gross unemployment (1.000 persons)            -          -         -         -      -      -    108
+p.64|        Consumer prices (Change, per cent)            -          -         -         -      -      -    1.6
+p.64|                                         1)
+p.64|        Balance of payments (DKK bn.)                 -          -         -         -      -      -    168
+p.64|        Actual budget balance (DKK bn.)               -          -         -         -      -      -     -5
+p.64|        GDP in EU28 (Real growth rate,
+p.64|                                                      -          -         -         -      -      -    1.4
+p.64|        per cent)
+p.64|       1)      The current account balance.
+p.64|       Source: Statistics Denmark, The European Commission, OECD and own calculations.
+p.64| 64   Economic Survey ∙ December 2019

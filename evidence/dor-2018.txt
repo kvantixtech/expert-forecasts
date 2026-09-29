@@ -1,7 +1,7 @@
 # dor-2018
 # url: https://dors.dk/files/media/rapporter/2018/E18/e18_dansk_oekonomi_efteraar_2018.pdf
 # http: 200  bytes: 3140596  sha256: b4eaa553b549d64f0bf55041e4368040a8c31bb88d218d3304e22dc665d320e6
-# fetched: 2026-09-29T18:23:27Z
+# fetched: 2026-09-29T18:33:32Z
 # pages: 299  (lines below are quotes; p.N = PDF page)
 
 p.10: omkring 30.000 personer, jf. tabel A. Relativ høj vækst i efterspørg-
@@ -266,3 +266,211 @@ p.289: TABLE B  |  MAIN RESULTS OF THE ANALYSIS
 p.289: Women and men  |  0.10*  |  0.01 – 0.18
 p.289: - women  |  0.16*  |  0.03 – 0.29
 p.289: - men  |  0.02  |  -0.10 – 0.13
+
+# --- full text of p.10 (table layout, for column headers and notes) ---
+p.10| Sammenfatning og anbefalinger
+p.10|                                     omkring 30.000 personer, jf. tabel A. Relativ høj vækst i efterspørg-
+p.10|                                     slen de kommende år indebærer et øget pres på økonomiens res-
+p.10|                                     sourcer. Der er imidlertid udsigt til en fortsat stigning i arbejdsstyrken
+p.10|                                     frem mod 2025, hvilket bidrager til at tage presset af arbejdsmarke-
+p.10|                                     det. Det er derfor forventningen, at de kommende års relativt høje
+p.10|                                     vækst vil ende med en såkaldt “blød landing”.
+p.10| … men der er risici                 Der er imidlertid risici begge veje i forhold til dette forløb. På den ene
+p.10| begge veje                          side er der risiko for, at manglen på arbejdskraft øges, og at dette, i
+p.10|                                     fravær af modgående tiltag i den økonomiske politik, fører økonomien
+p.10|                                     ind i en decideret overophedning. På den anden side er der også
+p.10|                                     risiko for, at væksten vil blive mærkbart trukket ned. Trods udsigt til
+p.10|                                     en aftale omkring Storbritanniens udtrædelse af EU (brexit) er der
+p.10|                                     fortsat stor usikkerhed om konsekvenserne heraf, og væksten kan
+p.10|                                     også blive påvirket negativt af en optrapning af handelskonflikten
+p.10|                                     mellem USA og Kina.
+p.10|     TABEL A             HOVEDTAL I PROGNOSEN
+p.10|                                                                                                                   a)
+p.10|                                                              2017      2018       2019       2020         2025
+p.10|     BNP (realvækst i pct.)                                     2,3        1,3       2,4        2,1          1,7
+p.10|     Beskæftigelsesgap (1.000 pers.)                              2        30         33         33            0
+p.10|     Beskæftigelsesændring (1.000 pers.)                         46        48         31         15            7
+p.10|     Inflation (pct.)                                           1,2        0,8       1,8        1,9          2,0
+p.10|     Timeløn (pct.)                                             2,1        2,4       2,9        3,2          3,2
+p.10|     Offentlig saldo (pct. af BNP)                              1,2       -0,3       0,0       -0,1          0,1
+p.10|     Strukturel offentlig saldo (pct. af BNP)                  -0,5       -0,5      -0,2       -0,2          0,1
+p.10|     BNP i aftagerlande (realvækst i pct.)                      2,6        2,4       2,3        2,1          1,7
+p.10|     a)         Den sidste søjle viser den gennemsnitlige vækst i årene 2021 til 2025. For beskæftigelsesgap og fak-
+p.10|                tisk såvel som strukturel offentlig saldo viser sidste søjle dog niveauet i 2025.
+p.10|     Anm.:      Beskæftigelsgap angiver, hvor meget beskæftigelsen er over det skønnede strukturelle niveau. Den
+p.10|                strukturelle saldo er beregnet efter budgetlovens metode.
+p.10|     Kilde:     Danmarks Statistik, ADAM’s databank, Macrobond og egne beregninger.
+p.10| Finanspolitikken                    Udsigten til høj vækst i efterspørgslen taler for, at den økonomiske
+p.10| bør være stram                      politik samlet set bør dæmpe den økonomiske aktivitet. Den planlagte
+p.10|                                     finanspolitik skønnes at indebære en stramning i 2019 og at være
+p.10|                                     omtrent neutral for væksten i 2020. For næste år vurderes det, at den
+p.10|                                     planlagte, moderate stramning af finanspolitikken er passende.
+p.10| Risiko for                          Hvis efterspørgslen udvikler sig hurtigere end ventet, eller hvis forud-
+p.10| overophedning                       sætningerne på udbudssiden viser sig at være for optimistiske, så
+p.10| 4            Dansk Økonomi, efterår 2018
+
+# --- full text of p.25 (table layout, for column headers and notes) ---
+p.25|                                                                Konjunktur og offentlige finanser - Indledning I.1
+p.25|                               økonomi de kommende år. Det internationale opsving vurderes i de
+p.25|                               nyeste prognoser fra blandt andet IMF og OECD at være ved at klin-
+p.25|                               ge af, hvorved eksportens vækstbidrag mindskes de kommende år.
+p.25|                               Samtidig ventes stigende renter at bidrage til at dæmpe efterspørgs-
+p.25|                               len i Danmark. Disse forhold ligger bag forventningen om en blød
+p.25|                               landing oven på den ventede højkonjunktur.
+p.25| TABEL I.1          HOVEDTAL I PROGNOSEN
+p.25| Gennemsnitlig vækst på knap 2 pct. om året frem mod 2025 og gradvis forbedring af de offentlige
+p.25| finanser.
+p.25|                                                        2017       2018       2019       2020         2025 a)
+p.25| BNP (realvækst i pct.)                                   2,3         1,3       2,4        2,1          1,7
+p.25| Beskæftigelsesgap (1.000 pers.)                            2         30         33         33            0
+p.25| Beskæftigelsesændring (1.000 pers.)                       46         48         31         15            7
+p.25| Inflation (pct.)                                         1,2         0,8       1,8        1,9          2,0
+p.25| Timeløn (pct.)                                           2,1         2,4       2,9        3,2          3,2
+p.25| Offentlig saldo (pct. af BNP)                            1,2        -0,3       0,0       -0,1          0,1
+p.25| Strukturel offentlig saldo (pct. af BNP)                -0,5        -0,5      -0,2       -0,2          0,1
+p.25| BNP i aftagerlande (realvækst i pct.)                    2,6         2,4       2,3        2,1          1,7
+p.25| a)       Den sidste søjle viser den gennemsnitlige vækst i årene 2021 til 2025. For beskæftigelsesgap og fak-
+p.25|          tisk såvel som strukturel offentlig saldo viser sidste søjle dog niveauet i 2025.
+p.25| Anm.:    Beskæftigelsgap angiver, hvor meget beskæftigelsen er over det skønnede strukturelle niveau. Den
+p.25|          strukturelle saldo er beregnet efter budgetlovens metode.
+p.25| Kilde:   Danmarks Statistik, ADAM’s databank, Macrobond og egne beregninger.
+p.25|                                  LAV VÆKST I 2018 PGA. MIDLERTIDIGE FORHOLD
+p.25|                                  Den forventede vækst i 2018 på godt 1¼ pct. stikker ud både i for-
+p.25|                                  hold til årene før og årene efter. Det skyldes især to midlertidige for-
+p.25|                                  hold, der tilsammen reducerer væksten mere end ½ pct.point.
+p.25|                                  For det første betyder et enkeltstående salg af en patentrettighed
+p.25|                                  på ca. 9 mia. kr. i 1. kvartal 2017, at BNP løftes ekstraordinært i
+p.25|                                  2017. Salget af patentet øgede dermed væksten i 2017, men da der
+p.25|                                  er tale om et engangsforhold, som ikke påvirker BNP-niveauet i
+p.25|                                  2018, reduceres den opgjorte BNP-vækst i 2018 tilsvarende.
+p.25|                                  For det andet var sommeren 2018 præget af usædvanligt tørt vejr,
+p.25|                                  der har betydet et stort fald i den vegetabilske landbrugsproduktion.
+p.25|                                                                        Dansk Økonomi, efterår 2018              19
+
+# --- full text of p.29 (table layout, for column headers and notes) ---
+p.29|                                             Konjunktur og offentlige finanser - Dansk økonomi frem til 2025 I.2
+p.29| TABEL I.2          HOVEDTAL FOR KONJUNKTURVURDERING
+p.29|                                                     2017          2018        2019       2020           2025 a)
+p.29|                                                   Mia. kr.   --------------- Realvækst, pct. ----------------
+p.29| Privat forbrug                                     1.017             2,5        2,6        2,9            2,3
+p.29| Offentligt forbrug                                    536            1,0        0,8        0,5            0,8
+p.29| Offentlige investeringer                               73            2,0        2,0       -1,7            1,2
+p.29| Boliginvesteringer                                    103          11,2         2,0        0,1            0,4
+p.29| Erhvervsinvesteringer                                 286            8,7        0,7        3,0           -0,1
+p.29| Lagerændringer                                          9           -0,1        0,2        0,0            0,0
+p.29| Indenlandsk efterspørgsel i alt                    2.024             3,3        2,0        2,0            1,4
+p.29| Eksport                                            1.188            -0,5        4,2        4,1            3,8
+p.29| Import                                             1.033             3,0        3,6        4,1            3,4
+p.29| Bruttonationalprodukt                              2.178             1,3        2,4        2,1            1,7
+p.29| BVT i private byerhverv                            1.245             2,2        3,2        3,0            1,8
+p.29|                                                  ------------------- Ændring i 1.000 pers. -----------------
+p.29| Strukturel arbejdsstyrke                               28            18          28         15            14
+p.29| Arbejdsstyrke                                          46            43          26         11              9
+p.29| Privat beskæftigelse                                   47            43          27         11              2
+p.29| Offentlig beskæftigelse                                -1              5          4          4              5
+p.29|                                                  -------------------------- 1.000 pers. -----------------------
+p.29| Nettoledighed                                          91            87          82         78            84
+p.29| Beskæftigelsesgap                                       2            30          33         33              0
+p.29|                                                 ------------------------------- Pct. ----------------------------
+p.29| Forbrugerpriser                                       1,2            0,8        1,8        1,9            2,0
+p.29| Timelønsomkostninger                                  2,1            2,4        2,9        3,2            3,2
+p.29| Kontantpris på enfamiliehuse                          4,0            3,9        3,2        2,1            2,5
+p.29| Timeproduktivitet i private byerhverv                 0,8            0,5        1,7        2,1            1,5
+p.29|                                                ---------------------------- Pct. af BNP -----------------------
+p.29| Betalingsbalance                                      8,0            5,3        5,5        5,2            6,3
+p.29| Offentlig saldo                                       1,2           -0,3        0,0       -0,1            0,1
+p.29| a)       2025-søjlen angiver den gennemsnitlige årlige vækst fra 2020 til 2025. For nettoledighed, beskæftigel-
+p.29|          sesgap, betalingsbalance og offentlig saldo er angivet niveauet i 2025.
+p.29| Anm.:    Lagerændringer angiver vækstbidraget til BNP. Beskæftigelsesgap angiver afvigelsen fra den struktu-
+p.29|          relle beskæftigelse målt i personer. Forbrugerpriserne er udtrykt ved deflatoren for det private forbrug.
+p.29| Kilde:   Danmarks Statistik, ADAM’s databank og egne beregninger.
+p.29|                                                                            Dansk Økonomi, efterår 2018               23
+
+# --- full text of p.33 (table layout, for column headers and notes) ---
+p.33|                                               Konjunktur og offentlige finanser - Dansk økonomi frem til 2025 I.2
+p.33|   BOKS I.2           VÆSENTLIGE ÆNDRINGER SIDEN FORÅRET, FORTSAT
+p.33|   Beskæftigelse og ledighed
+p.33|   Der er kommet nye oplysninger om lønmodtagerbeskæftigelsen i perioden marts til september,
+p.33|   der viser, at de seneste års kraftige fremgang er fortsat i 2018. I 2018 er lønmodtagerbeskæftigel-
+p.33|   sen hidtil steget knap 40.000 personer, og i samme periode er nettoledigheden faldet fra omkring
+p.33|   90.000 til knap 86.000 personer. Det vidner om, at arbejdsstyrken er øget markant.
+p.33|   Udlandsvækst og finansielle forhold
+p.33|   Realvæksten i Danmarks aftagerlande er nedjusteret en anelse siden foråret. Det er særligt udvik-
+p.33|   ling i euroområdet, der har været svagere end skønnet. Siden foråret har de danske og europæi-
+p.33|   ske renter været lavere end ventet, og det har sammen med de lidt svagere vækstudsigter bevir-
+p.33|   ket, at de europæiske rentestigninger forventes udskudt en anelse.
+p.33|   TABEL A         ÆNDREDE SKØN FOR CENTRALE VARIABLE
+p.33|                                                Forår 2018                             Efterår 2018
+p.33|                                       2018     2019    2020     2025 a)      2018     2019     2020     2025 a)
+p.33|                                       ------------------------- Realvækst, pct. ----------------------------
+p.33|    BNP                                  1,8      2,3     2,0      2,0           1,3      2,4     2,1      1,7
+p.33|                                       ----------------------- Ændring i 1.000 pers. ----------------------
+p.33|    Beskæftigelse                         45      26       15        8           48       31       15        7
+p.33|                                      ----------------------------------- Pct. ---------------------------------
+p.33|    Boligpriser                          3,9      2,5     2,4      2,3           3,9      3,2     2,1      2,5
+p.33|    Timelønsomkostninger                 2,5      3,0     3,1      3,1           2,4      2,9     3,2      3,2
+p.33|    Realvækst i aftagerlande             2,7      2,3     2,0      1,8           2,4      2,3     2,1      1,7
+p.33|    10-årig obligationsrente             0,7      1,2     1,7      3,5           0,5      0,9     1,4      3,5
+p.33|    a)       2025-søjlen angiver den gennemsnitlige årlige ændring fra 2020 til 2025. Den 10-årige obligationsren-
+p.33|             te er angivet i niveau for 2025.
+p.33|    Kilde:   Danmarks Statistik, ADAM’s databank og egne beregninger.
+p.33| Øget strukturel                  Arbejdsstyrken er de senere år øget meget. Det er delvist et resultat
+p.33| arbejdsstyrke                    af konjunkturnormaliseringen, men arbejdsstyrken er også øget struk-
+p.33|                                  turelt. Stigningen i den strukturelle arbejdsstyrke er ikke mindst en
+p.33|                                  konsekvens af højere efterlønsalder, men tilgangen af udenlandsk
+p.33|                                  arbejdskraft skønnes også at have bidraget til stigningen i den struk-
+p.33|                                  turelle arbejdsstyrke. Frem mod 2025 ventes yderligere stigninger i
+p.33|                                  arbejdsstyrken som følge af stigninger i tilbagetrækningsaldre og
+p.33|                                  fortsat tilgang af udenlandsk arbejdskraft som følge af positiv netto-
+p.33|                                  indvandring, og i 2025 ventes beskæftigelsen at være ca. 130.000
+p.33|                                  højere end i 2017. Stigningen i strukturel arbejdsstyrke er en af de
+p.33|                                  væsentligste årsager til, at hovedscenariet for nærværende prognose
+p.33|                                                                           Dansk Økonomi, efterår 2018             27
+
+# --- full text of p.284 (table layout, for column headers and notes) ---
+p.284| English Summary
+p.284|   TABLE A                KEY FIGURES OF THE OUTLOOK FOR THE DANISH ECONOMY
+p.284|                                                                                                            a)
+p.284|                                                       2017        2018      2019      2020         2025
+p.284|                                                     DKK bn.   -------- Real growth rate, per cent. ---------
+p.284|    Private consumption                                1,017         2.5       2.6       2.9          2.3
+p.284|    Public sector consumption                           536          1.0       0.8       0.5          0.8
+p.284|    Gross fixed capital formation                       462          8.4       1.2       1.6          0.2
+p.284|    consisting of:
+p.284|        Residential investment                          103        11.2        2.0       0.1          0.4
+p.284|        Business fixed investment                       286          8.7       0.7       3.0         -0.1
+p.284|        Public sector investment                         73          2.0       2.0      -1.7          1.2
+p.284|                     b)
+p.284|    Stockbuilding                                         9         -0.1       0.2       0.0          0.0
+p.284|    Total domestic demand                              2,024         3.3       2.0       2.0          1.4
+p.284|    Exports of goods and services                      1,188        -0.5       4.2       4.1          3.8
+p.284|    Imports of goods and services                      1,033         3.0       3.6       4.1          3.4
+p.284|    GDP                                                2,178         1.3       2.4       2.1          1.7
+p.284|    Ke y indicators
+p.284|                                                c)
+p.284|    Consumer prices, percentage change                               0.8       1.8       1.9            2
+p.284|                                d)
+p.284|    Unemployment, per cent                                           2.9       2.7       2.6          2.8
+p.284|    Current account, DKK bn.                                        116       127       123           177
+p.284|    Current account, per cent of GDP                                 5.3       5.5       5.2          6.3
+p.284|    General gov. budget balance, DKK bn.                              -8         0        -3            2
+p.284|    General gov. budget balance, per cent of GDP                    -0.3         0      -0.1          0.1
+p.284|    Hourly wage costs, percentage change                             2.4       2.9       3.2          3.2
+p.284|    Terms of trade, change in percentage points                       -2         1        -1         -0.4
+p.284|                                     e)
+p.284|    Employment gap, per cent                                         1.1       1.2       1.1          0.0
+p.284|   a)      The column shows projected average annual growth from 2021 to 2025 for all variables except unem-
+p.284|           ployment, the current account, the general government balance and the output gap. For these varia-
+p.284|           bles the column shows the projected value in 2025.
+p.284|   b)      Contribution to GDP growth in percentage points.
+p.284|   c)      Implicit private consumption deflator.
+p.284|   d)      Percentage of total labour force. National definition.
+p.284|   e)      Percentage of structural employment. National definition.
+p.284|   Source: Statistics Denmark, National Accounts and own calculations.
+p.284|                                     The increase in employment and the pressure on the labour market
+p.284|                                     are projected to lead to higher wage growth. This will dampen export
+p.284|                                     growth and, thereby, contribute to a gradual normalization of the
+p.284|                                     economic situation. Thus, the relatively high growth projected for the
+p.284|                                     next years is expected to end in a so-called "soft landing". However,
+p.284|                                     there are risks to this scenario. On the one hand, there is a risk that
+p.284| 278        Danish Economy, Autumn 2018

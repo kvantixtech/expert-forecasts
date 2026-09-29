@@ -1,0 +1,66 @@
+# nb-2020-12
+# url: https://www.nationalbanken.dk/media/xhpfk4uy/analyse-nr-26-smittespredning-forsinker-genopretningen.pdf
+# http: 200  bytes: 250989  sha256: f6a68bd956ffa28b736f577b55821f1ad80f31761955769afff2c151db0f8e3f
+# fetched: 2026-09-29T18:35:26Z
+# pages: 11  (lines below are quotes; p.N = PDF page)
+
+p.2: produktet, BNP, steg med 4,9 pct. Fremgangen blev  |  fremgangen i den globale handel med varer, som er
+p.2: og restauranter. BNP var imidlertid stadig 4,1 pct.
+p.3: opsparing i LD fonde i 2013 og 2015.
+p.3: i opsparingskvoten fra 4. kvartal 2019 til 2. kvartal 2020, mens ca.
+p.6: BNP stiger med 4,2 pct. i 2021 og 3,7 pct. i 2022 efter
+p.6: et historisk stort fald på 4,2 pct. i 2020. I prognosen  |  2019  |  2020  |  2021  |  2022
+p.6: lavere ved udgangen af 2022 end i 2019, jf. figur 4.
+p.6: BNP at falde med 3,9 pct. i 2020 og at stige med
+p.6: Genopretningen tager fart, når vacciner kan udbredes  |  henholdsvis 2,9 pct. og 3,3 pct. i 2021 og 2022, jf.
+p.6: BNP at stige med mellem 0,5 og 1 pct. i 4. kvartal. I  |  være et efterslæb i forhold til neutral kapacitets-
+p.7: Inflationen skønnes at stige gradvist de kommende  |  2.000
+p.9: Realvækst i forhold til perioden før, pct.  |  2019  |  2020  |  2021  |  2022  |  1. kvt.  |  2. kvt.  |  3. kvt.
+p.9: BNP  |  2,8  |  -3,9  |  2,9  |  3,3  |  -1,6  |  -7,0  |  4,9
+p.9: Privat forbrug1  |  1,4  |  -4,1  |  5,9  |  4,2  |  -3,0  |  -6,3  |  4,2
+p.9: Offentligt forbrug  |  1,2  |  -0,5  |  1,8  |  0,8  |  -1,8  |  -1,7  |  1,0
+p.9: Boliginvesteringer  |  6,2  |  4,8  |  3,7  |  1,8  |  6,1  |  -0,1  |  -0,3
+p.9: Offentlige investeringer  |  0,3  |  7,9  |  3,4  |  2,6  |  13,3  |  -3,0  |  3,4
+p.9: Erhvervsinvesteringer  |  2,3  |  -2,8  |  2,4  |  4,9  |  1,0  |  -9,5  |  4,8
+p.9: -0,3  |  -0,3  |  0,0  |  0,0  |  -0,1  |  -1,7  |  1,7
+p.9: Eksport  |  5,0  |  -9,4  |  4,0  |  6,5  |  -3,1  |  -11,6  |  5,3
+p.9: Industrieksport  |  10,1  |  -2,0  |  2,1  |  5,1  |  1,9  |  -8,0  |  3,3
+p.9: Import  |  2,4  |  -7,4  |  6,4  |  6,6  |  -2,4  |  -11,9  |  5,4
+p.9: Beskæftigelse, 1.000 personer  |  3.003  |  2.980  |  3.004  |  3.020  |  3.012  |  2.933  |  2.982
+p.9: Betalingsbalance, pct. af BNP  |  8,9  |  7,4  |  6,3  |  6,6  |  8,1  |  8,0  |  7,0
+p.9: Offentlig saldo, pct. af BNP  |  3,8  |  -3,4  |  -2,0  |  -1,9  |  -0,2  |  -4,4  |  -1,5
+p.9: Huspriser3, pct. år-år  |  3,0  |  3,1  |  3,0  |  2,7  |  2,4  |  1,9  |  4,3
+p.9: Forbrugerpriser (HICP), pct. år-år  |  0,7  |  0,3  |  1,1  |  1,4  |  0,6  |  0,0  |  0,4
+p.9: 2,5  |  2,1  |  2,1  |  2,4  |  2,8  |  2,1  |  1,9
+
+# --- full text of p.9 (table layout, for column headers and notes) ---
+p.9| A N A LY S E — D A N M A R K S N AT I O N A L B A N K                                                                                            9
+p.9| UDSIGTER FOR DANSK ØKONOMI — DECEMBER 2020
+p.9|   Centrale økonomiske størrelser                                                                                                       Tabel 1
+p.9|                                                                                                                             2020
+p.9|   Realvækst i forhold til perioden før, pct.                         2019       2020        2021           2022   1. kvt.    2. kvt.   3. kvt.
+p.9|   BNP                                                                  2,8        -3,9        2,9           3,3     -1,6       -7,0       4,9
+p.9|   Privat forbrug1                                                      1,4        -4,1        5,9           4,2     -3,0       -6,3       4,2
+p.9|   Offentligt forbrug                                                   1,2        -0,5        1,8           0,8     -1,8       -1,7       1,0
+p.9|   Boliginvesteringer                                                   6,2        4,8         3,7           1,8      6,1       -0,1      -0,3
+p.9|   Offentlige investeringer                                             0,3        7,9         3,4           2,6    13,3        -3,0       3,4
+p.9|   Erhvervsinvesteringer                                                2,3        -2,8        2,4           4,9      1,0       -9,5       4,8
+p.9|   Lagerinvesteringer mv.    2
+p.9|                                                                       -0,3        -0,3        0,0           0,0     -0,1       -1,7       1,7
+p.9|   Eksport                                                              5,0        -9,4        4,0           6,5     -3,1      -11,6       5,3
+p.9|      Industrieksport                                                 10,1         -2,0        2,1           5,1      1,9       -8,0       3,3
+p.9|   Import                                                               2,4        -7,4        6,4           6,6     -2,4      -11,9       5,4
+p.9|   Beskæftigelse, 1.000 personer                                     3.003       2.980      3.004       3.020      3.012      2.933     2.982
+p.9|   Ledighed, brutto, 1.000 personer                                    104         133        126           121      108        154       140
+p.9|   Betalingsbalance, pct. af BNP                                        8,9        7,4         6,3           6,6      8,1        8,0       7,0
+p.9|   Offentlig saldo, pct. af BNP                                         3,8        -3,4       -2,0          -1,9     -0,2       -4,4      -1,5
+p.9|   Huspriser3, pct. år-år                                               3,0        3,1         3,0           2,7      2,4        1,9       4,3
+p.9|   Forbrugerpriser (HICP), pct. år-år                                   0,7        0,3         1,1           1,4      0,6        0,0       0,4
+p.9|   Timeløn (industrien), pct. år-år
+p.9|             4
+p.9|                                                                        2,5        2,1         2,1           2,4      2,8        2,1       1,9
+p.9|   Kilde: Danmarks Statistik og egne beregninger.
+p.9|   1. Omfatter både husholdninger og NPISH.
+p.9|   2. Bidrag til BNP-vækst (posten omfatter lagerinvesteringer, værdigenstande og statistisk diskrepans).
+p.9|   3. Nominelle priser på enfamiliehuse.
+p.9|   4. Danmarks Statistiks implicitte lønindeks.

@@ -1,7 +1,7 @@
 # nb-2016-q1
 # url: https://www.nationalbanken.dk/media/oerbpidk/aomt-1q-2016-en.pdf
 # http: 200  bytes: 1278956  sha256: 1aa2c7093df40003dde9e3691bf721547f4b29962f7d0cd3e91f28a7e2501fdc
-# fetched: 2026-09-29T18:22:25Z
+# fetched: 2026-09-29T18:32:35Z
 # pages: 37  (lines below are quotes; p.N = PDF page)
 
 p.1: economies are picking up. Most of them are oil  |  GDP, is forecast at 1.3 per cent in 2016, rising to
@@ -121,3 +121,103 @@ p.36: Exchange rates  |  0.0  |  -0.1  |  0.0  |  0.0  |  -0.1  |  -0.1
 p.36: Oil prices  |  0.0  |  0.0  |  0.0  |  0.0  |  -0.3  |  -0.1
 p.36: Other factors  |  -0.2  |  -0.4  |  -0.3  |  -0.1  |  -0.3  |  0.1
 p.36: This projection  |  1.2  |  1.3  |  1.8  |  0.2  |  0.6  |  1.8
+
+# --- full text of p.23 (table layout, for column headers and notes) ---
+p.23|   Key economic variables                                                                                                                   Table 2
+p.23|   Real growth on preceding period,                                                                                            2015
+p.23|   per cent                                                 2015         2016             2017       2018                Q2           Q3         Q4
+p.23|   GDP                                                        1.2          1.3             1.8         1.8              0.2        -0.5          0.2
+p.23|   Private consumption                                        2.1          1.8             2.0         2.0              -0.1          0.7        0.3
+p.23|   Public consumption                                         0.9          0.7             0.0         1.2              -0.1       -0.3          -0.2
+p.23|   Residential investment                                    -0.3          1.1             4.2         3.9              0.3        -1.3          -2.4
+p.23|   Public investment                                         -1.7          -1.5            0.0         0.0              0.5        -1.1          2.0
+p.23|   Business investment                                        2.1          3.2             4.1         3.5              1.8        -1.3          1.7
+p.23|   Inventory investment, etc.1                               -0.4          0.0             0.0         0.0              0.3           0.4        -0.2
+p.23|   Exports                                                   -0.9          1.0             3.3         2.9              -2.9       -1.4          0.1
+p.23|        Industrial exports                                    0.9          1.6             4.3         3.8              -2.2       -3.8          0.9
+p.23|   Imports                                                   -1.3          1.3             3.5         3.4              -2.8          0.4        -0.2
+p.23|   Employment, 1,000 persons                               2,796         2,827        2,851         2,875          2,791         2,799       2,811
+p.23|   Gross unemployment, 1,000 persons                         124           113             109        106               125        122           121
+p.23|   Balance of payments, per cent of GDP                       6.8          6.7             6.7         6.7              5.9           7.2        5.9
+p.23|   Government balance, per cent of GDP                       -2.2          -3.2            -2.4       -1.8              -2.3       -1.7          -1.4
+p.23|   House prices, per cent year-on-year                        6.0          3.5             3.1         3.0              6.0           6.0        6.0
+p.23|   Consumer prices, per cent year-on-year                     0.2          0.6             1.8         1.8              0.4           0.4        0.2
+p.23|   Hourly wages, per cent year-on-year                        1.8          2.1             2.5         2.6              1.9           2.0        1.9
+p.23|   1.   Contribution to GDP growth (this item comprises inventory investment, valuables and statistical discrepancy).
+p.23| more acute. In the longer term, lower structural
+p.23| productivity growth will reduce growth in pros­                                   Growth contributions                                     Chart 29
+p.23| perity.                                                                           adjusted for imports
+p.23|    The economic recovery in 2015 was driven
+p.23|                                                                                   Percentage points
+p.23| by both private and public consumption, while
+p.23|                                                                                   2.0
+p.23| exports had a downward impact, cf. Chart 29.
+p.23| In volume terms, exports of goods and services                                     1.5
+p.23| fell by 0.9 per cent in 2015. This follows several                                 1.0
+p.23| years of positive growth. But exports in value
+p.23|                                                                                    0.5
+p.23| terms rose in 2015, cf. below. Export volumes are
+p.23| expected to begin to make a positive contribution                                  0.0
+p.23| to GDP growth again, but to a lesser extent than
+p.23|                                                                                   -0.5
+p.23| previously forecast.                                                                          15          16                   17          18
+p.23|                                                                                       Private consumption              Public sector demand
+p.23|    The fundamental drivers of private consump­                                        Exports                          Private investment
+p.23|                                                                                       Inventory investment
+p.23| tion are more or less unchanged compared with
+p.23| the previous projection. The housing and labour
+p.23| markets are picking up and real wages are in­                                     Note:   Growth contributions have been adjusted for average
+p.23|                                                                                           import content.
+p.23| creasing. The consumption ratio is low, but rising.                               Source: Statistics Denmark and Danmarks Nationalbank.
+p.23| Against that background, the most significant
+p.23| DANMARKS NATIONALBANK MONETARY REVIEW 1ST QUARTER 2016                                                                                                 23
+
+# --- full text of p.28 (table layout, for column headers and notes) ---
+p.28|      Consumer prices                                                                                                                              Table 3
+p.28|                                                                                                                     2015/2016
+p.28|      Per cent, year-on-year           Weights   1
+p.28|                                                      2015      2016      2017        2018          Q4        Q1       Q2        Feb.      Mar.       Apr.
+p.28|      HICP                                              0.2       0.6       1.8        1.9         0.2       0.3       0.2         0.1       0.2       0.1
+p.28|      Index of net retail prices           100.0        0.7       0.9       2.0        2.0         0.6       0.8       0.6         0.6       0.6       0.6
+p.28|      Exogenous:
+p.28|         Energy                               6.9      -9.8      -6.9       3.0        3.1        -10.9     -8.3    -10.0       -10.1       -9.8      -9.8
+p.28|         Food                                 4.8       2.6       1.7       1.8        1.6         2.6       2.4       1.5         3.6       2.3       1.8
+p.28|         Adm. prices                          4.1       0.9       2.7       3.0        2.8         2.1       2.4       2.6         2.3       2.3       2.3
+p.28|         Rent                               26.0        2.1       2.0       2.0        2.6         2.1       2.2       2.1         2.2       2.2       2.1
+p.28|      Excl. exogenous:                      58.2        1.4       1.6       1.8        1.5         1.4       1.3       1.7         1.1       1.0       1.1
+p.28|         Imports                            18.7        2.4       1.0       1.8        1.5         2.9       1.7       0.5         1.5       1.1       0.7
+p.28|         IMI                                39.5        0.9       1.3       1.8        1.7         0.7       0.7       1.5         0.8       1.0       1.3
+p.28|      Note:   The most recent actual figures are from February 2016.
+p.28|      1. Weight in the index of net retail prices, per cent. The weights are from January 2016.
+p.28| Consumer Prices, HICP, was 0.1 per cent in Febru­                                still 0.3 per cent higher than in January 2015. This
+p.28| ary 2016, down from 0.4 per cent in January, cf.                                 means that price pressures from the wholesale
+p.28| Chart 33 (right).                                                                link remain weak. Energy prices have a downward
+p.28|    Core inflation, calculated as HICP excluding                                  impact on the index; if they are excluded, the in­
+p.28| energy and unprocessed food, was 0.7 per cent in                                 dex rose by 1.6 per cent. Import prices excluding
+p.28| February compared with 0.8 per cent in January                                   energy rose by 1.5 per cent.
+p.28| 2016. The rise in core inflation is attributable to                                  The low oil prices will dampen price inflation
+p.28| factors such as higher prices for imported goods                                 throughout 2016. HICP is expected to rise by 0.6
+p.28| due to the weakening of the effective exchange                                   per cent year-on-year, while it rose by 0.2 per cent
+p.28| rate of the krone. Conversely, the lower price of oil                            in 2015, cf. Table 3. In 2017 and 2018, when the
+p.28| exerts downward pressure on core inflation as the                                pass-through from the low oil prices fades away
+p.28| lower energy prices ripple through to consumer                                   and the economy approaches its capacity limit,
+p.28| goods and services in general.                                                   price inflation will rise to 1.8.
+p.28|    In the longer term, consumer prices develop
+p.28| in line with those of the euro area, but in recent                               PUBLIC FINANCES
+p.28| months both HICP inflation and core inflation                                    Public consumption rose by 0.9 per cent in 2015
+p.28| have been higher than in the euro area, where                                    and public sector demand is expected to show
+p.28| HICP fell by 0.2 per cent in February.                                           a relatively moderate trend. Public spending is
+p.28|    Domestic market-determined inflation, IMI, was                                forecast to rise by 0.7 per cent this year, reflecting
+p.28| 0.7 per cent in February. In the longer term, IMI is                             factors such as the agreed “reprioritisation contri­
+p.28| determined by developments in the level of costs                                 bution”3 in the Finance Act, which will, viewed in
+p.28| in the economy, including wages. The low level of                                isolation, dampen growth in public sector spend­
+p.28| IMI indicates that firms have found it hard to fully                             ing. On the basis of, inter alia, the government’s
+p.28| pass on the higher import pri­ces to consumers,
+p.28| and hence gross profits are squeezed. So overall,
+p.28|                                                                                  3    The reprioritisation contribution means that the ceiling on local gov­
+p.28| domestic price pressures remain limited.                                              ernment spending is lowered by 1 per cent this year and each of the
+p.28|                                                                                       following years, albeit with partial compensation. Viewed in isolation,
+p.28|    The price index for the domestic supply of
+p.28|                                                                                       the reprioritisation contribution will reduce growth in expenditure
+p.28| goods fell from December to January, but was                                          over the projection period.
+p.28| 28                                                                                DANMARKS NATIONALBANK MONETARY REVIEW 1ST QUARTER 2016

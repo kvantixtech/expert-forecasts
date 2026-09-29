@@ -1,7 +1,7 @@
 # dor-eval-2026
 # url: https://dors.dk/files/media/F26_kapII_Prognoseevaluering.pdf
 # http: 200  bytes: 193013  sha256: 78bb8a8a76755f69c804ef7a15cd6f3341e2c531ccbad75e51616f27a8c7763c
-# fetched: 2026-09-29T18:23:50Z
+# fetched: 2026-09-29T18:33:51Z
 # pages: 10  (lines below are quotes; p.N = PDF page)
 
 p.2: 2000 været 1,2 pct.point. Ses der bort fra 2009 og 2020
@@ -32,3 +32,34 @@ p.9: - 2000-2009  |  1,49  |  1,39  |  1,64  |  1,62  |  1,53  |  1,47  |  klare
 p.9: - 2010-2019  |  0,72  |  0,73  |  0,81  |  0,90  |  0,72  |  0,84  |  hvilket er tilfældet på tværs af de forskellige institutioner.
 p.9: - 2020-2025  |  1,55  |  1,68  |  1,85  |  1,98  |  2,07  |  1,78
 p.9: prognoseafvigelserne fra et mekanisk skøn. Det mekaniske skøn er beregnet som et  |  2010-19. Dette skyldes bl.a. coronapandemien i 2020,
+
+# --- full text of p.9 (table layout, for column headers and notes) ---
+p.9| BNP-vækst siden år 2000
+p.9| Prognoseafvigelse for skønnet BNP-vækst fra forskellige institutioner
+p.9| BNP-vækstskøn (t+1, 2000-2025)       DØR      ØR       DN       DI    OECD    EU     •   Den absolutte gennemsnitlige afvigelse er et mål for
+p.9| Absolut gns. afvigelse (pct.point)   1,21     1,20    1,37     1,43    1,34   1,30       præcisionen af en prognose. På tværs af institutioner er
+p.9| RMSE (pct.point)                     1,73     1,71    1,95     1,98    1,79   1,81       den skønnede BNP-vækst i gns. ca. 1,2-1,4 pct.point
+p.9| Theil-koefficient                    0,75     0,75    0,86     0,89    0,79   0,79       forskellig fra den faktiske BNP-vækst.
+p.9| Retning                              0,73     0,88             0,65    0,58   0,81   •   Theil-koefficienten sammenligner prognoserne med et
+p.9| Absolut gns. afvigelse (pct.point)                                                       mekanisk skøn. Hvis Theil-koefficienten er under én,
+p.9| - 2000-2009                          1,49     1,39    1,64     1,62    1,53   1,47       klarer prognoserne sig bedre end det mekaniske skøn,
+p.9| - 2010-2019                          0,72     0,73    0,81     0,90    0,72   0,84       hvilket er tilfældet på tværs af de forskellige institutioner.
+p.9| - 2020-2025                          1,55     1,68    1,85     1,98    2,07   1,78
+p.9|                                                                                      •   Prognoserne er i stand til at vurdere, at BNP-væksten er
+p.9| Anm.: Prognoseafvigelsen er beregnet som forskellen mellem Danmarks Statistiks           tiltagende eller aftagende i ca. 60-90 pct. af årene.
+p.9| første foreløbige opgørelse og prognoseskønnet. Absolut gns. afvigelse viser den
+p.9| gennemsnitlige numeriske prognoseafvigelse. RMSE viser kvadratroden af den           •   I perioden 2020-25 har den absolutte gns. afvigelse
+p.9| gennemsnitlige kvadrerede prognoseafvigelse. Theil-koefficienten viser, om               været højere på tværs af institutioner end i perioden
+p.9| spredningen i prognoseafvigelserne er mindre eller større end spredningen i
+p.9| prognoseafvigelserne fra et mekanisk skøn. Det mekaniske skøn er beregnet som et         2010-19. Dette skyldes bl.a. coronapandemien i 2020,
+p.9| 10-års gennemsnit af den faktiske BNP-vækst. En Theil-koefficient under 1 er             den stigende betydning af merchanting og processing
+p.9| ensbetydende med, at prognoserne er bedre end et mekanisk skøn. Retning viser
+p.9| andelen af prognoserne, der korrekt skønner aftagende eller tiltagende BNP-vækst
+p.9|                                                                                          (M&P) og den store tilgang af udenlandsk arbejdskraft.
+p.9| fra periode til periode    1. Tidspunktet for udgivelse af prognoserne er typisk     •   Forskelle i prognosernes præcision afspejler ikke kun
+p.9| oktober for DØR, december for ØR, september for DN, november for DI, december
+p.9| for OECD og november for EU.
+p.9|                                                                                          forskellige syn på konjunkturerne, men også at
+p.9|                                                                                          prognoserne udkommer på forskellige tidspunkter og
+p.9| Kilde: Danmarks Statistik, Statistikbanken, Økonomiministeriet, Danmarks
+p.9| Nationalbank, Dansk Industri, OECD og EU-Kommissionen.                                   dermed ikke bygger på samme informationsgrundlag.

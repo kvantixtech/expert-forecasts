@@ -1,7 +1,7 @@
 # nb-2020-12-press
 # url: https://www.nationalbanken.dk/en/pressroom/Pages/2020/12/DNN202012130.aspx
 # http: 200  bytes: 30617  sha256: 4c3d4baa8ba18660d849192d7a035935cedb04d84bfc3669765c01d1d95cf49c
-# fetched: 2026-09-29T18:22:39Z
+# fetched: 2026-09-29T18:32:48Z
 # html page
 
 ​Danmarks Nationalbank has updated its forecasts for the Danish economy and now expects GDP to fall by a total of 3.9 per cent in 2020, followed by a subsequent increase of 2.9 per cent and 3.3 per cent in 2021 and 2022, respectively. (Correction to numbers released earlier today).

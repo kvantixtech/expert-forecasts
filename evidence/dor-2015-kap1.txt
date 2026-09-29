@@ -1,7 +1,7 @@
 # dor-2015-kap1
 # url: https://dors.dk/files/media/rapporter/2015/E15/kap_i/e15_kap_i_konjunkturvurdering.pdf
 # http: 200  bytes: 1230021  sha256: 66a88c1b499b74f50a0699b436a77e59379671f8102d083c92185f1680cbdfb6
-# fetched: 2026-09-29T18:23:54Z
+# fetched: 2026-09-29T18:33:54Z
 # pages: 103  (lines below are quotes; p.N = PDF page)
 
 p.1: 2015  |  personer siden midten af 2013. De positive tendenser i
@@ -230,3 +230,149 @@ p.3|                             udviklet sig svagt.
 p.3| Fremskrivning               Dansk Økonomi, forår 2015 indeholdt en fremskrivning af
 p.3| til 2025                    dansk økonomi til 2020. I dette kapitel præsenteres en frem-
 p.3|                                                                                                     17
+
+# --- full text of p.8 (table layout, for column headers and notes) ---
+p.8| Konjunkturvurdering og aktuel økonomisk politik. Dansk Økonomi, efterår 2015
+p.8| Tabel I.2    Hovedtal i konjunkturvurderingen
+p.8|                                                                                   a)
+p.8|                                         2014      2015 2016 2017 2025
+p.8|                                        Mia. kr.    ------ Realvækst, pct. ------
+p.8| Privat forbrug                           933         1,9      2,5      2,7       2,6
+p.8| Offentligt forbrug                       511         1,2      0,9      0,5       1,1
+p.8| Offentlige investeringer                  74        -0,7     -0,7     -1,6       1,5
+p.8| Boliginvesteringer                        76        -1,6      3,7      4,8       3,6
+p.8| Erhvervsinvesteringer                    209         2,2      7,5 10,1           4,5
+p.8|   heraf private byerhverv                171         0,6      8,7 11,4           4,8
+p.8| Lagerinvesteringer                        15        -0,4      0,3      0,1       0,0
+p.8| Indenlandsk efterspørgsel i alt        1.819         1,0      2,9      3,0       2,5
+p.8| Eksport i alt                          1.031         0,1      3,3      4,6       4,7
+p.8|   Vareeksport                            624         2,7      3,2      4,2       4,7
+p.8|     heraf industrivarer                  576         2,9      3,8      4,9       5,0
+p.8|   Tjenesteeksport                        407        -4,0      3,4      5,1       4,8
+p.8| Efterspørgsel i alt                    2.850         0,7      3,1      3,6       3,3
+p.8| Import i alt                             928        -1,3      5,1      6,1       5,4
+p.8|   Vareimport                             583         1,0      6,0      6,3       5,4
+p.8|     heraf industrivarer                  497         0,6      6,5      6,9       5,7
+p.8|   Tjenesteimport                         345        -5,3      3,6      5,9       5,4
+p.8| Bruttonationalprodukt                  1.922         1,6      2,1      2,3       2,1
+p.8| BVT i private byerhverv                1.055         2,2      2,7      2,7       2,5
+p.8|                                                      ------------- Pct. ------------
+p.8| Forbrugerpriser                                      1,0      1,6      1,8       1,8
+p.8| Timelønsomkostninger                                 1,9      2,4      2,7       3,1
+p.8| Kontantpris på enfamiliehuse                         5,4      2,9      2,5       2,9
+p.8| 22
+
+# --- full text of p.9 (table layout, for column headers and notes) ---
+p.9|                                                                                I.2 Dansk økonomi
+p.9| Tabel I.2       Hovedtal i konjunkturvurderingen, fortsat
+p.9|                                                                                                     a)
+p.9|                                                       2014      2015      2016      2017 2025
+p.9| BNP i aftagerlande                                       2,1    2,0      2,4    2,7 2,3
+p.9| Udlandets timelønomkostninger                            2,3    2,4      2,7    3,0 3,6
+p.9| Timeproduktivitet i private byerhverv                    0,9    0,6      0,6    0,7 1,4
+p.9| Real disponibel indkomst                                 3,0    0,1      2,7    1,4 1,8
+p.9| 10-årig statsobligationsrente                            1,2    0,7      1,4    2,1 4,8
+p.9|                                                        ------ Ændring i 1.000 pers. ------
+p.9| Strukturel arbejdsstyrke                                  13        15     15      18 15
+p.9| Arbejdsstyrke                                             14        24     31      31 20
+p.9| Privat beskæftigelse                                      26        26     33      33 16
+p.9| Offentlig beskæftigelse                                     0        0      1        2     7
+p.9|                                                          ------------ 1.000 pers. ---------
+p.9| Nettoledighed                                           107       104     101       97 74
+p.9| Bruttoledighed                                          135       126     123     120 94
+p.9|                                                         ----------------- Pct. -------------
+p.9| Output gap                                              -4,4      -3,8    -2,9  -2,1 0,0
+p.9| Timebeskæftigelsesgap                                   -4,9      -4,3    -3,6  -2,8 0,0
+p.9|                                                          ----------- Pct. af BNP --------
+p.9| Betalingsbalance                                         6,3       6,3       5,9       5,4 3,5
+p.9| Offentlig saldo                                          1,8      -3,2      -3,2      -2,0 0,8
+p.9| ØMU-gæld                                                45,2      47,1      48,7      48,7 34,0
+p.9| a)       2025-søjlen angiver den gennemsnitlige årlige vækst fra 2017-25 til og med rækken “Offent-
+p.9|          lig beskæftigelse”. Resten af 2025-søjlen samt “10-årig obligationsrente” er de respektive
+p.9|          værdier i 2025.
+p.9| Anm.:    Realvækst i “Lagerinvesteringer” angiver vækstbidraget til BNP. Output gap og beskæftigel-
+p.9|          sesgap angiver procentvise afvigelser fra de strukturelle niveauer. Udviklingen i forbruger-
+p.9|          priserne er udtrykt ved deflatoren for det private forbrug. Det er antaget, at ændringen i den
+p.9|          offentlige gæld i fremskrivningsperioden er lig den offentlige saldo.
+p.9| Kilde:   Danmarks Statistik, ADAM’s databank, DA’s lønstatistik, OECD, Macrobond og egne be-
+p.9|          regninger.
+p.9|                                                                                                     23
+
+# --- full text of p.38 (table layout, for column headers and notes) ---
+p.38| Konjunkturvurdering og aktuel økonomisk politik. Dansk Økonomi, efterår 2015
+p.38|  Boks I.5         Alternativt scenarie med neutral finanspolitik i 2016-18
+p.38|  I prognosen er det lagt til grund, at finanspolitikken strammes gradvist frem mod
+p.38|  2020. Den planlagte finanspolitik er nærmere beskrevet i kapitel II. Finanspolitik-
+p.38|  ken skønnes isoleret set at dæmpe væksten i BNP med ¼-½ pct.point årligt frem
+p.38|  mod 2018. For at illustrere betydningen af timingen af den finanspolitiske op-
+p.38|  stramning er der foretaget en alternativ beregning på De Økonomiske Råds
+p.38|  makroøkonomiske model SMEC. I beregningen udskydes stramningen af finans-
+p.38|  politikken, således at der i perioden 2016-18 føres neutral finanspolitik. Fra 2019
+p.38|  og frem strammes finanspolitikken gradvist, så der i 2025 opnås samme struktu-
+p.38|  relle saldo som i hovedscenariet.
+p.38|  Nedenstående tabel viser de modelberegnede effekter af finanspolitikken på de
+p.38|  offentlige finanser, produktion og beskæftigelse.
+p.38|  Tabel A          Hovedtal i fremskrivning hhv. alternativ
+p.38|                                                          2015      2016      2017      2018      2025a)
+p.38|      Fremskrivning
+p.38|      Finanseffekt, pct.point                              -0,2      -0,2      -0,4      -0,4       0,0
+p.38|      Offentlig saldo, pct. af BNP                         -3,2      -3,2      -2,0      -1,4       0,8
+p.38|      Strukturel saldo, pct. af struk. BNPb)                0,3       0,2       0,3       0,5       0,8
+p.38|      BNP-vækst, pct.                                       1,6       2,1       2,3       2,4       2,1
+p.38|      Output gap, pct. af struk. BNP                       -3,8      -2,9      -2,1      -1,5       0,0
+p.38|      Beskæftigelsesændring, 1.000 pers.                    26        33        35        33        21
+p.38|      Alternativ med neutral finanspolitik
+p.38|      Finanseffekt, pct.point                              -0,2       0,0       0,0       0,0      -0,1
+p.38|      Offentlig saldo, pct. af BNP                         -3,2      -3,5      -2,2      -1,7       0,2
+p.38|      Strukturel saldo, pct. af struk. BNPb)                0,3      -0,2      -0,3      -0,6       0,8
+p.38|      BNP-vækst, pct.                                       1,6       2,2       2,7       2,7       1,9
+p.38|      Output gap, pct. af struk. BNP                       -3,8      -2,8      -1,6      -0,7      -0,4
+p.38|      Beskæftigelsesændring, 1.000 pers.                    26        37        49        45        15
+p.38|  a)          2025-søjlen viser den gennemsnitlige vækst eller ændring fra 2018 til 2025. For offentlig
+p.38|              saldo, strukturel saldo og output gap vises niveauet i 2025.
+p.38|  b)          Strukturel saldo er beregnet i budgetlovens forstand, jf. beskrivelse i kapitel II.
+p.38|  Anm.:       Finanseffekten angiver finanspolitikkens aktivitetsvirkning, målt som finanspolitikkens
+p.38|              vækstbidrag til BNP i forhold til en situation med neutral finanspolitik. Med neutral
+p.38|              finanspolitik forstås bl.a., at indkomstskattesatserne holdes konstante, at punktafgiftssat-
+p.38|              serne realt er uændrede, at satserne for indkomstoverførsler følger satsreguleringen, og at
+p.38|              offentlig beskæftigelse udgør en fast andel af den strukturelle beskæftigelse.
+p.38|  Kilde:      Egne beregninger med SMEC.
+p.38| 52
+
+# --- full text of p.42 (table layout, for column headers and notes) ---
+p.42| Konjunkturvurdering og aktuel økonomisk politik. Dansk Økonomi, efterår 2015
+p.42|  Boks I.6         Sammenligning med OECD’s fremskrivning til 2025
+p.42|  I denne boks sammenlignes 2025-fremskrivningen fra Det Økonomiske Råd
+p.42|  (DØR) med regeringens fremskrivning i Konvergensprogram 2015 (KP15) og
+p.42|  OECD’s fremskrivning i Economic Outlook May 2014.a
+p.42|  Boksen er understøttet af et baggrundsnotat, der ligger på De Økonomiske Råds Se-
+p.42|  kretariatets hjemmeside. Udover sammenligningen af DØR’s, regeringens og
+p.42|  OECD’s fremskrivning ser notatet nærmere på OECD’s vurdering af den langsigtede
+p.42|  danske vækst frem mod 2030 i forhold til udviklingen i en række andre lande.
+p.42|  Alle tre parter deler opfattelsen af, at Danmark befandt sig i en lavkonjunktur med
+p.42|  negativt output gap i 2014. DØR anslår, at output gap var på -4,4 pct. af struktu-
+p.42|  relt BNP, mens OECD vurderer, at output gap var -2,7 pct., og regeringen sagde i
+p.42|  KP15 -2,2 pct.
+p.42|  Vækstbidraget fra lukning af output gap er dermed størst hos DØR, hvor det bi-
+p.42|  drager årligt med 0,4 pct.point mod ca. 0,2 pct.point hos regeringen og OECD, jf.
+p.42|  tabel A. Dette er en del af forklaringen på, hvorfor DØR forventer den højeste
+p.42|  vækst i faktisk BNP frem mod 2025. DØR’s bud er en gennemsnitlig årlig vækst
+p.42|  på 2,1 pct., mens regeringen og OECD vurderer, at væksten vil ligge på 1,7 pct.
+p.42|  henholdsvis 1,8 pct.
+p.42|  Tabel A          Dekomponering af vækstskøn hos DØR, regeringen og OECD
+p.42|                                                           DØR       Regeringen        OECD
+p.42|                                                                     Pct., 2014-25
+p.42|       Strukturel mandeproduktivitet                        1,1            1,0            1,3
+p.42|       + Naturlig ledighed                                  0,0            0,0            0,0
+p.42|       + Strukturel arbejdsstyrke                           0,5            0,4            0,2
+p.42|       = Strukturelt BNP                                    1,7            1,5            1,5
+p.42|       + Output gap                                         0,4            0,2            0,2
+p.42|       = BNP                                                2,1            1,7            1,8
+p.42|   Anm.:       DØR’s vurdering er fra september 2015, regeringens vurdering er fra marts 2015, og
+p.42|               OECD’s vurdering er fra maj 2014. Dekomponeringen fremgår af baggrundsnotatet.
+p.42|   Kilde:      Danmarks Statistik, ADAM’s databank, OECD long-term projections No. 95 (Edition
+p.42|               2014) og egne beregninger.
+p.42|  a)
+p.42|    Selvom OECD’s fremskrivning er fra 2014, vurderes sammenligningen fortsat at være relevant, da
+p.42|  fokus er på den langsigtede udvikling i en række strukturelle størrelser.
+p.42| 56

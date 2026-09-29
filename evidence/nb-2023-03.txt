@@ -1,7 +1,7 @@
 # nb-2023-03
 # url: https://www.nationalbanken.dk/media/5udnq3q3/declining-but-still-high-inflation.pdf
 # http: 200  bytes: 777746  sha256: 12e481af69171994fc53c1180c7c2e8b10fc8dd08bbabfe3fcf88425de4b7749
-# fetched: 2026-09-29T18:25:12Z
+# fetched: 2026-09-29T18:35:03Z
 # pages: 47  (lines below are quotes; p.N = PDF page)
 
 p.2: 2022  |  2023  |  2024  |  2025  |  The Government
@@ -116,3 +116,97 @@ p.45: Oil prices  |  0.0  |  0.0  |  0.0  |  -0.1  |  0.0  |  0.1
 p.45: Foreign wages and prices  |  -0.4  |  -0.2  |  0.4  |  -0.3  |  -0.2  |  0.1
 p.45: Other factors  |  1.7  |  1.8  |  -0.1  |  0.3  |  0.0  |  1.9
 p.45: This projection  |  3.6  |  0.9  |  1.2  |  8.5  |  4.0  |  3.6
+
+# --- full text of p.2 (table layout, for column headers and notes) ---
+p.2|    H IG H LIG H T S                                                                                                                         2
+p.2|     DO M ES T IC                                       MONETA RY                                    LOWE R
+p.2|     I NFLATI O N A RY PRESSU RES                       TIGHTEN IN G                                 DA N IS H DE M A N D
+p.2|     Energy price increases that so far                 High inflation has prompted                  The interest rate increases have
+p.2|     have driven up inflation in Den-                   central banks across the world to            led to significant price falls in the
+p.2|     mark are now declining. On the                     tighten monetary policy, resulting           Danish housing market over the
+p.2|     other hand, higher wage increases                  in sharp market rate increases.              past year. In addition, consump-
+p.2|     in Denmark increase domestic                       Monetary policy is already damp-             tion has declined as a result of a
+p.2|     inflationary pressures. Inflation is               ening activity in Denmark and                marked drop in purchasing power.
+p.2|     expected to decline significantly in               will further dampen growth and               The downturn in domestic demand
+p.2|     2023, but is estimated to remain                   inflation over the coming year.              is more pronounced than in the
+p.2|     high over the projection horizon.                                                               euro area. Growth has so far been
+p.2|                                                                                                     underpinned by exports.
+p.2|     GROW TH                                            NEU TR A L                                   R IS K OF
+p.2|     SLOW D OW N IN 2023                                CAPACI T Y PR E SS UR E S                    WAGE - PR IC E S PIR A L
+p.2|     As higher interest rates dampen                    The slowdown is expected to                  The risk of inflation taking hold
+p.2|     growth in Denmark’s export                         lead to increasing unemployment              in a Danish wage-price spiral
+p.2|     markets, this is expected to lead                  that will reduce pressure on the             remains, even though inflation is
+p.2|     to a slowdown in the Danish                        labour market. Most likely, the              on the way down. However, Dan-
+p.2|     economy. However, an unusual                       Danish economy will avert reces-             marks Nationalbank assesses that
+p.2|     increase in the production of                      sion. However, this is conditional           the risk of a Danish wage-price
+p.2|     pharmaceuticals, most likely                       on inflation being brought down              spiral has been reduced since the
+p.2|     related to activities abroad, will                 abroad without a global slump.               summer of 2022.
+p.2|     raise Danish GDP in 2023.
+p.2| Key economic variables
+p.2| Real growth relative to
+p.2| the previous year, per cent
+p.2|                                                     2022          2023          2024        2025                The Government
+p.2|                                                                                                               should be prepared
+p.2| GDP (real), per cent                                  3.6           0.9           1.2         1.2
+p.2|                                                                                                             to tighten fiscal policy
+p.2| Employment, 1,000 persons                          3,164         3,173         3,148        3,141             at short notice if the
+p.2| Gross unemployment, 1,000 persons                      76            88            97         100           risk of an independent
+p.2| Balance of payments on                                                                                         Danish wage-price
+p.2|                                                      12.8          10.3           9.1         9.0
+p.2| current account, per cent of GDP                                                                                   spiral rises.
+p.2| Government budget balance,
+p.2|                                                       1.5           1.5           1.9         1.5
+p.2| per cent of GDP
+p.2| House prices1, per cent year-on-year                 -0.4          -9.4          -0.3         2.9
+p.2| Consumer prices, per cent year-on-year                8.5           4.0           3.6         3.0
+p.2| Hourly wages2 (manufacturing),
+p.2|                                                       3.5           4.7           5.3         3.9
+p.2| per cent year-on-year
+p.2| Source: Statistics Denmark and own calculations.
+p.2| 1. Nominal prices of single-family houses.
+p.2| 2. Danish Employers’ Association pay roll costs, including inconvenience supplements for manufac-
+p.2|    turing.
+
+# --- full text of p.20 (table layout, for column headers and notes) ---
+p.20| A N A LY S I S — D A N M A R K S N AT I O N A L B A N K                                                                                                 20
+p.20| OUTLOOK FOR THE DANISH ECONOMY — MARCH 2023
+p.20|    Key economic variables                                                                                                                  Table 1
+p.20|                                                                                                                                2022
+p.20|    Real growth relative to the previous period, per cent              2022       2023        2024        2025            Q2        Q3          Q4
+p.20|    GDP                                                                  3.6        0.9         1.2         1.2           1.3       0.0         0.9
+p.20|    Private spending1                                                   -2.5        0.2         1.8         1.2          -0.3      -0.7        -0.4
+p.20|    Public consumption                                                  -2.8        1.2         1.1         1.6          -1.3      -1.8        -0.1
+p.20|    Residential investments                                              7.8        -7.7       -4.4        -1.2           0.1       1.1        -2.0
+p.20|    Public investments                                                   0.0        2.9         4.5         2.2           1.8       2.8         3.5
+p.20|    Corporate investments                                              10.8         -6.6       -2.1         0.9           0.0       1.6       19.9
+p.20|    Inventory investments etc.    2
+p.20|                                                                         0.9        -0.4        0.0         0.0           3.2       3.3         3.7
+p.20|    Exports                                                              7.9        0.4         2.4         2.4           2.5       2.3        -1.8
+p.20|       Industrial exports                                                7.6        5.1         2.1         1.9           2.3       2.2         3.0
+p.20|    Imports                                                              3.8        -3.4        1.9         2.5           2.3      -0.5         0.7
+p.20|    Employment, 1,000 persons                                         3,164       3,173      3,148       3,141          3,157    3,170       3,183
+p.20|    Gross unemployment, 1,000 persons                                    76          88          97        100            74           77       78
+p.20|    Balance of payments on current account,
+p.20|                                                                       12.8        10.3         9.1         9.0          13.5      16.0       10.9
+p.20|    per cent of GDP
+p.20|    Government budget balance, per cent of GDP                           1.5        1.5         1.9         1.5           1.4       1.2         2.8
+p.20|    House prices3, per cent year-on-year                                -0.4        -9.4       -0.3         2.9           2.4      -1.8        -7.0
+p.20|    Consumer prices (HICP), per cent year-on-year                        8.5        4.0         3.6         3.0           8.2      10.2       10.2
+p.20|    Hourly wages4 (manufacturing),
+p.20|                                                                         3.5        4.7         5.3         3.9           3.2       3.3         3.7
+p.20|    per cent year-on-year
+p.20|    Source: Statistics Denmark and own calculations.
+p.20|    1. Includes both households and non-profit institutions serving households (NPISH).
+p.20|    2. Contribution to GDP growth (this item comprises inventory investments. valuables and statistical discrepancy).
+p.20|    3. Nominal prices of single-family houses.
+p.20|    4. Danish Employers’ Association pay-roll costs, including inconvenience supplements for manufacturing.
+p.20| uptake in China leads to new flare-ups of infection and                       omy.15 Admittedly, the risk of a crisis has diminished
+p.20| new lockdowns. Renewed supply disruptions will also                           in the short term after the Chinese authorities urged
+p.20| increase inflation.                                                           banks to meet the financing needs of troubled prop-
+p.20|                                                                               erty developers. However, this will help to increase the
+p.20| In China, the real estate sector, with its massive indebt-                    already high level of indebtedness and will thus hardly
+p.20| edness, also poses a significant risk to the global econ-                     reduce the risk of a serious crisis in the long term.
+p.20|                                                                               15 A deep crisis in the Chinese real estate sector could reduce global
+p.20|                                                                                  GDP by up to 1.3 per cent after one year, see box 2. See IMF, Growth
+p.20|                                                                                  spillovers to the rest of the world from a slowdown in China, IMF
+p.20|                                                                                  Regional Economic Outlook, October 2022.

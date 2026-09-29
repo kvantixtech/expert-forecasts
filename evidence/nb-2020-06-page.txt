@@ -1,7 +1,7 @@
 # nb-2020-06-page
 # url: https://www.nationalbanken.dk/da/viden-og-nyheder/publikationer-og-taler/arkiv-publikationer/2020/udsigter-for-dansk-oekonomi-udsigt-til-moderat-lavkonjunktur-det-naeste-aars-tid
 # http: 200  bytes: 37910  sha256: 6e67769cf7a342f60ec24c58757c69ad48944cce5f740fca0fb5e4dfc78f2408
-# fetched: 2026-09-29T18:25:01Z
+# fetched: 2026-09-29T18:34:54Z
 # html page
 
 Efter genåbningen er den økonomiske aktivitet vendt tilbage i store dele af dansk økonomi. Nedlukningen medførte dog store økonomiske tab, og dansk BNP ventes samlet set at falde med 3,6 pct. i år. I udlandet er krisen mange steder dyb. Det lægger en dæmper på danske eksportmuligheder fremadrettet. Samtidig vil nogle indenlandske brancher være underlagt restriktioner i en periode. For dem vil fremgangen ske mere gradvist. De forskellige støtteordninger er gode i den nuværende situation. De bør dog udfases, i takt med at restriktioner ophæves, da de hæmmer erhvervsdynamikken og mobiliteten på arbejdsmarkedet.

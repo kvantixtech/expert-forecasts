@@ -1,7 +1,7 @@
 # or-2017-12
 # url: https://regeringen.dk/media/5p1pvo0j/oekonomisk-redegoerelse-december-2017-web.pdf
 # http: 200  bytes: 2706378  sha256: 24436915ad295645084550be03dcb254a515a42a88002377dab04352b854e9e2
-# fetched: 2026-09-29T18:21:26Z
+# fetched: 2026-09-29T18:31:24Z
 # pages: 201  (lines below are quotes; p.N = PDF page)
 
 p.7: 1.5 Bilagstabel .............................................................................................................  |  44
@@ -804,3 +804,241 @@ p.197: Forbrugerpriser (stigning, pct.)  |  1,1  |  0,6  |  0,5  |  0,2  |  0,3 
 p.197: Betalingsbalancesaldo (mia. kr.)  |  178,9  |  150,6  |  136,7  |  156,3  |  167,2  |  163,8  |  151,3
 p.197: Samlet offentlig saldo (mia. kr.)  |  -56,6  |  -40,8  |  -19,1  |  -29,3  |  -18,6  |  -12,9  |  -8,4
 p.197: BNP i EU28 (realvækst, pct.)  |  2,0  |  1,8  |  1,7  |  1,8  |  1,9  |  1,9  |  1,9
+
+# --- full text of p.18 (table layout, for column headers and notes) ---
+p.18|      Kapitel 1                                                                                         Sammenfatning
+p.18|      Sigtepunkterne i finanspolitikken for de kommende år indebærer, at der gøres gradvist frem-
+p.18|      skridt mod strukturel balance på de offentlige finanser. De senere års reformer bidrager sam-
+p.18|      tidig til at skabe plads til fortsat fremgang i beskæftigelsen i de kommende år. Finans- og
+p.18|      strukturpolitikken bidrager dermed under ét til at dæmpe risici for overophedning og fastholde
+p.18|      et balanceret opsving.
+p.18|        Tabel 1.1
+p.18|        Centrale skøn vedrørende tilrettelæggelsen af finanspolitikken
+p.18|                                                                        2017               2018                2019
+p.18|        Strukturel saldo, pct. af strukturelt BNP                        -0,2                -0,3               -0,2
+p.18|        Faktisk saldo, pct. af BNP                                        0,0                -0,8               -0,6
+p.18|        ØMU-gæld, pct. af BNP                                           36,0                35,4                34,6
+p.18|                                      1)
+p.18|        Offentlig forbrugsvækst, pct.                                     0,5                1,0                0,31)
+p.18|        Ét-årig finanseffekt, pct. af BNP2)                              -0,2               0,02)               -0,2
+p.18|                        3)
+p.18|        Outputgab, pct.                                                  -0,2                0,4                 0,7
+p.18|                                              3)
+p.18|        Beskæftigelsesgab, 1.000 personer                                   1                 14                  20
+p.18|        1)     Regeringen prioriterer en basisrealvækst i det offentlige forbrug på 0,3 pct. om året i 2019-2025. Det
+p.18|               resterende råderum i 2019 indgår beregningsteknisk som en reserve til øvrige prioriteringer.
+p.18|        2)     Beregnet mål for, hvordan ændringer i finans- og strukturpolitikken fra et år til det næste påvirker
+p.18|               kapacitetspresset (outputgabet). I 2018 forudsættes de offentlige forbrugsudgifter at svare til det
+p.18|               budgetterede. I 2017 skønnes forbrugsudgifterne at være ca. 3,2 mia. kr. lavere end budgetteret.
+p.18|               Denne forskel hæver isoleret set den ét-årige finanseffekt i 2018 med knap 0,2 pct. af BNP.
+p.18|        3)     Beregnet mål for, hvor langt produktion og beskæftigelse er fra deres strukturelle niveauer. Når
+p.18|               gabene er omtrent nul svarer det til, at der ikke er flere ledige ressourcer i økonomien end i en
+p.18|               normalsituation.
+p.18|        Kilde: Danmarks Statistik og egne beregninger.
+p.18|      Finanspolitikken for 2018 er med finansloven og aftalerne med kommunerne og regionerne
+p.18|      tilrettelagt ud fra et strukturelt underskud på 0,3 pct. af BNP. Underskuddet i 2019 skønnes
+p.18|      reduceret til 0,2 pct. af BNP. Skønnene for 2018 og 2019 er uændrede i forhold til konjunk-
+p.18|      turvurderingen og den mellemfristede fremskrivning i august. De er dermed i tråd med den
+p.18|      planlagte konsolidering af finanspolitikken og regeringens sigtepunkter for den strukturelle
+p.18|      saldo i 2025-planen.
+p.18|      Regeringen har i efteråret blandt andet indgået aftaler om lavere bilafgifter samt erhvervs- og
+p.18|      iværksætterinitiativer. Aftalerne bidrager til at gøre det mere fordelagtigt at købe biler, der
+p.18|      blandt andet er mere sikre, og til at forbedre rammevilkårene for erhvervslivet, jf. boks 1.2.
+p.18| 16   Økonomisk Redegørelse · December 2017
+
+# --- full text of p.20 (table layout, for column headers and notes) ---
+p.20|      Kapitel 1                                                                                                                Sammenfatning
+p.20|        Figur 1.11                                                               Figur 1.12
+p.20|        Faktisk saldo                                                            Strukturel saldo
+p.20|         Pct. af BNP                                              Pct. af BNP    Pct. af BNP                                         Pct. af BNP
+p.20|          1,5                                                             1,5     0,1                                                       0,1
+p.20|          1,0                                                             1,0     0,0                                                       0,0
+p.20|                                                                                 -0,1                                                       -0,1
+p.20|          0,5                                                             0,5
+p.20|                                                                                 -0,2                                                       -0,2
+p.20|          0,0                                                             0,0
+p.20|                                                                                 -0,3                                                       -0,3
+p.20|         -0,5                                                             -0,5
+p.20|                                                                                 -0,4                                                       -0,4
+p.20|         -1,0                                                             -1,0
+p.20|                                                                                 -0,5                                                       -0,5
+p.20|         -1,5                                                             -1,5   -0,6                      Underskudsgrænse i Budgetloven   -0,6
+p.20|         -2,0                                                             -2,0   -0,7                                                       -0,7
+p.20|                   2014     2015      2016     2017     2018     2019                          2017         2018              2019
+p.20|                Faktisk saldo      Faktisk saldo med strukturelt PAL-provenu                      August               December
+p.20|        Anm.: PAL-provenu er provenuet fra pensionsafkastskatten.
+p.20|        Kilde: Danmarks Statistik og egne beregninger.
+p.20|      I beregningen af den strukturelle saldo korrigeres den faktiske offentlige saldo for de udsving,
+p.20|      der vurderes at følge af konjunkturerne og andre midlertidige forhold, herunder fx de store
+p.20|      udsving i pensionsafkastskatten. Den strukturelle saldo kan således tolkes som et billede af
+p.20|      den underliggende stilling på de offentlige finanser ved den gældende og forudsatte finans-
+p.20|      politik.
+p.20|      Skønnet for det strukturelle underskud er nedjusteret i 2017 i forhold til vurderingen i august.
+p.20|      Det skyldes blandt andet lavere forventede driftsudgifter i staten, hvilket også påvirker real-
+p.20|      væksten i det offentlige forbrug i 2018, jf. boks 1.3. Desuden skønnes udgifterne til primært
+p.20|      folkepension at være lavere end tidligere ventet. Således skønnes det strukturelle underskud
+p.20|      i 2017 nu at udgøre 0,2 pct. af BNP mod 0,5 pct. af BNP i augustredegørelsen, figur 1.12. I
+p.20|      2018 skønnes på linje med augustredegørelsen et strukturelt underskud på 0,3 pct. af BNP.
+p.20|      Ligeledes er skønnet for den strukturelle saldo i 2019 uændret på -0,2 pct. af BNP sammen-
+p.20|      lignet med den mellemfristede fremskrivning fra august.
+p.20|      Regeringen tilrettelægger finanspolitikken efter et sigtepunkt om et strukturelt underskud på
+p.20|      0,1 pct. af BNP i 2020 og et mål om strukturel balance i 2025. Sigtelinjerne i finanspolitikken
+p.20|      indeholder således en gradvis finanspolitisk konsolidering, som bidrager til at dæmpe kapaci-
+p.20|      tetspresset i dansk økonomi.
+p.20|      Den offentlige ØMU-gæld skønnes at udgøre i størrelsesordenen 35 pct. af BNP i hele prog-
+p.20|      noseperioden og holder dermed en bred sikkerhedsmargin til 60 pct.-grænsen i Stabilitets- og
+p.20|      Vækstpagten.
+p.20| 18   Økonomisk Redegørelse · December 2017
+
+# --- full text of p.46 (table layout, for column headers and notes) ---
+p.46|      Kapitel 1                                                                             Sammenfatning
+p.46|      1.5 Bilagstabel
+p.46|        Tabel 1.3
+p.46|        Nøgletal fra vurderingen i december og sammenligning med skøn fra august
+p.46|                                                             2017             2018              2019
+p.46|                                                      Aug.          Dec.   Aug.      Dec.       Dec.
+p.46|         Realvækst, pct.
+p.46|         Privat forbrug                                2,4           2,0    2,4       2,3        2,4
+p.46|         Samlet offentlig efterspørgsel                0,7           0,0    0,3       0,8        0,3
+p.46|         - heraf offentligt forbrug                    0,8           0,5    0,5       1,0        0,3
+p.46|         - heraf offentlige investeringer              0,1          -4,0   -1,4      -1,1        -0,1
+p.46|         Boliginvesteringer                            5,0           3,5    6,0       6,0        5,6
+p.46|         Faste erhvervsinvesteringer                   3,0           3,8    4,3       4,9        5,5
+p.46|         I alt endelig indenlandsk efterspørgsel       1,9           1,5    2,2       2,4        2,3
+p.46|         Lagerændringer (vækstbidrag)                 -0,1           0,1    0,0       0,0        0,0
+p.46|         I alt indenlandsk efterspørgsel               1,8           1,6    2,2       2,3        2,4
+p.46|         Eksport                                       3,8           3,5    2,9       2,8        2,6
+p.46|         - heraf industrieksport                       4,9           6,4    3,2       3,6        3,6
+p.46|         Samlet efterspørgsel                          2,5           2,3    2,5       2,5        2,5
+p.46|         Import                                        3,7           2,9    3,8       3,7        4,0
+p.46|         - heraf vareimport                            4,5           5,1    3,6       3,7        3,8
+p.46|         BNP                                           2,0           2,0    1,8       1,9        1,7
+p.46|         Bruttoværditilvækst                           1,9           1,9    1,7       2,0        1,9
+p.46|         - heraf i private byerhverv                   2,3           2,4    2,4       2,6        2,6
+p.46|         Ændring i 1.000 personer
+p.46|         Arbejdsstyrke, i alt                          48            49     23        29          17
+p.46|         Beskæftigelse, i alt                          44            45     25        33          23
+p.46|         - heraf i den private sektor                  43            45     25        31          24
+p.46|         - heraf i offentlig forvaltning og service      1            0       0        2          -1
+p.46|         Bruttoledighed                                  3            4      -2        -5         -5
+p.46|         Konjunkturgab, pct.
+p.46|         Outputgab                                    -0,2          -0,2    0,0       0,4        0,7
+p.46|         Beskæftigelsesgab                             0,0           0,0    0,0       0,5        0,7
+p.46|         Ledighedsgab                                 -0,1           0,0   -0,2      -0,2        -0,3
+p.46| 44   Økonomisk Redegørelse · December 2017
+
+# --- full text of p.47 (table layout, for column headers and notes) ---
+p.47| Kapitel 1                                                                                  Sammenfatning
+p.47|   Tabel 1.3 (fortsat)
+p.47|   Nøgletal fra vurderingen i december og sammenligning med skøn august
+p.47|                                                         2017                2018             2019
+p.47|                                                      Aug.      Dec.      Aug.      Dec.        Dec.
+p.47|   Stigning, pct.
+p.47|   Huspriser (enfamiliehuse)                            3,5       4,3      3,5        3,8        3,3
+p.47|   Forbrugerprisindeks                                  1,1       1,2      1,5        1,5        1,7
+p.47|   Timeløn i privat sektor (DA’s StrukturStatistik)     2,5       2,5      2,8        2,8        2,9
+p.47|   Real disponibel indkomst, husholdninger              1,8      -0,7      2,2        2,0        2,1
+p.47|   Timeproduktiviteten i private byerhverv              0,5       0,4      1,2        1,1        1,4
+p.47|   Pct. p.a.
+p.47|   Rente, 1-årigt flekslån                             -0,5      -0,6      -0,2      -0,5        -0,1
+p.47|   Rente, 10-årig statsobligation                       0,6       0,5      1,0        0,7        1,1
+p.47|   Rente, 30-årig realkreditobligation                  2,3       2,3      2,8        2,3        2,7
+p.47|   Offentlige finanser
+p.47|   Faktisk offentlig saldo (mia. kr.)                 -30,4      -0,8    -27,1      -17,2       -14,8
+p.47|   Faktisk offentlig saldo (pct. af BNP)               -1,4       0,0      -1,2      -0,8        -0,6
+p.47|   Strukturel offentlig saldo (pct. af BNP)            -0,5      -0,2      -0,3      -0,3        -0,2
+p.47|   ØMU-gæld (pct. af BNP)                              36,3      36,0     35,4       35,4       34,6
+p.47|   Arbejdsmarked
+p.47|   Arbejdsstyrke, i alt                               3.031     3.032    3.054      3.061      3.079
+p.47|   Beskæftigelse (inkl. orlov), i alt                 2.921     2.922    2.946      2.955      2.978
+p.47|   Bruttoledighed (årsgns., 1.000 personer)            116       116       114       112         107
+p.47|   Bruttoledighed (pct. af arbejdsstyrken)              3,7       3,8      3,7        3,6        3,5
+p.47|   Eksterne forudsætninger
+p.47|   Handelsvægtet BNP-vækst i udlandet, pct.             2,4       2,8      2,2        2,6        2,3
+p.47|   Eksportmarkedsvækst (industrivarer), pct.            4,3       4,4      3,9        4,0        4,0
+p.47|   Dollarkurs (kr. pr. dollar)                          6,6       6,6      6,4        6,3        6,3
+p.47|   Oliepris, dollar pr. tønde                          51,1      54,2     55,9       62,9       64,3
+p.47|   Betalingsbalance
+p.47|   Betalingsbalancesaldo (pct. af BNP)                  8,2       8,1      7,9        7,6        7,1
+p.47|                                                                  Økonomisk Redegørelse · December 2017     45
+
+# --- full text of p.57 (table layout, for column headers and notes) ---
+p.57| Kapitel 2                                                            International økonomi og finansielle markeder
+p.57|   Boks 2.1
+p.57|   Reformer har bragt den irske økonomi tilbage på sporet
+p.57|   Irland er blandt de EU-lande, der havde højest vækst i 2016, og væksten ventes at ligge betydeligt over EU-
+p.57|   gennemsnittet i 2017-2019. Mens de globale konjunkturer og en række finansielle og pengepolitiske tiltag
+p.57|   har haft afgørende betydning for genopretningen i alle de europæiske økonomier, har et særligt kendetegn
+p.57|   ved Irlands genopretning været en konsistent gennemførelse af betingelserne i landets låneprogram.
+p.57|   Da Europa i 2008 blev ramt af den globale finanskrise, var en række forhold med til at forværre krisen i Ir-
+p.57|   land sammenlignet med flere andre EU-lande. Irland havde i årene op til krisen opbygget store ubalancer i
+p.57|   kredit- og boligmarkederne, og da de globale finansmarkeder frøs til, og boligpriserne begyndte at falde,
+p.57|   kom flere irske banker i likviditetsproblemer og nærmede sig insolvens. Den irske regering udstedte derfor
+p.57|   statsgarantier og gennemførte en række kapitalindskud, der for enkelte banker medførte nationalisering.
+p.57|   Interventionerne samt faldende skatteindtægter som følge af den negative realøkonomiske udvikling satte
+p.57|   de offentlige finanser under pres, og i november 2010 bad Irland de øvrige EU-lande og IMF om låneassi-
+p.57|   stance. Et låneprogram i størrelsesordenen 85 mia. euro finansieret via IMF, EU- og euro-lånemekanismer
+p.57|   samt lån fra Danmark, Storbritannien og Sverige blev vedtaget. Det danske bidrag var på 400 mio. euro.
+p.57|   Det irske låneprogram indeholdt betingelser om at nedbringe ubalancer i den finansielle sektor, finanspoli-
+p.57|   tisk konsolidering og strukturreformer. Formålet med låneprogrammet var at sikre varige strukturelle forbed-
+p.57|   ringer af landets økonomi og sikre finansiel stabilitet for dermed at genoprette markedernes tillid til landet.
+p.57|   Reformerne og konsolideringen i den irske økonomi har understøttet genopretningen. Arbejdsløsheden be-
+p.57|   gyndte at aftage i 2012, og underskuddene på den offentlige saldo blev i 2015 bragt holdbart under græn-
+p.57|   sen på 3 pct. af BNP fastsat i Stabilitets- og Vækstpagten og ventes at nærme sig balance i 2018, jf. tabel
+p.57|   a. I takt med programgennemførelsen steg tilliden til den irske økonomi, og Irland kunne igen opnå lavere
+p.57|   renter på almindelige markedsvilkår end renterne under låneprogrammet. I december 2014 tilbagebetalte
+p.57|   Irland derfor en del af sit lån fra IMF. Den 7. september 2017 blev det annonceret, at man af samme hensyn
+p.57|   ville anmode om at førtidsindfri lån fra Danmark og Sverige samt de resterende lån fra IMF.
+p.57|   Tabel a
+p.57|   Udvalgte nøgletal
+p.57|                                                         2010         2016         2017        2018         2019
+p.57|   BNP-vækst, Irland, pct.                                 1,8          5,1          4,8         3,9          3,1
+p.57|   Arbejdsløshed, Irland, pct. af arbejdsstyrken          13,9          7,9          6,1         5,5          5,3
+p.57|   Faktisk offentlig saldo, Irland, pct. af BNP          -32,1         -0,7         -0,4        -0,2         -0,2
+p.57|   Strukturel offentlig saldo, Irland, pct. af BNP        -9,0         -1,9         -1,3        -0,5          0,3
+p.57|   BNP-vækst, EU, pct.                                     2,1          1,9          2,3         2,1          1,9
+p.57|   Gns. BNP-vækst øvrige programlande, pct.               -0,9          2,4          3,5         3,1          2,8
+p.57|   Anm.: Øvrige programlande er Grækenland, Spanien, Cypern, Letland, Ungarn, Portugal og Rumænien.
+p.57|   Kilde: EU-Kommissionens efterårsprognose, november 2017.
+p.57|                                                                         Økonomisk Redegørelse · December 2017        55
+
+# --- full text of p.197 (table layout, for column headers and notes) ---
+p.197|                                                                                             Bilagstabeller
+p.197| Tabel B.26
+p.197| Skøn på forskellige tidspunkter over centrale størrelser
+p.197|                                          Dec.      Maj     Aug.      Dec.      Maj      Aug.      Dec.
+p.197|                                         2015      2016     2016      2016     2017      2017      2017
+p.197| 2016
+p.197| BNP (realvækst, pct.)                     1,9       1,1      0,9       0,8      1,3       1,7       2,0
+p.197| Ledighed (1.000 personer)                  98       90        91       90        92     91,7        92
+p.197| Bruttoledighed (1.000 personer)          118       112      113       111      113       113       113
+p.197| Forbrugerpriser (stigning, pct.)          1,1       0,6      0,5       0,2      0,3       0,3       0,3
+p.197| Betalingsbalancesaldo (mia. kr.)        178,9    150,6     136,7    156,3     167,2    163,8      151,3
+p.197| Samlet offentlig saldo (mia. kr.)       -56,6     -40,8    -19,1     -29,3    -18,6     -12,9      -8,4
+p.197| BNP i EU28 (realvækst, pct.)              2,0       1,8      1,7       1,8      1,9       1,9       1,9
+p.197| 2017
+p.197| BNP (realvækst, pct.)                     2,0       1,7      1,5       1,5      1,7       2,0       2,0
+p.197| Ledighed (1.000 personer)                  94       85        87       87        85     87,4        92
+p.197| Bruttoledighed (1.000 personer)          113       107      109       117      117       116       116
+p.197| Forbrugerpriser (stigning, pct.)          1,7       1,5      1,4       1,2      1,3       1,1       1,2
+p.197| Betalingsbalancesaldo (mia. kr.)        181,0    158,6     137,2    158,1     171,6    174,4      174,9
+p.197| Samlet offentlig saldo (mia. kr.)       -41,7     -38,2    -39,1     -32,6    -32,8     -30,4      -0,8
+p.197| BNP i EU28 (realvækst, pct.)              2,1       1,9      1,4       1,6      1,9       1,9       2,3
+p.197| 2018
+p.197| BNP (realvækst, pct.)                       -         -        -       1,7      1,7       1,8       1,9
+p.197| Ledighed (1.000 personer)                   -         -        -       86        84     86,2        88
+p.197| Bruttoledighed (1.000 personer)             -         -        -      106      114     113,4       112
+p.197| Forbrugerpriser (stigning, pct.)            -         -        -       1,5      1,6       1,5       1,5
+p.197| Betalingsbalancesaldo (mia. kr.)            -         -        -    161,7     174,9    175,3      169,7
+p.197| Samlet offentlig saldo (mia. kr.)           -         -        -     -20,5    -15,5     -27,1     -17,2
+p.197| BNP i EU28 (realvækst, pct.)                -         -        -       1,8      1,9       1,9       2,1
+p.197| 2019
+p.197| BNP (realvækst, pct.)                       -         -        -         -        -         -       1,7
+p.197| Ledighed (1.000 personer)                   -         -        -         -        -         -       87
+p.197| Bruttoledighed (1.000 personer)             -         -        -         -        -         -      107
+p.197| Forbrugerpriser (stigning, pct.)            -         -        -         -        -         -       1,7
+p.197| Betalingsbalancesaldo (mia. kr.)            -         -        -         -        -         -     164,1
+p.197| Samlet offentlig saldo (mia. kr.)           -         -        -         -        -         -     -14,8
+p.197| BNP i EU28 (realvækst, pct.)                -         -        -         -        -         -       1,9
+p.197|  Kilde: Danmarks Statistik, OECD, Economic Outlook nr. 102, november 2017, og egne beregninger.
+p.197|                                                                 Økonomisk Redegørelse · December 2017        195

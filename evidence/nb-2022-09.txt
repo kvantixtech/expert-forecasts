@@ -1,7 +1,7 @@
 # nb-2022-09
 # url: https://www.nationalbanken.dk/media/2txlffs3/the-pressure-on-the-economy-should-be-eased.pdf
 # http: 200  bytes: 896170  sha256: de7f696cc3c78e1e3cf616bbce0c0fd9dce2020a5f04dc3643744a9a08987bf3
-# fetched: 2026-09-29T18:22:44Z
+# fetched: 2026-09-29T18:32:53Z
 # pages: 42  (lines below are quotes; p.N = PDF page)
 
 p.2: Real growth relative to the previous year, per cent  |  2021  |  2022  |  2023  |  2024  |  recommends that fiscal
@@ -116,3 +116,204 @@ p.40: Exchange rates  |  0.3  |  -0.1  |  -0.1  |  0.1  |  0.2  |  0.1
 p.40: Oil prices  |  0.0  |  0.0  |  0.0  |  -0.1  |  -0.1  |  0.0
 p.40: Other factors  |  -0.9  |  -1.5  |  0.1  |  3.7  |  2.8  |  -0.7
 p.40: This projection  |  2.0  |  -0.1  |  1.2  |  8.6  |  4.3  |  1.7
+
+# --- full text of p.2 (table layout, for column headers and notes) ---
+p.2|    H IG H LIG H T S                                                                                                                       2
+p.2|     HIGH GLOBAL INFLATION                              MONETA RY T IGH T E N IN G                   TIGHT LABOUR MARKET
+p.2|     High price inflation across coun-                  High inflation has prompted                  Headwinds are already leaving
+p.2|     tries has considerably weakened                    central banks across the world to            their mark in Denmark, where
+p.2|     consumer purchasing power.                         tighten monetary policy, resulting           labour market pressures have
+p.2|     Energy price inflation is likely to                in sharp interest rate increases.            eased slightly since spring. But
+p.2|     remain high for the rest of the                    Tighter financial conditions,                unemployment is likely to remain
+p.2|     year, contributing to even higher                  along with reduced purchasing                low over the coming years, and
+p.2|     inflation at the end of the year.                  power, are entailing strong head-            against that backdrop wage
+p.2|     Inflation is not expected to come                  winds for the growth trajectory,             growth is expected to accelerate
+p.2|     down to around 2 per cent until                    both domestically and globally.              further in the coming years.
+p.2|     2024.
+p.2|     GROW TH PAUSE IN DENMARK                           HOUSING MARKET PRICE FALLS                   R IS K OF WAGE - PR IC E S PIR A L
+p.2|     Going forward, headwinds are                       Higher interest rates and reduced            The combination of strong labour
+p.2|     expected to dampen private                         purchasing power are also likely             market pressures, high demand
+p.2|     consumption, in particular,                        to leave their mark on the housing           and high inflation carries the risk
+p.2|     leading to a pause in growth in                    market. Trading activity decreased           of a self-reinforcing Danish wage-
+p.2|     the Danish economy with slightly                   substantially over summer, and               price spiral. The longer inflation
+p.2|     decreasing activity next year. The                 prices of houses and flats are               remains high, the greater the risk.
+p.2|     growth pause comes in the wake                     beginning to drop. A continued               Economic policy should actively
+p.2|     of a strong economic recovery                      slowdown is expected, with house             help to prevent this risk scenario.
+p.2|     last year, which sent the Danish                   prices estimated to drop by close
+p.2|     economy into a boom.                               to 6 per cent next year.
+p.2| Key economic variables
+p.2|                                                                                                           Danmarks Nationalbank
+p.2| Real growth relative to the previous year, per cent          2021      2022       2023      2024          recommends that fiscal
+p.2| GDP (real), per cent                                           4.9       2.0       -0.1       1.2           policy helps relieve
+p.2| Employment, 1,000 persons                                   3.046      3.161     3.150     3.126
+p.2|                                                                                                            capacity pressures by
+p.2|                                                                                                            close to 1 per cent of
+p.2| Gross unemployment, 1,000 persons                             106         76         89        97
+p.2|                                                                                                             GDP in 2023 beyond
+p.2| Balance of payments on current account,
+p.2|                                                                8.8      10.7      10.4       10.2          what the proposal for
+p.2| per cent of GDP
+p.2|                                                                                                            the 2023 Finance Bill
+p.2| Government budget balance, per cent of GDP                     2.6       1.9        1.9       1.5                suggests.
+p.2| House prices , per cent year-on-year
+p.2|               1
+p.2|                                                               11.0       2.9       -5.6      -1.8
+p.2| Consumer prices, per cent year-on-year                         1.9       8.6        4.3       1.7
+p.2| Hourly wages2 (manufacturing industry),
+p.2|                                                                2.6       3.7        4.5       3.9
+p.2| per cent year-on-year
+p.2| Source: Statistics Denmark and own calculations.
+p.2| 1. Nominal prices of single-family houses.
+p.2| 2. Confederation of Danish Employers’ (DA) pay roll costs including inconvenience supplements for
+p.2|    manufacturing.
+
+# --- full text of p.5 (table layout, for column headers and notes) ---
+p.5| A N A LY S I S — D A N M A R K S N AT I O N A L B A N K                                                                                               5
+p.5| OUTLOOK FOR THE DANISH ECONOMY — SEPTEMBER 2022
+p.5| driven by high demand and wage growth, under-
+p.5| pinned by previous accommodative economic policy,                                High inflation this year                                   Table 1
+p.5| while euro area inflation is to a greater extent driven
+p.5| by supply disruptions and spillovers from strong US
+p.5| demand, see the theme pages High consumer price                                                                           2022     2023     2024
+p.5| inflation challenges the Danish economy.                                         Inflation
+p.5|                                                                                  Denmark (HICP)                            8.6      4.3      1.7
+p.5| In the energy markets, forward energy contracts, i.e.
+p.5| futures prices, suggest that gas and electricity price                           Euro area (HICP)                          8.1      5.5      2.3
+p.5| increases will remain high throughout the winter.                                USA (CPI)                                 7.5      3.2      2.5
+p.5| High futures prices should presumable be seen in
+p.5| the context of great uncertainty about future sup-
+p.5|                                                                                  Core inflation
+p.5| plies due to Russia’s war on Ukraine and the sanc-
+p.5| tions subsequently imposed on Russia. Moreover,                                  Denmark (HICP)                            5.1      4.5      3.2
+p.5| widespread periods of drought and maintenance                                    Euro area (HICP)                          3.9      3.4      2.3
+p.5| work have reduced electricity generation from hydro
+p.5|                                                                                  USA (CPI)                                 5.9      3.1      2.5
+p.5| and nuclear power plants. Although oil prices have
+p.5| been declining recently, this does not offset over-                              Note:   Core inflation in the euro area and the USA is measured
+p.5|                                                                                          as HICP and CPI, respectively, excluding energy and food,
+p.5| all prospects of high energy price inflation for the                                     and for Denmark as HICP excluding energy and unpro-
+p.5| remainder of the year.                                                                   cessed food. For the USA, inflation for the 4th quarter is
+p.5|                                                                                          shown in the year in question.
+p.5|                                                                                  Source: Danmarks Nationalbank for Denmark, ECB for the euro
+p.5| High energy prices contribute to the expectation,                                        area and Survey of Professional Forecasters 3rd Quarter
+p.5|                                                                                          2022 for the USA.
+p.5| that Danish inflation will increase further to just
+p.5| under 11 per cent by the end of 2022, and to ave­
+p.5| rage 8.6 per cent for the year as a whole, see table
+p.5| 1. This is in line with the risk scenario of Danmarks
+p.5| Nationalbank’s March projection, reflecting that                               Inflation in Denmark is expected to be slightly lower
+p.5| many of the energy price assumptions of the March                              than in the euro area from 2022-24. The European
+p.5| projection have since materialised.2 However, market                           Central Bank, ECB, expects slightly lower average
+p.5| participants expect gas and electricity prices to drop                         inflation in the euro area in 2022 than the projec-
+p.5| considerably in the 2nd half of 2023. Although core                            tion for Danish consumer prices, but this is offset by
+p.5| inflation is likely to remain high, driven by accel-                           higher average inflation in the euro area in 2023 and
+p.5| erating wage growth and other production costs                                 2024. These differences reflect three main factors.
+p.5| that will be passed on to consumers, overall con-                              First, the pass-through from energy commodity
+p.5| sumer price inflation in Denmark is estimated to be                            prices to energy prices in the HICP index has been
+p.5| reduced to 4.3 per cent next year. In 2024, inflation is                       faster in Denmark than in the euro area. Second, tax
+p.5| expected to decrease to 1.7 per cent, slightly lower                           reductions in the euro area cushion energy price
+p.5| than the euro area target. Energy prices alone are                             increases this year, but push up inflation when they
+p.5| expected to drag down headline inflation by 0.3 per-                           are phased out. Third, there has been large volatility
+p.5| centage points and by 1.7 percentage points in 2024.                           in energy futures prices over recent weeks, which
+p.5| 2   The March projection presented a risk scenario with HICP inflation of
+p.5|     8.8 per cent in 2022, reflecting, among other factors, that the implica-
+p.5|     tions of Russia’s war on Ukraine would be even higher energy prices
+p.5|     than expected by the energy markets at the time. See Danmarks
+p.5|     Nationalbank, War in Ukraine dampens growth and increases prices,
+p.5|     Danmarks Nationalbank Analysis (Outlook for the Danish economy),
+p.5|     No. 5, March 2022. Oil prices have currently dropped, but gas prices
+p.5|     have largely followed the trajectory projected by the risk scenario.
+p.5|     At the same time, the pass-through from energy and food prices to
+p.5|     consumer prices has been stronger than projected in March. Other
+p.5|     elements of the risk scenario, including an escalation of the war and
+p.5|     rationing of production in Europe, have not materialised.
+
+# --- full text of p.16 (table layout, for column headers and notes) ---
+p.16| A N A LY S I S — D A N M A R K S N AT I O N A L B A N K                                                                                           16
+p.16| OUTLOOK FOR THE DANISH ECONOMY — SEPTEMBER 2022
+p.16|   Key economic variables                                                                                                                Table 2
+p.16|                                                                                                                  2021           2022
+p.16|   Real growth relative to the previous period, per cent            2021        2022       2023        2024            Q4      Q1         Q2
+p.16|   GDP                                                                4.9         2.0       -0.1         1.2           2.5    -1.1        0.9
+p.16|   Private consumption1                                               4.2        -1.0        0.4         1.1       -0.6       -2.5       -0.6
+p.16|   Public consumption                                                 4.2         0.7       -0.7         1.1           4.0    -1.9        0.5
+p.16|   Residential investments                                            9.9         4.8       -7.6        -3.2           2.7     5.7       -0.4
+p.16|   Public investments                                                 3.9        -2.3        2.9         4.5           3.0    -5.6        1.9
+p.16|   Corporate investments                                              6.3         5.0       -1.7        -1.6           1.6     3.2       -2.3
+p.16|   Inventory investments etc.   2
+p.16|                                                                      0.0         0.4        0.0         0.0           0.8    -0.6        1.3
+p.16|   Exports                                                            8.0         3.5        2.2         3.1           3.9    -1.1        0.7
+p.16|    Industrial exports                                               11.1         1.9        2.0         3.1           3.2    -2.5        1.0
+p.16|   Imports                                                            8.0         2.1        1.7         2.4           3.2    -2.2        0.8
+p.16|   Employment, 1,000 persons                                       3,046       3,161      3,150       3,126       3,113      3,140      3,162
+p.16|   Gross unemployment, 1,000 persons                                 106          76          89         97            82      74         73
+p.16|   Balance of payments on
+p.16|                                                                      8.8       10.7        10.4       10.2            9.1     9.8       11.8
+p.16|   current account, per cent of GDP
+p.16|   Government budget balance, per cent of GDP                         2.6         1.9        1.9         1.5           1.4    -0.1        2.5
+p.16|   House prices , per cent year-on-year
+p.16|                 3
+p.16|                                                                     11.0         2.9       -5.6        -1.8           7.9     5.2
+p.16|   Consumer prices (HICP), per cent year-on-year                      1.9         8.6        4.3         1.7           3.5     5.4        8.2
+p.16|   Hourly wages4 (manufacturing industry),
+p.16|                                                                      2.6         3.7        4.5         3.9           3.2     3.8        3.4
+p.16|   per cent year-on-year
+p.16|   Source: Statistics Denmark and own calculations.
+p.16|   1. Includes both households and non-profit institutions serving households (NPISH).
+p.16|   2. Contribution to GDP growth (this item comprises inventory investments, valuables and statistical discrepancy).
+p.16|   3. Nominal prices of single-family houses.
+p.16|   4. Confederation of Danish Employers’ (DA) pay roll costs including inconvenience supplements for manufacturing.
+
+# --- full text of p.25 (table layout, for column headers and notes) ---
+p.25| A N A LY S I S — D A N M A R K S N AT I O N A L B A N K                                                                                               25
+p.25| OUTLOOK FOR THE DANISH ECONOMY — SEPTEMBER 2022
+p.25| rently very high price increases for energy and food                       Like Denmark, the euro area has prospects of high
+p.25| will deflect, thus contributing to gradually lower                         inflation in the coming years. The ECB’s latest fore-
+p.25| inflation in the coming years. Specifically, the projec-                   cast, based on information up to 22 August, esti-
+p.25| tion expects Danish consumer prices to rise by 8.6                         mates that consumer price inflation in the euro area
+p.25| per cent in 2022, after which the rate of increase will                    will peak at 9.2 per cent in the 4th quarter of 2022,
+p.25| decline to 4.3 per cent in 2023 and 1.7 per cent in                        averaging 8.1 per cent in 2022, 5.5 per cent in 2023
+p.25| 2024, see chart 20.                                                        and 2.3 per cent in 2024. The expected fall in the
+p.25|                                                                            rate of price increase in the coming years is based,
+p.25| Core inflation in Denmark, i.e. consumer prices exclud-                    in particular, on the assumption that increases in
+p.25| ing energy and unprocessed food, is projected to rise                      energy prices will diminish over time. Core inflation
+p.25| to 5.1 per cent in 2022. This rise reflects that wage                      in the euro area, measured by the consumer price
+p.25| increases driven by labour market pressures and                            index excluding energy and food, i.e. a different
+p.25| companies’ costs related to higher commodity prices,                       measure of underlying price pressures than the
+p.25| including for energy, are expected to be passed onto                       one Danmarks Nationalbank applies to Denmark, is
+p.25| consumer prices with a certain lag. Core inflation is                      expected to increase by 3.9 per cent in 2022, 3.4 per
+p.25| projected to moderate gradually in the coming years                        cent in 2023 and 2.3 per cent in 2024.23 According to
+p.25| to 4.5 per cent in 2023 and 3.2 per cent in 2024. The                      the ECB, some of the drivers of core inflation in the
+p.25| expected decrease is due to several factors: Firstly,                      coming period are tight labour markets with rising
+p.25| demand is likely to be lower as a result of tighter                        wage growth, indirect price effects from energy and
+p.25| global monetary policy and erosion of real household                       a weaker euro.
+p.25| income. Secondly, core inflation is also dampened by
+p.25| diminishing indirect energy price effects, less pressure                   The expected accumulated headline inflation in
+p.25| on supply chains and the disappearance of current                          Danmarks Nationalbank’s projection for Denmark
+p.25| reopening effects on several service prices after the                      is slightly lower than in the ECB’s forecast for the
+p.25| pandemic, such as holiday travel, accommodation,                           euro area in the years 2022-24. However, Danmarks
+p.25| restaurant visits and transport. Finally, the diminishing                  Nationalbank expects Danish inflation to peak at a
+p.25| price pressure in 2024 is based on the assumption                          higher level than in the euro area in the 4th quar-
+p.25| that the main scenario of the projection does not                          ter of 2022 and subsequently decline more rapidly
+p.25| envisage an actual wage-price spiral in Denmark or                         towards the 1st quarter of 2024. Consequently, ave­
+p.25| decoupling of inflation expectations.                                      rage inflation in Denmark in 2022 is expected to be
+p.25|                                                                            higher than in the euro area, and that it is matched
+p.25| Rising rent prices, accounting for almost 10 per cent                      by lower average Danish inflation in 2023-24. The
+p.25| of the consumer price index, are pushing Danish                            difference in profile of inflation forecast profiles
+p.25| core inflation upwards and, viewed in isolation, will                      reflects, among other things, that the euro area had
+p.25| entail more sustained price pressure in the coming                         implemented a higher number of temporary policy
+p.25| years. Specifically, rent prices are projected to rise by                  measures, such as tax cuts, which initially cushion
+p.25| 3.1 per cent in 2022, 4.0 per cent in 2023 and 4.0 per                     energy price increases but then push inflation up
+p.25| cent in 2024. The assumed trajectory of rent prices                        in the longer term when they are phased out. In
+p.25| is based on e.g. the agreed cap on rent increases,                         addition, the pass-through from energy commodity
+p.25| meaning that private landlords using net price index-                      prices to consumer prices has been faster in Den-
+p.25| ation may not allow rents to rise by more than 4 per                       mark than in the euro area, especially for gas. Finally,
+p.25| cent over the next two years22. The tendency towards                       Danmarks Nationalbank’s projection is based on
+p.25| higher rent prices is more pronounced in some other                        data up to mid-September, meaning that it contains
+p.25| countries than in Denmark. In particular, US rent                          more up-to-date information on energy commod-
+p.25| prices have risen strongly and are currently a major                       ity prices than the ECB forecast. There have been
+p.25| driver of high inflation in the United States.                             major fluctuations in market expectations for future
+p.25| 22 For a more detailed description of the measure, see Ministry of the     23 There are several different ways to quantify core inflation. Danmarks
+p.25|    Interior and Housing, Agreement caps rent increases (in Danish only),      Nationalbank’s projection is based on consumer prices excluding
+p.25|    press release, 26 August 2022.                                             energy and unprocessed food, while the ECB applies consumer prices
+p.25|                                                                               excluding energy and all food.

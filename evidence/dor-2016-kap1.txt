@@ -1,7 +1,7 @@
 # dor-2016-kap1
 # url: https://dors.dk/files/media/rapporter/2016/E16/kap_i/e16_kap_i.pdf
 # http: 200  bytes: 734276  sha256: e383be69eec627f458dc71dcdbb573b87c797508aeac24d45ba6b60c258221e7
-# fetched: 2026-09-29T18:24:00Z
+# fetched: 2026-09-29T18:34:00Z
 # pages: 67  (lines below are quotes; p.N = PDF page)
 
 p.2: Tabel I.1  |  Hovedtal i prognosen
@@ -144,3 +144,211 @@ p.54: 1980  |  1985  |  1990  |  1995  |  2000  |  2005  |  2010  |  2015
 p.55: Underskuddet ventes i såvel 2016 som 2017 at være tæt på
 p.56: nanser på 0,5 pct. af BNP i 2020 og på 0,7 pct. af BNP i
 p.56: omkring 0,5 pct. af BNP. En overholdbar finanspolitik er
+
+# --- full text of p.2 (table layout, for column headers and notes) ---
+p.2| Konjunkturvurdering og aktuel økonomisk politik. Dansk Økonomi, efterår 2016
+p.2| Tabel I.1      Hovedtal i prognosen
+p.2|                                                                                                       a)
+p.2|                                                        2015       2016      2017       2018 2025
+p.2| BNP (realvækst i pct.)                                   1,0        1,0       2,0        2,2   1,9
+p.2| BVT i priv. byerhverv (realvækst i pct.)                 1,6        1,4       2,5        2,8   2,1
+p.2| Output gap (pct. af strukturelt BNP)                    -1,7       -1,8      -1,2       -0,5   0,0
+p.2| Beskæftigelsesændring (1.000 pers.)                      28         45        31         32    16
+p.2| Inflation (pct.)                                         0,6        0,4       1,5        2,0   2,1
+p.2| Timeløn (pct.)                                           1,8        2,3       2,4        2,4   3,1
+p.2| Offentlig saldo (pct. af BNP)                           -1,7       -0,6      -1,6       -1,1   0,7
+p.2| Strukturel offentlig saldo (pct. af BNP)                -0,6       -0,4      -0,3       -0,1   0,7
+p.2| BNP i aftagerlande (realvækst i pct.)                    2,3        2,0       2,0        2,2   2,3
+p.2| a)       2025-søjlen viser den gennemsnitlige årlige vækst fra 2018 til 2025. For output gap og
+p.2|          faktisk såvel som strukturel offentlig saldo vises dog niveauet i 2025, og for beskæftigelsen
+p.2|          vises den gennemsnitlige årlige ændring fra 2018 til 2025.
+p.2| Anm.:    Den strukturelle offentlige saldo, der er vist i tabellen, er beregnet efter budgetlovens meto-
+p.2|          de, jf. kapitel II.
+p.2| Kilde:   Danmarks Statistik, ADAM’s databank, Macrobond og egne beregninger.
+p.2| Udsigt til gradvis          Underskuddet på den offentlige saldo ventes at vende til
+p.2| forbedring af de            overskud frem mod 2025, jf. kapitel II. Dette skønnes på
+p.2| offentlige                  grundlag af udsigten til en normalisering af konjunkturerne,
+p.2| finanser                    fremgang i den strukturelle beskæftigelse og en moderat
+p.2|                             vækst i det offentlige forbrug.
+p.2| Fremskrivningen             Forventningen om fremgang i beskæftigelsen og relativt høj
+p.2| bygger på usikre            vækst i BNP bygger på en række antagelser om sammen-
+p.2| antagelser                  hængene i dansk økonomi, forudsætninger om væksten i
+p.2|                             udlandet og den økonomiske politik. I sagens natur er disse
+p.2|                             forudsætninger forbundet med usikkerhed, og dermed kan
+p.2|                             vækstbilledet vise sig at blive anderledes end forventet.
+p.2| 14
+
+# --- full text of p.10 (table layout, for column headers and notes) ---
+p.10| Konjunkturvurdering og aktuel økonomisk politik. Dansk Økonomi, efterår 2016
+p.10| Tabel I.2    Hovedtal i konjunkturvurderingen
+p.10|                                                                                   a)
+p.10|                                         2015      2016 2017 2018 2025
+p.10|                                        Mia. kr.    ------ Realvækst, pct. ------
+p.10| Privat forbrug                           954         2,0      2,3      2,4       2,5
+p.10| Offentligt forbrug                       519         1,2      0,5      1,0       1,0
+p.10| Offentlige investeringer                  74        -3,6     -0,1      1,8       1,9
+p.10| Boliginvesteringer                        80         4,3      4,3      3,7       3,0
+p.10| Erhvervsinvesteringer                    225         2,1      3,8      4,6       3,4
+p.10|   heraf private byerhverv                181         0,9      3,8      4,4       3,6
+p.10| Lagerinvesteringer                        11        -0,5      0,2      0,3       0,1
+p.10| Indenlandsk efterspørgsel i alt        1.861         1,2      2,2      2,6       2,2
+p.10| Eksport i alt                          1.061         0,4      2,5      3,2       4,8
+p.10|   Vareeksport                            646         0,2      2,4      3,3       5,0
+p.10|     heraf industrivarer                  607         1,5      2,6      3,4       5,0
+p.10|   Tjenesteeksport                        415         0,8      2,7      3,0       4,6
+p.10| Efterspørgsel i alt                    2.922         0,9      2,3      2,8       3,2
+p.10| Import i alt                             936         0,6      2,8      4,0       5,7
+p.10|   Vareimport                             588        -1,2      2,7      4,1       5,7
+p.10|     heraf industrivarer                  524        -0,4      2,7      3,8       6,0
+p.10|   Tjenesteimport                         349         3,8      3,0      3,9       5,5
+p.10| Bruttonationalprodukt                  1.985         1,0      2,0      2,2       1,9
+p.10| BVT i private byerhverv                1.115         1,4      2,5      2,8       2,1
+p.10|                                                      ------------- Pct. ------------
+p.10| Forbrugerpriser                                      0,4      1,5      2,0       2,1
+p.10| Timelønsomkostninger                                 2,3      2,4      2,4       3,1
+p.10| Kontantpris på enfamiliehuse                         2,9      1,6      2,1       3,2
+p.10| 22
+
+# --- full text of p.11 (table layout, for column headers and notes) ---
+p.11|                                                                                  I.2 Dansk økonomi
+p.11| Tabel I.2       Hovedtal i konjunkturvurderingen, fortsat
+p.11|                                                                                                       a)
+p.11|                                                        2015      2016       2017      2018 2025
+p.11|                                                       ------------------ Pct. ------------------
+p.11| BNP i aftagerlande                                        2,3       2,0    2,0      2,2       2,3
+p.11| Udlandets timelønomkostninger                             1,8       1,9    2,3      2,6       3,7
+p.11| Timeproduktivitet i private byerhverv                     0,2     -1,4     1,0      1,1       1,4
+p.11| Real disponibel indkomst                                  2,0       0,8    2,8      2,2       1,3
+p.11| 10-årig statsobligationsrente                             0,7       0,3    0,5      1,3       4,0
+p.11|                                                       -------- Ændring i 1.000 pers. --------
+p.11| Strukturel arbejdsstyrke                                   23       26      29       25       13
+p.11| Arbejdsstyrke                                              23       36      28       31       15
+p.11| Privat beskæftigelse                                       31       50      28       30       10
+p.11| Offentlig beskæftigelse                                    -3        -5      3        3         6
+p.11|                                                       -------------- 1.000 pers. --------------
+p.11| Nettoledighed                                            102        92      89       88       83
+p.11| Bruttoledighed                                           123       113    113      113       107
+p.11|                                                       ------------------ Pct. ------------------
+p.11| Output gap                                               -1,7     -1,8    -1,2     -0,5       0,0
+p.11| Timebeskæftigelsesgap                                    -1,8     -0,6    -0,5     -0,3       0,0
+p.11|                                                       ------------- Pct. af BNP -------------
+p.11| Betalingsbalance                                          7,0       6,0    5,7      4,6       3,8
+p.11| Offentlig saldo                                          -1,7     -0,6    -1,6     -1,1       0,7
+p.11| ØMU-gæld                                                 40,2     40,4 40,8 40,5 28,1
+p.11| a)       2025-søjlen angiver den gennemsnitlige årlige vækst fra 2018-25 til og med rækken “Offent-
+p.11|          lig beskæftigelse”. Resten af 2025-søjlen samt “10-årig obligationsrente” er de respektive
+p.11|          værdier i 2025.
+p.11| Anm.:    Realvækst i “Lagerinvesteringer” angiver vækstbidraget til BNP. Output gap og timebeskæf-
+p.11|          tigelsesgap angiver procentvise afvigelser i forhold til de strukturelle niveauer. Udviklingen i
+p.11|          forbrugerpriserne er udtrykt ved deflatoren for det private forbrug. Det er antaget, at ændrin-
+p.11|          gen i den offentlige gæld i fremskrivningsperioden er lig den offentlige saldo.
+p.11| Kilde:   Danmarks Statistik, ADAM’s databank, DA’s lønstatistik, OECD, Macrobond og egne be-
+p.11|          regninger.
+p.11|                                                                                                       23
+
+# --- full text of p.14 (table layout, for column headers and notes) ---
+p.14| Konjunkturvurdering og aktuel økonomisk politik. Dansk Økonomi, efterår 2016
+p.14|                             se, hvis husholdningerne i mindre grad vil benytte den op-
+p.14|                             sparede formue til at øge forbruget, eller hvis formuen vok-
+p.14|                             ser mindre, end antaget i prognosen. I boks I.2. er præsente-
+p.14|                             ret en alternativ fremskrivning, hvor det antages, at for-
+p.14|                             brugskvoten ikke stiger fremadrettet, men forbliver omtrent
+p.14|                             på det nuværende niveau frem mod 2025.
+p.14| … vil øge                   Ifølge modelberegningen betyder den lavere forbrugsvækst,
+p.14| ledigheden på               at BNP-niveauet reduceres med ca. 1 pct. på kort sigt, hvil-
+p.14| kort sigt …                 ket medfører, at ledigheden vil være op mod 27.000 per-
+p.14|                             soner højere end i prognosen, jf. tabel I.3. Frem mod 2025
+p.14|                             forsvinder effekten på den indenlandske produktion og
+p.14|                             dermed beskæftigelse, fordi disse størrelser antages at være
+p.14|                             bestemt fra udbudssiden på lang sigt. I praksis betyder det,
+p.14|                             at det lavere forbrug på sigt modsvares af lavere import.
+p.14| … og forværre               Selv om den ændrede antagelse om forbruget kun har be-
+p.14| den offentlige              grænsede realøkonomiske effekter på længere sigt, er der
+p.14| saldo                       permanente effekter på de offentlige finanser, hvilket blandt
+p.14|                             andet hænger sammen med, at afgiftsindholdet i det private
+p.14|                             forbrug er relativt stort. Derfor sker der en svækkelse af den
+p.14|                             offentlige saldo på godt ¼ pct. af BNP, jf. også kapitel II.
+p.14| Tabel I.3       Effekt af lavere privat forbrugsvækst, 2016-2025
+p.14|                                        2016       2017       2018       2019       2020       2025
+p.14| BVT, niveaueffekt i pct.                -0,4       -0,7       -0,8       -0,7       -0,7       -0,1
+p.14| Nettoledighed, 1.000 pers.               10         22         27         23         19           0
+p.14| Offentlig saldo, pct. af BNP            -0,3       -0,7       -0,8       -0,8       -0,7       -0,3
+p.14| Anm.:    Tabellen viser forskellen til grundfremskrivningen. Den første række viser niveaueffekten på
+p.14|          BVT i de enkelte år. BNP niveauet i 2025 er i alternativberegningen ca. 0,6 pct. lavere end i
+p.14|          grundkørslen, hvilket skyldes færre afgifter.
+p.14| Kilde:   Egne beregninger på SMEC.
+p.14| 26
+
+# --- full text of p.30 (table layout, for column headers and notes) ---
+p.30| Konjunkturvurdering og aktuel økonomisk politik. Dansk Økonomi, efterår 2016
+p.30|  Boks I.5         Alternativt scenarie med neutral finanspolitik i 2017-20
+p.30|  I prognosen er det forudsat, at finanspolitikken gradvist strammes frem mod 2020.
+p.30|  Finanspolitikken skønnes isoleret set at dæmpe BNP-væksten med ¼-½ pct.point
+p.30|  årligt frem mod 2020, jf. kapitel II.
+p.30|  I tabellen nedenfor sammenlignes med modelberegnede effekter af at føre en fi-
+p.30|  nanspolitik, der er neutral frem mod 2020, og hvor der fra 2021 gradvist strammes,
+p.30|  så der i 2025 opnås samme strukturelle saldo som i hovedscenariet.
+p.30| Tabel A           Hovedtal i fremskrivning hhv. alternativ
+p.30|                                                    2017        2018        2019         2020      2025a)
+p.30|      Fremskrivning
+p.30|      Finanseffekt, pct.point b)                      -0,4        -0,2        -0,2         -0,3        0,0
+p.30|      Offentlig saldo, pct. af BNP                    -1,7        -1,1        -0,5          0,0        0,7
+p.30|      Strukturel saldo, pct. af struk. BNPc)          -0,3        -0,1         0,1          0,5        0,7
+p.30|      BNP-vækst, pct.                                  2,0         2,2         2,0          1,9        1,9
+p.30|      Output gap, pct. af struk. BNP                  -1,2        -0,5        -0,3         -0,3        0,0
+p.30|      Beskæftigelsesændring, 1.000 pers.               31          32          37           22         10
+p.30|      Alternativ med neutral finanspolitik
+p.30|      Finanseffekt, pct.point b)                       0,0         0,0         0,0          0,0       -0,1
+p.30|      Offentlig saldo, pct. af BNP                    -1,8        -1,3        -0,8         -0,4        0,0
+p.30|      Strukturel saldo, pct. af struk. BNPc)          -0,7        -0,8        -0,7         -0,5        0,7
+p.30|      BNP-vækst, pct.                                  2,4         2,4         2,1          2,0        1,6
+p.30|      Output gap, pct. af struk. BNP                  -0,9         0,0         0,3          0,4       -0,6
+p.30|      Beskæftigelsesændring, 1.000 pers.               43          39          40           27           0
+p.30|  a)          2025-søjlen viser den gennemsnitlige vækst eller ændring fra 2019 til 2025. For offentlig
+p.30|              saldo, strukturel saldo og output gap vises niveauet i 2025.
+p.30|  b)          Den etårige finanseffekt angiver finanspolitikkens aktivitetsvirkning, målt som finanspoli-
+p.30|              tikkens vækstbidrag til BNP i forhold til en situation med neutral finanspolitik. Med neu-
+p.30|              tral finanspolitik forstås bl.a., at indkomstskattesatserne holdes konstante, at punktafgifts-
+p.30|              satserne realt er uændrede, at satserne for indkomstoverførsler følger satsreguleringen, og
+p.30|              at offentlig beskæftigelse udgør en fast andel af den strukturelle beskæftigelse.
+p.30|  c)          Strukturel saldo er beregnet i budgetlovens forstand, jf. beskrivelse i kapitel II.
+p.30|  Kilde:      Egne beregninger med SMEC.
+p.30| 42
+
+# --- full text of p.43 (table layout, for column headers and notes) ---
+p.43|                                                                            I.4 International økonomi
+p.43| Boks I.7        Den internationale konjunkturprognose
+p.43| Prognosen for væksten i international økonomi tager udgangspunkt i IMF’s World
+p.43| Economic Outlook, Update fra juli 2016 og de nyeste kvartalstal. For årene efter
+p.43| 2018 tilpasses væksten, så BNP er på OECD’s vurderede strukturelle niveau se-
+p.43| nest i 2025. Vækstskønnene for udvalgte, store økonomier er angivet i tabel A.
+p.43| Tabel A        Vækstskøn
+p.43|                                                      2015      2016        2017       2018      2025a)
+p.43|    Euroområdet                                         1,9       1,6         1,4        1,7         1,9
+p.43|    USA                                                 2,6       1,5         2,4        2,5         2,6
+p.43|    Japan                                               0,6       0,3         0,1        0,8         1,2
+p.43|    Kina                                                7,1       6,6         6,2        6,0         4,8
+p.43|    Globalt BNPb)                                       3,1       3,1         3,4          -            -
+p.43| a) “2025-søjlen” viser den gennemsnitlige årlige vækstrate fra 2018 til 2025.
+p.43| b) IMF, World Economic Outlook, Update fra juli 2016.
+p.43| Anm.: Yderligere information om prognosen fås ved henvendelse til De Økonomiske Råds sekretariat.
+p.43| Pengepolitiske forudsætninger
+p.43| Den Europæiske Centralbank (ECB) forventes at fastholde den primære penge-
+p.43| politiske rente på det nuværende lave niveau indtil slutningen af 2017. Herefter
+p.43| forudsættes en gradvis normalisering af renten. Den amerikanske pengepolitik
+p.43| forventes gradvist strammet fra det nuværende meget lempelige niveau, idet den
+p.43| amerikanske centralbank (FED) ventes at hæve renten sidst på året. Pengepolitik-
+p.43| ken er nærmere omtalt i afsnit I.3.
+p.43| Finanspolitiske forudsætninger
+p.43| Med udgangspunkt i ændringen i den strukturelle primære offentlige saldo for-
+p.43| ventes finanspolitikken at være omtrent neutral for væksten i euroområdet og
+p.43| USA de kommende år. For euroområdet forventer OECD en mindre forværring af
+p.43| den strukturelle saldo i 2016 og en stort set uændret strukturel saldo i 2017. For
+p.43| USA ventes en forbedring af den strukturelle saldo på omkring ¼ pct. af BNP i
+p.43| 2016 og 2017 svarende til en svag stramning af finanspolitikken.
+p.43| Øvrige forudsætninger
+p.43| Olieprisen er steget fra ca. 30 dollar pr. tønde i januar til ca. 47 dollar i august.
+p.43| Der ventes et gennemsnitligt årsniveau på henholdsvis 45, 57 og 60 dollar pr. tøn-
+p.43| de i 2016-18. I årene herefter tages udgangspunkt i Verdensbankens prognose fra
+p.43| juli, hvilket indebærer en nominel oliepris på 67 dollar i 2020 og 87 dollar i 2025.
+p.43|                                                                                                            55

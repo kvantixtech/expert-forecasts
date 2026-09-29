@@ -1,6 +1,6 @@
 # or-2019-12-page
 # url: https://fm.dk/udgivelser/2019/december/oekonomisk-redegoerelse-december-2019/
 # http: 404  bytes: 53054  sha256: 52ef42cc7759bd6b6fd6ee5eb910badf18053a7547c47e65882c762a1327afd5
-# fetched: 2026-09-29T18:21:39Z
+# fetched: 2026-09-29T18:31:36Z
 # FAILED: 
 

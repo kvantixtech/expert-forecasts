@@ -1,7 +1,7 @@
 # or-2023-12
 # url: https://oem.dk/media/gp2h10nx/oekonomisk-redegoerelse-december-2023-20231212-a.pdf
 # http: 200  bytes: 6650679  sha256: 6675a1fb350d23ecbedf5cc1985f9d354a2d90e496fedb5c590d2a910d9c2599
-# fetched: 2026-09-29T18:22:12Z
+# fetched: 2026-09-29T18:32:17Z
 # pages: 219  (lines below are quotes; p.N = PDF page)
 
 p.7: 1.3 Bilagstabel ............................................................................................................... 29
@@ -804,3 +804,233 @@ p.211: 2021  |  2022  |  2023  |  2024  |  2025
 p.211: Privat sektor  |  56,5  |  53,5  |  57,2  |  57,3  |  56,6
 p.211: Hele økonomien  |  61,5  |  58,6  |  61,8  |  61,9  |  61,6
 p.211: - Timefortjeneste (ekskl. genetillæg)  |  2,9  |  4,0  |  4,3  |  5,4  |  3,4
+
+# --- full text of p.12 (table layout, for column headers and notes) ---
+p.12|      Kapitel 1                                                                              Sammenfatning
+p.12|      Udsigter for dansk økonomi
+p.12|      Dansk økonomi er samlet set kommet godt igennem de seneste år trods udefrakommende for-
+p.12|      hold, der har påvirket efterspørgsel og produktion meget kraftigt. En afdæmpning af væksten
+p.12|      har imidlertid været undervejs i et stykke tid. Store dele af dansk økonomi bremsede op alle-
+p.12|      rede i 2022 som følge af tiltagende inflation, stigende renter og stagnation i udlandet, der påvir-
+p.12|      kede dele af eksporten.
+p.12|      Opbremsningen i dansk økonomi er blevet mere tydelig i 2023 med en tilbagegang i BNP i både
+p.12|      2. kvartal og 3. kvartal. Faldet er dog sket fra et højt niveau, og beskæftigelsen er samtidig fort-
+p.12|      sat med at stige. Perioden med svagere vækst ventes at række ind i 2024 og 2025. Det skal
+p.12|      blandt andet ses i lyset af de højere renter samt det ventede fald i beskæftigelsen, der begrænser
+p.12|      husholdningernes indkomstfremgang.
+p.12|      Perioden med svagere vækst ventes at bringe produktion og beskæftigelse tættere på de struk-
+p.12|      turelle niveauer, men aktiviteten skønnes i 2025 fortsat at ligge højere end niveauet ved en nor-
+p.12|      mal kapacitetsudnyttelse, og ledigheden forventes at forblive forholdsvis lav. Perioden med af-
+p.12|      matning skal derfor også ses som en naturlig tilpasning fra en situation med et højt kapacitets-
+p.12|      pres i økonomien.
+p.12|      I et historisk perspektiv er den ventede afmatning forholdsvis mild. I forbindelse med tidligere
+p.12|      konjunkturvendinger har opbremsningen typisk været hårdere, og beskæftigelsen er i sådanne
+p.12|      situationer nogle gange faldet ganske markant. Det aktuelle konjunkturomslag er kun sket
+p.12|      gradvist, og blandt andet vil faldet i inflationen trække i retning af en blød landing.
+p.12|      Inflationen er aftaget hurtigt gennem 2023, og forbrugerprisstigningerne udgjorde blot 0,1 pct.
+p.12|      på årsbasis i oktober. Det er de laveste siden maj 2020. Inflationen er i høj grad trukket ned af
+p.12|      faldet i energipriser, hvilket blandt andet kommer til udtryk i, at kerneinflationen – som ikke
+p.12|      indeholder uforarbejdede fødevarer og energi – stadig er forholdsvis høj, jf. figur 1.2. Forbru-
+p.12|      gerprisstigningerne må ventes at tiltage igen i første halvdel af 2024, hvor udviklingen i energi-
+p.12|      priserne ikke længere ventes at trække inflationen ned. Ind i 2024 ventes inflationen således at
+p.12|      stige midlertidigt til over 3 pct. igen, og for året som helhed skønnes inflationen at blive knap 3
+p.12|      pct., jf. tabel 1.1. Først i 2025 ventes inflationen at være på omkring 2 pct. og dermed det ni-
+p.12|      veau, der er forenelig med fastkurspolitikken og inflationsmålsætningen på mellemlangt sigt for
+p.12|      euroområdet, som ifølge ECB ligeledes forventes at have en inflation på omkring 2 pct. i 2025.
+p.12|      Tabel 1.1 Centrale skøn
+p.12|                                                             2023               2024               2025
+p.12|         BNP-vækst, pct.                                       1,2                1,4               1,0
+p.12|         Inflation, pct.                                       3,4                2,8               2,1
+p.12|         Huspriser, pct.                                      -2,0                1,2               1,9
+p.12|         Beskæftigelse, ændring i 1.000 personer               40                  -9               -21
+p.12|         Bruttoledighed, pct. af arbejdsstyrken                2,6                2,9               3,1
+p.12|      Kilde: Danmarks Statistik og egne beregninger.
+p.12| 10   Økonomisk Redegørelse ꞏ December 2023
+
+# --- full text of p.30 (table layout, for column headers and notes) ---
+p.30|      Kapitel 1                                                                                                               Sammenfatning
+p.30|      Figur 1.21 Stor margin til gældsgrænsen og offentlig nettoformue
+p.30|       Pct. af BNP                                                                                                              Pct. af BNP
+p.30|           80                                                                                                                            80
+p.30|                                      Grænse for ØMU-gæld i Stabilitets- og Vækstpagten
+p.30|           60                                                                                                                            60
+p.30|           40                                                                                                                            40
+p.30|           20                                                                                                                            20
+p.30|            0                                                                                                                            0
+p.30|       -20                                                                                                                               -20
+p.30|       -40                                                                                                                               -40
+p.30|                2000   2002    2004        2006    2008        2010   2012    2014      2016      2018     2020        2022   2024
+p.30|                                       ØMU-gæld                                     Offentlig finansiel nettoformue
+p.30|      Kilde: Danmarks Statistik og egne beregninger.
+p.30|      Centrale nøgletal for de offentlige finanser i perioden 2022-2025 fremgår af tabel 1.2. Vurderin-
+p.30|      gen af de offentlige finanser er uddybet nærmere i kapitel 8.
+p.30|      Tabel 1.2 Centrale skøn vedrørende tilrettelæggelsen af finanspolitikken
+p.30|                                                                             2022              2023               2024               2025
+p.30|           Strukturel saldo, pct. af strukturelt BNP                          1,9                0,5                   0,6             0,2
+p.30|           Faktisk saldo, pct. af BNP                                         3,3                2,7                   1,5             0,8
+p.30|           Offentlig forbrugsvækst, pct.1)                                   -3,6                0,9                   2,2             1,9
+p.30|                                                          2)
+p.30|           Flerårig finanseffekt, niveau, pct.-point                          0,8               -0,3                  -0,5            -0,2
+p.30|                                              3)
+p.30|           Ét-årig finanseffekt, pct.-point                                  -1,6               -1,0                  -0,1             0,3
+p.30|           Memo: Ét-årig finanseffekt inkl.
+p.30|                                                                             -1,6               -1,0                  -0,1             0,2
+p.30|           personskattereform, pct.-point 3)
+p.30|           Outputgab, pct.4)                                                  3,0                2,1                   1,9             1,4
+p.30|                                      4)
+p.30|           Beskæftigelsesgab, pct.                                            3,3                3,4                   2,9             2,1
+p.30|           ØMU-gæld, pct. af BNP 5)                                          29,8               30,3                  29,1           27,9
+p.30|           Offentlig finansiel nettoformue, pct. af BNP                      17,9               18,5                  19,2           19,2
+p.30|      1)     Den skønnede offentlige forbrugsvækst er beregningsteknisk forudsat ens ved henholdsvis input- og outputmetoden. For
+p.30|             2022 er vist væksten i det offentlige forbrug ved inputmetoden.
+p.30|      2)     Den flerårige finanseffekt er et mål for, hvor meget ændringer i finans- og strukturpolitikken påvirker outputgabet (niveau-
+p.30|             effekt i forhold til 2019).
+p.30|      3)     Den ét-årige finanseffekt er et mål for, hvor meget den planlagte finans- og strukturpolitik bidrager til ændringer i outputgabet
+p.30|             i et givent år.
+p.30|      4)     Beregnet mål for, hvor langt produktionen og beskæftigelsen er fra deres strukturelle niveauer. Når gabene er positive, indi-
+p.30|             kerer det, at der er knappe ressourcer i økonomien i forhold til en normal konjunktursituation.
+p.30|      5)     ØMU-gælden i pct. af BNP skønnes at stige fra 2022 til 2023 til trods for et skønnet faktisk offentligt overskud i 2023. Det
+p.30|             afspejler – foruden et skønnet fald i BNP-deflatoren og dermed nominelt BNP i 2023 – omfanget af statens obligationsudste-
+p.30|             delse i 2023, der blandt andet påvirkes af politisk aftale om udskydelse virksomhedernes skattebetalinger fra 2023 til 2024.
+p.30|      Kilde: Danmarks Statistik og egne beregninger.
+p.30| 28   Økonomisk Redegørelse ꞏ December 2023
+
+# --- full text of p.31 (table layout, for column headers and notes) ---
+p.31| Kapitel 1                                                                                                          Sammenfatning
+p.31| 1.3 Bilagstabel
+p.31| Tabel 1.3 Nøgletal fra vurderingen i december og sammenligning med skøn fra august
+p.31|                                                                    2023                         2024                   2025
+p.31|                                                             Aug.          Dec.          Aug.           Dec.            Dec.
+p.31|    Realvækst, pct.
+p.31|    Privatforbrug                                               0,6           0,9            1,5           1,6             1,5
+p.31|    Samlet offentlig efterspørgsel                              1,8           1,6            1,9           1,6             1,9
+p.31|    - heraf offentligt forbrug                                  1,5           0,9            2,1           2,2             1,9
+p.31|    - heraf offentlige investeringer                            3,6           6,3            0,8          -2,4             1,7
+p.31|    Boliginvesteringer                                        -12,9         -12,1            -2,1         -2,2             1,2
+p.31|    Erhvervsinvesteringer                                      -3,6          -3,3            -2,0         -2,2             0,1
+p.31|    Lagerændringer (vækstbidrag)                               -1,7          -1,4            -0,1         -0,5             0,1
+p.31|    I alt indenlandsk efterspørgsel                            -2,3          -1,8            0,8           0,3             1,5
+p.31|    Eksport                                                     5,4          10,8            3,4           4,2             2,4
+p.31|    - heraf industrieksport                                     8,8          15,0            3,3           4,6             2,3
+p.31|    Samlet efterspørgsel                                        1,1           3,7            1,9           2,0             1,9
+p.31|    Import                                                      0,9           8,0            2,8           3,0             3,3
+p.31|    - heraf vareimport                                         -2,4           3,5            4,1           2,7             3,2
+p.31|    BNP                                                         1,2           1,2            1,4           1,4             1,0
+p.31|    Bruttoværditilvækst                                         1,4           1,5            1,6           1,5             1,0
+p.31|    - heraf i private byerhverv                                 2,2           0,9            1,1           1,0             1,0
+p.31|    Ændring i 1.000 personer
+p.31|    Arbejdsstyrke                                               40            48                -4             2           -17
+p.31|    Beskæftigelse                                               32            40             -13               -9          -21
+p.31|    - heraf i den private sektor                                24            32             -16           -12             -26
+p.31|    - heraf i offentlig forvaltning og service                      8             8             3              3               5
+p.31|    Bruttoledighed                                                  9             8             9          13                  4
+p.31|    Konjunkturgab, pct.
+p.31|    Outputgab                                                   2,1           2,1            1,6           1,9             1,4
+p.31|    Beskæftigelsesgab                                           3,3           3,4            2,7           2,9             2,1
+p.31|    Bruttoledighedsgab                                         -1,0          -1,0            -0,7         -0,6             -0,3
+p.31| Anm.: Det offentlige forbrug er opgjort ved inputmetoden.
+p.31| Kilde: Danmarks Statistik og egne beregninger.
+p.31|                                                                                      Økonomisk Redegørelse ꞏ December 2023         29
+
+# --- full text of p.32 (table layout, for column headers and notes) ---
+p.32|      Kapitel 1                                                                                                      Sammenfatning
+p.32|      Tabel 1.3 (fortsat) Nøgletal fra vurderingen i december og sammenligning med skøn fra august
+p.32|                                                                       2023                          2024                2025
+p.32|                                                                Aug.          Dec.          Aug.            Dec.         Dec.
+p.32|         Stigning i pct.
+p.32|         Huspriser (enfamiliehuse)                                  -4,5          -2,0             1,4         1,2          1,9
+p.32|         Forbrugerprisindeks                                        3,8           3,4              3,0         2,8          2,1
+p.32|         Timeløn i privat sektor                                    4,5           4,3              5,4         5,4          3,4
+p.32|         Real disponibel indkomst, husholdninger                    -0,7          1,1              2,9         1,4          0,9
+p.32|         Timeproduktiviteten i private byerhverv                    2,5           0,2              1,6         1,4          2,2
+p.32|         Pct.
+p.32|         Rente, 1-årigt flekslån                                    3,5           3,4              3,7         3,3          2,8
+p.32|         Rente, 10-årig statsobligation                             2,7           2,8              2,8         2,8          2,8
+p.32|         Rente, 30-årig realkreditobligation                        4,7           4,8              4,7         5,0          4,8
+p.32|         Offentlige finanser
+p.32|         Faktisk offentlig saldo, mia. kr.                           56            77              29          44            23
+p.32|         Faktisk offentlig saldo, pct. af BNP                       2,0           2,7              1,0         1,5          0,8
+p.32|         Strukturel offentlig saldo, pct. af BNP                    0,5           0,5              0,4         0,6          0,2
+p.32|         ØMU-gæld, pct. af BNP                                     30,8          30,3          29,6           29,1         27,9
+p.32|         Arbejdsmarked
+p.32|         Arbejdsstyrke (inkl. orlov), 1.000 personer              3.283         3.290         3.279          3.293        3.276
+p.32|         Beskæftigelse (inkl. orlov), 1.000 personer              3.200         3.208         3.187          3.199        3.178
+p.32|         Bruttoledighed, 1.000 personer                              85            84              94          97           101
+p.32|         Bruttoledighed, pct. af arbejdsstyrken                     2,6           2,6              2,9         2,9          3,1
+p.32|         Eksterne forudsætninger
+p.32|         Handelsvægtet BNP-vækst i udlandet, pct.                   1,3           1,3              1,8         1,6          2,2
+p.32|         Eksportmarkedsvækst (industrivarer), pct.                  0,8           0,2              3,0         2,4          3,1
+p.32|         Dollarkurs, kr. pr. dollar                                 6,9           6,9              6,7         6,9          6,9
+p.32|         Oliepris, dollar pr. tønde                                81,1          82,6          81,4           81,3         81,9
+p.32|         Betalingsbalance
+p.32|         Betalingsbalancesaldo, mia. kr.                            266           300              287        347           339
+p.32|         Betalingsbalancesaldo, pct. af BNP                         9,6          10,7              9,9        11,8         11,1
+p.32|      Kilde: Danmarks Statistik, IMF, Macrobond, Dansk Arbejdsgiverforening og egne beregninger.
+p.32| 30   Økonomisk Redegørelse ꞏ December 2023
+
+# --- full text of p.135 (table layout, for column headers and notes) ---
+p.135| Kapitel 6                                                                                           Udenrigshandel
+p.135| 6.3 Betalingsbalancen
+p.135| Overskuddet på betalingsbalancens løbende poster har været ekstraordinært højt de seneste to
+p.135| år. Gennem 2022 trak eksporten af søtransport den danske tjenestebalance op på meget høje
+p.135| niveauer grundet store stigninger i søfragtraterne. Søfragtraterne er sidenhen normaliserede,
+p.135| og tjenestebalancen er faldet til omtrent niveauet før prisstigningerne. Når den danske beta-
+p.135| lingsbalance alligevel fortsætter med at være høj, skyldes det især medicinalindustriens store
+p.135| indtægter fra udlandet.
+p.135| Medicinalindustrien vurderes samlet set at have øget sit bidrag til overskuddet på handelsba-
+p.135| lancen inklusiv forarbejdning i udlandet med næsten 3 pct. af BNP over det seneste år. Dette
+p.135| bidrag ventes at opretholdes igennem prognoseperioden, da det i høj grad skal ses i lyset af
+p.135| Novo Nordisks nye diabetes- og vægttabsmedicin, der fortsat ventes at være stærkt efter-
+p.135| spurgte. Ud over medicinalindustriens store indtægter vil bidraget fra energi øges, når Tyrafel-
+p.135| tet forventeligt genoptager produktionen i 2024 i form af øget nettoeksport af naturgas. Det bi-
+p.135| drager til et forventet overskud på varebalancen på 6,5 pct. af BNP i 2023, 7,3 pct. af BNP i
+p.135| 2024 og 6,9 pct. af BNP i 2025, figur 6.15.
+p.135| De øvrige af betalingsbalancens løbende poster ventes at være på et niveau, der minder om ni-
+p.135| veauerne inden de store prisudsving i søfragt. Overskuddet på betalingsbalancen skønnes sam-
+p.135| let set at blive 10,7 pct. af BNP i 2023, 11,8 pct. af BNP i 2024 og 11,1 pct. af BNP i 2025.
+p.135| Figur 6.15 Stort overskud på betalingsbalancen i prognoseperioden
+p.135|  Pct. af BNP                                                                                           Pct. af BNP
+p.135|  15                                                                                                             15
+p.135|  10                                                                                                             10
+p.135|    5                                                                                                            5
+p.135|    0                                                                                                            0
+p.135|   -5                                                                                                            -5
+p.135|        2005       2007     2009       2011       2013     2015       2017   2019     2021      2023      2025
+p.135|               Varebalancen                          Tjenestebalancen                  Løn- og formueindkomst
+p.135|               Løbende overførsler                   Løbende poster i alt
+p.135| Kilde: Danmarks Statistik og egne beregninger.
+p.135|                                                                             Økonomisk Redegørelse ꞏ December 2023    133
+
+# --- full text of p.216 (table layout, for column headers and notes) ---
+p.216|       Bilagstabeller
+p.216|       Tabel B.23 Skøn på forskellige tidspunkter over centrale størrelser
+p.216|                                                                  Maj       Aug.   Mar.    Maj   Aug.   Dec.
+p.216|                                                                 2022       2022   2023   2023   2023   2023
+p.216|          2022
+p.216|          BNP (realvækst, pct.)                                       3,4    2,8    3,6    3,8    2,7    2,7
+p.216|          Bruttoledighed (1.000 personer)                             86     78     76     76     76     76
+p.216|          Forbrugerpriser (ændring, pct.)                             5,2    7,3    7,7    7,7    7,7    7,7
+p.216|          Betalingsbalance (mia. kr.) 1)                          170       231    371    367    383    379
+p.216|          Samlet offentlig saldo (mia. kr.)                           17     32     82     93     97     95
+p.216|          2023
+p.216|          BNP (realvækst, pct.)                                       1,9    0,8    0,2    0,6    1,2    1,2
+p.216|          Bruttoledighed (1.000 personer)                             87     93     93     91     85     84
+p.216|          Forbrugerpriser (ændring, pct.)                             1,8    3,3    3,9    4,3    3,8    3,4
+p.216|          Betalingsbalance (mia. kr.) 1)                          160       208    269    232    266    300
+p.216|          Samlet offentlig saldo (mia. kr.)                            5     22     45     51     56     77
+p.216|          2024
+p.216|          BNP (realvækst, pct.)                                         -      -    1,5    1,4    1,4    1,4
+p.216|          Bruttoledighed (1.000 personer)                               -      -    97     97     94     97
+p.216|          Forbrugerpriser (ændring, pct.)                               -      -    2,8    3,0    3,0    2,8
+p.216|          Betalingsbalance (mia. kr.) 1)                                -      -   264    243    287    347
+p.216|          Samlet offentlig saldo (mia. kr.)                             -      -    24     16     29     44
+p.216|          2025
+p.216|          BNP (realvækst, pct.)                                         -      -      -      -      -    1,0
+p.216|          Bruttoledighed (1.000 personer)                               -      -      -      -      -   101
+p.216|          Forbrugerpriser (ændring, pct.)                               -      -      -      -      -    2,1
+p.216|          Betalingsbalance (mia. kr.)   1)
+p.216|                                                                        -      -      -      -      -   339
+p.216|          Samlet offentlig saldo (mia. kr.)                             -      -      -      -      -    23
+p.216|       1)     Angiver saldoen på betalingsbalancens løbende poster.
+p.216|       Kilde: Danmarks Statistik og egne beregninger.
+p.216| 214   Økonomisk Redegørelse ꞏ December 2023

@@ -1,7 +1,7 @@
 # or-2016-05
 # url: https://legacy.altinget.dk/misc/oekonomisk%20redegoerelse_maj%202016.pdf
 # http: 200  bytes: 2666300  sha256: a2e7305c4c5d36b7813d2b35961d630294fef5cc2ec1e6f56205cfb9782b9357
-# fetched: 2026-09-29T18:24:55Z
+# fetched: 2026-09-29T18:34:48Z
 # pages: 193  (lines below are quotes; p.N = PDF page)
 
 p.7: 1.2 Prognosen i hovedtræk ........................................................................................  |  10
@@ -805,6 +805,171 @@ p.171: Euroområdet  |  -3,6  |  -2,1  |  -1,4  |  -1,0  |  -1,0  |  -1,3  |  -1
 p.171: Tyskland  |  -1,4  |  -0,4  |  0,1  |  0,7  |  0,8  |  0,4  |  0,4
 p.171: Frankrig  |  -5,0  |  -4,1  |  -3,4  |  -2,7  |  -2,4  |  -2,4  |  -2,7
 
+# --- full text of p.18 (table layout, for column headers and notes) ---
+p.18|      Kapitel 1                                                                                              Sammenfatning
+p.18|        Boks 1.1
+p.18|        Konsekvenser for dansk økonomi, hvis Storbritannien stemmer for at forlade EU
+p.18|        De økonomiske konsekvenser for britisk økonomi vurderes at være mærkbart negative, hvis briterne ved
+p.18|        folkeafstemningen den 23. juni 2016 vælger at forlade EU (såkaldt Brexit). Det vil være en tidskrævende
+p.18|        proces formelt at forlade EU-samarbejdet, som formentlig tidligst kan være tilendebragt efter en årrække,
+p.18|        muligvis i sommeren 2018. I mellemtiden vil der forventeligt også være betydelige negative konsekvenser
+p.18|        for økonomien. Det afspejler et ventet fald i investeringerne, blandt andet som følge af øget usikkerhed om
+p.18|        fremtidige rammevilkår, strammere kreditvilkår og tilbageholdenhed hos forbrugere og virksomheder, jf.
+p.18|        boks 2.2. Elementer heraf kan ifølge Bank of England spores allerede som følge af usikkerheden knyttet til
+p.18|        udfaldet af afstemningen.
+p.18|        Brexit vil også have konsekvenser for Danmark og de øvrige europæiske lande via lavere samhandel og
+p.18|        investeringer. Storbritannien er en stor samhandelspartner både for Danmark og for andre europæiske lan-
+p.18|        de og samtidig et globalt finansielt centrum. I kraft heraf ventes Brexit også at føre til øget usikkerhed på de
+p.18|        finansielle markeder med faldende aktiekurser til følge, i særdeleshed for bankaktier .
+p.18|        Bank of England må forventes at intervenere med pengepolitiske lempelser i form af opkøb af værdipapirer
+p.18|        for at modvirke rentestigninger. ECB kan også tænkes at reagere på Brexit ved at øge sine opkøbspro-
+p.18|        grammer for at modgå den negative vækstpåvirkning og for at stabilisere de finansielle markeder.
+p.18|        OECD har vurderet, at BNP-niveauet i 2018 vil være 1,3 pct. lavere i Storbritannien i tilfælde af Brexit, og
+p.18|        1,1 pct. lavere i resten af EU. Konsekvenserne for Danmark, som en lille åben økonomi med stor samhan-
+p.18|        del med EU-landene, vil heller ikke være ubetydelig. Effekten på dansk økonomi kan illustreres via et stød i
+p.18|        ADAM-modellen, hvor det er antaget, at:
+p.18|            Eksportmarkedsvæksten reduceres med ½ pct.-point i 2016 og 1½ pct.-point i 2017, svarende til
+p.18|             OECD’s estimater for effekten på britisk og europæisk økonomi.
+p.18|            Større usikkerhed, strammere kreditvilkår og et vist formuetab som følge af faldende aktiekurser bevir-
+p.18|             ker, at væksten i erhvervsinvesteringer og privat forbrug reduceres med henholdsvis 1 og 2¾ pct.-point
+p.18|             og ¼ og ½ pct.-point i 2016 og 2017.
+p.18|        I Brexit-scenariet reduceres BNP-væksten i Danmark med ¼ pct.-point til knap 1 pct. i 2016 og med godt ½
+p.18|        pct.-point til godt 1 pct. i 2017 i forhold til hovedforløbet i prognosen, jf. tabel a. Ledigheden ventes også at
+p.18|        blive lidt højere i begge årene, og den offentlige saldo vil blive forværret. Saldoen vil imidlertid fortsat holde
+p.18|        sig inden for EU’s 3 pct.-grænse i scenariet. Der er betydelig usikkerhed om effekternes størrelse.
+p.18|        Tabel a
+p.18|        Sammenligning af hovedforløbet og et estimeret Brexit-forløb
+p.18|                                         Økonomisk Redegørelse, maj 2016                            Brexit-forløb
+p.18|                                                      2016                2017                 2016                 2017
+p.18|         BNP-vækst (realt, pct.)                        1,1                 1,7                  0,9                  1,1
+p.18|         Ledighed (pct.)                                3,8                 3,6                  4,0                  4,1
+p.18|         Offentlig saldo (pct. af BNP)                 -2,0                 -1,8                -2,1                 -2,2
+p.18|        Kilde: The economic consequneces of Brexit: A taxing decision., OECD Economic Policy Paper, no. 16, april 2016
+p.18|               og egne beregninger.
+p.18| 16   Økonomisk Redegørelse · Maj 2016
+
+# --- full text of p.19 (table layout, for column headers and notes) ---
+p.19| Kapitel 1                                                                               Sammenfatning
+p.19|   Tabel 1.1
+p.19|   Udvalgte nøgletal
+p.19|                                                               2014    2015       2016        2017
+p.19|   Realvækst, pct.
+p.19|   Privat forbrug                                               0,5     2,1        1,5         1,7
+p.19|   Offentligt forbrug                                           0,2     0,6        1,0         0,0
+p.19|   Offentlige investeringer                                     7,4    -1,0       -3,7         0,2
+p.19|   Boliginvesteringer                                           3,1    -0,5        2,0         6,0
+p.19|   Erhvervsinvesteringer                                        1,8     2,5        4,0         5,6
+p.19|   Lagerændringer (vækstbidrag)                                 0,3    -0,3        0,1         0,0
+p.19|   Eksport af varer og tjenester                                3,1    -1,0        1,5         4,4
+p.19|   Import af varer og tjenester                                 3,3    -1,4        2,5         4,6
+p.19|   BNP                                                          1,3     1,2        1,1         1,7
+p.19|   Niveau, pct. af BNP
+p.19|   Faktisk offentlig saldo                                      1,5    -2,1       -2,0        -1,8
+p.19|   Strukturel offentlig saldo                                  -1,0    -0,6       -0,4        -0,4
+p.19|   Betalingsbalancen                                            7,7     7,0        7,5         7,6
+p.19|   Outputgab                                                   -1,7    -1,4       -1,2        -0,7
+p.19|   Niveau, 1.000 personer
+p.19|   Bruttoledighed (årsgennemsnit)                              134     124         112        107
+p.19|   Beskæftigelse (inkl. orlov), i alt                         2.765   2.796      2.823      2.848
+p.19|   Arbejdsstyrke, i alt                                       2.888   2.912      2.928      2.949
+p.19|   Stigning, pct.
+p.19|   Huspriser (enfamiliehuse)                                    3,4     6,1        4,0         4,0
+p.19|   Forbrugerprisindeks                                          0,6     0,5        0,6         1,5
+p.19|   Timefortjeneste i privat sektor (DA’s StrukturStatistik)     1,2     1,9        2,1         2,5
+p.19|                                                                       Økonomisk Redegørelse · Maj 2016   17
+
+# --- full text of p.20 (table layout, for column headers and notes) ---
+p.20|      Kapitel 1                                                                                        Sammenfatning
+p.20|      1.3 Finanspolitikken og de offentlige finanser
+p.20|      Med finansloven for 2016 blev de offentlige finanser styrket, og der blev skabt afstand til
+p.20|      budgetlovens grænse for strukturelle underskud, jf. tabel 1.2. Det er afstemt med, at økono-
+p.20|      mien er inde i et moderat, men robust opsving, hvor fremgangen navnlig er tydelig på ar-
+p.20|      bejdsmarkedet. En gradvis normalisering af finanspolitikken fra et lempeligt udgangspunkt er
+p.20|      et vigtigt element i at understøtte et holdbart opsving.
+p.20|      Rammerne for den offentlige økonomi vil være stramme i de kommende år, hvor færre ind-
+p.20|      tægter fra Nordsøen har reduceret råderummet i finanspolitikken. Samtidig øger flygtninge-
+p.20|      tilstrømningen udgiftspresset inden for råderummet, og de offentlige investeringer skal tilpas-
+p.20|      ses efter historisk høje niveauer under den økonomiske krise. Trods tilpasninger vil udgifts-
+p.20|      niveauerne imidlertid fortsat være højere end i årene før finanskrisen.
+p.20|      Regeringen offentliggør til sommer en plan for dansk økonomi frem mod 2025. I den forbin-
+p.20|      delse opstilles der mål og ambitioner for at adressere de udfordringer, som dansk økonomi
+p.20|      står over for. Det gælder både udfordringer med at styrke grundlaget for økonomisk vækst,
+p.20|      øge deltagelsen på arbejdsmarkedet og håndtere presset på de offentlige finanser i de kom-
+p.20|      mende år. I forbindelse med 2025-planen fremlægges et udspil til anden fase af den Jobre-
+p.20|      form, som blev igangsat i 2015 med sigte på at øge den økonomiske tilskyndelse til at arbej-
+p.20|      de.
+p.20|        Tabel 1.2
+p.20|        Centrale skøn vedr. tilrettelæggelsen af finanspolitikken
+p.20|                                                                         2015               2016              2017
+p.20|        Strukturel saldo, pct. af strukturelt BNP                         -0,6               -0,4              -0,4
+p.20|        Faktisk saldo, pct. af BNP                                        -2,1               -2,0              -1,8
+p.20|        Offentlig forbrugsvækst, pct.                                      0,6                1,0               0,0
+p.20|        Etårig finanseffekt, pct. af BNP1)                                -0,1               -0,1              -0,2
+p.20|        Outputgab, pct.2)                                                 -1,4               -1,2              -0,7
+p.20|                                             2)
+p.20|        Bruttoledighedsgab, 1.000 personer                                  25                16                    10
+p.20|        Beskæftigelsesgab, 1.000 personer2)                                -52               -40                -30
+p.20|        1)     Beregnet mål for, hvordan ændringer i finanspolitikken fra et år til det næste påvirker den økono-
+p.20|               miske aktivitet.
+p.20|        2)     Beregnet mål for, hvor langt produktion, ledighed og beskæftigelse er fra at være i ligevægt.
+p.20|        Kilde: Danmarks Statistik og egne beregninger.
+p.20|      Udsigt til offentlige underskud på den rigtige side af EU’s grænse
+p.20|      Ifølge foreløbige regnskabstal fra Danmark Statistik udgjorde underskuddet på den faktiske
+p.20|      offentlige saldo 2,1 pct. af BNP i 2015. I 2016 og 2017 skønnes et omtrent tilsvarende under-
+p.20|      skud på henholdsvis 2,0 og 1,8 pct. af BNP. I prognoseperioden ventes underskuddene på
+p.20|      den faktiske offentlige saldo således at holde sig inden for rammerne af Stabilitets- og
+p.20| 18   Økonomisk Redegørelse · Maj 2016
+
+# --- full text of p.25 (table layout, for column headers and notes) ---
+p.25| Kapitel 1                                                                                                               Sammenfatning
+p.25| I 2010-planen var sigtepunktet frem mod 2010 eksempelvis et strukturelt overskud på mellem
+p.25| ¾ og 1¾ pct. af BNP i gennemsnit. Det afspejlede blandt andet behovet for at spare op til, at
+p.25| store årgange gik på pension og blev erstattet af mindre årgange på arbejdsmarkedet. I
+p.25| 2015- og 2020-planen har der været et sigtepunkt om mindst strukturel balance ved udgan-
+p.25| gen af planlægningshorisonten.
+p.25|     Figur 1.18                                                                      Tabel 1.4
+p.25|     Strukturel saldo                                                                Mål for den strukturelle saldo i tidligere
+p.25|                                                                                     mellemfristede planer
+p.25|     Pct. af BNP                                                   Pct. af BNP
+p.25|                                                                                     2010-plan1)   Strukturelt overskud på ¾-1¾ pct.
+p.25|     3,0                                                                      3,0                  af BNP i gennemsnit frem mod
+p.25|     2,5                                                                      2,5                  2010
+p.25|     2,0                                                                      2,0
+p.25|     1,5                                                                      1,5
+p.25|     1,0                                                                      1,0    2015-plan2)   Strukturelt overskud på ¾-1¾ pct.
+p.25|                                                                                                   af BNP i perioden 2007-2010 og
+p.25|     0,5                                                                      0,5
+p.25|                                                                                                   mindst balance i 2011-2015.
+p.25|     0,0                                                                      0,0
+p.25|     -0,5                                                                     -0,5
+p.25|     -1,0                                                                     -1,0   2020-plan     Strukturelt underskud på maksimalt
+p.25|                             Makismalt tilladt underskud i budgetloven
+p.25|     -1,5                                                                     -1,5                 0,5 pct. af BNP. 2020-mål om
+p.25|            00   02    04   06      08   10    12   14    16      18     20                        mindst strukturel balance.
+p.25|                 Strukturel saldo             Sigtepunkt i plan
+p.25|     1)     Korrigeret for Danmarks Statistiks ændrede opgørelsesprincip for ATP samt omlægning og afskaf-
+p.25|            felse af SP-ordningen, så tallene er sammenlignelige med den nuværende struktursaldoopgørelse.
+p.25|     2)     Målet blev fraveget i 2009 i forbindelse med finanskrisen og erstattet med et mål om mindst struk-
+p.25|            turel balance i 2015, jf. Danmarks Konvergensprogram 2009.
+p.25|     Kilde: En holdbar fremtid – Danmark 2010 (2001), Mod nye mål – Danmark 2015 (2007), Danmarks Konvergens-
+p.25|            program 2016 og egne beregninger.
+p.25| 2025-planen vil danne rammen for finanspolitikken i de kommende år. I forbindelse med
+p.25| planen vil regeringen opstille mål og ambitioner, der adresserer de udfordringer, som dansk
+p.25| økonomi står over. Nogle af de væsentligste udfordringer for dansk økonomi nu og på længe-
+p.25| re sigt er:
+p.25|         Begrænset råderum i finanspolitikken: Faldende oliepriser har betydet, at råderummet i
+p.25|          finanspolitikken er mindre end tidligere. Frem mod 2020 er der uden nye tiltag et råde-
+p.25|          rum på ca. 10 mia. kr. Dette understreger behovet for skarpe prioriteringer i udgiftspoli-
+p.25|          tikken og for et løbende fokus på at effektivisere og modernisere den offentlige sektor de
+p.25|          kommende år.
+p.25|         Moderat vækstpotentiale for dansk økonomi: Produktivitetsvæksten i Danmark har været
+p.25|          svag gennem en årrække – både set i forhold til tidligere perioder og set i forhold til lan-
+p.25|          de, som Danmark normalt sammenligner sig med. Det har trukket væksten ned. Reform-
+p.25|          indsatsen – blandt andet med tilbagetrækningsaftalen fra 2011 – har forøget arbejdsud-
+p.25|          buddet, hvilket bidrager væsentligt til vækstpotentialet frem mod 2020. Det bidrag tager
+p.25|          af på sigt, og samlet set er der udsigt til, at vækstpotentialet aftager til omkring 1¼ pct. i
+p.25|                                                                                                      Økonomisk Redegørelse · Maj 2016   23
+
 # --- full text of p.38 (table layout, for column headers and notes) ---
 p.38|      Kapitel 1                                                                      Sammenfatning
 p.38|      1.6 Bilagstabel
@@ -880,74 +1045,44 @@ p.39|   1)     Den korrigerede indkomst, jf. afsnit 4.1.
 p.39|   Kilde: Danmarks Statistik og egne beregninger.
 p.39|                                                                             Økonomisk Redegørelse · Maj 2016    37
 
-# --- full text of p.19 (table layout, for column headers and notes) ---
-p.19| Kapitel 1                                                                               Sammenfatning
-p.19|   Tabel 1.1
-p.19|   Udvalgte nøgletal
-p.19|                                                               2014    2015       2016        2017
-p.19|   Realvækst, pct.
-p.19|   Privat forbrug                                               0,5     2,1        1,5         1,7
-p.19|   Offentligt forbrug                                           0,2     0,6        1,0         0,0
-p.19|   Offentlige investeringer                                     7,4    -1,0       -3,7         0,2
-p.19|   Boliginvesteringer                                           3,1    -0,5        2,0         6,0
-p.19|   Erhvervsinvesteringer                                        1,8     2,5        4,0         5,6
-p.19|   Lagerændringer (vækstbidrag)                                 0,3    -0,3        0,1         0,0
-p.19|   Eksport af varer og tjenester                                3,1    -1,0        1,5         4,4
-p.19|   Import af varer og tjenester                                 3,3    -1,4        2,5         4,6
-p.19|   BNP                                                          1,3     1,2        1,1         1,7
-p.19|   Niveau, pct. af BNP
-p.19|   Faktisk offentlig saldo                                      1,5    -2,1       -2,0        -1,8
-p.19|   Strukturel offentlig saldo                                  -1,0    -0,6       -0,4        -0,4
-p.19|   Betalingsbalancen                                            7,7     7,0        7,5         7,6
-p.19|   Outputgab                                                   -1,7    -1,4       -1,2        -0,7
-p.19|   Niveau, 1.000 personer
-p.19|   Bruttoledighed (årsgennemsnit)                              134     124         112        107
-p.19|   Beskæftigelse (inkl. orlov), i alt                         2.765   2.796      2.823      2.848
-p.19|   Arbejdsstyrke, i alt                                       2.888   2.912      2.928      2.949
-p.19|   Stigning, pct.
-p.19|   Huspriser (enfamiliehuse)                                    3,4     6,1        4,0         4,0
-p.19|   Forbrugerprisindeks                                          0,6     0,5        0,6         1,5
-p.19|   Timefortjeneste i privat sektor (DA’s StrukturStatistik)     1,2     1,9        2,1         2,5
-p.19|                                                                       Økonomisk Redegørelse · Maj 2016   17
-
-# --- full text of p.20 (table layout, for column headers and notes) ---
-p.20|      Kapitel 1                                                                                        Sammenfatning
-p.20|      1.3 Finanspolitikken og de offentlige finanser
-p.20|      Med finansloven for 2016 blev de offentlige finanser styrket, og der blev skabt afstand til
-p.20|      budgetlovens grænse for strukturelle underskud, jf. tabel 1.2. Det er afstemt med, at økono-
-p.20|      mien er inde i et moderat, men robust opsving, hvor fremgangen navnlig er tydelig på ar-
-p.20|      bejdsmarkedet. En gradvis normalisering af finanspolitikken fra et lempeligt udgangspunkt er
-p.20|      et vigtigt element i at understøtte et holdbart opsving.
-p.20|      Rammerne for den offentlige økonomi vil være stramme i de kommende år, hvor færre ind-
-p.20|      tægter fra Nordsøen har reduceret råderummet i finanspolitikken. Samtidig øger flygtninge-
-p.20|      tilstrømningen udgiftspresset inden for råderummet, og de offentlige investeringer skal tilpas-
-p.20|      ses efter historisk høje niveauer under den økonomiske krise. Trods tilpasninger vil udgifts-
-p.20|      niveauerne imidlertid fortsat være højere end i årene før finanskrisen.
-p.20|      Regeringen offentliggør til sommer en plan for dansk økonomi frem mod 2025. I den forbin-
-p.20|      delse opstilles der mål og ambitioner for at adressere de udfordringer, som dansk økonomi
-p.20|      står over for. Det gælder både udfordringer med at styrke grundlaget for økonomisk vækst,
-p.20|      øge deltagelsen på arbejdsmarkedet og håndtere presset på de offentlige finanser i de kom-
-p.20|      mende år. I forbindelse med 2025-planen fremlægges et udspil til anden fase af den Jobre-
-p.20|      form, som blev igangsat i 2015 med sigte på at øge den økonomiske tilskyndelse til at arbej-
-p.20|      de.
-p.20|        Tabel 1.2
-p.20|        Centrale skøn vedr. tilrettelæggelsen af finanspolitikken
-p.20|                                                                         2015               2016              2017
-p.20|        Strukturel saldo, pct. af strukturelt BNP                         -0,6               -0,4              -0,4
-p.20|        Faktisk saldo, pct. af BNP                                        -2,1               -2,0              -1,8
-p.20|        Offentlig forbrugsvækst, pct.                                      0,6                1,0               0,0
-p.20|        Etårig finanseffekt, pct. af BNP1)                                -0,1               -0,1              -0,2
-p.20|        Outputgab, pct.2)                                                 -1,4               -1,2              -0,7
-p.20|                                             2)
-p.20|        Bruttoledighedsgab, 1.000 personer                                  25                16                    10
-p.20|        Beskæftigelsesgab, 1.000 personer2)                                -52               -40                -30
-p.20|        1)     Beregnet mål for, hvordan ændringer i finanspolitikken fra et år til det næste påvirker den økono-
-p.20|               miske aktivitet.
-p.20|        2)     Beregnet mål for, hvor langt produktion, ledighed og beskæftigelse er fra at være i ligevægt.
-p.20|        Kilde: Danmarks Statistik og egne beregninger.
-p.20|      Udsigt til offentlige underskud på den rigtige side af EU’s grænse
-p.20|      Ifølge foreløbige regnskabstal fra Danmark Statistik udgjorde underskuddet på den faktiske
-p.20|      offentlige saldo 2,1 pct. af BNP i 2015. I 2016 og 2017 skønnes et omtrent tilsvarende under-
-p.20|      skud på henholdsvis 2,0 og 1,8 pct. af BNP. I prognoseperioden ventes underskuddene på
-p.20|      den faktiske offentlige saldo således at holde sig inden for rammerne af Stabilitets- og
-p.20| 18   Økonomisk Redegørelse · Maj 2016
+# --- full text of p.190 (table layout, for column headers and notes) ---
+p.190|       Bilagstabeller
+p.190|         Tabel B.25
+p.190|         Skøn på forskellige tidspunkter over centrale størrelser
+p.190|                                               Maj    Aug.    Dec.     Maj      Aug.    Sep.    Dec.     Maj
+p.190|                                              2014    2014    2014    2015      2015    2015    2015    2016
+p.190|         2014
+p.190|         BNP (realvækst, pct.)                  1,4     1,4     0,7     1,1       1,1     1,1     1,3     1,3
+p.190|         Nettoledighed (1.000 personer)        102     104     106     107       107     107     107     107
+p.190|         Bruttoledighed (1.000 personer)       137     135     135     135       135     135     134     134
+p.190|         Forbrugerpriser (pct. stigning)        0,9     0,8     0,6     0,6       0,6     0,6     0,6     0,6
+p.190|         Betalingsbalancesaldo (mia. kr.)     134,5   136,2   131,2   118,6     120,9   120,9   149,9   149,9
+p.190|         Samlet offentlig saldo (mia. kr.)    -26,7   -22,1    34,2    23,9      34,6    34,6    28,5    28,5
+p.190|         BNP i EU28 (procentvis stigning)1)     1,6     1,6     1,3     1,4       1,4     1,4     1,4     1,4
+p.190|         2015
+p.190|         BNP (realvækst, pct.)                  2,0     2,0     1,4     1,7       1,5     1,5     1,4     1,2
+p.190|         Nettoledighed (1.000 personer)         96      96     103     101       101     101     104     102
+p.190|         Bruttoledighed (1.000 personer)       130     126     130     128       128     128     124     124
+p.190|         Forbrugerpriser (pct. stigning)        1,6     1,2     0,8     0,8       0,7     0,7     0,5     0,5
+p.190|         Betalingsbalancesaldo (mia. kr.)     143,0   140,2   135,3   139,4     139,4   141,3   155,1   138,5
+p.190|         Samlet offentlig saldo (mia. kr.)    -58,4   -59,9   -49,7   -26,3     -53,9   -59,6   -39,8   -41,1
+p.190|         BNP i EU28 (procentvis stigning)1)     2,0     2,0     1,6     1,8       1,9     1,8     1,9     2,0
+p.190|         2016
+p.190|         BNP (realvækst, pct.)                    -       -     2,0     2,0       1,9     1,9     1,9     1,1
+p.190|         Nettoledighed (1.000 personer)           -       -     96         93     94      94      98      90
+p.190|         Bruttoledighed (1.000 personer)          -       -    123     121       123     123     118     112
+p.190|         Forbrugerpriser (pct. stigning)          -       -     1,5     1,5       1,5     1,5     1,1     0,6
+p.190|         Betalingsbalancesaldo (mia. kr.)         -       -   135,6   147,7     153,4   154,4   178,9   150,6
+p.190|         Samlet offentlig saldo (mia. kr.)        -       -   -52,7   -50,3     -56,9   -56,6   -56,6   -40,8
+p.190|         BNP i EU28 (procentvis stigning)1)       -       -     1,9     2,1       2,1     2,1     2,0     1,8
+p.190|         2017
+p.190|         BNP (realvækst, pct.)                    -       -       -         -       -       -     2,0     1,7
+p.190|         Nettoledighed (1.000 personer)           -       -       -         -       -       -     94      85
+p.190|         Bruttoledighed (1.000 personer)          -       -       -         -       -       -    113     107
+p.190|         Forbrugerpriser (pct. stigning)          -       -       -         -       -       -     1,7     1,5
+p.190|         Betalingsbalancesaldo (mia. kr.)         -       -       -         -       -       -   181,0   158,6
+p.190|         Samlet offentlig saldo (mia. kr.)        -       -       -         -       -       -   -41,7   -38,2
+p.190|         BNP i EU28 (procentvis stigning)1)       -       -       -         -       -       -     2,1     1,9
+p.190|         1)     Baseret på tal fra EU-Kommissionen.
+p.190|         Kilde: Danmarks Statistik, EU-Kommissionen og egne beregninger.
+p.190| 188   Økonomisk Redegørelse · Maj 2016

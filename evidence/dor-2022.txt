@@ -1,7 +1,7 @@
 # dor-2022
 # url: https://dors.dk/files/media/rapporter/2022/e22/endelig_rapport/WEB_E22_Revideret%20maj%202023_med%20links.pdf
 # http: 200  bytes: 10365716  sha256: e706fec51eb318be89c17616dd71b91bb69cd43ae53f5239a417842d881d3ca0
-# fetched: 2026-09-29T18:23:39Z
+# fetched: 2026-09-29T18:33:42Z
 # pages: 337  (lines below are quotes; p.N = PDF page)
 
 p.8: inflation ikke bare i 2022, men også i 2023, og at der er
@@ -391,3 +391,121 @@ p.328: at the end of 2023  |  level by the end of next year, and in 2024 the emp
 p.328: 2023 is appropriately  |  year is appropriate. The proposed 2023 Finance Act is estimated to be
 p.330: 2020  |  2030  |  2040  |  2050  |  2060  |  2070  |  2080
 p.330: should be included  |  indicator from 1 to 0.4 percent of GDP. Fiscal policy would thus con-
+
+# --- full text of p.48 (table layout, for column headers and notes) ---
+p.48| Konjunktur og offentlige finanser - Indledning II.1
+p.48|                                       fødevarer. Det slår igennem på forbrugerpriserne med en vis forsin-
+p.48|                                       kelse, men vil bidrage til at trække priserne ned i løbet af 2023. På den
+p.48|                                       anden side forventes nye og markante prisstigninger på el og gas hen-
+p.48|                                       over sommeren at trække op i forbrugerpriserne, særligt i Europa. I
+p.48|                                       USA er der desuden et opadgående prispres fra højere lønstigninger.
+p.48|                                       I Danmark ventes bidraget fra indenlandsk genereret prispres på
+p.48|                                       samme måde at stige det kommende år blandt andet som følge af hø-
+p.48|                                       jere lønninger. I overensstemmelse med forventningerne blandt inter-
+p.48|                                       nationale prognosemagere er det lagt til grund for prognosen, at infla-
+p.48|                                       tionen vil forblive omkring det nuværende niveau resten af 2022.
+p.48|                                       Selvom inflationen ventes at aftage igennem 2023 forventes prisstig-
+p.48|                                       ningerne at forblive mærkbart over det niveau, der har været de sene-
+p.48|                                       ste mange år. Konkret skønnes de danske forbrugerpriser som års-
+p.48|                                       gennemsnit at stige ca. 8 pct. i år og ca. 5 pct. i 2023, jf. tabel II.1.
+p.48|      TABEL II.1          HOVEDTAL I PROGNOSEN
+p.48|      Beskæftigelsesgap ventes at aftage markant og vendes til et negativt gap på ca. 1 pct. i 2024.
+p.48|      Inflationen ventes at blive høj med 8 pct. i gennemsnit i år og ca. 5 pct. næste år.
+p.48|                                                                   2021        2022       2023        2024         2030 a)
+p.48|      BNP (realvækst i pct.)                                         4,9         2,3        -0,2        0,6          1,6
+p.48|      Beskæftigelsesgap (pct.)                                       0,8         3,3         0,6       -1,0          0,0
+p.48|      Nettoledighed (1.000 pers.)                                     94          68         91         110           96
+p.48|      Offentlig saldo (pct. af BNP)                                  3,6         0,4        -0,1       -0,2         -0,2
+p.48|      Strukturel offentlig saldo (pct. af BNP)                      -0,6         0,2         1,1        0,7         -0,2
+p.48|      Inflation (pct.)                                               2,1         8,1        5,1         0,8          1,5
+p.48|      Lønvækst (pct.)                                                2,6         3,8         5,2        4,5          3,4
+p.48|      BNP i aftagerlande (realvækst i pct.)                          5,1         2,5        0,8         1,8          2,0
+p.48|      10-årig dansk statsobligation (pct.)                           0,0         1,5         2,5        2,0          1,1
+p.48|      a)        Sidste søjle viser niveauet i 2030 for beskæftigelsesgap, ledighed, offentlig og strukturel saldo, inflation
+p.48|                samt rente. For BNP i Danmark og udlandet vises den gennemsnitlige årlige vækst fra 2024 til 2030.
+p.48|      Anm.:     Forbrugerpriserne er udtrykt ved deflatoren for det private forbrug.
+p.48|      Kilde:    Danmarks Statistik, ADAM’s databank, Macrobond og egne beregninger.
+p.48| Nedjusterede                          Den høje inflation har reduceret husholdningernes købekraft betragte-
+p.48| vækstudsigter                         ligt; inflationen giver også anledning til øget usikkerhed og den har gi-
+p.48|                                       vet anledning til pengepolitiske stramninger i de fleste lande. Faldende
+p.48|                                       realløn, øget usikkerhed og stigende renter har bidraget til en begyn-
+p.48|                                       dende afmatning med et svagt fald i BNP i USA i første halvår 2022 og
+p.48|                                       omtrent stilstand i flere lande i Europa i andet kvartal 2022, herunder i
+p.48| 42            Dansk Økonomi, efterår 2022
+
+# --- full text of p.97 (table layout, for column headers and notes) ---
+p.97|                                     Konjunktur og offentlige finanser - Aktuelle udsigter for dansk økonomi II.5
+p.97| TABEL II.2         HOVEDTAL I FREMSKRIVNINGEN
+p.97| Der ventes en betydelig afmatning af dansk økonomi det kommende år, hvilket skal ses i lyset af
+p.97| de dæmpede vækstudsigter for udlandet, den betydelige usikkerhed, høj inflation og højere renter.
+p.97|                                                      2021       2021      2022     2023     2024        2030 a)
+p.97|                                                   Mia. kr.     --------------- Realvækst, pct. ---------------
+p.97| Privat forbrug                                      1.142         4,2      -1,1     -0,3       2,5        3,0
+p.97| Offentligt forbrug                                    608         4,2       0,7     -0,7       1,6        1,1
+p.97| Offentlige investeringer                                85        0,4      -2,6      2,2       3,4        2,0
+p.97| Boliginvesteringer                                    151         9,9       4,5    -10,0    -10,8         2,0
+p.97| Erhvervsinvesteringer                                 330         6,3       1,9     -4,3      -5,6        2,8
+p.97| Lagerændringer                                           9        0,0       0,8     -0,4       0,0        0,0
+p.97| Indenlandsk efterspørgsel i alt                     2.325         4,6       0,9     -2,0       0,3        2,3
+p.97| Eksport                                             1.494         8,0       3,4      1,4       4,7        2,7
+p.97| Import                                              1.315         8,0       1,2     -1,1       4,7        3,9
+p.97| Bruttonationalprodukt                               2.504         4,9       2,3     -0,2       0,6        1,6
+p.97| Bruttonationalprodukt, aftagerlande                               5,1       2,5      0,8       1,8        2,0
+p.97|                                              1.000 pers.      ------------- Ændring i 1.000 pers. -----------
+p.97| Strukturel arbejdsstyrke                            3.015          23       20        16         2          5
+p.97| Arbejdsstyrke                                       3.033          38       71       -38      -26           7
+p.97| Beskæftigelse                                       2.939          63       97       -61      -45           9
+p.97|                                                              --------------------- 1.000 pers. -----------------
+p.97| Nettoledighed                                                      94       68        91      110          96
+p.97|                                                              ------------------------- Pct. ----------------------
+p.97| Beskæftigelsesgap                                                 0,8       3,3      0,6      -1,0        0,0
+p.97| Forbrugerpriser                                                   2,1       8,1      5,1       0,8        1,5
+p.97| Timelønsomkostninger                                              2,6       3,8      5,2       4,5        3,4
+p.97| Kontantpris på enfamiliehuse                                     10,6       2,0     -6,0      -2,4        5,8
+p.97| Timeproduktivitet, private byerhverv                              1,3      -1,6      3,5       2,7        1,4
+p.97| Rente, 10-årig dansk statsobligation                              0,0       1,5      2,5       2,0        1,1
+p.97| a)       Den sidste søjle viser niveauet i 2030 for ledighed, beskæftigelsesgap og rente. For de øvrige poster
+p.97|          vises den gennemsnitlige årlige vækst fra 2024 til 2030.
+p.97| Anm.:    Beskæftigelsesgap angiver afvigelsen fra den strukturelle beskæftigelse i pct. Forbrugerpriserne er ud-
+p.97|          trykt ved deflatoren for det private forbrug. Lagerinvesteringer angiver vækstbidraget til BNP. BNP i af-
+p.97|          tagerlande angiver den sammenvejede BNP-vækst i Danmarks ni primære aftagerlande. Renten er an-
+p.97|          givet som årsgennemsnit.
+p.97| Kilde:   Danmarks Statistik, ADAM’s databank, Macrobond og egne beregninger.
+p.97|                                                                          Dansk Økonomi, efterår 2022                 91
+
+# --- full text of p.327 (table layout, for column headers and notes) ---
+p.327|                                                                         English Summary and recommendations
+p.327| TABLE A            KEY FIGURES OF THE OUTLOOK FOR THE DANISH ECONOMY
+p.327|                                                            2021       2021   2022   2023    2024    2030 a)
+p.327|                                                        DKK bn. ------- Real grow th rate, per cent. -------
+p.327| Private consumption                                       1,142        4.2   -1.1    -0.3     2.5     3.0
+p.327| Public sector consumption                                    608       4.2    0.7    -0.7     1.6     1.1
+p.327| Gross fixed capital formation                               566        6.2    1.9    -5.0    -5.6     2.5
+p.327| consisting of:
+p.327|      Public sector investment                                 85       0.4   -2.6    2.2     3.4      2.0
+p.327|      Residential investment                                 151        9.9    4.5   -10.0   -10.8     2.0
+p.327|      Business fixed investment                              330        6.3    1.9    -4.3    -5.6     2.8
+p.327| Stockbuildingb)                                                   9    0.0    0.8    -0.4    0.0      0.0
+p.327| Total domestic demand                                     2,325        4.6    0.9    -2.0     0.3     2.3
+p.327| Exports of goods and services                             1,494        8.0    3.4     1.4     4.7     2.7
+p.327| Imports of goods and services                             1,315        8.0    1.2    -1.1     4.7     3.9
+p.327| GDP                                                       2,504        4.9    2.3    -0.2     0.6     1.6
+p.327| Key indicators
+p.327| Consumer prices, percentage changec)                                   2.1    8.1    5.1     0.8      1.5
+p.327| Unemployment, per cent        d)
+p.327|                                                                        3.1    2.2    3.0     3.6      3.1
+p.327| General gov. budget balance, DKK bn.                                   91     10      -3      -6       -6
+p.327| General gov. budget balance, per cent of GDP                           3.6    0.4    -0.1    -0.2    -0.2
+p.327| Hourly w age costs, percentage change                                  2.6    3.8    5.2     4.5      3.4
+p.327| Terms of trade, change in percentage points                            0.4   -2.5    -3.2    1.8      0.2
+p.327| 10-year Danish government bond rate, per cent                          0.0    1.5    2.5     2.0      1.1
+p.327| Employment gap, per cente)                                             0.8    3.3    0.6     -1.0     0.0
+p.327| a)       The column shows projected average annual growth from 2024 til 2030 for all variables except unem-
+p.327|          ployment, the current account, the general government balance, the 10-year Danish government bond
+p.327|          rate and the output gap. For these variables, the columns show the projected value in 2030.
+p.327| b)       Contribution to GDP growth in percentage points.
+p.327| c)       Implicit private consumption deflator.
+p.327| d)       Percentage of total labour force. National definition.
+p.327| e)       Percentage of structural employment. National definition.
+p.327| Source: Statistics Denmark, StatBank Denmark and ADAM’s data bank, and own calculations.
+p.327|                                                                       Danish Economy, Autumn 2022           321

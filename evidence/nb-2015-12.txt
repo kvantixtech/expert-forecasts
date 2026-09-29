@@ -1,0 +1,350 @@
+# nb-2015-12
+# url: https://www.nationalbanken.dk/media/rmimcval/monetary-review-4th-quarter-2015.pdf
+# http: 200  bytes: 1894543  sha256: e70456a5aa0cbbb535a73f3af5019df1c96a99fe41ee4c844b4e759150d211e4
+# fetched: 2026-09-29T18:35:12Z
+# pages: 79  (lines below are quotes; p.N = PDF page)
+
+p.7: fiscal policy is no longer dampening activity in the  |  growth in real GDP is forecast at 1.4 per cent this
+p.8: land GDP) was only 0.2 per cent in the 3rd quar-
+p.8: is in an economic upswing, cf. Chart 1 (right). The  |  viewed in isolation, it may increase GDP by 0.1-
+p.8: 2010  |  2011  |  2012  |  2013  |  2014  |  2015  |  2010  |  2011  |  2012  |  2013  |  2014  |  2015
+p.9: 630,000 asylum seekers in 2014.  |  boost EU GDP by 0.1-0.2 per cent annually in 2015-17 rela-
+p.9: will rise by a maximum of 0.2 per cent of GDP in 2015, but by  |  short to medium term.
+p.9: 0.5 per cent of GDP in Sweden, which is among the member
+p.9: 2.  |  Cf. the European Commission’s autumn forecast 2015 and OECD, Economic Outlook, November 2015.
+p.9: ble decline in investment growth that is not fully  |  the same, estimates for 2015 and 2016 have been
+p.9: clined from 2014 to 2015. In the assessment of the  |  unemployment gap will also narrow, and by 2017
+p.10: Per cent  |  2014  |  2015  |  2016  |  2017  |  2015  |  2016
+p.10: USA  |  2.4  |  2.4  |  2.5  |  2.4  |  0.4  |  -0.3
+p.10: Euro area  |  0.9  |  1.5  |  1.8  |  1.9  |  0.1  |  -0.3
+p.10: - Germany  |  1.6  |  1.5  |  1.8  |  2.0  |  -0.1  |  -0.5
+p.10: - France  |  0.2  |  1.1  |  1.3  |  1.6  |  0.0  |  -0.4
+p.10: - Italy  |  -0.4  |  0.8  |  1.4  |  1.4  |  0.2  |  -0.1
+p.10: - Spain  |  1.4  |  3.2  |  2.7  |  2.5  |  0.3  |  -0.1
+p.10: UK  |  2.9  |  2.4  |  2.4  |  2.3  |  0.0  |  0.1
+p.10: Japan  |  -0.1  |  0.6  |  1.0  |  0.5  |  -0.1  |  -0.4
+p.10: China  |  7.3  |  6.8  |  6.5  |  6.2  |  0.0  |  -0.2
+p.10: erage of 1.4 per cent p.a.; this is somewhat higher  |  2nd quarter of 2013 to the 2nd quarter of 2015,
+p.11: 05 06 07 08 09 10 11 12 13 14 15 16 17  |  1991-00 2000-08 2008-14 2014-25 2014-25
+p.11: Note:  |  Left-hand chart: Data from the European Commission. Forecasts after 2014. Right-hand chart: Data for 1991-2014 is from OECD,
+p.11: Economic Outlook, November 2015. Data for 2014-25 is from the OECD’s most recent long-term baseline projections. Average annual
+p.11: Source: European Commission, OECD, Economic Outlook, November 2015 and OECD, Long-term baseline projections, May 2014 and own calcula-
+p.12: 2.5  |  in energy prices. Core inflation, calculated as HICP
+p.12: the fall in oil prices from July 2014 to January 2015
+p.12: last couple of years, and hence the participation  |  2014 to April 2015 pushes up prices. This is reflect-
+p.13: 2012  |  2013  |  2014  |  2015  |  2016
+p.13: 2010 2011 2012 2013  |  2014 2015 2016
+p.13: and core inflation in 2016 and 2017 from December 2015. Right-hand chart: Price developments for imports for manufacturing and
+p.13: pronounced. Furthermore, core inflation is lower  |  1.5
+p.13: which price inflation is low, carries substantially  |  0.0
+p.13: 2012  |  2013  |  2014  |  2015
+p.14: low federal spending to increase by a total of 0.4  |  35 per cent of GDP by end-March 2017. This means
+p.14: bill for the fiscal year 2016 when the temporary  |  Bank of England in the period from 2008 to 2014,
+p.15: 2010  |  2011  |  2012  |  2013  |  2014  |  2015  |  07  |  08  |  09  |  10  |  11  |  12  |  13  |  14  |  15  |  16  |  17
+p.25: proximately 2,000 firms. The report shows that in  |  slowdown was mainly attributable to a decline
+p.25: the previous surveys in 2007 and 2010. At the  |  vate consumption was flat in the 3rd quarter, but
+p.25: the 2010 survey. This masks a higher degree of ac-  |  0.3 per cent, cf. Table 2.
+p.25: siderably uncertainty. At the same time, the rise  |  Growth in real GDP is forecast at 1.4 per cent
+p.26: per cent  |  2014  |  2015  |  2016  |  2017  |  Q1  |  Q2  |  Q3
+p.26: GDP  |  1.3  |  1.4  |  1.8  |  2.0  |  0.7  |  0.2  |  -0.1
+p.26: Private consumption  |  0.5  |  2.2  |  2.0  |  2.2  |  1.0  |  -0.1  |  0.0
+p.26: Public consumption  |  0.2  |  1.1  |  0.5  |  0.0  |  1.1  |  0.0  |  -0.3
+p.26: Residential investment  |  3.1  |  -1.7  |  3.0  |  4.3  |  -1.0  |  -0.4  |  -1.6
+p.26: Public investment  |  7.4  |  -2.3  |  -1.3  |  2.4  |  -9.4  |  0.1  |  -2.1
+p.26: Business investment  |  2.1  |  2.2  |  3.6  |  4.6  |  -0.1  |  1.4  |  2.6
+p.26: Inventory investment, etc.1  |  0.3  |  -0.4  |  0.2  |  0.0  |  -0.7  |  0.2  |  0.9
+p.26: Exports  |  3.1  |  -0.7  |  2.2  |  3.6  |  1.8  |  -2.9  |  -1.7
+p.26: Industrial exports  |  1.4  |  1.9  |  3.7  |  4.8  |  4.9  |  -2.4  |  -3.4
+p.26: Imports  |  3.3  |  -1.6  |  2.4  |  3.9  |  -0.3  |  -3.0  |  0.4
+p.26: Employment, 1,000 persons  |  2,765  |  2,793  |  2,818  |  2,850  |  2,783  |  2,790  |  2,797
+p.26: Balance of payments, per cent of GDP  |  7.7  |  7.3  |  7.4  |  7.3  |  8.1  |  6.1  |  7.5
+p.26: Government balance, per cent of GDP  |  1.5  |  -2.6  |  -2.8  |  -1.8  |  -3.1  |  -2.3  |  -2.3
+p.26: House prices, per cent year-on-year  |  3.4  |  5.9  |  3.8  |  3.2  |  5.9  |  6.0  |  6.0
+p.26: Consumer prices, per cent year-on-year  |  0.3  |  0.3  |  1.3  |  1.9  |  0.0  |  0.4  |  0.4
+p.26: Hourly wages, per cent year-on-year  |  1.3  |  1.9  |  2.5  |  2.7  |  1.3  |  1.9  |  1.9
+p.26: pacity, has been forecast at -1.5 per cent in 2015,  |  with the same period of 2014, while imports fell
+p.27: is unchanged from 2015 to 2016. In 2017, the cap on the  |  rates – tax paid relative to the taxation base – are procy-
+p.29: ple are moving to nearby commuter areas, i.e. the  |  increases in late 2014 and early 2015.
+p.31: attributable to the economic recovery while the  |  October, corresponding to 4.5 per cent of the
+p.31: dustry that has seen a notable fall in employment,  |  private sector labour market were 1.5 per cent
+p.31: 1,000 persons  |  1,000 persons  |  1,000 persons
+p.32: to rise by 1.9 per cent this year, 2.5 per cent in  |  was 0.2 per cent in October, down from 0.3 per
+p.32: 2016 and 2.7 per cent in 2017. With inflation set  |  cent in the preceding month. Especially the lower
+p.32: 2015/16  |  2015
+p.32: 2014  |  2015  |  2016  |  2017  |  Q3  |  Q4  |  Q1  |  Oct.  |  Nov.  |  Dec.
+p.32: HICP  |  0.3  |  0.3  |  1.3  |  1.9  |  0.4  |  0.4  |  1.0  |  0.2  |  0.4  |  0.5
+p.32: Index of net retail prices  |  100.0  |  0.7  |  0.7  |  1.3  |  2.0  |  0.8  |  0.8  |  1.1  |  0.6  |  0.7  |  0.9
+p.32: Energy  |  7.8  |  -2.8  |  -10.1  |  -5.2  |  2.5  |  -10.3  |  -11.3  |  -6.6  |  -11.9  |  -12.7  |  -8.9
+p.32: Food  |  4.6  |  -1.5  |  3.0  |  3.3  |  1.8  |  3.2  |  4.0  |  4.3  |  3.5  |  4.1  |  4.5
+p.32: Adm. prices  |  4.2  |  1.4  |  0.9  |  2.5  |  3.1  |  1.5  |  2.2  |  2.1  |  2.1  |  2.3  |  2.3
+p.32: Rent  |  26.1  |  2.5  |  2.1  |  1.9  |  2.3  |  2.1  |  1.9  |  2.0  |  2.0  |  1.9  |  1.9
+p.32: Excl. exogenous:  |  57.3  |  0.7  |  1.4  |  1.6  |  1.8  |  1.4  |  1.4  |  1.3  |  1.5  |  1.8  |  1.4
+p.32: Imports  |  18.1  |  -0.8  |  2.4  |  1.9  |  1.6  |  3.3  |  2.9  |  2.3  |  3.0  |  3.0  |  2.7
+p.32: IMI  |  39.2  |  1.2  |  1.0  |  1.5  |  1.9  |  0.8  |  0.9  |  1.0  |  0.8  |  1.2  |  0.7
+p.33: euro area closely. In 2015 to date, both HICP in-  |  out most of 2016. Consequently, the increase in
+p.33: flation and underlying inflation have been a little  |  consumer prices is forecast at 0.3 per cent this
+p.33: pared with one year earlier. This means that price  |  a deficit of 2.6 per cent of GDP this year. Thanks
+p.33: Energy prices have a strong downward impact,  |  corresponding to 0.8 per cent of GDP has been
+p.33: per cent higher than in October 2014. The rea-  |  deficit of 2.8 per cent of GDP is forecast for 2016.
+p.34: 2008-10  |  2011-13  dation 2014  2015-16
+p.34: Note:  |  Left-hand chart: The broken lines are averages for the period 1995-2014. Danmarks Nationalbank’s projection. Right-hand chart:
+p.34: to 1.8 per cent of GDP as the economy picks up.  |  of capacity utilisation. The output gap is expected
+p.34: tural deficit may not exceed 0.5 per cent of GDP  |  The agreed Finance Act for 2016 includes tight-
+p.34: 2015, the government expected a structural deficit  |  tural deficit within the 0.5 per cent of GDP stipu-
+p.34: of 0.9 per cent of GDP this year, falling to 0.4 per  |  lated in the Budget Act, albeit with only a narrow
+p.35: becomes negative. Maintaining a stable exchange  |  both 2015 and 2016. This is attributable primarily
+p.35: not entail a change the risk profile.  |  in 2016 and 2017, respectively, cf. Table 4.
+p.36: of 2017.  |  For 2015, revenue of kr. 15 billion is expected
+p.36: at the current level.  |  by 1.1 per cent this year, cf. Table 4. Consump-
+p.36: 2014 until January 2015. It rose from January to  |  2016 and 2017, respectively. Public investment is
+p.36: 2014  |  2015  |  2016  |  2017
+p.36: Export market growth, per cent year-on-year  |  3.9  |  2.9  |  4.0  |  4.6
+p.36: Export market price1, per cent year-on-year  |  -0.6  |  -1.7  |  -0.3  |  1.6
+p.36: -0.6  |  -1.7  |  -0.3  |  1.6
+p.36: Foreign hourly wages, per cent year-on-year  |  2.2  |  1.9  |  2.3  |  2.5
+p.36: 3-month money market interest rate, per cent p.a.  |  0.0  |  -0.4  |  -0.4  |  -0.2
+p.36: Average bond yield, per cent p.a.  |  1.3  |  1.0  |  1.3  |  1.6
+p.36: Effective krone rate, 1980 = 100  |  103.3  |  99.1  |  99.0  |  99.0
+p.37: justed downwards for both 2015 and 2016. The  |  cent in 2016, while bond yields have changed only
+p.37: clined notably in both 2015 and 2016, cf. Appen-  |  effective krone rate.
+p.37: Per cent, year-on-year  |  2015  |  2016  |  2017  |  2015  |  2016  |  2017
+p.37: Projection, August 2015  |  1.8  |  2.1  |  1.8  |  0.3  |  1.5  |  1.9
+p.37: Export market growth  |  -0.2  |  -0.2  |  0.0  |  0.0  |  0.0  |  0.0
+p.37: Interest rates  |  0.0  |  0.0  |  0.0  |  0.0  |  0.0  |  0.0
+p.37: Exchange rates  |  0.0  |  0.1  |  0.0  |  0.0  |  0.1  |  0.1
+p.37: Oil prices  |  0.0  |  0.1  |  0.0  |  0.0  |  -0.3  |  0.0
+p.37: Other factors  |  -0.2  |  -0.2  |  0.2  |  0.0  |  0.0  |  0.0
+p.37: This projection  |  1.4  |  1.8  |  2.0  |  0.3  |  1.3  |  1.9
+p.42: investment income and other transfers do not fluctuate in step with the output gap (actual correlation in the period 1990-2014: -0.02
+p.43: in the period 1995-2014.  |  than wage growth abroad, and competitiveness
+p.43: Note:  |  Left-hand chart: The black broken lines are averages for the period 1995-2015, 2nd quarter. The baseline scenario is Danmarks Nation-
+p.44: capital pensions in 2013 and 2014.
+p.45: lending has averaged -2.3 per cent of GDP annually since  |  the owner. All in all, the calculation of household investment
+p.45: Anm.:  |  Left-hand chart: Household net lending has been adjusted for early taxation of capital pensions in 2013 and 2014. Right-hand chart:
+p.47: Per cent of GDP  |  1,000 barrels per day  |  Per cent of GDP
+p.47: 2013 and 2014.
+p.48: ageing over the coming decades, although to  |  be 6.5 per cent of GDP (130*5/100). This requires
+p.48: Not all countries can have current account  |  services and transfers of -1.5 per cent of GDP to
+p.48: (0.05*(1+0.04)/0.04)*100 = 130 per cent of GDP.
+p.51: 12-month moving average. Net foreign assets have been calculated annually until 2004 and quarterly as from 2005. Right-hand chart:
+p.62: Borrower has relatively more room in the  |  -0.0181***  |  -0.0345***  |  0.0374***  |  0.0721***
+p.62: current account  |  (0.0013)  |  (0.0027)  |  (0.0079)  |  (0.0163)
+p.62: model as described above. The data period covers the period from 22 September 2003 to 11 September 2015. See Abildgren et al.
+p.65: indicator of the cyclical position. Revisions of the  |  gap is around -1.5 per cent of GDP this year and
+p.68: 2012  |  2013  |  2014  |  2015
+p.68: 3rd quarter of 2012  |  4th quarter of 2015  |  Estimate for 2012  |  Estimate for 2013
+p.68: Note:  |  Left-hand chart: The output gap for 2014 from the 3rd quarter of 2012 has not been fully calculated. The dot indicates a technical pro-
+p.68: quarter of 2012 for 2012 was fairly accurate. The
+p.68: On the other hand, the assessment of 2013,  |  the 3rd quarter of 2012, while the solid lines indicate
+p.68: 3rd quarter of 2012, changed considerably. The  |  2010 prices, chained values, kr. billion
+p.68: Firstly, GDP was adjusted upwards in an interme-  |  1,560
+p.68: diate publication from mid-2010 to early 2012, cf.  |  1,540
+p.68: 2005 2006 2007 2008 2009 2010 2011 2012 2013
+p.70: gap until and including 2016 and 2017, respectively, for the  |  overall perception of the economy is unchanged.
+p.70: in 2017. In principle, the year 2017 in the projection does not  |  tainty, and that potential growth in the last projection year
+p.70: that it increased from 2003 to 2013, it is virtually  |  80
+p.71: 5,000 and 9,000 people from 2012 to 2015. For the Ministry of Finance, a technical projection is applied in 2017.
+p.71: Source: Ministry of Finance (September 2015), Danish Economic Councils (October 2015) and own calculations.
+p.77: -1.5 per cent of GDP this year and will narrow in
+
+# --- full text of p.9 (table layout, for column headers and notes) ---
+p.9|   Economic effects of the large increase in the number of asylum seekers in Europe                                               Boks 1
+p.9|   In 2015, the number of asylum seekers coming to Europe                 states receiving the highest number of refugees relative to
+p.9|   has been far higher than previously. It is estimated that              the size of its population. Unless it is offset by savings in
+p.9|   approximately 1.2 million people, corresponding to 0.2 per             other areas, the increase in public spending constitutes an
+p.9|   cent of the EU’s population, came to the EU to seek asylum             unfinanced easing of fiscal policy. In the assessments of the
+p.9|   from January to October.1 By comparison, the EU received               Commission and the OECD, this will, viewed in isolation,
+p.9|   630,000 asylum seekers in 2014.                                        boost EU GDP by 0.1-0.2 per cent annually in 2015-17 rela-
+p.9|       The economic effects of the increase in the number of              tive to a baseline scenario.2
+p.9|   asylum seekers vary across the EU member states, depend-                   In the longer term, the effect on the economy will
+p.9|   ing on the number of asylum seekers arriving in a given                depend mainly on how well the refugees are integrated in
+p.9|   member state, whether they stay there or continue their                the labour market. The effect may be positive if they can
+p.9|   journey, whether they are granted asylum and refugee sta-              ease pressures in the labour market and on public spend-
+p.9|   tus, and the ability of the host country to integrate refugees,        ing resulting from an ageing population. In the preliminary
+p.9|   including in the labour market. In the short term, many                assessment of the Commission, the level of GDP in the EU
+p.9|   member states will see a rise in public spending due to e.g.           will rise by 0.2-0.3 per cent in 2020 relative to a baseline
+p.9|   increased expenses for humanitarian assistance and pro-                scenario. However, GDP per capita will presumably be lower
+p.9|   cessing of asylum applications. According to the European              as the productivity and participation rate of the refugees are
+p.9|   Commission, expenses for both transit and host countries               not likely to match those of the existing population in the
+p.9|   will rise by a maximum of 0.2 per cent of GDP in 2015, but by          short to medium term.
+p.9|   0.5 per cent of GDP in Sweden, which is among the member
+p.9|   1.   Cf. the European border management agency Frontex.
+p.9|   2.   Cf. the European Commission’s autumn forecast 2015 and OECD, Economic Outlook, November 2015.
+p.9| had been the same as in previous years, cf. Box 1.                       OECD, China, Brazil and Russia jointly account for
+p.9| The calculations assume that the increase in pub-                        around two thirds of the fall in imports by emerg-
+p.9| lic expenditure constitutes an unfinanced fiscal                         ing market economies.1 Conversely, imports have
+p.9| easing. However, GDP per capita will presumably                          risen in the advanced economies. In other words,
+p.9| be lower as the productivity and participation                           the situation has reversed within just a few years,
+p.9| rate of the refugees are not likely to match those                       so that it is now the advanced economies, not the
+p.9| of the existing population in the short to medium                        emerging market economies, that are buoying up
+p.9| term.                                                                    world trade.
+p.9|     Growth has slowed down in the emerging                                  The international organisations expect growth
+p.9| market economies. In China this reflects a nota-                         in the global economy gradually to accelerate. All
+p.9| ble decline in investment growth that is not fully                       the same, estimates for 2015 and 2016 have been
+p.9| offset by higher consumption. As a result, China’s                       adjusted marginally downwards. This is mainly
+p.9| imports of raw materials are not rising as sharply                       because growth in activity will be lower in the
+p.9| as they were. This has reduced growth in global                          emerging market economies, cf. Table 1. In the
+p.9| demand for raw materials and exerted downward                            assessment of the OECD, the decline in growth in
+p.9| pressure on commodity prices. But prices have                            China has only a limited impact on the advanced
+p.9| mainly fallen because commodity producers have                           economies via direct trade relations, but it may
+p.9| increased the supply by boosting their production                        have a stronger impact if the slowdown leads to
+p.9| capacity over a number of years. Brazil and Russia                       global financial turmoil.
+p.9| are among the countries affected by lower com-                              Although growth is generally moderate, virtu-
+p.9| modity prices and resultant lower export values.                         ally all euro area member states are exceeding
+p.9|     According to the OECD, the weaker develop-                           their growth potential. This means that the output
+p.9| ment in the emerging market economies is the                             gap – the difference between actual and potential
+p.9| primary reason why growth in world trade has de-                         output – is gradually closing, cf. Chart 2 (left). The
+p.9| clined from 2014 to 2015. In the assessment of the                       unemployment gap will also narrow, and by 2017
+p.9|                                                                          1   Cf. OECD, Economic Outlook, November 2015.
+p.9| DANMARKS NATIONALBANK MONETARY REVIEW 4TH QUARTER 2015                                                                                    9
+
+# --- full text of p.26 (table layout, for column headers and notes) ---
+p.26|      Key economic variables                                                                                                                   Table 2
+p.26|      Real growth on preceding period,                                                                                            2015
+p.26|      per cent                                                 2014         2015          2016          2017               Q1            Q2       Q3
+p.26|      GDP                                                        1.3          1.4           1.8           2.0              0.7           0.2     -0.1
+p.26|      Private consumption                                        0.5          2.2           2.0           2.2              1.0       -0.1         0.0
+p.26|      Public consumption                                         0.2          1.1           0.5           0.0              1.1           0.0     -0.3
+p.26|      Residential investment                                     3.1          -1.7          3.0           4.3              -1.0      -0.4        -1.6
+p.26|      Public investment                                          7.4          -2.3         -1.3           2.4              -9.4          0.1     -2.1
+p.26|      Business investment                                        2.1          2.2           3.6           4.6              -0.1          1.4      2.6
+p.26|      Inventory investment, etc.1                                0.3          -0.4          0.2           0.0              -0.7          0.2      0.9
+p.26|      Exports                                                    3.1          -0.7          2.2           3.6              1.8       -2.9        -1.7
+p.26|             Industrial exports                                  1.4          1.9           3.7           4.8              4.9       -2.4        -3.4
+p.26|      Imports                                                    3.3          -1.6          2.4           3.9              -0.3      -3.0         0.4
+p.26|      Employment, 1,000 persons                               2,765         2,793         2,818        2,850          2,783         2,790       2,797
+p.26|      Gross unemployment, 1,000 persons                         134           124          118           114               127       125          122
+p.26|      Balance of payments, per cent of GDP                       7.7          7.3           7.4           7.3              8.1           6.1      7.5
+p.26|      Government balance, per cent of GDP                        1.5          -2.6         -2.8          -1.8              -3.1      -2.3        -2.3
+p.26|      House prices, per cent year-on-year                        3.4          5.9           3.8           3.2              5.9           6.0      6.0
+p.26|      Consumer prices, per cent year-on-year                     0.3          0.3           1.3           1.9              0.0           0.4      0.4
+p.26|      Hourly wages, per cent year-on-year                        1.3          1.9           2.5           2.7              1.3           1.9      1.9
+p.26|      1.   Contribution to GDP growth (this item comprises inventory investment, valuables and statistical discrepancy).
+p.26| three years taken as one. Growth in the coming                                      a cyclically neutral level, is still expected to close
+p.26| years is predicted to be driven mainly by exports                                   in 2017. So the outlook remains unchanged, i.e.
+p.26| and private consumption, and to a slightly lesser                                   the capacity situation will tighten in the coming
+p.26| extent by private investment, cf. Chart 25 (right).                                 years, and by the end of the projection period
+p.26| Public sector demand is not forecast to contribute                                  there will be very little spare capacity left.
+p.26| notably to growth.                                                                     Exports in volume terms fell by 0.4 per cent
+p.26|    The output gap, which is a measure of spare ca-                                  in the first three quarters of the year compared
+p.26| pacity, has been forecast at -1.5 per cent in 2015,                                 with the same period of 2014, while imports fell
+p.26| and the economy is assessed to reach a normal                                       by 1.2 per cent. This predominantly reflects a
+p.26| level of capacity utilisation over the next couple of                               marked fall in both imports and exports of ser-
+p.26| years. Growth in employment has been adjusted                                       vices, including sea freight, partly due to a slow-
+p.26| downwards in view of the slightly more subdued                                      down in world trade. On the other hand, exports
+p.26| economic development and is now expected to                                         of goods rose. The fall in exports is expected to
+p.26| rise by just under 65,000 from the 3rd quarter of                                   be temporary, and next year export volumes are
+p.26| this year to the 4th quarter of 2017. Part of the                                   forecast to grow by just over 2 per cent, rising
+p.26| downward adjustment of output has been seen                                         to 3.6 per cent in 2017. Given Denmark’s strong
+p.26| in industries where employment is low relative to                                   competitiveness, especially industrial exports are
+p.26| output. The unemployment gap, which indicates                                       expected to grow as the international economy
+p.26| how much unemployment can fall before reaching                                      picks up.
+p.26| 26                                                                                  DANMARKS NATIONALBANK MONETARY REVIEW 4TH QUARTER 2015
+
+# --- full text of p.32 (table layout, for column headers and notes) ---
+p.32|                                                                                  rose at a faster pace than in the private sector.
+p.32|      Wage growth and unemployment                               Chart 30
+p.32|                                                                                  This situation will reverse in the coming years
+p.32|      Per cent, year-on-year                  Per cent of labour force
+p.32|                                                                                  as public sector wages are regulated relative to
+p.32|      8                                                              8            private sector wages so that they ultimately move
+p.32|      7                                                                 7         in parallel. Over the last year, regional and local
+p.32|      6                                                                 6         government wage increases have been 2.5 and
+p.32|      5                                                                 5         1.9 per cent, respectively, while central govern-
+p.32|      4                                                                 4
+p.32|                                                                                  ment wage growth has been somewhat lower.
+p.32|      3                                                                 3
+p.32|                                                                                  This is because a significant share of the agreed
+p.32|      2                                                                 2
+p.32|                                                                                  wage increases will take place at the end of the
+p.32|      1                                                                 1
+p.32|      0                                                                 0         collective agreement period, i.e. in 2017. So public
+p.32|          00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15                         sector employees can also look forward to higher
+p.32|                      Wages in industry
+p.32|                                                                                  real wages in the coming years.
+p.32|                      Unemployment (right-hand axis)
+p.32|                                                                                  PRICES
+p.32|      Source: Statistics Denmark and Danmarks Nationalbank.
+p.32|                                                                                  Consumer prices are still rising only slightly, cf.
+p.32|                                                                                  Chart 31 (left). The annual rate of increase in the
+p.32|                                                                                  EU Harmonised Index of Consumer Prices, HICP,
+p.32| to rise by 1.9 per cent this year, 2.5 per cent in                               was 0.2 per cent in October, down from 0.3 per
+p.32| 2016 and 2.7 per cent in 2017. With inflation set                                cent in the preceding month. Especially the lower
+p.32| to be very low, this will entail a sizeable increase                             energy prices have a strong downward impact,
+p.32| in real wages. Given the higher rate of increase                                 while import prices excluding energy have made a
+p.32| in Denmark, it is not likely that wage growth will                               positive contribution since the turn of the year, cf.
+p.32| contribute to improved wage competitiveness                                      Table 3.
+p.32| in the coming years. There is room for this in the                                  Core inflation – calculated as HICP excluding
+p.32| economy.                                                                         energy and unprocessed food – is slowly rising
+p.32|    Public sector wage growth is affected by de-                                  and stood at 1.0 per cent in October, cf. Chart 31
+p.32| velopments since 2008, when wages for a period                                   (right). This is attributable to factors such as high-
+p.32|      Consumer prices                                                                                                                       Table 3
+p.32|                                                                                                        2015/16                   2015
+p.32|      Per cent, year-on-year          Weights  1
+p.32|                                                    2014     2015     2016      2017              Q3         Q4    Q1     Oct.      Nov.      Dec.
+p.32|      HICP                                            0.3      0.3      1.3       1.9             0.4        0.4   1.0     0.2       0.4       0.5
+p.32|      Index of net retail prices          100.0       0.7      0.7      1.3       2.0             0.8        0.8   1.1     0.6       0.7       0.9
+p.32|      Exogenous:
+p.32|          Energy                             7.8     -2.8    -10.1      -5.2      2.5       -10.3          -11.3   -6.6   -11.9     -12.7     -8.9
+p.32|          Food                               4.6     -1.5      3.0      3.3       1.8             3.2        4.0   4.3     3.5       4.1       4.5
+p.32|          Adm. prices                        4.2      1.4      0.9      2.5       3.1             1.5        2.2   2.1     2.1       2.3       2.3
+p.32|          Rent                             26.1       2.5      2.1      1.9       2.3             2.1        1.9   2.0     2.0       1.9       1.9
+p.32|      Excl. exogenous:                     57.3       0.7      1.4      1.6       1.8             1.4        1.4   1.3     1.5       1.8       1.4
+p.32|          Imports                          18.1      -0.8      2.4      1.9       1.6             3.3        2.9   2.3     3.0       3.0       2.7
+p.32|          IMI                              39.2       1.2      1.0      1.5       1.9             0.8        0.9   1.0     0.8       1.2       0.7
+p.32|      Note:   The most recent actual figures are from October 2015.
+p.32|      1. Weight in the index of net retail prices, per cent. The weights are from January 2015.
+p.32| 32                                                                               DANMARKS NATIONALBANK MONETARY REVIEW 4TH QUARTER 2015
+
+# --- full text of p.48 (table layout, for column headers and notes) ---
+p.48| IS THE CURRENT ACCOUNT                                   deficit. So a surplus or deficit for a long period
+p.48| SURPLUS A PROBLEM?                                       does not necessarily reflect an unsustainable
+p.48|                                                          development. But this requires adjustment of
+p.48|                                                          the balance of payments composition, i.e. invest-
+p.48| IT MAY MAKE SENSE TO HAVE A SURPLUS                      ment income and other accounts. For example,
+p.48| A current account surplus does not necessarily           if Denmark’s current account surplus is assumed
+p.48| reflect imbalances in the economy. A surplus is a        to be permanent at 5 per cent of GDP, net foreign
+p.48| way of postponing consumption until later. This          assets will converge towards 130 per cent of GDP,
+p.48| makes sense in a situation like Denmark’s with           given nominal growth of 4 per cent.5 If the nomi-
+p.48| an ageing population over the coming decades.            nal return on net foreign assets is then assumed
+p.48| Most advanced economies are facing population            to be 5 per cent, investment income alone will
+p.48| ageing over the coming decades, although to              be 6.5 per cent of GDP (130*5/100). This requires
+p.48| varying degrees.                                         a permanent level of the balance of goods and
+p.48|    Not all countries can have current account            services and transfers of -1.5 per cent of GDP to
+p.48| surpluses at the same time. One country’s surplus        maintain a current account surplus of 5 per cent.
+p.48| is offset by other countries’ deficits. A distinguish-   A sustainable development with large net foreign
+p.48| ing feature of Denmark compared with other               assets thus tends to require a smaller surplus on
+p.48| countries is that we have chosen to fund part of         the balance of goods and services.
+p.48| the future pension expenditure via savings – while           Net foreign assets may act as a buffer reducing
+p.48| also adjusting the retirement age to match life ex-      the risk of sudden large capital outflows. Moreo-
+p.48| pectancy. This is done via private pensions, labour      ver, they can contribute to ensuring a low interest
+p.48| market pensions and public savings. Many other           rate spread to the euro area, cf. below. However,
+p.48| countries have to fund future pensions primarily         building up large foreign assets also entails a
+p.48| out of future current public revenue, i.e. future        credit risk. A debt servicing problem for a coun-
+p.48| taxation of people in the labour market. Denmark         try with a permanent current account deficit and
+p.48| focuses on ensuring fiscal sustainability so that        large foreign debt will, of course, also be a prob-
+p.48| there will be no need to raise taxes in future to        lem for creditor countries like Denmark, which risk
+p.48| cover current expenditure for e.g. public pensions       losing part of their foreign assets.
+p.48| and healthcare. As a result of this and other fac-           Furthermore, large foreign assets imply
+p.48| tors, Denmark’s public finances are, on average,         exposure to interest rate developments and
+p.48| healthier than those of other countries.                 to equity prices and exchange rates, and the
+p.48|    Moreover, it is natural for relatively prosperous     ability to make the right choices when invest-
+p.48| countries like Denmark and several other North-          ing the funds becomes important. In Denmark’s
+p.48| ern European countries to have current account           case, such placement decisions are made on a
+p.48| surpluses, while countries in e.g. Southern and          decentralised basis by the individual firms and
+p.48| Eastern Europe, with a smaller capital stock and         pension funds, as opposed to countries like
+p.48| greater growth potential (“catching-up effect”),         Norway, where most foreign assets are con-
+p.48| have deficits. These countries need foreign capital      centrated in the Government Pension Fund. As
+p.48| in order to develop their economies and realise          regards Denmark, non-resident investors hold a
+p.48| their growth potential. But it is also important         large part of Danish mortgage and government
+p.48| that countries with current account deficits do not      bonds, currently with low returns, while Danish
+p.48| accumulate too much foreign debt. Debt must be           investors have placed funds in foreign assets
+p.48| sustainable, or non-resident investors may lose          subject to higher risk and hence a larger expect-
+p.48| confidence in the country, which may then find it        ed return. In 2014, net assets of around kr. 860
+p.48| more difficult to finance the deficit.                   billion thus yielded net investment income of
+p.48|    However, countries which are growing may              just under kr. 75 billion, resulting in an implicit
+p.48| have a permanent current account surplus or              return of approximately 8.5 per cent. The high
+p.48|                                                          5   If the surplus is x per cent of BNP and nominal growth is
+p.48|                                                              y per cent, foreign assets will converge at x*(1+y)/y, e.g.
+p.48|                                                              (0.05*(1+0.04)/0.04)*100 = 130 per cent of GDP.
+p.48| 48                                                       DANMARKS NATIONALBANK MONETARY REVIEW 4TH QUARTER 2015

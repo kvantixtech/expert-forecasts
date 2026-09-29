@@ -1,7 +1,7 @@
 # nb-2020-09-page
 # url: https://www.nationalbanken.dk/da/viden-og-nyheder/publikationer-og-taler/arkiv-publikationer/2020/udsigter-for-dansk-oekonomi-udsigt-til-gradvis-genopretning-af-oekonomien
 # http: 200  bytes: 38140  sha256: 0548f61062b36cba86a06ecc74953450b08d5a34beccfc0fefc979dcde9c0b83
-# fetched: 2026-09-29T18:25:04Z
+# fetched: 2026-09-29T18:34:56Z
 # html page
 
 Ændret adfærd og tiltag til inddæmning af coronavirus har ramt dansk og international økonomi hårdt, og der er udsigt til et historisk stort tilbageslag i 1. halvår 2020. Siden medio april er dansk økonomi gradvist blevet åbnet op, og aktiviteten er taget til. BNP ventes at falde med 4,1 pct. i år, især på grund af udviklingen i årets første halvdel. Genopretningen ventes at være træg, særligt som følge af afdæmpet efterspørgsel fra udlandet. Økonomien skønnes dermed at være i en mild lavkonjunktur ved udgangen af 2022.

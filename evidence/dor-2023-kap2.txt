@@ -1,7 +1,7 @@
 # dor-2023-kap2
 # url: https://dors.dk/files/media/E23_Kap.II_.pdf
 # http: 200  bytes: 3226132  sha256: 9c2cc2d2233cf02827b4fe82561fbc676918da5f75917cabadfc38189aa24ea2
-# fetched: 2026-09-29T18:24:31Z
+# fetched: 2026-09-29T18:34:27Z
 # pages: 83  (lines below are quotes; p.N = PDF page)
 
 p.3: år. Til gengæld har der gennem 2022 og i første del af 2023 været
@@ -191,3 +191,127 @@ p.79: 2024-2033. Juni 2023.
 p.79: Grinderslev, D. og J. Smidt (2023): SMEC 2023. Udkommer november
 p.80: OECD (2023): Economic Outlook. Interim Report. September 2023.
 p.80: Økonomiministeriet (2023): Økonomisk Redegørelse, August 2023.
+
+# --- full text of p.4 (table layout, for column headers and notes) ---
+p.4| Konjunktur og offentlige finanser - Indledning II.1
+p.4|                                       skønnes at drive BNP-væksten i perioden, mens der har været en kon-
+p.4|                                       junkturafdæmpning i den resterende del af økonomien, jf. højre del af
+p.4|                                       figur II.1. En betydelig del af medicinalproduktionen eksporteres, og
+p.4|                                       eksporten er derfor også steget markant.
+p.4| Udsigt til lavere                     Det skønnes, at der er udsigt til en mere generel vækstafmatning i den
+p.4| vækst i Danmark                       internationale økonomi de kommende år, primært som konsekvens af
+p.4| og udlandet de                        gennemslaget af et fortsat højt renteniveau. De samlede vækstudsigter
+p.4| kommende år                           for international økonomi er omtrent som forudsat i Dansk Økonomi,
+p.4|                                       forår 2023. Den afdæmpede internationale aktivitet forringer afsæt-
+p.4|                                       ningsmulighederne for danske virksomheder, og sammen med de fort-
+p.4|                                       sat høje renter ventes det at medføre omtrent stilstand i økonomien
+p.4|                                       ekskl. medicinalindustrien i 2023-24. Høj vækst i medicinalindustrien i
+p.4|                                       år løfter dog den samlede BNP-vækst i 2023 til ca. 1¾ pct., og i 2024
+p.4|                                       ventes BNP at stige ca. 1¼ pct., jf. tabel II.1. Væksten i 2023-24 er
+p.4|                                       højere end i Dansk Økonomi, forår 2023, hovedsageligt som følge af
+p.4|                                       den markante fremgang i medicinalindustrien.
+p.4|      TABEL II.1          HOVEDTAL I PROGNOSEN
+p.4|      BNP ventes at stige ca. 1¾ pct. i år og ca.1¼ pct. næste år. I år drives væksten særligt af medici-
+p.4|      nalindustrien. Inflationen skønnes at aftage, men kommer først under 2 pct. i 2025.
+p.4|                                                                                                                     a)
+p.4|                                                           2022         2023         2024     2025          2030
+p.4|      BNP (realvækst i pct.)                                 2,7          1,7          1,3      0,6            1,1
+p.4|      Beskæftigelsesgap (pct.)                               2,9          3,0          2,2      1,3            0,0
+p.4|      Inflation (pct.)                                       7,5          3,8          2,6      1,7            1,4
+p.4|      Timeløn (pct.)                                         3,5          4,5          5,9      4,6            3,3
+p.4|      Offentlig saldo (pct. af BNP)                          3,4          1,8          1,1      1,1           -0,2
+p.4|      Strukturel offentlig saldo (pct. af BNP)               1,5          0,8          0,8      0,5           -0,2
+p.4|      ECB's indlånsrente (pct.)                              0,1          3,3          3,9      3,0            2,0
+p.4|      a)        Sidste søjle viser niveauet i 2030 for beskæftigelsesgap, offentlig og strukturel saldo samt rente. For
+p.4|                BNP, inflation og timeløn vises den gennemsnitlige årlige vækst fra 2025 til 2030.
+p.4|      Anm.:     Inflationen er udtrykt ved væksten i deflatoren for det private forbrug.
+p.4|      Kilde:    Danmarks Statistik, ADAM’s databank, Macrobond og egne beregninger.
+p.4| Beskæftigelsen                        De danske virksomheder har det seneste år fastholdt et højt antal med-
+p.4| ventes at falde                       arbejdere trods afmatning i produktionen, og beskæftigelsen er endda
+p.4|                                       fortsat med at vokse. Omtrent halvdelen af beskæftigelsesstigningen
+p.4|                                       skyldes personer med udenlandsk statsborgerskab. En analyse i ka-
+p.4|                                       pitlet viser, at en stigende andel af denne beskæftigelsesfremgang er
+p.4| 48            Dansk Økonomi, efterår 2023
+
+# --- full text of p.29 (table layout, for column headers and notes) ---
+p.29|                                     Konjunktur og offentlige finanser - Aktuelle udsigter for dansk økonomi II.3
+p.29| TABEL II.2         HOVEDTAL I FREMSKRIVNINGEN
+p.29|                                                                                                                   a)
+p.29|                                                  2022        2022      2023      2024       2025         2030
+p.29|                                               Mia. kr.    ----------------- Realvækst, pct. ------------------
+p.29| Privat forbrug                                  1.225         -1,4       0,0        1,2       2,4          3,4
+p.29| Offentligt forbrug                                 617        -2,8       2,0        2,2       1,5          1,2
+p.29| Offentlige investeringer                            89         0,3       3,7        0,9       2,6          1,4
+p.29| Boliginvesteringer                                 148        -8,5     -13,0       -2,0       1,7          3,7
+p.29| Erhvervsinvesteringer                              379         9,4      -4,1       -2,4      -0,6          1,1
+p.29| Lagerændringer                                      61         0,4      -1,6        0,0       0,0          0,0
+p.29| Indenlandsk efterspørgsel i alt                 2.517         -0,3      -2,6        0,7       1,7          2,4
+p.29| Eksport                                         1.983        10,8        9,6        3,1       1,9          1,8
+p.29| Import                                          1.668          6,5       4,6        2,6       3,9          4,0
+p.29| Bruttonationalprodukt                           2.832          2,7       1,7        1,3       0,6          1,1
+p.29| BVT, private byerhverv                          1.564          5,7       4,0        0,8       0,6          1,0
+p.29|                                           1.000 pers.     -------------- Ændring i 1.000 pers. --------------
+p.29| Strukturel arbejdsstyrke                        3.071           30        32          4          0            4
+p.29| Arbejdsstyrke                                   3.124           84        45        -13       -23            -2
+p.29| Beskæftigelse                                   3.059         112         37        -20       -27            -4
+p.29|                                                           ---------------------- 1.000 pers. -------------------
+p.29| Bruttoledighed                                                  76        84         93      102           119
+p.29|                                                          --------------------------- Pct. -------------------------
+p.29| Beskæftigelsesgap                                              2,9       3,0        2,2       1,3          0,0
+p.29| Forbrugerpriser                                                7,5       3,8        2,6       1,7          1,4
+p.29| Timelønsomkostninger                                           3,5       4,5        5,9       4,6          3,3
+p.29| Kontantpris på enfamiliehuse                                   0,5      -2,5        1,0       3,8          4,7
+p.29| Timeproduktivitet, private byerhverv                           0,4       3,0        2,2       2,2          1,4
+p.29| 30-årig dansk realkreditrente                                  3,8       4,9        4,9       4,5          4,4
+p.29|                                                           --------------------- Pct. af BNP -------------------
+p.29| Betalingsbalancen                                            13,5       12,3      13,4       12,6          7,4
+p.29| a)       Den sidste søjle viser niveauet i 2030 for ledighed, beskæftigelsesgap, rente og betalingsbalance. For
+p.29|          de øvrige poster vises den gennemsnitlige årlige vækst fra 2025 til 2030.
+p.29| Anm.:    Beskæftigelsesgap angiver afvigelsen fra den strukturelle beskæftigelse i pct. Forbrugerpriserne er ud-
+p.29|          trykt ved deflatoren for det private forbrug. Lagerinvesteringer angiver vækstbidraget til BNP. Renten er
+p.29|          angivet som årsgennemsnit.
+p.29| Kilde:   Danmarks Statistik, ADAM’s databank, Macrobond og egne beregninger.
+p.29|                                                                           Dansk Økonomi, efterår 2023                  73
+
+# --- full text of p.36 (table layout, for column headers and notes) ---
+p.36| Konjunktur og offentlige finanser - Aktuelle udsigter for dansk økonomi II.3
+p.36| Indenlandsk                     Mens lavere energipriser siden maj har trukket inflationen ned, er det
+p.36| prispres holder                 indenlandske prispres taget til i styrke. Det ses af stigningen i inden-
+p.36| inflationen oppe                landsk markedsbestemt inflation (IMI)17 og regulerede priser fra maj til
+p.36|                                 august i år. Det indenlandske prispres var i de første kvartaler af 2023
+p.36|                                 båret af højere enhedsprofitter blandt virksomheder i private byer-
+p.36|                                 hverv, som dog forventes normaliseret mod slutningen af 2023. Udvik-
+p.36|                                 lingen i resten af prognoseperioden afspejler dels, at de indenlandske
+p.36|                                 priser reagerer med en vis forsinkelse på højere inputomkostninger,
+p.36|                                 dels at der er indregnet et prispres fra udsigten til stigende lønomkost-
+p.36|                                 ninger. Der er fortsat et betydeligt pres på arbejdsmarkedet, og de fak-
+p.36|                                 tiske lønstigninger forventes at overstige de aftalte stigninger i over-
+p.36|                                 enskomsterne. Det høje indenlandske prispres forventes dog at aftage
+p.36|                                 i de kommende år i takt med, at der sker en gradvis genopretning af
+p.36|                                 reallønnen.
+p.36| Inflationen forventes           Samlet set forventes nettoprisinflationen at aftage gennem resten af
+p.36| at aftage, men                  2023 for derefter at stabilisere sig omkring 2¼ pct. i 2024 og ca. 2 pct.
+p.36| forblive høj i 2023-24          i 2025. Aftalen om midlertidig suspendering af elafgiften betyder imid-
+p.36|                                 lertid, at inflationen målt som stigningen i forbrugerpriserne er lavere i
+p.36|                                 første halvår af 2023 end stigningen i nettopriserne, og omvendt i 2024.
+p.36|                                 Det indebærer, at forbrugerprisinflationen som årsgennemsnit forven-
+p.36|                                 tes at blive ca. 3¾ pct. i 2023, ca. 2½ pct. i 2024 og knap 2 pct. i 2025.
+p.36|                                 Til sammenligning forventer ECB en inflation i euroområdet på 5,6 pct.
+p.36|                                 i 2023, 3,2 pct. i 2024 og 2,1 pct. i 2025.18 Det tyder på, at inflations-
+p.36|                                 presset i Danmark aftager hurtigere end i euroområdet i 2023 og fortsat
+p.36|                                 vil være lavere frem mod 2025. Det skal dog understreges, at inflati-
+p.36|                                 onsskønnet er præget af betydelig usikkerhed, herunder særligt rela-
+p.36|                                 teret til energiprisudviklingen i det kommende halvår, jf. risikoscenarier
+p.36|                                 beskrevet i afsnit II.2.
+p.36|                                 BOLIGMARKEDSUDVIKLINGEN
+p.36| Boligprisfald er                Boligmarkedet har været i modvind det seneste år med stigende renter
+p.36| vendt til fremgang              samt høje el- og varmeudgifter. Det har vist sig i kraftigt faldende bo-
+p.36|                                 ligpriser gennem 2022 og de første måneder af 2023, jf. figur II.19.
+p.36|                                 Boligmarkedet ser dog ud til at have stabiliseret sig med tendens til
+p.36|                                 fremgang henover sommeren 2023. Indikatorer tyder således på sti-
+p.36|                                 17) Indenlandsk markedsbestemt inflation refererer til udviklingen i markedsbestemte dan-
+p.36|                                     ske priser på varer og tjenester, og er udtryk for det underliggende prispres i Danmark.
+p.36|                                 18) ECB’s inflationstal er opgjort som HICP (Harmonised Index of Consumer Prices), hvil-
+p.36|                                     ket beregningsteknisk afviger fra inflationen målt ved ændringer i det danske forbruger-
+p.36|                                     prisindeks. De to inflationsmål er dog generelt tæt forbundet.
+p.36| 80        Dansk Økonomi, efterår 2023

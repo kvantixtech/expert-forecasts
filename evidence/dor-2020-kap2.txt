@@ -1,7 +1,7 @@
 # dor-2020-kap2
 # url: https://dors.dk/files/media/rapporter/2020/e20/endelig_rapport/e20_kap.ii_konjunktur_og_offentlige_finanser.pdf
 # http: 200  bytes: 4563937  sha256: c0ce3be23d2c61b6004f2104e3318e3604e44980d4b0aa26b788c0c117657d04
-# fetched: 2026-09-29T18:24:17Z
+# fetched: 2026-09-29T18:34:15Z
 # pages: 95  (lines below are quotes; p.N = PDF page)
 
 p.3: de kommende år  |  ventes, at BNP i 2021 er tilbage på samme niveau som i 2019. Det er
@@ -259,3 +259,44 @@ p.13| Anm.:    Lagerændringer angiver vækstbidraget til BNP. Beskæftigelsesga
 p.13|          relle beskæftigelse målt i personer. Forbrugerpriserne er udtrykt ved deflatoren for det private forbrug.
 p.13| Kilde:   Danmarks Statistik, ADAM’s databank og egne beregninger.
 p.13|                                                                           Dansk Økonomi, efterår 2020                51
+
+# --- full text of p.39 (table layout, for column headers and notes) ---
+p.39|                                            Konjunktur og offentlige finanser - Dansk økonomi frem mod 2025 II.2
+p.39|   TABEL II.3          HOVEDTAL I DE TO SCENARIER
+p.39|   I det pessimistiske scenarie er der større tilbagegang end i hovedscenariet, hvilket blandt andet
+p.39|   indebærer en forringelse af de offentlige finanser.
+p.39|                                                    Hovedscenarie                      Pessim istisk scenarie
+p.39|                                              2020       2021          2025a)        2020        2021           2025a)
+p.39|                                            ----------------------------------- Pct. -----------------------------------
+p.39|    Privat forbrug                             -3,6        3,7          3,7            -4,0        2,2           3,6
+p.39|    Boliginvesteringer                          3,4        3,1          0,7             2,5       -1,3           2,0
+p.39|    Erhvervsinvesteringer                      -6,4        3,8          0,6            -8,8       -6,7           2,2
+p.39|    Eksport                                   -12,4        9,0          5,5          -13,3         4,9           6,4
+p.39|    Import                                    -10,1        7,7          5,6          -11,1         3,1           6,6
+p.39|    Bruttonationalprodukt                      -3,6        3,8          2,3            -4,2        1,5           2,5
+p.39|                                            ----------------------------------- Pct. -----------------------------------
+p.39|    Output gap                                 -2,9       -1,8          0,0            -3,1       -3,7          -0,3
+p.39|                                             ------------------------------ 1.000 pers. ------------------------------
+p.39|    Beskæftigelsesgap                           -43        -41            0            -56       -101             -7
+p.39|    Ledighed                                    124        121           84            132        166             96
+p.39|                                            ----------------------------------- Pct. -----------------------------------
+p.39|    Timelønomkostninger                         2,0        1,9          2,7             1,7        1,0           2,0
+p.39|    Kontantpris på boliger                      3,0        3,0          1,6             1,5       -3,5           3,2
+p.39|    Realvækst i aftagerlande                   -5,1        4,7          2,5            -5,6        2,2           3,0
+p.39|                                              ------------------------------ Pct. af BNP ------------------------------
+p.39|    Offentlig saldo                            -4,1       -2,2         -0,4            -4,4       -3,9          -0,8
+p.39|    ØMU-gæld                                   45,9       44,4        53,0            46,2        46,1         58,2
+p.39|   a)        Søjlerne angiver den gennemsnitlige årlige vækst fra 2021 til 2025. For output gap, beskæftigelsesgap,
+p.39|             ledighed, offentlig saldo og ØMU-gæld viser søjlen dog niveauet i 2025.
+p.39|   Anm.:     Output gap angiver den procentvise afvigelse i forhold til det strukturelle niveau i det pågældende sce-
+p.39|             narie.
+p.39|   Kilde:    Egne beregninger med SMEC, jf. boks II.6.
+p.39| Større usikkerhed                 Eksporten falder yderligere i forhold til hovedscenariet som følge af
+p.39| bidrager til                      den større produktionsnedgang i udlandet. Dette kombineret med en
+p.39| investeringsfald …                større usikkerhed blandt virksomhederne fører i det pessimistiske sce-
+p.39|                                   narie til, at erhvervsinvesteringerne falder med godt 15 pct. samlet
+p.39|                                   henover i år og næste år, hvilket er godt 10 pct.point mere end i hoved-
+p.39|                                   scenariet. Dermed er investeringskvoten i 2021 reduceret med godt 2
+p.39|                                   pct.point i forhold til niveauet i 2019. Faldet i investeringskvoten er der-
+p.39| … og lavere forbrug               med i dette scenarie i omtrent samme størrelsesorden, som det var
+p.39|                                                                              Dansk Økonomi, efterår 2020                  77

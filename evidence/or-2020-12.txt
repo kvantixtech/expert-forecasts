@@ -1,7 +1,7 @@
 # or-2020-12
 # url: https://fm.dk/media/xxgfxm2j/oekonomisk-redegoerelse-december-2020_web.pdf
 # http: 200  bytes: 2646719  sha256: 7210ae7495f512c832b5c3a140e3cf089971d8aa0df7649ee2164fb7edcd45cd
-# fetched: 2026-09-29T18:21:46Z
+# fetched: 2026-09-29T18:31:43Z
 # pages: 205  (lines below are quotes; p.N = PDF page)
 
 p.7: 1.3 Bilagstabel ..........................................................................................................  |  25
@@ -641,3 +641,251 @@ p.202: BNP (realvækst, pct.)  |  -  |  -  |  1,4  |  4,0  |  4,2  |  2,8
 p.202: Forbrugerpriser (ændring, pct.)  |  -  |  -  |  1,6  |  1,2  |  1,2  |  1,2
 p.202: BNP (realvækst, pct.)  |  -  |  -  |  -  |  -  |  -  |  3,1
 p.202: Forbrugerpriser (ændring, pct.)  |  -  |  -  |  -  |  -  |  -  |  1,6
+
+# --- full text of p.20 (table layout, for column headers and notes) ---
+p.20|      Kapitel 1                                                                                                  Sammenfatning
+p.20|        Tabel 1.1
+p.20|        Centrale skøn vedrørende tilrettelæggelsen af finanspolitikken
+p.20|                                                                                       2020             2021            20224)
+p.20|         Strukturel saldo, pct. af strukturelt BNP                                      -0,2              -0,4             -0,3
+p.20|         Faktisk saldo, pct. af BNP                                                     -3,5              -1,3             -1,5
+p.20|         ØMU-gæld, pct. af BNP                                                          43,4             40,9              41,5
+p.20|         Offentlig forbrugsvækst, pct.1)                                                 2,5              1,4              -0,3
+p.20|         Flerårig finanseffekt, pct. af BNP2)                                            2,5              3,1               2,3
+p.20|                                                           2)
+p.20|         Flerårig beskæftigelseseffekt, 1.000 personer                                    79               54                44
+p.20|         Outputgab, pct.3)                                                              -2,0              -0,6              0,0
+p.20|         Beskæftigelsesgab, pct.3)                                                      -0,2              -0,2              0,0
+p.20|        1)     Det offentlige forbrug er opgjort ved inputmetoden inkl. afskrivninger. Den skønnede offentlige forbrugsvækst
+p.20|               er beregningsteknisk forudsat ens ved henholdsvis input- og outputmetoden. Skønnet for den offentlige for-
+p.20|               brugsvækst i prognoseårene er stærkt påvirket af de ekstraordinære udgifter til COVID-19-indsatser.
+p.20|        2)     Beregnet mål for finanspolitikkens efterspørgselsvirkning (niveaueffekt ift. 2019) på BNP og beskæftigelse,
+p.20|               opgjort ekskl. virkningen af strukturreformer på kapacitetsudnyttelsen. Virkningen er inkl. bidrag fra de midler-
+p.20|               tidige hjælpepakker, udbetaling af indefrosne feriepenge og offentligt initierede investeringer.
+p.20|        3)     Beregnet mål for, hvor langt produktion og beskæftigelse er fra deres strukturelle niveauer. Når gabene er
+p.20|               negative, indikerer det flere ledige ressourcer i økonomien end i en normal konjunktursituation.
+p.20|        4)     Skønnene for 2022 er baseret på beregningstekniske forudsætninger om finanspolitikken for 2022.
+p.20|        Kilde: Danmarks Statistik og egne beregninger.
+p.20|      Den skønnede offentlige forbrugsvækst på 2,5 pct. i 2020 og 1,4 pct. i 2021 samt den be-
+p.20|      regningstekniske forudsatte forbrugsvækst på -0,3 pct. i 2022 er stærkt påvirket af de
+p.20|      ekstraordinære udgifter til COVID-19-indsatser navnlig på sundhedsområdet, der for-
+p.20|      ventes afholdt i 2020 og 2021. Når der korrigeres for disse forhold, herunder især at der
+p.20|      i 2020 og 2021 er ekstraordinære midlertidige udgifter, som påvirker væksten mellem
+p.20|      årene, skønnes forbrugsvæksten til 1,2 pct. i 2020, 1,4 pct. i 2021 og 0,9 pct. i 2022.
+p.20|      Faktisk offentlig saldo og gæld i Danmark og udlandet
+p.20|      I 2020 skønnes et underskud på den faktiske offentlige saldo på ca. 3½ pct. af BNP,
+p.20|      mens underskuddet forventes at blive mærkbart lavere i 2021 og 2022, jf. figur 1.13. Det
+p.20|      indebærer et markant omsving i den offentlige saldo fra overskud i 2019 til underskud i
+p.20|      2020, svarende til en svækkelse på knap 7½ pct. af BNP. Svækkelsen af de offentlige fi-
+p.20|      nanser skal ses i lyset af de markante hjælpepakker og det økonomiske tilbageslag, her-
+p.20|      under de store automatiske stabilisatorer i Danmark.
+p.20|      Omsvinget er et groft mål for, hvor meget de offentlige finanser bidrager til at dæmpe
+p.20|      indkomstfaldet i den private sektor fra 2019 til 2020 og derigennem dæmpe de negative
+p.20|      virkninger af det økonomiske tilbageslag. Den betydelige svækkelse af den offentlige
+p.20|      saldo vurderes således at være afstemt med den svære økonomiske situation. Hvis der
+p.20|      ikke var taget betydelige skridt for at understøtte økonomien, ville tilbageslaget have væ-
+p.20|      ret væsentligt større – og dermed også have store afledte negative konsekvenser for de
+p.20|      offentlige finanser.
+p.20| 18   Økonomisk Redegørelse ꞏ December 2020
+
+# --- full text of p.27 (table layout, for column headers and notes) ---
+p.27| Kapitel 1                                                                                                      Sammenfatning
+p.27| 1.3 Bilagstabel
+p.27|   Tabel 1.3
+p.27|   Nøgletal fra vurderingen i december og sammenligning med skøn fra august
+p.27|                                                            2020                             2021                  2022
+p.27|                                                    Aug.           Dec.           Aug.              Dec.           Dec.
+p.27|    Realvækst, pct.
+p.27|    Privatforbrug                                     -2,8           -4,0            4,7               5,1            2,0
+p.27|    Samlet offentlig efterspørgsel                     2,9           2,7             0,9               2,0            0,2
+p.27|    - heraf offentligt forbrug                         2,2           2,5             0,6               1,4            -0,3
+p.27|    - heraf offentlige investeringer                   7,9           4,5             3,4               6,4            3,6
+p.27|    Boliginvesteringer                                -0,5           4,7             3,2               4,3            0,2
+p.27|    Faste erhvervsinvesteringer                      -12,2           -4,0            -0,5             -2,1            7,0
+p.27|    Lagerændringer (vækstbidrag)                      -0,9           -0,3            0,8               0,0            0,0
+p.27|    I alt indenlandsk efterspørgsel                   -3,2           -1,8            3,7               3,1            2,0
+p.27|    Eksport                                          -10,2          -10,0            6,2               4,1            6,7
+p.27|    - heraf industrieksport                           -8,3           -4,5            6,0               2,4            3,3
+p.27|    Samlet efterspørgsel                              -5,8           -5,0            4,6               3,5            3,7
+p.27|    Import                                            -8,6           -7,4            5,5               4,8            5,1
+p.27|    - heraf vareimport                                -7,0           -3,1            5,0               3,0            2,8
+p.27|    BNP                                               -4,5           -3,8            4,2               2,8            3,1
+p.27|    Bruttoværditilvækst                               -4,8           -4,1            4,3               2,7            3,2
+p.27|    - heraf i private byerhverv                       -5,7           -4,6            5,2               3,1            4,2
+p.27|    Ændring i 1.000 personer
+p.27|    Arbejdsstyrke                                          -8             7              8                 7           19
+p.27|    Beskæftigelse                                      -50           -23              17               15              26
+p.27|    - heraf i den private sektor                       -56           -25              15               13              24
+p.27|    - heraf i offentlig forvaltning og service             6              2              2                 2              2
+p.27|    Bruttoledighed                                     43             29              -9                   -7          -7
+p.27|    Konjunkturgab, pct.
+p.27|    Outputgab                                         -3,1           -2,0            -1,1             -0,6            0,0
+p.27|    Beskæftigelsesgab                                 -1,1           -0,2            -1,0             -0,2            0,0
+p.27|    Bruttoledighedsgab                                 0,9           0,4             0,6               0,1            0,0
+p.27|   Kilde: Danmarks Statistik og egne beregninger.
+p.27|                                                                              Økonomisk Redegørelse ꞏ December 2020             25
+
+# --- full text of p.28 (table layout, for column headers and notes) ---
+p.28|      Kapitel 1                                                                                         Sammenfatning
+p.28|        Tabel 1.3 (fortsat)
+p.28|        Nøgletal fra vurderingen i december og sammenligning med skøn fra august
+p.28|                                                                2020                     2021              2022
+p.28|                                                         Aug.          Dec.       Aug.          Dec.       Dec.
+p.28|         Stigning, pct.
+p.28|         Huspriser (enfamiliehuse)                          -1,5         3,3          1,9         2,9             2,3
+p.28|         Forbrugerprisindeks                                 0,3         0,5          1,2         1,2             1,6
+p.28|                                   1)
+p.28|         Timeløn i privat sektor                             2,1         2,2          2,4         2,4             2,6
+p.28|         Real disponibel indkomst, husholdninger             1,3         2,4          3,4         1,3             2,5
+p.28|         Timeproduktiviteten i private byerhverv            -0,4         -1,1         2,3         0,2             2,7
+p.28|         Pct.
+p.28|         Rente, 1-årigt flekslån                            -0,6         -0,5        -0,4        -0,5            -0,4
+p.28|         Rente, 10-årig statsobligation                     -0,3         -0,4        -0,3        -0,4            -0,4
+p.28|         Rente, 30-årig realkreditobligation                 1,2         1,1          1,3         1,0             1,1
+p.28|         Offentlige finanser
+p.28|         Faktisk offentlig saldo (mia. kr.)                  -88         -81         -56          -31             -38
+p.28|         Faktisk offentlig saldo (pct. af BNP)              -3,9         -3,5        -2,4        -1,3            -1,5
+p.28|         Strukturel offentlig saldo (pct. af BNP)           -0,4         -0,2        -0,5        -0,4            -0,3
+p.28|         ØMU-gæld (pct. af BNP)                             46,3        43,4        41,9         40,9            41,5
+p.28|         Arbejdsmarked
+p.28|         Arbejdsstyrke (1.000 personer)                    3.092       3.111       3.100        3.118        3.137
+p.28|         Beskæftigelse (inkl. orlov, 1.000 personer)       2.948       2.979       2.965        2.995        3.021
+p.28|         Bruttoledighed (årsgns., 1.000 personer)            147         133         138         126             119
+p.28|         Bruttoledighed (i pct. af arbejdsstyrken)           4,8         4,3          4,4         4,0             3,8
+p.28|         Eksterne forudsætninger
+p.28|         Handelsvægtet BNP-vækst i udlandet, pct.           -7,4         -5,4         5,3         2,7             3,9
+p.28|         Eksportmarkedsvækst (industrivarer), pct.         -15,1         -9,7         9,0         4,8             5,6
+p.28|         Dollarkurs (kr. pr. dollar)                         6,6         6,5          6,4         6,2             6,2
+p.28|         Oliepris, dollar pr. tønde                         41,9        41,6        47,4         48,4            50,9
+p.28|         Betalingsbalance
+p.28|         Betalingsbalancesaldo (mia. kr.)                    125         162         133         160             187
+p.28|         Betalingsbalancesaldo (pct. af BNP)                 5,6         7,1          5,7         6,7             7,5
+p.28|        Kilde: Danmarks Statistik, EU-Kommissionen, Macrobond, Dansk Arbejdsgiverforening og egne beregninger.
+p.28| 26   Økonomisk Redegørelse ꞏ December 2020
+
+# --- full text of p.148 (table layout, for column headers and notes) ---
+p.148|       Kapitel 8                                                                                    Offentlige finanser og finanspolitik
+p.148|       8.1 Den faktiske offentlige saldo
+p.148|       Med udgangspunkt i den aktuelle vurdering af konjunktursituationen og forudsætnin-
+p.148|       gerne om den økonomiske politik skønnes et faktisk offentligt underskud på ca. 80 mia.
+p.148|       kr. eller 3,5 pct. af BNP i 2020, som ventes at aftage til et underskud på godt 30 mia. kr.
+p.148|       eller 1,3 pct. af BNP i 2021 efterfulgt af et underskud på knap 40 mia. kr. eller 1,5 pct. af
+p.148|       BNP i 2022, jf. tabel 8.1.
+p.148|         Tabel 8.1
+p.148|         Oversigt over den faktiske offentlige saldo
+p.148|                                                            2018                2019             2020              2021              2022
+p.148|          Offentlig saldo, mia. kr.                         15,6                88,3             -80,6             -31,1             -38,1
+p.148|          Offentlig saldo, pct. af BNP                        0,7                 3,8             -3,5              -1,3                 -1,5
+p.148|         Kilde: Danmarks Statistik og egne beregninger.
+p.148|       Der er således udsigt til offentlige underskud både i år og i de kommende år. Under-
+p.148|       skuddene er imidlertid af en størrelsesorden, der ikke er unormal for tider med økono-
+p.148|       miske kriser. Samtidigt er de aktuelt skønnede underskud noget mindre end tidligere
+p.148|       vurderet.
+p.148|         Figur 8.1
+p.148|         Faktisk offentlig saldo sammenholdt med tidligere vurderinger
+p.148|         Pct. af BNP                                                                                                              Pct. af BNP
+p.148|          10                                                                                                                               10
+p.148|           5                                                                                                                               5
+p.148|           0                                                                                                                               0
+p.148|           -5                                                                                                                              -5
+p.148|          -10                                                                                                                              -10
+p.148|                2007   2008   2009    2010   2011   2012   2013     2014   2015    2016   2017    2018     2019   2020     2021   2022
+p.148|                                 Maj 2020                         August 2020                            December 2020
+p.148|         Anm.: Der udarbejdes for første gang konjunkturskøn for den faktiske offentlige saldo i 2022 i indeværende vurde-
+p.148|                ring. Den faktiske saldo kan i enkeltår påvirkes kraftigt af engangsforhold ud over konjunkturerne. Det gælder
+p.148|                eksempelvis engangsudgifter til COVID-19 tiltag, ikke mindst i 2020, og i modsat retning fx engangsindtægter
+p.148|                fra omlægning af kapitalpensioner i 2013-2015 og fra udbetaling af indefrosne feriemidler i 2020 og 2021.
+p.148|         Kilde: Danmarks Statistik og egne beregninger.
+p.148|       Det forventede underskud i 2020 er således i samme størrelsesorden som de realiserede
+p.148|       underskud i perioden 2009-2012 i kølvandet på den økonomiske krise, jf. figur 8.1. I
+p.148| 146   Økonomisk Redegørelse ꞏ December 2020
+
+# --- full text of p.155 (table layout, for column headers and notes) ---
+p.155| Kapitel 8                                                                               Offentlige finanser og finanspolitik
+p.155|   Tabel 8.3
+p.155|   Fra faktisk til strukturel saldo
+p.155|                                                                                    2019       2020       2021       2022
+p.155|    Pct. af BNP
+p.155|    1. Faktisk saldo                                                                  3,8       -3,5       -1,3       -1,5
+p.155|    Heraf bidrag til den faktiske saldo fra:
+p.155|    2. Konjunktursituationen                                                          0,5       -0,7       -0,3        0,0
+p.155|    3. Selskabsskat1)                                                                 0,5       -0,1        0,0        0,1
+p.155|    4. Registreringsafgift                                                            0,1        0,0        0,0       -0,1
+p.155|    5. Aktieskat                                                                      0,1        0,0        0,0        0,0
+p.155|    6. Pensionsafkastskat                                                             1,6       -0,4       -0,4       -0,7
+p.155|    7. Nordsøindtægter2)                                                              0,0        0,0       -0,1       -0,1
+p.155|    8. Nettorentebetalinger og udbytter1)                                             0,1        0,0        0,1        0,2
+p.155|    9. Specielle budgetposter3)                                                       0,3       -0,6       -0,2       -0,6
+p.155|    10. Øvrige forhold4)                                                              0,0       -1,5       -0,1        0,0
+p.155|    - Heraf COVID-19-relaterede engangstiltag                                         0,0       -2,1       -0,5        0,0
+p.155|    - Heraf engangsindtægter fra udbetaling af indefrosne feriepenge                  0,0        0,8        0,5        0,0
+p.155|    11. Strukturel saldo (1-2-3-4-5-6-7-8-9-10)5)                                     0,7       -0,2       -0,4       -0,3
+p.155|    Illustrativ strukturel saldo inkl. COVID-19 engangsforhold6)                      0,6       -2,3       -0,9       -0,3
+p.155|    Memopost: Sammenvejet konjunkturgab                                               0,7       -0,9       -0,4        0,0
+p.155|   1)     Ekskl. indtægter vedrørende aktiviteter i Nordsøen.
+p.155|   2)     Det strukturelle niveau er baseret på det strukturelle provenu, der blev beregnet ved fastsættelse af udgiftslof-
+p.155|          terne (hhv. Opdateret 2020-forløb, september 2015 for 2019, 2020-fremskrivning fra august 2016 for 2020,
+p.155|          2025-fremskrivning fra august 2017 for 2021 og Opdateret 2025-forløb fra 2018 for 2022) justeret for holdbar-
+p.155|          hedsvirkningen af ændringer i de fremtidige nordsøprovenuer i forhold til skønnet ved loftfastsættelsen, jf.
+p.155|          notatet ”Metodejustering for strukturelle indtægter fra Nordsøen” på www.fm.dk. Den varige virkning af de op-
+p.155|          daterede provenuskøn svarer til ca. -0,13 pct. af BNP i 2019, -0,09 pct. af BNP i 2020, -0,07 pct. af BNP i
+p.155|          2021 og -0,06 pct. af BNP i 2022. Herudover justeres provenuet for de direkte konsekvenser for nordsøind-
+p.155|          tægterne af aftale om genopretning af Tyra-feltet. Der er i de viste skøn taget højde for virkningen på den fi-
+p.155|          nanspolitiske holdbarhed af Aftale om fremtiden for olie- og gasindvinding i Nordsøen af 3. december 2020.
+p.155|    3)    I 2020 er der korrigeret for en række udgifter direkte relateret til inddæmning og afbødning af COVID-19 sva-
+p.155|          rende til i alt ca. 9,6 mia. kr. I 2021 og 2022 er der korrigeret for tilbagebetaling af ejendomsskatter som følge
+p.155|          af Forlig om tryghed om boligbeskatningen (maj 2017). Det er beregningsteknisk forudsat, at tilbagebetalin-
+p.155|          gen til boligejerne udgør ca. 1,3 mia. kr. i 2021 og 12,5 mia. kr. i 2022. I 2022 er der også korrigeret for udbe-
+p.155|          taling af efterlønsbidrag i forbindelse med Aftale om ny ret til tidlig pension svarende til ca. 2,1 mia. kr.
+p.155|   4)     Der er korrigeret for en række udgifter (netto) direkte relateret til inddæmning og afbødning af COVID-19 sva-
+p.155|          rende til i alt ca. 48,5 mia. kr. i 2020 og 11,3 mia. kr. i 2021. Hertil kommer engangsskatteindtægterne fra ud-
+p.155|          betalingen af indefrosne feriepenge på ca. 17,8 mia. kr. i 2020 og 11,5 mia. kr. i 2021. I 2020 er der også kor-
+p.155|          rigeret for udbetaling af opsparede midler i Arbejdsgivernes Uddannelsesbidrag mv. på godt 4½ mia. kr. I
+p.155|          2019 er der korrigeret for nye oplysninger om de offentlige indtægter, som endnu ikke vurderes afspejlet i
+p.155|          Danmarks Statistiks opgørelse af den faktiske offentlige saldo, ligesom der er korrigeret for, at året er påvirket
+p.155|          af, at der i omlægningen af beskatningen af eksisterende kapitalpensioner i 2013-2014 fremrykkedes indtæg-
+p.155|          ter fra 2014-2019. I 2019-2022 er der endvidere korrigeret for investeringen i kampfly, som planlægges i peri-
+p.155|          oden 2021-2026, men påvirker den strukturelle saldo gennem et syvårs glidende gennemsnit. Øvrige forhold
+p.155|          indeholder endvidere forskelle i tilsagnsniveau og afløb for udviklingsbistanden og omregning fra pct. af fak-
+p.155|          tisk BNP til pct. af strukturelt BNP.
+p.155|   5)     Strukturel saldo opgjort i pct. af strukturelt BNP.
+p.155|   6)     Opgjort inkl. COVID-19-engangsforhold samt hertil relateret tilbageløb på selskabsskat og aktieskat.
+p.155|   Kilde: Danmarks Statistik og egne beregninger.
+p.155|                                                                               Økonomisk Redegørelse ꞏ December 2020            153
+
+# --- full text of p.202 (table layout, for column headers and notes) ---
+p.202|        Bilagstabeller
+p.202|        Tabel B.23
+p.202|        Skøn på forskellige tidspunkter over centrale størrelser
+p.202|                                                   Dec.        Aug.        Dec.    Maj   Aug.   Dec.
+p.202|                                                   2018        2019        2019   2020   2020   2020
+p.202|         2019
+p.202|         BNP (realvækst, pct.)                       1,7         1,7        2,0    2,4    2,3    2,8
+p.202|         Bruttoledighed (1.000 personer)            103          103        104   104    104    104
+p.202|         Forbrugerpriser (ændring, pct.)             1,5         1,0        0,8    0,8    0,8    0,8
+p.202|                                       1)
+p.202|         Betalingsbalance (mia. kr.)                128          141        178   183    181    207
+p.202|         Samlet offentlig saldo (mia. kr.)            -2          44         59    85     88     88
+p.202|         2020
+p.202|         BNP (realvækst, pct.)                       1,6         1,6        1,5   -5,3   -4,5   -3,8
+p.202|         Bruttoledighed (1.000 personer)              99         101        105   146    147    133
+p.202|         Forbrugerpriser (ændring, pct.)             1,8         1,4        1,2    0,2    0,3    0,5
+p.202|                                       1)
+p.202|         Betalingsbalance (mia. kr.)                122          136        171   130    125    162
+p.202|         Samlet offentlig saldo (mia. kr.)            -3          10         -6   -160    -88    -81
+p.202|         2021
+p.202|         BNP (realvækst, pct.)                          -              -    1,4    4,0    4,2    2,8
+p.202|         Bruttoledighed (1.000 personer)                -              -    108   138    138    126
+p.202|         Forbrugerpriser (ændring, pct.)                -              -    1,6    1,2    1,2    1,2
+p.202|                                       1)
+p.202|         Betalingsbalance (mia. kr.)                    -              -    168   162    133    160
+p.202|         Samlet offentlig saldo (mia. kr.)              -              -     -5    -43    -56    -31
+p.202|         2022
+p.202|         BNP (realvækst, pct.)                          -              -      -      -      -    3,1
+p.202|         Bruttoledighed (1.000 personer)                -              -      -      -      -   119
+p.202|         Forbrugerpriser (ændring, pct.)                -              -      -      -      -    1,6
+p.202|         Betalingsbalance (mia. kr.) 1)                 -              -      -      -      -   187
+p.202|         Samlet offentlig saldo (mia. kr.)              -              -      -      -      -    -39
+p.202|        1)     Angiver saldoen på betalingsbalancens løbende poster.
+p.202|        Kilde: Danmarks Statistik og egne beregninger.
+p.202| 200   Økonomisk Redegørelse ∙ December 2020

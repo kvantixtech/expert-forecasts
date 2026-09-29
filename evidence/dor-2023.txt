@@ -1,7 +1,7 @@
 # dor-2023
 # url: https://dors.dk/files/media/Dansk_oekonomi_efteraar_2023.pdf
 # http: 200  bytes: 8737260  sha256: e5c8b04b247c0bfc6ae2850d68191139eac1409aca0975a4cbf1601459675dd2
-# fetched: 2026-09-29T18:23:46Z
+# fetched: 2026-09-29T18:33:47Z
 # pages: 389  (lines below are quotes; p.N = PDF page)
 
 p.14: fra 2019 til 2024, og finanspolitikken burde derfor – alt andet lige –
@@ -426,3 +426,89 @@ p.81|          trykt ved deflatoren for det private forbrug. Lagerinvesteringer 
 p.81|          angivet som årsgennemsnit.
 p.81| Kilde:   Danmarks Statistik, ADAM’s databank, Macrobond og egne beregninger.
 p.81|                                                                           Dansk Økonomi, efterår 2023                  73
+
+# --- full text of p.88 (table layout, for column headers and notes) ---
+p.88| Konjunktur og offentlige finanser - Aktuelle udsigter for dansk økonomi II.3
+p.88| Indenlandsk                     Mens lavere energipriser siden maj har trukket inflationen ned, er det
+p.88| prispres holder                 indenlandske prispres taget til i styrke. Det ses af stigningen i inden-
+p.88| inflationen oppe                landsk markedsbestemt inflation (IMI)17 og regulerede priser fra maj til
+p.88|                                 august i år. Det indenlandske prispres var i de første kvartaler af 2023
+p.88|                                 båret af højere enhedsprofitter blandt virksomheder i private byer-
+p.88|                                 hverv, som dog forventes normaliseret mod slutningen af 2023. Udvik-
+p.88|                                 lingen i resten af prognoseperioden afspejler dels, at de indenlandske
+p.88|                                 priser reagerer med en vis forsinkelse på højere inputomkostninger,
+p.88|                                 dels at der er indregnet et prispres fra udsigten til stigende lønomkost-
+p.88|                                 ninger. Der er fortsat et betydeligt pres på arbejdsmarkedet, og de fak-
+p.88|                                 tiske lønstigninger forventes at overstige de aftalte stigninger i over-
+p.88|                                 enskomsterne. Det høje indenlandske prispres forventes dog at aftage
+p.88|                                 i de kommende år i takt med, at der sker en gradvis genopretning af
+p.88|                                 reallønnen.
+p.88| Inflationen forventes           Samlet set forventes nettoprisinflationen at aftage gennem resten af
+p.88| at aftage, men                  2023 for derefter at stabilisere sig omkring 2¼ pct. i 2024 og ca. 2 pct.
+p.88| forblive høj i 2023-24          i 2025. Aftalen om midlertidig suspendering af elafgiften betyder imid-
+p.88|                                 lertid, at inflationen målt som stigningen i forbrugerpriserne er lavere i
+p.88|                                 første halvår af 2023 end stigningen i nettopriserne, og omvendt i 2024.
+p.88|                                 Det indebærer, at forbrugerprisinflationen som årsgennemsnit forven-
+p.88|                                 tes at blive ca. 3¾ pct. i 2023, ca. 2½ pct. i 2024 og knap 2 pct. i 2025.
+p.88|                                 Til sammenligning forventer ECB en inflation i euroområdet på 5,6 pct.
+p.88|                                 i 2023, 3,2 pct. i 2024 og 2,1 pct. i 2025.18 Det tyder på, at inflations-
+p.88|                                 presset i Danmark aftager hurtigere end i euroområdet i 2023 og fortsat
+p.88|                                 vil være lavere frem mod 2025. Det skal dog understreges, at inflati-
+p.88|                                 onsskønnet er præget af betydelig usikkerhed, herunder særligt rela-
+p.88|                                 teret til energiprisudviklingen i det kommende halvår, jf. risikoscenarier
+p.88|                                 beskrevet i afsnit II.2.
+p.88|                                 BOLIGMARKEDSUDVIKLINGEN
+p.88| Boligprisfald er                Boligmarkedet har været i modvind det seneste år med stigende renter
+p.88| vendt til fremgang              samt høje el- og varmeudgifter. Det har vist sig i kraftigt faldende bo-
+p.88|                                 ligpriser gennem 2022 og de første måneder af 2023, jf. figur II.19.
+p.88|                                 Boligmarkedet ser dog ud til at have stabiliseret sig med tendens til
+p.88|                                 fremgang henover sommeren 2023. Indikatorer tyder således på sti-
+p.88|                                 17) Indenlandsk markedsbestemt inflation refererer til udviklingen i markedsbestemte dan-
+p.88|                                     ske priser på varer og tjenester, og er udtryk for det underliggende prispres i Danmark.
+p.88|                                 18) ECB’s inflationstal er opgjort som HICP (Harmonised Index of Consumer Prices), hvil-
+p.88|                                     ket beregningsteknisk afviger fra inflationen målt ved ændringer i det danske forbruger-
+p.88|                                     prisindeks. De to inflationsmål er dog generelt tæt forbundet.
+p.88| 80        Dansk Økonomi, efterår 2023
+
+# --- full text of p.166 (table layout, for column headers and notes) ---
+p.166| Finanspolitisk holdbarhed - Sammenligning med regeringen III.5
+p.166|                                på saldoen. Regeringens fremskrevne saldo undervurderer således
+p.166|                                den egentlige udvikling i de samlede finanser, fordi den systematiske
+p.166|                                årlige gevinst, der ligger i disse kursstigninger, ikke medregnes. De
+p.166|                                udgør i de fleste år i fremskrivningen ca. 0,7 pct. af BNP. Indregnede
+p.166|                                man beregningsteknisk disse omvurderinger i saldoen, ville hængekø-
+p.166|                                jen i regeringens saldo således mindskes betydeligt, jf. figur III.10.
+p.166| Mange forskelle,               Der er mange andre forskelle i beregningsforudsætningerne mellem
+p.166| der delvist udligner           de to fremskrivninger, der dog trækker i lidt forskellige retninger, både
+p.166| hinanden                       hvad niveauet for holdbarhedsindikatoren og vurderingen af saldoud-
+p.166|                                viklingen i den såkaldte hængekøjeperiode i årene omkring 2040 an-
+p.166|                                går. I tabel III.5 ses betydningen af en række af disse, hvor der trinvist
+p.166|                                indlægges en række forudsætninger i fremskrivningen, der i højere
+p.166|                                grad svarer til regeringens.
+p.166| Ændrede antagelser             I regeringens fremskrivning er antagelserne om produktivitetsvæksten
+p.166| om vækst og                    og inflationen anderledes end hos formandskabet. I tabellens række 2
+p.166| inflation forbedrer            og 3 vises konsekvensen af at antage en lavere produktivitetsvækst
+p.166| HBI kraftigt                   (1,1 i stedet for 1,5 pct.) og lavere generel (udenlandsk) inflation (1,8 i
+p.166|                                stedet for 2 pct.). De to ændringer forbedrer begge holdbarheden med
+p.166|                                tilsammen 0,6 pct. af BNP. Samtidig bliver saldoudviklingen forbedret,
+p.166|                                i 2040 med 0,3 pct. af BNP.
+p.166| Lavere                         At en lavere produktivitetsvækst, som jo indebærer en ringere generel
+p.166| produktivitetsvækst            velstandsudvikling over tid for samfundet, forbedrer de offentlige finan-
+p.166| forbedrer saldoen              ser, kan forekomme paradoksalt. Det er imidlertid et almindeligt resul-
+p.166|                                tat i makroøkonomiske modeller for dansk økonomi, jf. blandt andet
+p.166|                                også Velfærdskommissionen (2004), Dansk Økonomi, forår 2010 og
+p.166|                                Dansk Økonomi, efterår 2016. Ofte siger man forenklende, at produk-
+p.166|                                tivitetsvækst er neutral for de offentlige finanser, fordi produktivitets-
+p.166|                                væksten forøger både de offentlige (skatte-)indtægter og udgifter i
+p.166|                                samme takt. Dette er også korrekt for de fleste indtægts- og udgiftspo-
+p.166|                                ster, men der er nogle vigtige undtagelser. På indtægtssiden afhænger
+p.166|                                nogle skattebaser ikke kun af produktivitets- og BNP-væksten, men
+p.166|                                også af renten. Det gælder i særdeleshed beskatningen af de danske
+p.166|                                pensionsformuer. Når renten vokser relativt til produktivitetsvæksten,
+p.166|                                vil disse indtægter derfor vokse som andel af BNP. På udgiftssiden
+p.166|                                falder udgifterne til offentlige investeringer derudover som andel af
+p.166|                                BNP, idet der skal færre løbende investeringer til at opretholde et givet
+p.166|                                K/Y-forhold i den offentlige sektor, når vækstraten i økonomien er min-
+p.166|                                dre. Begge disse forhold forøger overskuddet på den offentlige saldo,
+p.166|                                målt som andel af BNP.
+p.166| 158       Dansk Økonomi, efterår 2023

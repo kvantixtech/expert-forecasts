@@ -1,0 +1,173 @@
+# nb-2019-09
+# url: https://www.nationalbanken.dk/media/n2war15y/analysis-no-20-outlook-for-the-danish-economy-september-2019.pdf
+# http: 200  bytes: 507938  sha256: 25b3ca3174ad521c6849b88c3d721725ae47ddaca929077b753e8ab842e3a1c7
+# fetched: 2026-09-29T18:35:18Z
+# pages: 29  (lines below are quotes; p.N = PDF page)
+
+p.2: to 1.5 per cent in 2020 and 2021, which is roughly  |  should not be seen as an indication that a down­
+p.2: 2018  |  2019
+p.2: per cent  |  2018  |  2019  |  2020  |  2021  |  Q4  |  Q1  |  Q2
+p.2: GDP (real), per cent  |  1.5  |  1.8  |  1.5  |  1.5  |  0.8  |  0.2  |  0.8
+p.2: Employment, 1,000 persons  |  2,971  |  3,011  |  3,036  |  3,058  |  2,986  |  3,000  |  3,008
+p.2: Current account, per cent of GDP  |  5.7  |  7.0  |  6.6  |  6.2  |  7.1  |  5.6  |  9.4
+p.2: Government balance, per cent of GDP  |  0.6  |  2.2  |  -0.3  |  -0.5  |  0.0  |  2.3  |  2.7
+p.2: House prices1, per cent year-on-year  |  3.8  |  2.4  |  3.5  |  3.0  |  3.3  |  2.3  |  2.2
+p.2: Consumer prices, per cent year-on-year  |  0.7  |  0.8  |  1.0  |  1.5  |  0.7  |  1.2  |  0.7
+p.2: 2.4  |  2.4  |  2.8  |  3.1  |  2.4  |  2.3  |  2.2
+p.3: tional product, GDP, of 2.1 per cent in 2015-18. This  |  abroad
+p.3: half of 2019 with GDP growth of 2.1 per cent relative
+p.3: largest trading partners, cf. Chart 1. In Europe,  |  2015  |  2016  |  2017  |  2018  |  2019
+p.3: 16, August 2019.  |  trends), No. 19, September 2019.
+p.4: 2015  |  2016  |  2017  |  2018  |  2019  |  2020  |  2021
+p.4: cities reflects, inter alia, a considerable volume of  |  to 1.5 per cent in 2020 and 2021, slightly weaker
+p.5: remain around 1.5 per cent of potential GDP.
+p.8: consumption.  |  labour force, GDP is reduced by around 1.0 per cent, and
+p.8: From the 1st quarter of 2013 to the 4th quarter of 2018,  |  2018. In the model, the increased pressure on the labour
+p.8: GDP  |  approx. 1.0 per cent
+p.9: by around 1.5 per cent, which is close to the aver­  |  HICP
+p.9: for consumer price developments, i.e. a measure of  |  2.0
+p.9: Index of Consumer Prices, HICP, rose by 0.5 per cent  |  100
+p.10: 3.5 per cent next year and 3.0 per cent in 2021.  |  interest rates during the projection period, employ­
+p.10: Higher employment, accelerating wage growth and  |  ing years. In 2020 and 2021, disbursements of excess
+p.12: per cent of GDP this year to 6.2 per cent in 2021. So,
+p.12: Large government surplus this year  |  2013  |  2014  |  2015  |  2016  |  2017  |  2018  |  2019
+p.12: tax and a number of major temporary factors are  |  0.3 per cent of GDP is expected.
+p.12: budget balance during the upswing has been much  |  In 2020 and 2021, small government budget deficits
+p.14: 2018  |  2019
+p.14: Real growth on preceding period, per cent  |  2018  |  2019  |  2020  |  2021  |  Q4  |  Q1  |  Q2
+p.14: GDP  |  1.5  |  1.8  |  1.5  |  1.5  |  0.8  |  0.2  |  0.8
+p.14: Private consumption1  |  2.2  |  1.6  |  2.2  |  2.1  |  0.4  |  0.2  |  0.4
+p.14: Public consumption  |  0.9  |  0.8  |  0.9  |  0.7  |  0.5  |  0.0  |  0.3
+p.14: Residential investment  |  4.8  |  3.4  |  3.4  |  2.6  |  0.2  |  1.8  |  0.5
+p.14: Public investment  |  0.1  |  3.0  |  -0.2  |  3.5  |  1.6  |  -0.3  |  2.0
+p.14: Business investment  |  8.7  |  -4.2  |  4.8  |  3.1  |  -1.4  |  2.3  |  -2.2
+p.14: 0.2  |  -0.1  |  0.0  |  0.0  |  0.1  |  0.3  |  -1.2
+p.14: Exports  |  0.4  |  2.5  |  2.1  |  2.3  |  0.9  |  0.1  |  3.3
+p.14: Industrial exports  |  3.0  |  7.4  |  2.6  |  2.8  |  4.6  |  2.2  |  5.0
+p.14: Imports  |  3.3  |  0.1  |  3.4  |  3.2  |  0.0  |  0.9  |  -0.2
+p.14: Employment, 1,000 persons  |  2,971  |  3,011  |  3,036  |  3,058  |  2,986  |  3,000  |  3,008
+p.14: Current account, per cent of GDP  |  5.7  |  7.0  |  6.6  |  6.2  |  7.1  |  5.6  |  9.4
+p.14: Government balance, per cent of GDP  |  0.6  |  2.2  |  -0.3  |  -0.5  |  0.0  |  2.3  |  2.7
+p.14: House prices3, per cent year-on-year  |  3.8  |  2.4  |  3.5  |  3.0  |  3.3  |  2.3  |  2.2
+p.14: Consumer prices (HICP), per cent year-on-year  |  0.7  |  0.8  |  1.0  |  1.5  |  0.7  |  1.2  |  0.7
+p.14: 2.4  |  2.4  |  2.8  |  3.1  |  2.4  |  2.3  |  2.2
+p.15: 2016  |  2017  |  2018  |  2019
+p.15: part of the economy is not affected by the damp­  |  to a fall in GDP of 0.1 per cent in the 2nd quarter, cf.
+p.16: in the 2nd quarter. Among the reasons for the  |  2012  |  2013  |  2014  |  2015  |  2016  |  2017  |  2018  |  2019
+p.17: easing, while in the euro area they mask the stag­  |  2013  |  2014  |  2015  |  2016  |  2017  |  2018  |  2019
+p.17: 2019 to 2020 is due to accommodative financial
+p.19: siderably since 2018, and GDP fell by 0.1 per cent in the 2nd  |  the automotive industry is driven by demand. Thus, global
+p.19: quarter of 2019. The underlying momentum in the German  |  car sales declined in 2018 for the first time since the financial
+p.21: expects inflation to rise from 1.5 per cent in 2019 to
+p.21: sumer Prices, HICP, was 1.0 per cent in August. Thus,  |  2008, Q1  |  2013, Q1  |  Current
+p.21: inflation to gradually rise to 1.5 per cent in 2021 due
+p.22: Missing inflationary pressures and falling inflation  |  1.5
+p.22: deposit facility by 10 basis points from -0.40 per cent  |  Core inflation
+p.22: to -0.50 per cent. Following the interest rate cut,  |  Core inflation
+p.22: activity and thus inflation.  |  1.6
+p.22: chases of bonds until a short period before it starts  |  2016  |  2017  |  2018  |  2019
+p.22: 2019 to March 2021, where the ECB will offer long-term loans to
+p.23: and lengthy periods of low inflation contribute to  |  2.5
+p.23: 2016  |  2017  |  2018  |  2019  |  2020
+p.26: in 2019 and 3.1 per cent and 3.2 per cent, respective­  |  in the projection are based on the expectations of
+p.26: ly, in 2020 and 2021. This is weaker than previously ex­  |  future developments that can be derived from term
+p.26: 2018  |  2019  |  2020  |  2021
+p.26: Export market growth, per cent year-on-year  |  3.4  |  2.6  |  3.1  |  3.2
+p.26: 2.9  |  2.0  |  1.7  |  1.5
+p.26: Foreign hourly wages, per cent year-on-year  |  2.7  |  2.5  |  2.7  |  2.6
+p.26: 3-month money market interest rate, per cent p.a.  |  -0.5  |  -0.6  |  -0.8  |  -0.9
+p.26: Average bond yield, per cent p.a.  |  0.7  |  0.5  |  0.4  |  0.4
+p.26: Effective krone rate, 1980 = 100  |  103.6  |  103.1  |  103.4  |  103.4
+p.27: to just over 0.4 per cent by the end of 2021.  |  Forecasts for GDP growth are adjusted upwards by
+p.27: In the projection, the effective krone rate and the  |  percentage points in 2020 and 0.1 percentage points
+p.27: under 57 dollars by the end of 2021.  |  in interest rate developments in 2020 and 2021.
+p.27: Economic Survey from August 2019, the medium-term  |  ment, while in 2020 and 2021 it reflects weaker price
+p.27: Per cent, year-on-year  |  2019  |  2020  |  2021  |  2019  |  2020  |  2021
+p.27: Projection, March 2019  |  1.7  |  1.7  |  1.6  |  1.2  |  1.5  |  1.8
+p.27: Export market growth  |  -0.1  |  -0.2  |  -0.1  |  0.0  |  0.0  |  0.0
+p.27: Interest rates  |  0.0  |  0.2  |  0.2  |  0.0  |  0.0  |  0.0
+p.27: Exchange rates  |  0.1  |  -0.1  |  -0.1  |  0.0  |  0.0  |  0.0
+p.27: Oil prices  |  0.0  |  0.0  |  0.0  |  0.0  |  -0.2  |  0.0
+p.27: Other factors  |  0.0  |  -0.2  |  -0.1  |  -0.4  |  -0.4  |  -0.2
+p.27: This projection  |  1.8  |  1.5  |  1.5  |  0.8  |  1.0  |  1.5
+
+# --- full text of p.2 (table layout, for column headers and notes) ---
+p.2| A N A LY S I S — D A N M A R K S N AT I O N A L B A N K                                                                           2
+p.2| OUTLOOK FOR THE DANISH ECONOMY – SEPTEMBER 2019
+p.2| Outlook for the Danish economy
+p.2| at a glance
+p.2| •    The upswing in the Danish economy continued in                     •   In the housing market, prices of owner-occupied
+p.2|      the 1st half of 2019. This means that the economy                      flats have slowed down in the larger cities. In the
+p.2|      has so far defied the slowdown seen in several of                      Copenhagen market for flats, this reflects that
+p.2|      Denmark’s largest trading partners over the past                       ­prices are more aligned with income develop­
+p.2|      year.                                                                   ments, housing supply, interest rates, etc.
+p.2| •    The labour market is showing the first signs of a                  •    Risks linked to the growth outlook are mostly­
+p.2|      minor slowdown. There has been a slight increase                        downside risks, associated with a stronger­-than-
+p.2|      in unemployment over recent months, and employ­                         expected slowdown in global growth, a possible
+p.2|      ment has slowed down over the past two months.                          hard Brexit and/or an escalation ­of the US-China
+p.2| •    Labour market pressures have eased, and wage                            trade conflict.
+p.2|      increases have flattened. Price pressures are also                 •    Demand could grow faster than expected.
+p.2|      low. The immediate risk of labour market over­                          Many homeowners have taken advantage of
+p.2|      heating is low.                                                         low interest rates to refinance mortgage debt.
+p.2| •    Prospects are for lower export market growth.                           If homeowners also use this opportunity to raise
+p.2|      Eventually, this will also affect the Danish economy.                   additional borrowing, this could further boost
+p.2| •    After several years of boom, growth is set to de­                       consumption – although consumers have been
+p.2|      celerate slightly over the coming years. GDP is ex­                     quite cautious so far during the upswing.
+p.2|      pected to grow by 1.8 per cent this year, declining                •    Slightly lower growth rates in the coming years
+p.2|      to 1.5 per cent in 2020 and 2021, which is roughly                      should not be seen as an indication that a down­
+p.2|      in line with potential.                                                 turn is on the way and that fiscal policy should
+p.2| •    So far, the current boom has been balanced –                            be eased. The economy is currently operating
+p.2|      underpinned by growth in the labour supply                              slightly above potential. It is important to keep
+p.2|      rather than driven by credit growth. So, overall,                       the labour market reforms in place to support
+p.2|      the Danish economy is well prepared for address­                        sustained healthy employment growth.
+p.2|      ing slightly lower growth.
+p.2|     Key economic variables
+p.2|                                                                                                    2018              2019
+p.2|     Real growth against the previous year,
+p.2|     per cent                                            2018    2019         2020      2021          Q4        Q1           Q2
+p.2|     GDP (real), per cent                                  1.5     1.8          1.5       1.5        0.8        0.2          0.8
+p.2|     Employment, 1,000 persons                           2,971   3,011        3,036     3,058      2,986      3,000      3,008
+p.2|     Gross unemployment, 1,000 persons                    108     104          100        95         105       104           104
+p.2|     Current account, per cent of GDP                      5.7     7.0          6.6       6.2        7.1        5.6          9.4
+p.2|     Government balance, per cent of GDP                   0.6     2.2         -0.3      -0.5        0.0        2.3          2.7
+p.2|     House prices1, per cent year-on-year                  3.8     2.4          3.5       3.0        3.3        2.3          2.2
+p.2|     Consumer prices, per cent year-on-year                0.7     0.8          1.0       1.5        0.7        1.2          0.7
+p.2|     Hourly wages2 (manufacturing),
+p.2|                                                           2.4     2.4          2.8       3.1        2.4        2.3          2.2
+p.2|     per cent year-on-year
+p.2|     1.Nominal prices of single-family houses.
+p.2|     2.Statistics Denmark’s implicit wage index.
+p.2|     Source:     Statistics Denmark and own forecasts.
+
+# --- full text of p.14 (table layout, for column headers and notes) ---
+p.14| A N A LY S I S — D A N M A R K S N AT I O N A L B A N K                                                                                            14
+p.14| OUTLOOK FOR THE DANISH ECONOMY – SEPTEMBER 2019
+p.14|   Central forecasts from the projection                                                                                                Table 1
+p.14|                                                                                                                      2018            2019
+p.14|   Real growth on preceding period, per cent                          2018       2019        2020        2021           Q4      Q1           Q2
+p.14|   GDP                                                                  1.5        1.8         1.5         1.5          0.8     0.2          0.8
+p.14|   Private consumption1                                                 2.2        1.6         2.2         2.1          0.4     0.2          0.4
+p.14|   Public consumption                                                   0.9        0.8         0.9         0.7          0.5     0.0          0.3
+p.14|   Residential investment                                               4.8        3.4         3.4         2.6          0.2     1.8          0.5
+p.14|   Public investment                                                    0.1        3.0        -0.2         3.5          1.6    -0.3          2.0
+p.14|   Business investment                                                  8.7        -4.2        4.8         3.1         -1.4     2.3          -2.2
+p.14|   Inventory investment, etc.   2
+p.14|                                                                        0.2        -0.1        0.0         0.0          0.1     0.3          -1.2
+p.14|   Exports                                                              0.4        2.5         2.1         2.3          0.9     0.1          3.3
+p.14|        Industrial exports                                              3.0        7.4         2.6         2.8          4.6     2.2          5.0
+p.14|   Imports                                                              3.3        0.1         3.4         3.2          0.0     0.9          -0.2
+p.14|   Employment, 1,000 persons                                         2,971       3,011      3,036       3,058         2,986   3,000     3,008
+p.14|   Gross unemployment, 1,000 persons                                   108         104        100           95         105     104           104
+p.14|   Current account, per cent of GDP                                     5.7        7.0         6.6         6.2          7.1     5.6          9.4
+p.14|   Government balance, per cent of GDP                                  0.6        2.2        -0.3        -0.5          0.0     2.3          2.7
+p.14|   House prices3, per cent year-on-year                                 3.8        2.4         3.5         3.0          3.3     2.3          2.2
+p.14|   Consumer prices (HICP), per cent year-on-year                        0.7        0.8         1.0         1.5          0.7     1.2          0.7
+p.14|   Hourly wages (manufacturing),
+p.14|                  4
+p.14|                                                                        2.4        2.4         2.8         3.1          2.4     2.3          2.2
+p.14|   per cent year-on-year
+p.14|   1. Includes both households and non-profit institutions serving households, NPISH.
+p.14|   2. Contribution to GDP growth (this item comprises inventory investment, valuables and statistical discrepancy).
+p.14|   3. Nominal prices of single-family houses.
+p.14|   4. Statistics Denmark’s implicit wage index.
+p.14|   Source: Statistics Denmark and own forecasts.

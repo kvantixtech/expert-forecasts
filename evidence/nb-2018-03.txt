@@ -1,7 +1,7 @@
 # nb-2018-03
 # url: https://www.nationalbanken.dk/media/a5fl4m0b/analyse-moderat-hoejkonjunktur-i-de-kommende-aar.pdf
 # http: 200  bytes: 437248  sha256: 96d4f17f6134aeada2552f9bbe3549760138992493516a6acdb93f7b834eb4ad
-# fetched: 2026-09-29T18:22:31Z
+# fetched: 2026-09-29T18:32:41Z
 # pages: 21  (lines below are quotes; p.N = PDF page)
 
 p.2: •  |  Det reale BNP skønnes at vokse med 1,9 pct. i år,
@@ -67,3 +67,92 @@ p.19: Valutakurser  |  0,0  |  -0,3  |  0,0  |  0,0  |  -0,1  |  -0,1
 p.19: Oliepriser  |  0,0  |  0,0  |  -0,1  |  0,1  |  0,5  |  -0,1
 p.19: Andre faktorer  |  -0,3  |  0,3  |  0,0  |  -0,1  |  -1,1  |  -0,1
 p.19: Denne prognose  |  2,1  |  1,9  |  1,8  |  1,1  |  0,7  |  1,5
+
+# --- full text of p.2 (table layout, for column headers and notes) ---
+p.2| A N A LY S E — D A N M A R K S N AT I O N A L B A N K                                                                            2
+p.2| UDSIGTER FOR DANSK ØKONOMI – MARTS 2018
+p.2| Udsigter for dansk
+p.2| økonomi på en side
+p.2| •    Opsvinget i dansk økonomi er fortsat i anden                    •   I takt med at økonomien bevæger sig længere
+p.2|      halvdel af 2017, og dansk økonomi har taget hul                     ind i højkonjunkturen, er det naturligt med lidt
+p.2|      på en højkonjunktur.                                                lavere vækstrater, når virksomhedernes kapacitet
+p.2| •    Der er også et opsving i gang på Danmarks                           bliver mere presset.
+p.2|      eksportmarkeder, og euroområdet og USA er i                     •   Prognosens opadrettede risici knytter sig til, at
+p.2|      begyndelsen af en højkonjunktur. Det giver gode                     væksten i især det private forbrug og investerin-
+p.2|      muligheder for dansk eksport.                                       gerne kan blive ganske kraftig. Forbrugskvoten
+p.2| •    Herhjemme er fremgangen indtil videre forløbet                      er lav, og investeringerne kan blive højere, hvis
+p.2|      balanceret, bl.a. hjulpet på vej af tidligere aftalte               der opstår udbredt kapacitetspres. De nedadret-
+p.2|      reformer, der understøtter fremgangen i beskæf-                     tede risici knytter sig især til de eksterne forhold,
+p.2|      tigelsen.                                                           herunder udviklingen i USA.
+p.2| •    Der er få ledige ressourcer på arbejdsmarkedet.                 •   Med udsigt til en højkonjunktur er det vigtigt, at
+p.2|      Men manglen på arbejdskraft har endnu ikke for                      finanspolitikken ikke skubber yderligere til efter-
+p.2|      alvor medført højere nominelle lønstigninger.                       spørgslen i økonomien.
+p.2| •    Forbrugerpriserne udvikler sig fortsat svagt,                   •   Regeringen bør samtidig være forberedt på med
+p.2|      og det underliggende prispres i økonomien er                        kort varsel at kunne iværksætte en forebyggende
+p.2|      moderat.                                                            finanspolitisk opstramning for at dæmpe efter-
+p.2| •    Stærke stimuli skubber på efterspørgslen. For-                      spørgslen, hvis der er tegn på overophedning.
+p.2|      brugertilliden er høj, og der er optimisme blandt               •   Det er, når det går godt, at den økonomiske po-
+p.2|      virksomhederne. Der er gode forudsætninger for                      litik skal udvise mådehold og sørge for, at der er
+p.2|      fortsat fremgang.                                                   noget at stå imod med efter en højkonjunktur.
+p.2| •    Det reale BNP skønnes at vokse med 1,9 pct. i år,
+p.2|      1,8 pct. til næste år og 1,7 pct. i 2020, og beskæf-
+p.2|      tigelsen øges med knap 75.000 personer frem
+p.2|      mod slutningen af 2020.
+p.2|     Centrale økonomiske størrelser
+p.2|                                                                                                           2017
+p.2|                                                      2017    2018         2019       2020       2. kvt.    3. kvt.     4. kvt.
+p.2|     BNP (realt), pct.                                  2,1     1,9          1,8       1,7         -1,2       -0,8         1,0
+p.2|     Beskæftigelse, 1.000 personer                    2.923   2.963        2.989     3.008       2.917       2.929      2.942
+p.2|     Ledighed, brutto, 1.000 personer                  117     109          102         97         116        119         115
+p.2|     Betalingsbalance, pct. af BNP                      7,5     7,7          7,3       6,8          8,4           7,2      6,7
+p.2|     Offentlig saldo, pct. af BNP                       0,5    -0,9         -1,0       -0,6         0,1       -1,1         2,3
+p.2|     Huspriser1, pct. år-år                             3,9     3,2          2,8       2,5          4,4           3,9      3,7
+p.2|     Forbrugerpriser (HICP), pct. år-år                 1,1     0,7          1,5       1,6          0,7           1,5      1,2
+p.2|     Timeløn (industrien), pct. år-år                   2,1     2,5          3,0       3,3          2,0           2,3      2,0
+p.2|     1. Nominelle priser på enfamiliehuse.
+p.2|     Kilde: Danmarks Statistik og egne beregninger.
+
+# --- full text of p.11 (table layout, for column headers and notes) ---
+p.11| A N A LY S E — D A N M A R K S N AT I O N A L B A N K                                                                                             11
+p.11| UDSIGTER FOR DANSK ØKONOMI – MARTS 2018
+p.11| øges tilstrækkeligt i et scenarie, hvor væksten er                            Protektionistiske ideer har de seneste år fyldt en del
+p.11| noget højere end forudset i prognosen. En sådan                               i den internationale økonomisk-politiske debat. Se-
+p.11| situation forstærkes, hvis efterspørgslen fra udlandet                        nest har den amerikanske præsident indført en told
+p.11| samtidig bliver større end ventet.                                            på stål og aluminium. Kommer der større protekti-
+p.11|                                                                               onistiske tiltag, der hæmmer verdenshandlen, har
+p.11| Omvendt knytter prognosens nedadrettede risici sig                            det potentialet til på længere sigt at ramme dansk
+p.11| hovedsageligt til udviklingen i udlandet. I USA er der                        økonomi hårdt. Danmark er afhængig af handel med
+p.11| vedtaget en række finanspolitiske tiltag, der udvider                         udlandet. En stor del af det igangværende opsving
+p.11| det i forvejen store budgetunderskud og indebærer                             og udsigten til fortsat fremgang skyldes udenlandsk
+p.11| en risiko for, at amerikansk økonomi kan blive over-                          efterspørgsel efter danske varer og tjenester og
+p.11| ophedet. En overophedning og/eller statsfinansielle                           danske virksomheders og forbrugeres adgang til
+p.11| ubalancer i USA kan medføre rentestigninger på                                udenlandsk producerede varer. Adgang til udenland-
+p.11| kortere sigt og en markant lavkonjunktur nogle år                             ske markeder er selve fundamentet for den danske
+p.11| senere – i en situation med begrænsede muligheder                             velstand.
+p.11| for at afbøde recessionen via finanspolitikken. Det vil
+p.11| ramme det danske boligmarked og eksporten.
+p.11|    Centrale økonomiske størrelser                                                                                                       Tabel 1
+p.11|                                                                                                                              2017
+p.11|    Realvækst i forhold til perioden før, pct.                         2017       2018        2019           2020   2. kvt.    3. kvt.   4. kvt.
+p.11|    BNP                                                                  2,1        1,9         1,8           1,7     -1,2       -0,8       1,0
+p.11|    Privat forbrug1                                                      1,5        2,2         2,3           2,2      0,4       -1,1       1,3
+p.11|    Offentligt forbrug                                                   1,1        1,0         0,8           0,8      0,3        0,1       1,0
+p.11|    Boliginvesteringer                                                   4,8        4,2         3,8           4,0      0,9        1,4       5,2
+p.11|    Offentlige investeringer                                            -4,5        -1,1        0,2           0,5      4,6       -3,5       6,4
+p.11|    Erhvervsinvesteringer                                                3,9        3,6         4,7           4,9      3,7        2,8      -1,9
+p.11|    Lagerinvesteringer mv.    2
+p.11|                                                                         0,1        0,0         0,0           0,0     -0,4       -0,3       0,4
+p.11|    Eksport                                                              4,6        2,1         2,7           2,9     -2,3       -0,7       1,3
+p.11|         Industrieksport                                                 6,9        2,8         3,6           3,7      2,4       -1,7       0,3
+p.11|    Import                                                               4,1        2,5         3,8           3,9      0,7       -0,3       2,5
+p.11|    Beskæftigelse, 1.000 personer                                     2.923       2.963      2.989       3.008      2.917      2.929     2.942
+p.11|    Ledighed, brutto, 1.000 personer                                    117         109        102            97      116        119       115
+p.11|    Betalingsbalance, pct. af BNP                                        7,5        7,7         7,3           6,8      8,4        7,2       6,7
+p.11|    Offentlig saldo, pct. af BNP                                         0,5        -0,9       -1,0          -0,6      0,1       -1,1       2,3
+p.11|    Huspriser3, pct. år-år                                               3,9        3,2         2,8           2,5      4,4        3,9       3,7
+p.11|    Forbrugerpriser (HICP), pct. år-år                                   1,1        0,7         1,5           1,6      0,7        1,5       1,2
+p.11|    Timeløn (industrien), pct. år-år                                     2,1        2,5         3,0           3,3      2,0        2,3       2,0
+p.11|    1. Omfatter både husholdninger og NPISH.
+p.11|    2. Bidrag til BNP-vækst (posten omfatter lagerinvesteringer, værdigenstande og statistisk diskrepans).
+p.11|    3. Nominelle priser på enfamiliehuse.
+p.11|    Kilde: Danmarks Statistik og egne beregninger.
