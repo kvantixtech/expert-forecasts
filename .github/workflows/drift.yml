@@ -1,0 +1,47 @@
+name: drift
+
+# Once a month: has Statistics Denmark revised any outcome since the published results?
+# Writes drift/REPORT.md and opens an issue when something changed. Never touches data/,
+# results/ or the website; published results change only in a new, dated edition.
+on:
+  schedule:
+    - cron: "23 6 4 * *"
+  workflow_dispatch:
+  push:
+    paths: ["tools/drift.py", ".github/workflows/drift.yml"]
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: fetch
+  cancel-in-progress: false
+
+jobs:
+  drift:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Compare with Statistics Denmark
+        id: drift
+        run: python3 tools/drift.py | tee -a "$GITHUB_STEP_SUMMARY"
+      - name: Commit the report
+        run: |
+          git add drift/REPORT.md
+          if ! git diff --cached --quiet; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git commit -qm "drift: checked $(date -u +%F)"
+            for i in 1 2 3; do git pull -q --rebase -X theirs && git push -q && break; sleep 5; done
+          fi
+      - name: Open an issue when outcomes changed
+        if: steps.drift.outputs.changed != ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if [ -z "$(gh issue list --state open --search 'Statistics Denmark revised in:title' --json number --jq '.[].number')" ]; then
+            gh issue create \
+              --title "Statistics Denmark revised ${{ steps.drift.outputs.changed }} outcome(s)" \
+              --body "The monthly drift check found outcomes that differ from the published results. See [drift/REPORT.md](../blob/main/drift/REPORT.md). The published results are unchanged. Decide whether it is time for a new, dated edition (see CHANGELOG.md)."
+          fi

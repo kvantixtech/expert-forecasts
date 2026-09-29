@@ -24,6 +24,13 @@ Full tables, including the first-estimate comparison, direction and year by year
 
 Each forecaster is scored on the index it forecasts: the government on CPI, the Nationalbank on HICP, De Økonomiske Råd on the private consumption deflator.
 
+## Updates
+
+The results are a dated edition: Statistics Denmark data fetched on 29 September 2026. They don't change by themselves.
+
+- **Every month** the [`drift`](.github/workflows/drift.yml) workflow checks whether Statistics Denmark has revised any outcome and writes [`drift/REPORT.md`](drift/REPORT.md). If something changed, it opens an issue. It never changes the published results.
+- **Once a year**, after Statistics Denmark's first GDP figure for the previous year (end of February), a new edition adds that year's forecasts and refreshed outcomes. The old edition stays in the history, and the changelog says what changed.
+
 ## How to check it
 
 ```

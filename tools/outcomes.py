@@ -19,8 +19,8 @@ DST = os.path.join(ROOT, "data", "dst")
 YEARS = range(2014, 2026)
 
 
-def rows(name):
-    with open(os.path.join(DST, name), encoding="utf-8-sig") as fh:
+def rows(name, dst=DST):
+    with open(os.path.join(dst, name), encoding="utf-8-sig") as fh:
         return list(csv.DictReader(fh, delimiter=";"))
 
 
@@ -30,21 +30,21 @@ def r2(x):
     return str(Decimal(repr(x)).quantize(Decimal("0.01"), rounding=ROUND_HALF_UP))
 
 
-
-
-def main():
+def build(dst=DST):
+    """Outcome rows from the StatBank CSVs in `dst` plus data/first_estimates.csv."""
+    rows_ = lambda name: rows(name, dst)
     out = []
     note = "Statistics Denmark StatBank table {} via api.statbank.dk"
-    for r in rows("NAN1-gdp-real-growth.csv"):
+    for r in rows_("NAN1-gdp-real-growth.csv"):
         y = int(r["TID"])
         if y in YEARS and r["INDHOLD"] not in ("..", ""):
             out.append({"index": "gdp", "year": y, "vintage": "latest", "value": r["INDHOLD"], "source": note.format("NAN1")})
-    for r in rows("PRIS9-cpi-annual.csv"):
+    for r in rows_("PRIS9-cpi-annual.csv"):
         y = int(r["TID"])
         if y in YEARS:
             out.append({"index": "cpi", "year": y, "vintage": "latest", "value": r["INDHOLD"], "source": note.format("PRIS9")})
     months = {}
-    for r in rows("PRIS07-hicp-index.csv"):
+    for r in rows_("PRIS07-hicp-index.csv"):
         y, m = int(r["TID"][:4]), r["TID"][5:]
         months.setdefault(y, {})[m] = float(r["INDHOLD"])
     avg = {y: sum(v.values()) / 12 for y, v in months.items() if len(v) == 12}
@@ -53,7 +53,7 @@ def main():
             out.append({"index": "hicp", "year": y, "vintage": "latest", "value": r2(100 * (avg[y] / avg[y - 1] - 1)),
                         "source": note.format("PRIS07") + "; annual average of the monthly index, computed"})
     cur, fixed = {}, {}
-    for r in rows("NAN1-private-consumption-deflator.csv"):
+    for r in rows_("NAN1-private-consumption-deflator.csv"):
         if r["INDHOLD"] in ("..", ""):
             continue
         (cur if r["PRISENHED"].startswith("Current") else fixed)[int(r["TID"])] = float(r["INDHOLD"])
@@ -68,6 +68,11 @@ def main():
             out.append({"index": "gdp", "year": int(r["year"]), "vintage": "first", "value": r["value"],
                         "source": f"{r['release']} ({r['date']}), evidence/{r['source_id']}.txt"})
     out.sort(key=lambda r: (r["vintage"] != "latest", r["index"], r["year"]))
+    return out
+
+
+def main():
+    out = build()
     with open(os.path.join(ROOT, "data", "outcomes.csv"), "w", newline="", encoding="utf-8") as fh:
         w = csv.DictWriter(fh, fieldnames=["index", "year", "vintage", "value", "source"])
         w.writeheader()
