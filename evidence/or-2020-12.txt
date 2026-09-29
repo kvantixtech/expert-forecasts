@@ -1,7 +1,7 @@
 # or-2020-12
 # url: https://fm.dk/media/xxgfxm2j/oekonomisk-redegoerelse-december-2020_web.pdf
 # http: 200  bytes: 2646719  sha256: 7210ae7495f512c832b5c3a140e3cf089971d8aa0df7649ee2164fb7edcd45cd
-# fetched: 2026-09-29T18:08:24Z
+# fetched: 2026-09-29T18:11:46Z
 # pages: 205  (lines below are quotes; p.N = PDF page)
 
 p.7: 1.3 Bilagstabel ..........................................................................................................  |  25
@@ -504,3 +504,140 @@ p.191: Tabel B.8
 p.191: 2018  |  2019  |  2020  |  2021  |  2022
 p.191: - Pct. af BNP  |  5,9  |  7,4  |  5,9  |  5,8  |  6,6
 p.191: - Pct. af BNP  |  7,0  |  8,9  |  7,1  |  6,7  |  7,5
+p.191: Danmarks nettoaktiver over for udlandet  |  1.446  |  1.832  |  1.281  |  1.649  |  2.069
+p.191: - Pct. af BNP  |  64,2  |  78,5  |  56,1  |  69,4  |  83,5
+p.192: Tabel B.9
+p.192: 2019  |  2018  |  2019  |  2020  |  2021  |  2022
+p.192: Varer i alt  |  805  |  2,4  |  6,9  |  -5,0  |  2,2  |  3,2
+p.192: - Landbrugsvarer mv.  |  125  |  -1,1  |  4,1  |  -0,5  |  1,0  |  1,5
+p.192: - Industrivarer (ekskl. skibe mv.)  |  610  |  3,8  |  8,5  |  -4,5  |  2,4  |  3,3
+p.192: - Øvrige varer  |  70  |  -1,7  |  -0,7  |  -17,4  |  2,8  |  5,8
+p.192: Tjenester i alt  |  557  |  4,5  |  2,3  |  -17,3  |  7,3  |  12,3
+p.192: - Søtransport  |  240  |  1,8  |  4,5  |  -11,5  |  4,4  |  7,5
+p.192: - Øvrige tjenester  |  255  |  7,7  |  0,1  |  -12,5  |  3,6  |  10,0
+p.192: I alt  |  1.362  |  3,2  |  5,0  |  -10,0  |  4,1  |  6,7
+p.192: Varer i alt  |  701  |  3,6  |  1,5  |  -3,1  |  3,0  |  2,8
+p.193: Tabel B.10
+p.193: 2019  |  2018  |  2019  |  2020  |  2021  |  2022
+p.193: Forbrug i alt  |  1.076  |  2,7  |  1,4  |  -4,0  |  5,1  |  2,0
+p.193: Detailomsætning  |  352  |  4,2  |  1,5  |  2,6  |  0,7  |  1,0
+p.193: - Fødevarer m.m.  |  158  |  2,4  |  0,7  |  1,4  |  1,0  |  0,5
+p.193: - Øvrige varer  |  193  |  5,6  |  2,1  |  3,6  |  0,5  |  1,5
+p.193: Bilkøb  |  44  |  8,8  |  4,2  |  -6,0  |  10,8  |  1,9
+p.193: Brændsel m.m.  |  50  |  1,0  |  -1,9  |  -4,9  |  2,0  |  -0,8
+p.193: Benzin og lignende  |  27  |  2,2  |  1,1  |  -8,5  |  8,0  |  1,0
+p.193: Boligbenyttelse  |  239  |  0,6  |  2,1  |  1,5  |  1,6  |  1,6
+p.193: Øvrige tjenester  |  383  |  2,4  |  1,5  |  -14,5  |  12,8  |  4,8
+p.193: Turistudgifter  |  45  |  1,7  |  0,2  |  -67,5  |  90,0  |  60,0
+p.193: Tabel B.11
+p.193: 2018  |  2019  |  2020  |  2021  |  2022
+p.194: Tabel B.12
+p.194: 2019  |  2018  |  2019  |  2020  |  2021  |  2022
+p.194: BVT i alt  |  100  |  2,1  |  2,9  |  -4,1  |  2,7  |  3,2
+p.194: Offentlig sektor  |  20  |  0,2  |  1,9  |  -0,5  |  1,4  |  -0,1
+p.194: Privat sektor  |  80  |  2,6  |  3,2  |  -5,0  |  3,1  |  4,0
+p.194: Privat sektor ekskl. råstofindvinding  |  79  |  2,6  |  3,4  |  -4,8  |  3,1  |  4,0
+p.194: Private byerhverv  |  69  |  2,8  |  3,6  |  -4,6  |  3,1  |  4,2
+p.194: Tabel B.13
+p.194: Gns. 1995-2019  |  2018  |  2019  |  2020  |  2021  |  2022
+p.194: Samlet  |  1,2  |  2,2  |  1,7  |  -1,2  |  0,3  |  2,1
+p.194: Offentlig sektor  |  0,7  |  -0,0  |  1,2  |  0,9  |  -0,5  |  -0,4
+p.194: Privat sektor  |  1,3  |  2,8  |  1,7  |  -1,6  |  0,4  |  2,6
+p.194: Privat sektor ekskl. råstofindvinding  |  1,5  |  2,8  |  1,9  |  -1,4  |  0,4  |  2,5
+p.194: Private byerhverv1)  |  1,3  |  3,2  |  2,1  |  -1,1  |  0,2  |  2,7
+p.195: Tabel B.14
+p.195: 2018  |  2019  |  2020  |  2021  |  2022
+p.195: Disponibel indkomst2)  |  2,4  |  2,0  |  2,4  |  1,3  |  2,5
+p.195: Lønsum3)  |  2,7  |  2,0  |  1,6  |  1,0  |  1,9
+p.195: Indkomstoverførsler  |  0,0  |  0,5  |  1,6  |  -0,1  |  0,0
+p.195: Indkomstskatter  |  -0,9  |  -1,3  |  -0,5  |  -0,5  |  -0,1
+p.195: Nettorenteindkomst  |  0,0  |  0,2  |  0,0  |  0,1  |  0,0
+p.195: Aktieudbytter  |  0,4  |  0,3  |  -1,3  |  0,6  |  0,5
+p.195: Pensionsbidrag  |  0,3  |  -1,3  |  0,4  |  0,1  |  -0,1
+p.195: Udbetalinger fra pensionsordninger5)  |  0,2  |  0,3  |  -0,1  |  0,2  |  0,2
+p.195: Andet  |  -0,2  |  1,3  |  0,7  |  -0,1  |  0,3
+p.196: Tabel B.15
+p.196: 2018  |  2019  |  2020  |  2021  |  2022
+p.196: Disponibel bruttoindkomst2)  |  1.102  |  1.134  |  1.166  |  1.196  |  1.246
+p.196: Privatforbrug  |  1.053  |  1.076  |  1.038  |  1.104  |  1.145
+p.196: Tabel B.16
+p.196: Pct.  |  2018  |  2019  |  2020  |  2021  |  2022
+p.196: Ændring i prisen på omsatte enfamiliehuse  |  3,8  |  3,0  |  3,3  |  2,9  |  2,3
+p.196: Boliginvesteringer, realvækst  |  2,9  |  6,2  |  4,7  |  4,3  |  0,2
+p.197: Tabel B.17
+p.197: 2018  |  2019  |  2020  |  2021  |  2022
+p.197: Private erhverv  |  57,0  |  56,1  |  58,2  |  57,4  |  56,7
+p.197: Hele økonomien  |  63,1  |  62,2  |  64,8  |  63,6  |  62,9
+p.197: - Timefortjeneste (ekskl. genetillæg)  |  2,3  |  2,5  |  2,2  |  2,4  |  2,6
+p.197: - Budgetvirkning  |  1,6  |  1,8  |  2,5  |  1,5  |  1,9
+p.197: Tabel B.18
+p.197: 2018  |  2019  |  2020  |  2021  |  2022
+p.197: Nettoprisindeks  |  0,9  |  0,9  |  0,3  |  1,6  |  1,8
+p.197: Afgifter og boligstøtte, bidrag i pct.-point.  |  0,0  |  -0,1  |  0,2  |  -0,4  |  -0,1
+p.197: Forbrugerprisindeks  |  0,8  |  0,8  |  0,5  |  1,2  |  1,6
+p.197: EU-harmoniseret forbrugerprisindeks (HICP)  |  0,7  |  0,7  |  0,5  |  1,2  |  1,6
+p.198: Tabel B.19
+p.198: 2018  |  2019  |  2020  |  2021  |  2022
+p.198: Offentligt forbrug  |  546,7  |  556,8  |  586,3  |  597,8  |  605,8
+p.198: Overførsler1)  |  356,4  |  365,2  |  385,3  |  389,0  |  395,5
+p.198: Investeringer  |  75,5  |  76,7  |  80,7  |  87,2  |  91,3
+p.198: Renteudgifter  |  18,0  |  17,3  |  21,3  |  15,6  |  12,3
+p.198: Subsidier  |  38,1  |  38,2  |  86,3  |  48,4  |  40,8
+p.198: Øvrige udgifter2)  |  80,8  |  71,1  |  91,3  |  83,0  |  97,3
+p.198: Udgifter i alt  |  1.115,6  |  1.125,3  |  1.251,2  |  1.221,1  |  1243,1
+p.198: Personskatter mv.4)  |  464,8  |  483,5  |  503,7  |  508,8  |  517,0
+p.198: Arbejdsmarkedsbidrag  |  98,3  |  100,3  |  106,4  |  107,4  |  109,1
+p.199: Tabel B.20
+p.199: 2018  |  2019  |  2020  |  2021  |  2022
+p.199: Indirekte skatter  |  360,8  |  363,1  |  357,4  |  370,3  |  379,1
+p.199: - Moms  |  217,2  |  221,2  |  219,0  |  226,8  |  234,6
+p.199: - Registreringsafgift  |  20,6  |  20,3  |  17,3  |  18,2  |  18,2
+p.199: - Punktafgifter  |  72,2  |  69,1  |  69,3  |  69,7  |  69,2
+p.199: - Energi (inkl. PSO)  |  42,6  |  38,4  |  38,4  |  37,6  |  36,7
+p.199: - Miljø  |  3,6  |  3,3  |  3,3  |  3,4  |  3,4
+p.199: - Nydelsesmidler  |  11,0  |  11,6  |  11,9  |  12,3  |  12,4
+p.199: - Øvrige  |  15,1  |  15,9  |  15,6  |  16,5  |  16,8
+p.199: - Ejendomsskatter  |  29,6  |  30,6  |  31,6  |  32,6  |  33,3
+p.199: - Vægtafgift på erhverv  |  3,7  |  3,7  |  3,7  |  3,8  |  3,8
+p.199: - Øvrige indirekte skatter  |  17,6  |  18,2  |  16,6  |  19,2  |  19,9
+p.199: Direkte skatter  |  638,1  |  715,8  |  680,4  |  690,2  |  695,9
+p.199: - Kildeskatter1)  |  444,1  |  461,6  |  482,2  |  487,4  |  495,0
+p.199: - Statsskat  |  156,6  |  162,5  |  173,9  |  174,6  |  176,5
+p.199: - Bundskat  |  126,9  |  143,1  |  151,4  |  153,2  |  155,7
+p.199: - Topskat  |  17,5  |  17,1  |  20,1  |  19,0  |  18,2
+p.199: - Sundhedsbidrag  |  9,7  |  0,0  |  0,0  |  0,0  |  0,0
+p.199: - Begrænset skattepligtige  |  2,4  |  2,3  |  2,4  |  2,4  |  2,5
+p.199: - Kommuneskat i alt  |  239,3  |  247,1  |  262,9  |  265,0  |  269,0
+p.199: - Ejendomsværdiskat  |  14,5  |  14,6  |  14,9  |  15,6  |  15,8
+p.199: BNP  |  2.253,6  |  2.335,0  |  2.283,2  |  2.374,7  |  2.478,8
+p.199: Samtlige skatter i pct. af BNP  |  44,7  |  46,6  |  45,9  |  45,1  |  43,8
+p.199: 1)  |  Tal for fordeling af kildeskatter på stats- og kommuneskatter er fra Danmarks Statistik for 2017-2019. For
+p.199: 2020-2022 benyttes en opgørelse baseret på Finansministeriets udskrivningsgrundlag.
+p.200: Tabel B.21
+p.200: 2018  |  2019  |  2020  |  2021  |  2022  |  2018  |  2019  |  2020  |  2021  |  2022
+p.200: December 2017  |  990,9 1.010,5  |  -  |  -  |  -  |  3,1  |  2,0  |  -  |  -  |  -
+p.200: Maj 2018  |  981,2 1.005,3  |  -  |  -  |  -  |  2,7  |  2,5  |  -  |  -  |  -
+p.200: August 2018  |  979,9 1.008,0  |  -  |  -  |  -  |  2,2  |  2,9  |  -  |  -  |  -
+p.200: December 2018  |  979,2 1.013,2 1.045,9  |  -  |  -  |  1,9  |  3,5  |  3,2  |  -  |  -
+p.200: August 2019  |  966,7 1.005,7 1.033,8  |  -  |  -  |  0,6  |  4,0  |  2,8  |  -  |  -
+p.201: Tabel B.22
+p.201: 2018  |  2019  |  2020  |  2021  |  2022
+p.201: A-dagpenge (ekskl. aktiverede)  |  14,0  |  14,5  |  21,0  |  19,1  |  18,1
+p.201: Kontanthjælp1) (ekskl. aktiverede)  |  24,0  |  24,4  |  27,9  |  28,6  |  30,4
+p.201: Feriedagpenge  |  0,8  |  0,7  |  0,8  |  0,6  |  0,7
+p.201: Førtidspension2)  |  40,2  |  41,9  |  44,3  |  48,0  |  50,2
+p.201: Ressourceforløb  |  6,5  |  6,8  |  6,3  |  6,3  |  6,4
+p.201: Efterløn  |  9,0  |  8,2  |  8,4  |  8,6  |  6,0
+p.201: Revalideringsydelse  |  0,9  |  0,8  |  0,7  |  0,6  |  0,5
+p.201: Sygedagpenge  |  11,4  |  11,9  |  13,9  |  13,0  |  12,3
+p.201: Barselsdagpenge  |  10,9  |  11,1  |  11,9  |  11,4  |  11,7
+p.202: Tabel B.23
+p.202: 2018  |  2019  |  2019  |  2020  |  2020  |  2020
+p.202: BNP (realvækst, pct.)  |  1,7  |  1,7  |  2,0  |  2,4  |  2,3  |  2,8
+p.202: Forbrugerpriser (ændring, pct.)  |  1,5  |  1,0  |  0,8  |  0,8  |  0,8  |  0,8
+p.202: BNP (realvækst, pct.)  |  1,6  |  1,6  |  1,5  |  -5,3  |  -4,5  |  -3,8
+p.202: Forbrugerpriser (ændring, pct.)  |  1,8  |  1,4  |  1,2  |  0,2  |  0,3  |  0,5
+p.202: BNP (realvækst, pct.)  |  -  |  -  |  1,4  |  4,0  |  4,2  |  2,8
+p.202: Forbrugerpriser (ændring, pct.)  |  -  |  -  |  1,6  |  1,2  |  1,2  |  1,2
+p.202: BNP (realvækst, pct.)  |  -  |  -  |  -  |  -  |  -  |  3,1
+p.202: Forbrugerpriser (ændring, pct.)  |  -  |  -  |  -  |  -  |  -  |  1,6

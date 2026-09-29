@@ -1,0 +1,12 @@
+[
+ {
+  "id": "PRIS07",
+  "text": "EU-harmonized consumer price index (HICP)",
+  "updated": "2026-09-10T08:00:00"
+ },
+ {
+  "id": "PRIS08",
+  "text": "EU-harmonized consumer price index with constant taxes (HICP-CT)",
+  "updated": "2026-09-10T08:00:00"
+ }
+]

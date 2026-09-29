@@ -1,7 +1,7 @@
 # or-2017-12
 # url: https://regeringen.dk/media/5p1pvo0j/oekonomisk-redegoerelse-december-2017-web.pdf
 # http: 200  bytes: 2706378  sha256: 24436915ad295645084550be03dcb254a515a42a88002377dab04352b854e9e2
-# fetched: 2026-09-29T18:08:12Z
+# fetched: 2026-09-29T18:11:33Z
 # pages: 201  (lines below are quotes; p.N = PDF page)
 
 p.7: 1.5 Bilagstabel .............................................................................................................  |  44
@@ -504,3 +504,303 @@ p.165: sen af det offentlige forbrug. Der henvises i øvrigt til anmærkningerne
 p.165: ningsafgift mv. (til og med 2013), og udbytter fra Nordsøfonden (fra og med 2012). Nordsøindtæg-
 p.166: 2016. Provenuet fra personskatterne ventes at falde frem mod 2019 til ca. 20½ pct. af BNP.
 p.166: af BNP. Provenuet skønnes at stige til 4,5 pct. af BNP frem mod 2019.
+p.166: BNP. Indtægterne fra pensionsafkastskatten forventes at falde til 0,2 pct. af BNP frem mod
+p.166: 2019. Renterne forventes at stige gradvist gennem 2017, 2018 og 2019. På denne baggrund
+p.166: 2017, 2018 og 2019, end det har været de senere år.
+p.166: de til 2,7 pct. af BNP. På baggrund af selskabernes frivillige indbetalinger af foreløbig a conto
+p.166: skat forventes provenuet at stige i 2017 inden provenuet skønnes at falde til 2,5 pct. af BNP
+p.166: Momsindtægterne er opgjort til ca. 197½ mia. kr. i 2016 svarende til 9,6 pct. af BNP og skøn-
+p.166: nes at stige til 9,8 pct. af BNP frem mod 2019.
+p.166: nedjusteret i 2017 og 2018 som følge af aftalen om afskaffelsen af PSO-afgiften. Aftalen
+p.166: mia. kr. i 2016 svarende til 7,0 pct. af BNP. Indtægterne skønnes at falde til 6,5 pct. af BNP
+p.166: frem mod 2019. De lavere indtægter i 2017, 2018 og 2019 i forhold til BNP skyldes blandt
+p.167: Nordsøindtægterne er opgjort til knap 2,7 mia. kr. i 2016 svarende til 0,1 pct. af BNP. Indtæg-
+p.167: terne skønnes med betydelig usikkerhed til omtrent 0,2 pct. af BNP i 2017 og 2018, mens de
+p.167: i 2019 skønnes at falde til omtrent 0,1 pct. af BNP. Udviklingen i statens indtægter fra aktivi-
+p.167: både 2017 og 2018 trods et forventet fald i Den Sociale Pensionsfonds renteindtægter samt
+p.170: Bilagstabel 5.3
+p.170: Mia. kr.  |  2013  |  2014  |  2015  |  2016  |  2017  |  2018  |  2019
+p.170: afskrivning af  |  -9,7  |  -9,7  |  -9,7  |  -  |  -  |  -  |  -
+p.170: I alt i pct. af BNP  |  1,4  |  2,8  |  0,8  |  -0,1  |  -0,1  |  -0,4  |  -0,5
+p.170: 1)  |  Antages ligeligt fremrykket i 2015-2019.
+p.170: 3)  |  Ud over engangsforholdet på 9,7 mia. kr. årligt i 2013-2015 er der en ekstraordinær afskrivning på 1
+p.170: mia. kr. i 2018 (fordelt ligeligt i årene 2016-2018). Forholdet påvirker den strukturelle saldo.
+p.175: Tabel B.1
+p.175: 2017  |  2018  |  2019  |  2017  |  2018  |  2019  |  2017  |  2018  |  2019
+p.175: Privatforbrug  |  1.012  |  1.050  |  1.093  |  2,0  |  2,3  |  2,4  |  1,2  |  1,5  |  1,7
+p.175: Offentligt forbrug1)  |  536  |  552  |  566  |  0,5  |  1,0  |  0,3  |  1,7  |  2,0  |  2,1
+p.175: Offentlige investeringer2)  |  75  |  75  |  77  |  -4,0  |  -1,1  |  -0,1  |  1,5  |  1,9  |  1,9
+p.175: Boliginvesteringer  |  97  |  105  |  112  |  3,5  |  6,0  |  5,6  |  1,8  |  1,4  |  1,5
+p.175: Faste erhvervsinvesteringer  |  262  |  277  |  298  |  3,8  |  4,9  |  5,5  |  0,8  |  0,9  |  1,8
+p.175: ekskl. lagerændringer  |  1.984  |  2.063  |  2.149  |  1,5  |  2,4  |  2,3  |  1,3  |  1,6  |  1,8
+p.175: Lagerændringer3)  |  11,9  |  13,1  |  15,4  |  0,1  |  0,0  |  0,0
+p.175: I alt indenlandsk efterspørgsel  |  1.996  |  2.076  |  2.164  |  1,6  |  2,3  |  2,4  |  1,4  |  1,6  |  1,9
+p.175: Eksport af varer og tjenester  |  1.173  |  1.228  |  1.286  |  3,5  |  2,8  |  2,6  |  2,3  |  1,9  |  2,1
+p.175: Samlet efterspørgsel  |  3.169  |  3.304  |  3.450  |  2,3  |  2,5  |  2,5  |  1,7  |  1,7  |  1,9
+p.175: Import af varer og tjenester  |  1.022  |  1.079  |  1.142  |  2,9  |  3,7  |  4,0  |  1,5  |  1,8  |  1,8
+p.175: Bruttonationalprodukt  |  2.147  |  2.225  |  2.309  |  2,0  |  1,9  |  1,7  |  1,9  |  1,7  |  2,0
+p.175: Bruttoværditilvækst  |  1.862  |  1.929  |  2.001  |  1,9  |  2,0  |  1,9  |  2,1  |  1,5  |  1,8
+p.175: Heraf i private byerhverv4)  |  1.263  |  1.314  |  1.370  |  2,4  |  2,6  |  2,5  |  1,1  |  1,4  |  1,7
+p.175: Bruttonationalindkomst  |  2.201  |  2.282  |  2.366
+p.176: Tabel B.2
+p.176: 2016  |  2017  |  2018  |  2019
+p.176: Eksportmarkedsvækst1)  |  3,5  |  4,4  |  4,0  |  4,0
+p.176: Handelsvægtet BNP2)  |  2,3  |  2,8  |  2,6  |  2,3
+p.176: EU28  |  1,9  |  2,3  |  2,1  |  1,9
+p.176: Euroområdet  |  1,8  |  2,2  |  2,1  |  1,9
+p.176: Tyskland  |  1,9  |  2,5  |  2,3  |  1,9
+p.176: Frankrig  |  1,1  |  1,8  |  1,8  |  1,7
+p.176: Italien  |  1,1  |  1,6  |  1,5  |  1,3
+p.176: Spanien  |  3,3  |  3,1  |  2,3  |  2,1
+p.176: Nederlandene  |  2,2  |  3,3  |  3,1  |  2,4
+p.176: Storbritannien  |  1,8  |  1,5  |  1,2  |  1,1
+p.176: Polen  |  2,9  |  4,3  |  3,6  |  3,2
+p.176: Sverige  |  3,1  |  3,1  |  2,8  |  2,3
+p.176: Norge  |  1,1  |  2,1  |  1,8  |  1,9
+p.176: USA  |  1,5  |  2,3  |  2,5  |  2,2
+p.176: Japan  |  1,0  |  1,5  |  1,2  |  1,0
+p.176: Indien  |  7,1  |  6,7  |  7,0  |  7,4
+p.176: Kina  |  6,7  |  6,8  |  6,6  |  6,4
+p.176: Rusland  |  -0,2  |  1,9  |  1,9  |  1,5
+p.176: Brasilien  |  -3,6  |  0,7  |  1,9  |  2,3
+p.177: Tabel B.3
+p.177: 2015  |  2016  |  2017  |  2018  |  2019
+p.177: Samlet befolkning  |  5.683  |  5.728  |  5.767  |  5.799  |  5.828
+p.177: I arbejdsstyrken  |  2.944  |  2.983  |  3.032  |  3.061  |  3.079
+p.177: Samlet beskæftigelse  |  2.829  |  2.877  |  2.922  |  2.955  |  2.978
+p.177: - Beskæftigede på ordinært arbejdsmarked1)  |  2.755  |  2.800  |  2.881  |  2.917  |  2.941
+p.177: Uden for arbejdsstyrken  |  2.739  |  2.745  |  2.734  |  2.738  |  2.749
+p.178: Tabel B.4
+p.178: 2015  |  2016  |  2017  |  2018  |  2019
+p.178: Folkepensionister2)  |  1.087  |  1.108  |  1.128  |  1.154  |  1.144
+p.178: I alt, inkl. SU og folkepensionister  |  2.115  |  2.115  |  2.105  |  2.112  |  2.093
+p.179: Tabel B.5
+p.179: 2016  |  2015  |  2016  |  2017  |  2018  |  2019
+p.179: Faste bruttoinvesteringer  |  422  |  3,1  |  6,0  |  1,5  |  4,2  |  4,7
+p.179: - Bygninger og anlæg  |  187  |  3,9  |  5,2  |  -2,7  |  4,1  |  4,5
+p.179: - Maskiner og transport mv.  |  235  |  2,4  |  6,7  |  4,9  |  4,3  |  4,8
+p.179: - Boliginvesteringer  |  92  |  8,2  |  7,1  |  3,5  |  6,0  |  5,6
+p.179: - Offentlige investeringer  |  79  |  -4,5  |  6,1  |  -7,9  |  -0,7  |  0,4
+p.179: - Samlede erhvervsinvesteringer  |  250  |  3,9  |  5,5  |  3,8  |  4,9  |  5,5
+p.179: - Bygge- og anlægsinvesteringer  |  51  |  2,1  |  3,5  |  -0,4  |  4,1  |  4,7
+p.179: - Materielinvesteringer  |  199  |  4,3  |  6,1  |  4,9  |  5,1  |  5,7
+p.180: Tabel B.6
+p.180: 2015  |  2016  |  2017  |  2018  |  2019
+p.180: - Pct. af BNP  |  7,3  |  6,2  |  7,0  |  6,7  |  6,3
+p.180: - Pct. af BNP  |  8,8  |  7,3  |  8,1  |  7,6  |  7,1
+p.180: Danmarks nettoaktiver over for udlandet  |  680  |  1.118  |  1.293  |  1.464  |  1.629
+p.180: - Pct. af BNP  |  33,5  |  54,1  |  60,3  |  65,8  |  70,6
+p.181: Tabel B.7
+p.181: 2016  |  2016  |  2017  |  2018  |  2019
+p.181: Varer i alt  |  701  |  2,3  |  5,4  |  2,6  |  2,4
+p.181: - Landbrugsvarer mv.  |  116  |  -1,1  |  1,5  |  0,5  |  0,0
+p.181: - Industrivarer  |  522  |  4,9  |  6,4  |  3,6  |  3,6
+p.181: - Øvrige varer1)  |  62  |  -9,7  |  4,1  |  -1,6  |  -3,6
+p.181: Tjenester i alt  |  406  |  3,8  |  0,2  |  3,2  |  3,0
+p.181: I alt  |  1.107  |  2,8  |  3,5  |  2,8  |  2,6
+p.181: Varer i alt  |  600  |  2,7  |  5,1  |  3,7  |  3,8
+p.181: - Landbrugsvarer mv.  |  76  |  1,0  |  1,8  |  2,0  |  2,6
+p.181: - Industrivarer  |  408  |  5,3  |  7,0  |  4,2  |  4,3
+p.181: - Øvrige varer2)  |  116  |  -4,2  |  0,5  |  3,1  |  2,8
+p.181: Tjenester i alt  |  379  |  5,6  |  -0,6  |  3,6  |  4,2
+p.181: I alt  |  979  |  3,8  |  2,9  |  3,7  |  4,0
+p.181: Basisvareeksport3)  |  667  |  2,6  |  5,4  |  4,7  |  5,3
+p.182: Tabel B.8
+p.182: 2016  |  2016  |  2017  |  2018  |  2019
+p.182: Varer i alt  |  701  |  -1,5  |  0,5  |  2,0  |  2,2
+p.182: - Landbrugsvarer mv.  |  116  |  4,1  |  1,4  |  2,6  |  2,6
+p.182: - Industrivarer (ekskl. skibe mv.)  |  522  |  -1,3  |  -0,5  |  1,6  |  2,2
+p.182: - Øvrige varer1)  |  62  |  -11,6  |  7,2  |  4,4  |  1,1
+p.182: Tjenester i alt  |  406  |  -9,6  |  5,7  |  1,6  |  1,9
+p.182: I alt  |  1.107  |  -4,6  |  2,3  |  1,9  |  2,1
+p.182: Varer i alt  |  600  |  -3,4  |  1,4  |  1,6  |  1,8
+p.182: - Landbrugsvarer mv.  |  76  |  -1,3  |  0,1  |  0,5  |  0,7
+p.182: - Industrivarer (ekskl. skibe mv.)  |  408  |  -2,4  |  0,2  |  1,0  |  2,1
+p.182: - Øvrige varer2)  |  116  |  -8,0  |  7,0  |  4,4  |  1,5
+p.182: Tjenester i alt  |  379  |  -4,6  |  1,5  |  2,2  |  1,7
+p.182: I alt  |  979  |  -3,9  |  1,5  |  1,8  |  1,8
+p.183: Tabel B.9
+p.183: 2016  |  2017  |  2018  |  2019  |  2017  |  2018  |  2019
+p.183: Forbrug i alt  |  980  |  2,0  |  2,3  |  2,4  |  2,3  |  2,3  |  2,3
+p.183: Detailomsætning  |  307  |  1,5  |  3,0  |  2,7  |  0,7  |  0,9  |  0,9
+p.183: - Fødevarer m.m.  |  143  |  1,2  |  1,7  |  1,8  |  0,3  |  0,3  |  0,3
+p.183: - Øvrige varer  |  164  |  1,7  |  4,1  |  3,5  |  0,3  |  0,6  |  0,6
+p.183: Bilkøb  |  36  |  0,4  |  6,0  |  5,9  |  0,2  |  0,2  |  0,2
+p.183: Brændsel m.m.  |  52  |  3,6  |  -1,5  |  1,3  |  0,3  |  -0,1  |  0,1
+p.183: Benzin og lignende  |  24  |  -0,6  |  1,7  |  2,3  |  0,0  |  0,1  |  0,1
+p.183: Boligbenyttelse  |  219  |  1,3  |  1,5  |  1,7  |  0,3  |  0,4  |  0,4
+p.183: Øvrige tjenester  |  348  |  2,8  |  2,4  |  2,5  |  0,8  |  0,9  |  0,8
+p.183: Turistudgifter  |  42  |  3,8  |  3,8  |  2,3  |  0,1  |  0,1  |  0,1
+p.183: Turistindtægter1)  |  49  |  1,6  |  3,5  |  3,1  |  -0,1  |  -0,2  |  -0,2
+p.183: Tabel B.10
+p.183: 2015  |  2016  |  2017  |  2018  |  2019
+p.184: Tabel B.11
+p.184: 2016  |  2016  |  2017  |  2018  |  2019
+p.184: BVT i alt  |  100  |  1,5  |  1,7  |  1,9  |  2,0  |  1,9
+p.184: Offentlig sektor  |  22  |  1,1  |  -0,3  |  0,2  |  0,4  |  -0,1
+p.184: Privat sektor  |  78  |  1,6  |  2,2  |  2,3  |  2,4  |  2,2
+p.184: Privat sektor ekskl. råstof  |  76  |  1,8  |  2,4  |  2,3  |  2,5  |  2,4
+p.184: Private byerhverv  |  66  |  1,8  |  2,4  |  2,4  |  2,6  |  2,5
+p.184: Tabel B.12
+p.184: 2016  |  2017  |  2018  |  2019
+p.184: 1995-2016
+p.184: Samlet  |  1,0  |  0,2  |  0,5  |  0,9  |  1,1
+p.184: Byggeriet  |  0,3  |  -0,8  |  -0,0  |  0,6  |  0,9
+p.184: Industri  |  2,9  |  3,1  |  2,3  |  2,6  |  3,2
+p.184: Private serviceerhverv  |  0,6  |  -0,6  |  -0,1  |  0,7  |  0,9
+p.184: Private byerhverv  |  1,0  |  0,1  |  0,4  |  1,1  |  1,4
+p.185: Tabel B.13
+p.185: 2015  |  2016  |  2017  |  2018  |  2019
+p.185: Realindkomst før afgiftsbidrag  |  3,5  |  0,8  |  -0,9  |  1,9  |  2,1
+p.185: Afgiftsbidrag2)  |  0,2  |  0,2  |  0,2  |  0,1  |  0,1
+p.185: Vækst i real disponibel indkomst i alt3)  |  3,7  |  1,0  |  -0,7  |  2,0  |  2,1
+p.185: - Lønsum4)  |  1,6  |  1,6  |  1,8  |  1,6  |  1,3
+p.185: - Pensionsbidrag5)  |  -0,1  |  -1,1  |  -0,5  |  0,3  |  -0,1
+p.185: Lønsum ekskl. pensionsbidrag  |  1,5  |  0,5  |  1,3  |  1,9  |  1,3
+p.185: Samlede offentlige indkomstoverførsler  |  0,1  |  0,0  |  0,4  |  0,1  |  0,0
+p.185: overførsler  |  1,7  |  0,6  |  1,7  |  2,0  |  1,2
+p.185: Nettorenteindkomst  |  0,3  |  0,2  |  0,1  |  0,0  |  0,9
+p.185: Aktieudbytter mv. 6)  |  0,5  |  0,4  |  -0,6  |  0,1  |  -1,0
+p.185: Udbetalinger fra pensionsordninger5)  |  1,5  |  -0,3  |  0,0  |  0,0  |  0,1
+p.185: Ændret beskatning7)  |  -0,5  |  0,0  |  0,0  |  -0,1  |  0,0
+p.185: Selvstændige og ejerboliger  |  -0,3  |  0,2  |  0,0  |  0,1  |  0,1
+p.185: I øvrigt8)  |  0,6  |  -0,1  |  -1,9  |  -0,1  |  0,7
+p.186: Tabel B.14
+p.186: 2015  |  2016  |  2017  |  2018  |  2019
+p.186: Disponibel bruttoindkomst  |  993  |  1.031  |  1.041  |  1.085  |  1.127
+p.186: Privatforbrug  |  955  |  980  |  1.012  |  1.050  |  1.093
+p.186: ”Direkte” nettofordringserhvervelse  |  -4,5  |  -3,8  |  -6,4  |  -5,7  |  -5,9
+p.186: Nettofordringserhvervelse  |  2,8  |  2,0  |  2,4  |  3,3  |  3,1
+p.186: Nettofordringserhvervelse (korrigeret)6)  |  5,5  |  2,0  |  2,4  |  3,3  |  3,1
+p.187: Tabel B.15
+p.187: 2016  |  2017  |  2018  |  2019
+p.187: Lønsum  |  1.070  |  1.111  |  1.154  |  1.195
+p.187: Primær bruttoindkomst  |  1.292  |  1.335  |  1.384  |  1.433
+p.187: Disponibel bruttoindkomst  |  1.031  |  1.041  |  1.085  |  1.127
+p.187: - Privatforbrug  |  980  |  1.012  |  1.050  |  1.093
+p.188: Tabel B.15 (fortsat)
+p.188: 2016  |  2017  |  2018  |  2019
+p.188: Disponibel bruttoindkomst  |  1.487  |  1.558  |  1.624  |  1.688
+p.188: - Privatforbrug  |  980  |  1.012  |  1.050  |  1.093
+p.189: Tabel B.16
+p.189: 2015  |  2016  |  2017  |  2018  |  2019
+p.189: 2016 1995-2016
+p.189: Boliger2)  |  3.386  |  4,5  |  6,2  |  4,4  |  3,1  |  2,3  |  1,6
+p.189: Biler  |  280  |  1,6  |  4,5  |  4,5  |  4,0  |  3,2  |  3,8
+p.189: Heraf: Gæld i realkredit mv.3)  |  -1.903  |  4,3  |  -1,4  |  1,5  |  -0,4  |  -1,7  |  0,4
+p.189: Aktier mv.4) og obligationer  |  1.767  |  5,0  |  10,7  |  -3,4  |  4,0  |  3,6  |  3,3
+p.189: I alt ”direkte ejet”5) nettoformue  |  3.530  |  4,6  |  12,1  |  3,1  |  3,8  |  3,0  |  2,3
+p.189: Pensionsformuer6)  |  2.203  |  5,6  |  3,9  |  3,5  |  2,1  |  1,6  |  1,6
+p.189: I alt nettoformue5)  |  5.734  |  4,9  |  8,8  |  3,2  |  3,1  |  2,5  |  2,0
+p.190: Tabel B.17
+p.190: 2015  |  2016  |  2017  |  2018  |  2019
+p.190: Forbrugskvote (iht. nationalregnskabet)2)  |  96,2  |  95,0  |  97,2  |  96,8  |  97,0
+p.190: Forbrugskvote (korrigeret)3)  |  92,1  |  93,1  |  95,7  |  95,9  |  96,2
+p.190: Opsparingskvote (iht. nationalregnskabet)2)  |  10,3  |  10,2  |  10,7  |  11,1  |  11,1
+p.190: Do. korrigeret for afkast i l&p4)  |  8,1  |  8,8  |  6,7  |  6,6  |  6,3
+p.190: Forbrugskvote  |  64,9  |  65,9  |  64,9  |  64,6  |  64,7
+p.190: Opsparingskvote  |  35,1  |  34,1  |  35,1  |  35,4  |  35,3
+p.190: Tabel B.18
+p.190: 2015  |  2016  |  2017  |  2018  |  2019
+p.190: Private erhverv  |  57,5  |  58,7  |  58,5  |  58,8  |  58,7
+p.190: Hele økonomien  |  63,7  |  64,5  |  64,3  |  64,4  |  64,2
+p.190: indkomst1)  |  67,5  |  69,3  |  66,8  |  66,7  |  66,7
+p.191: Tabel B.19
+p.191: 2015  |  2016  |  2017  |  2018  |  2019
+p.191: Stigning (pct.) i prisen for omsatte enfamiliehuse1)  |  6,0  |  3,9  |  4,3  |  3,8  |  3,3
+p.191: Antal salg af enfamiliehuse (1.000)2)  |  43,1  |  44,1  |  -  |  -  |  -
+p.191: Antal salg af ejerlejligheder (1.000)2)  |  20,1  |  19,6  |  -  |  -  |  -
+p.191: Bruttoinvesteringer (realvækst, pct.)  |  8,2  |  7,1  |  3,5  |  6,0  |  5,6
+p.192: Tabel B.20
+p.192: 2015  |  2016  |  2017  |  2018  |  2019
+p.192: - Timefortjeneste (ekskl. genetillæg)  |  1,9  |  2,3  |  2,5  |  2,8  |  2,9
+p.192: - Budgetvirkning  |  0,9  |  1,4  |  1,7  |  1,9  |  2,4
+p.192: Satsreguleringsprocent  |  1,5  |  1,2  |  2,0  |  2,0  |  2,5
+p.192: Tabel B.21
+p.192: 2015  |  2016  |  2017  |  2018  |  2019
+p.192: Nettoprisindeks  |  0,7  |  0,5  |  1,4  |  1,6  |  1,7
+p.192: Afgifter og boligstøtte, bidrag  |  -0,2  |  -0,2  |  -0,2  |  -0,1  |  -0,1
+p.192: Forbrugerprisindeks  |  0,5  |  0,3  |  1,2  |  1,5  |  1,7
+p.192: HICP  |  0,2  |  0,0  |  1,1  |  1,4  |  1,6
+p.193: Tabel B.22
+p.193: 2015  |  2016  |  2017  |  2018  |  2019
+p.193: Forbrug  |  519,2  |  524,8  |  536,3  |  552,4  |  565,6
+p.193: Overførsler  |  346,1  |  348,3  |  359,0  |  366,4  |  372,7
+p.193: Investeringer  |  71,6  |  76,6  |  74,7  |  75,3  |  76,7
+p.193: Renteudgifter  |  31,9  |  28,0  |  26,6  |  21,9  |  19,2
+p.193: Subsidier  |  41,0  |  38,6  |  39,7  |  39,1  |  38,2
+p.193: Øvrige udgifter1)  |  78,1  |  68,6  |  56,4  |  71,0  |  78,8
+p.193: Udgifter i alt2)  |  1.087,9  |  1.084,9  |  1.092,7  |  1.126,0  |  1.151,2
+p.193: Personskatter mv.3)  |  455,0  |  439,6  |  448,9  |  462,4  |  474,6
+p.193: Arbejdsmarkedsbidrag  |  87,3  |  90,2  |  95,3  |  99,7  |  103,2
+p.193: Pensionsafkastskat  |  22,8  |  34,0  |  17,2  |  5,1  |  5,0
+p.193: Selskabsskatter  |  56,6  |  56,2  |  63,9  |  61,9  |  58,8
+p.193: Moms  |  190,1  |  197,4  |  207,3  |  216,7  |  226,1
+p.193: Øvrige indirekte skatter  |  143,2  |  144,1  |  142,3  |  146,2  |  149,8
+p.193: Øvrige skatter4)  |  5,9  |  5,6  |  5,5  |  5,9  |  5,6
+p.193: Renteindtægter  |  16,8  |  17,2  |  19,2  |  17,0  |  17,0
+p.193: Øvrige indtægter5)  |  83,6  |  95,2  |  95,5  |  97,4  |  99,9
+p.193: Told mv. til EU  |  -3,3  |  -3,1  |  -3,3  |  -3,4  |  -3,6
+p.193: Indtægter i alt6)  |  1.058,1  |  1.076,5  |  1.091,8  |  1.108,9  |  1.136,4
+p.194: Tabel B.23
+p.194: 2014  |  2015  |  2016  |  2017  |  2018  |  2019
+p.194: Indirekte skatter  |  321,8  |  330,1  |  338,4  |  346,3  |  359,4  |  372,3
+p.194: - Moms  |  186,0  |  190,1  |  197,4  |  207,3  |  216,7  |  226,1
+p.194: - Registreringsafgift  |  16,0  |  18,0  |  19,4  |  19,9  |  21,1  |  22,7
+p.194: - Punktafgifter  |  73,5  |  74,2  |  74,2  |  72,7  |  72,9  |  73,3
+p.194: - Energi (inkl. PSO)  |  45,8  |  44,6  |  45,3  |  42,9  |  43,0  |  43,5
+p.194: - Miljø  |  4,1  |  4,5  |  4,0  |  3,7  |  3,7  |  3,6
+p.194: - Nydelsesmidler  |  11,0  |  11,7  |  11,1  |  11,5  |  11,5  |  11,6
+p.194: - Øvrige  |  12,6  |  13,4  |  13,8  |  14,5  |  14,6  |  14,7
+p.194: - Ejendomsskatter  |  27,2  |  28,1  |  28,4  |  28,2  |  29,4  |  30,0
+p.194: - Vægtafgift på erhverv  |  3,3  |  3,3  |  3,4  |  3,4  |  3,5  |  3,6
+p.194: - Øvrige indirekte skatter  |  15,8  |  16,3  |  15,5  |  14,9  |  15,9  |  16,6
+p.194: Direkte skatter  |  656,8  |  621,0  |  620,2  |  625,2  |  630,1  |  642,9
+p.194: - Kildeskatter1)  |  378,0  |  407,2  |  418,9  |  428,7  |  442,9  |  454,0
+p.194: - Statsskat  |  129,4  |  138,6  |  144,4  |  151,6  |  160,2  |  166,6
+p.194: - Bundskat  |  69,0  |  84,1  |  97,2  |  112,0  |  129,3  |  145,3
+p.194: - Topskat  |  15,0  |  16,4  |  16,9  |  17,9  |  18,4  |  18,6
+p.194: - Sundhedsbidrag  |  43,4  |  35,8  |  27,9  |  19,3  |  9,9  |  0,0
+p.194: - Begrænset skattepligtige  |  2,0  |  2,3  |  2,4  |  2,5  |  2,5  |  2,7
+p.194: - Kommuneskat i alt  |  214,1  |  220,9  |  229,2  |  237,3  |  244,6  |  249,4
+p.194: - Ejendomsværdiskat  |  13,4  |  13,6  |  13,9  |  14,0  |  14,2  |  14,3
+p.194: - Øvrige kildeskatter2)  |  21,1  |  34,0  |  31,5  |  25,8  |  23,9  |  23,6
+p.194: BNP  |  1.981,2  |  2.027,1  |  2.066,0  |  2.146,5  |  2.224,8  |  2.308,6
+p.194: Samtlige skatter, pct. af BNP  |  49,8  |  47,4  |  46,8  |  45,7  |  44,9  |  44,3
+p.194: 2016. For 2017 og frem benyttes en opgørelse baseret på Finansministeriets udskrivningsgrundlag.
+p.195: Tabel B.24
+p.195: 2014  |  2015  |  2016  |  2017  |  2018  |  2019
+p.195: December-vurdering 2014, mia. kr.  |  868,9  |  896,3  |  930,5  |  -  |  -  |  -
+p.195: Vækst, pct.  |  2,3  |  3,1  |  3,8
+p.195: Maj-vurdering 2015, mia. kr.  |  867,1  |  897,7  |  930,5  |  -  |  -  |  -
+p.195: Vækst, pct.  |  2,2  |  3,5  |  3,6
+p.195: August-vurdering 2015, mia. kr. .  |  863,0  |  895,8  |  929,7  |  -  |  -  |  -
+p.195: Vækst, pct.  |  1,7  |  3,8  |  3,8
+p.195: December-vurdering 2015, mia. kr.  |  863,7  |  889,2  |  928,0  |  953,3  |  -  |  -
+p.196: Tabel B.25
+p.196: 2015  |  2016  |  2017  |  2018  |  2019
+p.196: A-dagpenge (ekskl. aktiverede)  |  14,5  |  14,0  |  13,3  |  13,2  |  13,3
+p.196: Kontanthjælp1) (ekskl. aktiverede)  |  22,5  |  23,1  |  25,7  |  27,3  |  27,7
+p.196: Feriedagpenge  |  0,8  |  0,8  |  0,8  |  0,7  |  0,6
+p.196: Førtidspension2)  |  41,2  |  40,5  |  39,8  |  39,5  |  40,5
+p.196: Ressourceforløb  |  3,2  |  4,9  |  5,8  |  6,4  |  6,8
+p.196: Efterløn  |  14,4  |  12,8  |  11,1  |  9,0  |  9,1
+p.196: Revalideringsydelse  |  1,4  |  1,3  |  1,1  |  1,0  |  0,9
+p.196: Sygedagpenge  |  11,8  |  11,1  |  11,7  |  11,9  |  12,2
+p.196: Barselsdagpenge  |  9,5  |  10,5  |  10,8  |  11,5  |  12,0
+p.196: Boligydelse og boligsikring  |  14,2  |  14,3  |  15,0  |  15,5  |  15,8
+p.196: Børne- og ungeydelse  |  14,5  |  14,6  |  14,7  |  14,8  |  15,1
+p.196: Øvrige overførsler3)  |  27,8  |  26,6  |  29,5  |  29,6  |  29,7
+p.196: SU  |  20,5  |  20,3  |  20,6  |  20,7  |  20,7
+p.196: Folkepension4)  |  124,0  |  127,7  |  131,9  |  137,3  |  139,4
+p.196: Øvrige pensioner5)  |  27,3  |  27,9  |  29,3  |  30,4  |  31,1
+p.196: I alt  |  346,1  |  348,3  |  359,0  |  366,4  |  372,7
+p.196: -ekskl. folkepension og øvrige pensioner  |  196,7  |  194,8  |  199,9  |  201,0  |  204,6
+p.196: -ekskl. SU, folkepension og øvrige pensioner  |  176,2  |  174,4  |  179,2  |  180,3  |  183,9
+p.197: Tabel B.26
+p.197: 2015  |  2016  |  2016  |  2016  |  2017  |  2017  |  2017
+p.197: BNP (realvækst, pct.)  |  1,9  |  1,1  |  0,9  |  0,8  |  1,3  |  1,7  |  2,0
+p.197: Forbrugerpriser (stigning, pct.)  |  1,1  |  0,6  |  0,5  |  0,2  |  0,3  |  0,3  |  0,3
+p.197: Betalingsbalancesaldo (mia. kr.)  |  178,9  |  150,6  |  136,7  |  156,3  |  167,2  |  163,8  |  151,3
+p.197: Samlet offentlig saldo (mia. kr.)  |  -56,6  |  -40,8  |  -19,1  |  -29,3  |  -18,6  |  -12,9  |  -8,4
+p.197: BNP i EU28 (realvækst, pct.)  |  2,0  |  1,8  |  1,7  |  1,8  |  1,9  |  1,9  |  1,9

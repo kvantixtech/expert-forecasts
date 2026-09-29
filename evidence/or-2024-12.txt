@@ -1,7 +1,7 @@
 # or-2024-12
 # url: https://oem.dk/media/0pvihs1s/oekonomisk-redegoerelse_december-2024_web-a.pdf
 # http: 200  bytes: 6207061  sha256: 8832d389111a4b6889e96a36eaf50cd2e4ce8749634431f6bab4c07e93ec0335
-# fetched: 2026-09-29T18:08:56Z
+# fetched: 2026-09-29T18:12:08Z
 # pages: 175  (lines below are quotes; p.N = PDF page)
 
 p.7: 1.1 Bilagstabel ................................................................................................................... 27
@@ -504,3 +504,229 @@ p.155: Samlet efterspørgsel  |  4.628  |  4.870  |  5.057  |  2,5  |  3,5  |  2
 p.155: Import af varer og tjenester  |  1.684  |  1.786  |  1.868  |  1,6  |  4,6  |  3,4  |  -1,2  |  1,4  |  1,1
 p.155: Bruttonationalprodukt  |  2.944  |  3.084  |  3.189  |  3,0  |  2,9  |  1,7  |  1,9  |  1,8  |  1,6
 p.155: Bruttoværditilvækst  |  2.619  |  2.742  |  2.835  |  3,6  |  3,1  |  1,7  |  1,6  |  1,6  |  1,6
+p.155: - I private byerhverv4)  |  1.835  |  1.922  |  1.994  |  4,8  |  3,4  |  2,5  |  1,5  |  1,3  |  1,2
+p.155: Bruttonationalindkomst  |  3.032  |  3.161  |  3.251
+p.155: 1)  |  Realvæksten i det offentlige forbrug er opgjort ved inputmetoden. I 2024-2026 er den offentlige forbrugsvækst målt ved hen-
+p.156: Tabel B.2 Renter, oliepris, valutakurs og udlandsforudsætninger
+p.156: Renter, pct.  |  2022  |  2023  |  2024  |  2025  |  2026
+p.156: USA  |  Federal Funds Target Rate  |  1,9  |  5,2  |  5,3  |  4,4  |  3,8
+p.156: Tremåneders pengemarkedsrente  |  2,4  |  5,4  |  5,3  |  4,4  |  3,8
+p.156: Tiårig statsobligation  |  3,0  |  3,8  |  4,2  |  4,8  |  4,8
+p.156: Euroområdet  |  ECB’s refinansieringsrente  |  0,6  |  3,8  |  4,1  |  2,7  |  2,4
+p.156: Tremåneders pengemarkedsrente  |  0,8  |  3,6  |  3,6  |  2,3  |  2,2
+p.156: Tiårig statsobligation (Tyskland)  |  1,1  |  2,4  |  2,4  |  2,4  |  2,5
+p.156: Danmark  |  Indskudsbevisrente  |  0,0  |  2,9  |  3,3  |  2,2  |  1,9
+p.156: Tremåneders pengemarkedsrente  |  0,6  |  3,5  |  3,5  |  2,2  |  2,1
+p.156: Etårig rentetilpasning  |  0,9  |  3,4  |  2,9  |  2,3  |  2,2
+p.156: Tiårig statsobligation  |  1,4  |  2,6  |  2,3  |  2,1  |  2,2
+p.156: 30-årig realkreditobligation  |  3,7  |  4,8  |  4,3  |  4,0  |  4,0
+p.156: Gennemsnitsrente  |  1,4  |  2,8  |  3,2  |  2,5  |  2,5
+p.156: Dollar pr. tønde  |  100,8  |  82,5  |  80,4  |  73,3  |  75,0
+p.156: Kr. pr. tønde  |  713,1  |  568,2  |  552,3  |  512,4  |  524,3
+p.156: Kr. pr. 100 dollar  |  707,6  |  689,0  |  686,9  |  699,0  |  699,0
+p.156: Kr. pr. 100 euro  |  744,0  |  745,1  |  745,9  |  745,8  |  745,8
+p.156: Effektiv kronekurs (indeks 1980=100)  |  101,9  |  104,7  |  105,1  |  104,8  |  104,8
+p.156: Eksportmarkedsvækst1), pct.  |  8,0  |  0,9  |  1,5  |  2,9  |  2,8
+p.156: Handelsvægtet BNP-vækst , pct.  |  2,7  |  1,1  |  1,6  |  2,0  |  2,1
+p.157: Tabel B.3 Befolkning og arbejdsmarked
+p.157: 2022  |  2023  |  2024  |  2025  |  2026
+p.157: Samlet befolkning  |  5.890  |  5.919  |  5.943  |  5.962  |  5.977
+p.157: - I arbejdsstyrken  |  3.235  |  3.285  |  3.315  |  3.323  |  3.318
+p.157: - Samlet beskæftigelse  |  3.160  |  3.202  |  3.228  |  3.233  |  3.229
+p.157: - Uden for arbejdsstyrken  |  2.655  |  2.634  |  2.628  |  2.638  |  2.659
+p.158: Tabel B.4 Beskæftigelse fordelt på brancher inkl. orlov
+p.158: 2022  |  2023  |  2024  |  2025  |  2026
+p.158: Beskæftigelse i alt inkl. orlov  |  3.160  |  3.202  |  3.228  |  3.233  |  3.229
+p.158: - Tjenesteerhverv mv.  |  1.695  |  1.724  |  1.736  |  1.734  |  1.728
+p.158: Tabel B.5 Skøn for ledighed
+p.158: 2022  |  2023  |  2024  |  2025  |  2026
+p.158: - Pct. af arbejdsstyrken  |  2,3  |  2,5  |  2,6  |  2,7  |  2,8
+p.158: AKU-ledighed (pct.)  |  4,5  |  5,1  |  6,0  |  6,2  |  6,2
+p.159: Tabel B.6 Personer på indkomstoverførsler mv.
+p.159: 2022  |  2023  |  2024  |  2025  |  2026
+p.160: Tabel B.7 Bruttoinvesteringer
+p.160: 2022  |  2023  |  2024  |  2025  |  2026
+p.160: Faste bruttoinvesteringer  |  633  |  2,8  |  -6,6  |  -0,3  |  3,1  |  1,9
+p.160: - Bygge- og anlægsinvesteringer  |  323  |  -0,5  |  -4,5  |  1,2  |  3,6  |  2,1
+p.160: 310  |  6,1  |  -8,6  |  -1,9  |  2,5  |  1,7
+p.160: - Boliginvesteringer  |  156  |  -7,5  |  -12,4  |  0,0  |  2,8  |  3,1
+p.160: - Offentlige investeringer1)  |  88  |  1,8  |  -1,8  |  10,2  |  9,5  |  1,3
+p.160: - Samlede erhvervsinvesteringer  |  389  |  7,9  |  -5,3  |  -2,8  |  1,5  |  1,6
+p.160: - Bygge- og anlægsinvesteringer  |  120  |  13,1  |  4,8  |  -4,0  |  0,5  |  0,5
+p.160: 269  |  6,0  |  -9,2  |  -2,3  |  2,0  |  2,0
+p.161: Tabel B.8 Betalingsbalancens løbende poster
+p.161: 2022  |  2023  |  2024  |  2025  |  2026
+p.161: Vareeksport  |  1.056  |  1.106  |  1.219  |  1.303  |  1.370
+p.161: - Pct. af BNP  |  11,7  |  9,8  |  12,9  |  11,8  |  10,9
+p.162: Tabel B.9 Eksport og import
+p.162: 2023  |  2022  |  2023  |  2024  |  2025  |  2026
+p.162: Varer i alt  |  1.106  |  5,6  |  5,5  |  9,1  |  5,8  |  3,8
+p.162: - Energi  |  46  |  2,2  |  -0,3  |  5,7  |  15,2  |  -3,5
+p.162: - Øvrige varer  |  1.060  |  5,7  |  6,0  |  9,2  |  5,4  |  4,1
+p.162: Tjenester i alt  |  800  |  9,5  |  15,9  |  1,8  |  3,0  |  3,0
+p.162: - Søtransport  |  349  |  -2,0  |  9,0  |  1,3  |  4,0  |  2,7
+p.162: - Øvrige tjenester  |  380  |  15,8  |  30,2  |  2,0  |  2,0  |  3,2
+p.162: I alt  |  1.906  |  7,2  |  10,4  |  6,0  |  4,7  |  3,5
+p.162: Varer i alt  |  921  |  -0,8  |  -4,2  |  1,2  |  4,4  |  3,1
+p.162: - Energi  |  121  |  5,0  |  7,7  |  -1,5  |  -5,2  |  2,8
+p.162: - Øvrige varer  |  800  |  -1,6  |  -6,7  |  1,6  |  5,7  |  3,1
+p.162: Tjenester i alt  |  756  |  12,5  |  14,7  |  2,1  |  4,7  |  3,9
+p.162: - Søtransport  |  242  |  -8,4  |  36,7  |  1,8  |  3,9  |  1,8
+p.162: - Øvrige tjenester  |  515  |  24,4  |  1,1  |  2,2  |  5,1  |  4,7
+p.162: I alt  |  1.677  |  4,4  |  3,7  |  1,6  |  4,6  |  3,4
+p.162: Varer i alt  |  1.106  |  12,8  |  -0,7  |  1,0  |  1,0  |  1,3
+p.162: Tjenester i alt  |  800  |  39,3  |  -27,4  |  -3,5  |  0,2  |  0,2
+p.162: I alt  |  1.906  |  23,9  |  -14,0  |  -0,8  |  0,7  |  0,9
+p.163: Tabel B.10 Det private forbrug fordelt på undergrupper
+p.163: 2023  |  2022  |  2023  |  2024  |  2025  |  2026
+p.163: Forbrug i alt  |  1.299  |  -2,1  |  1,4  |  0,3  |  2,2  |  1,8
+p.163: - Bilkøb  |  64  |  -8,1  |  28,5  |  -10,8  |  5,0  |  3,0
+p.163: - Boligbenyttelse  |  291  |  0,8  |  2,1  |  0,4  |  1,9  |  2,0
+p.163: - Energi  |  91  |  -12,5  |  0,1  |  -1,0  |  0,4  |  0,4
+p.163: - Øvrige varer  |  415  |  -3,7  |  -4,0  |  0,1  |  2,4  |  1,8
+p.163: - Øvrige tjenester  |  462  |  6,6  |  2,6  |  2,0  |  2,4  |  1,9
+p.163: - Turistudgifter  |  46  |  20,3  |  20,1  |  6,6  |  3,0  |  2,5
+p.163: - Turistindtægter  |  70  |  89,6  |  7,9  |  3,2  |  4,0  |  3,0
+p.163: Tabel B.11 Nettofordringserhvervelse fordelt på sektorer
+p.163: 2022  |  2023  |  2024  |  2025  |  2026
+p.163: tabel B.8.
+p.164: Tabel B.12 Bruttoværditilvækst (BVT)
+p.164: 2023  |  2022  |  2023  |  2024  |  2025  |  2026
+p.164: BVT i alt  |  100  |  2,4  |  3,0  |  3,6  |  3,1  |  1,7
+p.164: Offentlig sektor  |  19  |  0,4  |  1,1  |  0,5  |  0,8  |  0,0
+p.164: Privat sektor  |  81  |  2,9  |  3,4  |  4,3  |  3,6  |  2,1
+p.164: Privat sektor ekskl. råstofindvinding  |  80  |  2,9  |  3,5  |  4,1  |  3,2  |  2,3
+p.164: Private byerhverv1)  |  69  |  2,6  |  2,0  |  4,8  |  3,4  |  2,5
+p.164: Tabel B.13 Timeproduktivitet i udvalgte erhverv
+p.164: Gns. 2004-2023  |  2022  |  2023  |  2024  |  2025  |  2026
+p.164: Samlet  |  1,0  |  -1,3  |  2,0  |  3,1  |  3,0  |  2,0
+p.164: Offentlig sektor  |  0,4  |  0,1  |  0,7  |  0,4  |  0,4  |  0,2
+p.164: Privat sektor  |  1,2  |  -2,0  |  2,2  |  3,7  |  3,6  |  2,5
+p.164: Privat sektor ekskl. råstofindvinding  |  1,5  |  -2,0  |  2,3  |  3,5  |  3,1  |  2,7
+p.164: Private byerhverv1)  |  1,4  |  -2,5  |  0,8  |  4,1  |  3,3  |  2,8
+p.165: Tabel B.14 Bidrag til stigningen i husholdningernes reale disponible indkomster1)
+p.165: 2022  |  2023  |  2024  |  2025  |  2026
+p.165: Disponibel indkomst  |  1,8  |  2,2  |  2,5  |  2,7  |  2,2
+p.165: Lønsum2)  |  -0,8  |  1,5  |  4,7  |  2,2  |  1,5
+p.165: Indkomstoverførsler  |  -2,3  |  0,1  |  1,0  |  1,0  |  1,4
+p.165: Indkomst- og afkastskatter  |  6,0  |  -0,7  |  -2,8  |  -1,0  |  -1,2
+p.165: Nettorenteindkomst ekskl. kollektiv og privat pension  |  1,7  |  -1,1  |  -1,7  |  -0,5  |  -0,2
+p.165: Aktieudbytter ekskl. kollektiv og privat pension  |  1,2  |  1,5  |  0,6  |  0,0  |  0,4
+p.165: Nettoudbetalinger kollektive pensionsordninger4)  |  -3,5  |  0,3  |  1,3  |  1,0  |  0,5
+p.165: Andet  |  -0,6  |  0,7  |  -0,5  |  -0,2  |  -0,2
+p.166: Tabel B.15 Husholdningernes nettofordringserhvervelse1)
+p.166: 2022  |  2023  |  2024  |  2025  |  2026
+p.166: Disponibel bruttoindkomst  |  1.266  |  1.331  |  1.384  |  1.449  |  1.505
+p.166: Privatforbrug  |  1.246  |  1.299  |  1.323  |  1.378  |  1.426
+p.166: Direkte nettofordringserhvervelse  |  -10,7  |  -8,7  |  -5,0  |  -4,5  |  -4,5
+p.166: Nettofordringserhvervelse  |  -1,7  |  -0,6  |  3,9  |  3,0  |  2,8
+p.166: Tabel B.16 Ejendomsmarked og boligbyggeri
+p.166: 2022  |  2023  |  2024  |  2025  |  2026
+p.166: Ændring i prisen på omsatte enfamiliehuse  |  1,9  |  -2,6  |  3,8  |  3,3  |  3,0
+p.166: Boliginvesteringer, realvækst  |  -7,5  |  -12,4  |  0,0  |  2,8  |  3,1
+p.167: Tabel B.17 Lønkvoter, lønstigninger og beregningstekniske forudsætninger
+p.167: 2022  |  2023  |  2024  |  2025  |  2026
+p.167: Privat sektor  |  52,1  |  55,7  |  56,0  |  55,3  |  55,1
+p.167: Hele økonomien  |  58,2  |  61,3  |  61,6  |  61,1  |  60,9
+p.167: - Timefortjeneste (ekskl. genetillæg)  |  4,0  |  4,2  |  5,3  |  3,4  |  3,2
+p.167: - Budgetvirkning  |  1,9  |  2,4  |  5,0  |  4,1  |  3,4
+p.167: Satsreguleringsprocent  |  1,2  |  2,7  |  3,2  |  3,6  |  5,5
+p.167: sektor er lønstigningstakterne i 2022-2023 timefortjenesten ekskl. genetillæg ifølge Dansk Arbejdsgiverforenings StrukturStati-
+p.167: ningstakterne for offentligt og privat ansatte kan ikke sammenlignes. Satsreguleringsprocenten for 2022-2025 følger de offent-
+p.167: Tabel B.18 Prisudvikling og forklarende faktorer
+p.167: 2022  |  2023  |  2024  |  2025  |  2026
+p.167: Nettoprisindeks  |  7,7  |  4,0  |  1,1  |  1,9  |  1,5
+p.167: Afgifter og boligstøtte, bidrag i pct.-point.  |  0,0  |  -0,7  |  0,4  |  0,0  |  0,2
+p.167: Forbrugerprisindeks  |  7,7  |  3,3  |  1,5  |  1,9  |  1,7
+p.168: Tabel B.19 Offentlige finanser
+p.168: 2022  |  2023  |  2024  |  2025  |  2026
+p.168: Forbrug  |  624,5  |  636,4  |  677,0  |  722,7  |  746,1
+p.168: Overførsler1)  |  387,9  |  399,8  |  418,8  |  441,4  |  469,7
+p.168: Investeringer  |  87,1  |  89,1  |  97,3  |  110,4  |  113,9
+p.168: Renteudgifter  |  20,3  |  18,6  |  19,1  |  22,0  |  23,0
+p.168: Subsidier  |  39,9  |  36,0  |  42,0  |  43,9  |  44,4
+p.168: Øvrige udgifter2)  |  91,1  |  106,0  |  102,1  |  106,3  |  104,1
+p.168: Udgifter i alt3)  |  1.250,8  |  1.285,8  |  1.356,3  |  1.446,8  |  1.501,1
+p.168: Personskatter mv.4)  |  570,3  |  593,5  |  627,7  |  641,1  |  662,2
+p.168: Arbejdsmarkedsbidrag  |  117,1  |  120,7  |  129,8  |  135,2  |  139,6
+p.168: Pensionsafkastskat  |  11,2  |  13,0  |  17,8  |  26,4  |  32,4
+p.168: Selskabsskatter  |  94,3  |  106,1  |  125,0  |  126,6  |  124,8
+p.168: Moms  |  266,0  |  259,2  |  265,4  |  278,5  |  287,5
+p.168: Øvrige indirekte skatter  |  143,1  |  132,4  |  129,5  |  134,5  |  138,2
+p.168: Øvrige skatter  |  2,3  |  2,2  |  2,3  |  2,4  |  2,6
+p.168: Renteindtægter  |  29,9  |  42,2  |  38,7  |  44,4  |  43,8
+p.168: Øvrige indtægter6)  |  119,0  |  112,9  |  109,3  |  110,3  |  114,9
+p.168: Told mv. til EU  |  -4,6  |  -3,6  |  -3,8  |  -4,0  |  -4,2
+p.168: Indtægter i alt  |  1.348,7  |  1.378,6  |  1.441,9  |  1.495,4  |  1.541,8
+p.168: Offentlig saldo  |  97,9  |  92,7  |  85,6  |  48,6  |  40,6
+p.168: Renter, netto  |  -9,6  |  -23,7  |  -19,6  |  -22,3  |  -20,9
+p.169: Tabel B.20 Skatter og skattetryk
+p.169: Mia. kr.  |  2022  |  2023  |  2024  |  2025  |  2026
+p.169: Indirekte skatter  |  404,6  |  387,9  |  391,2  |  409,1  |  421,5
+p.169: - Moms  |  266,0  |  259,2  |  265,4  |  278,5  |  287,5
+p.169: - Registreringsafgift  |  11,5  |  10,7  |  7,3  |  7,3  |  7,5
+p.169: - Punktafgifter  |  68,4  |  57,5  |  63,9  |  66,8  |  67,9
+p.169: - Energi (inkl. PSO)  |  38,4  |  27,5  |  33,9  |  35,4  |  36,2
+p.169: - Miljø  |  3,7  |  3,5  |  3,6  |  4,6  |  4,7
+p.169: - Nydelsesmidler  |  11,3  |  12,0  |  11,5  |  11,6  |  11,5
+p.169: - Øvrige  |  14,9  |  14,4  |  14,9  |  15,2  |  15,5
+p.169: - Ejendomsskatter  |  33,1  |  33,5  |  27,5  |  27,7  |  28,7
+p.169: - Vægtafgift på erhverv  |  4,2  |  4,1  |  4,0  |  5,7  |  5,9
+p.169: - Øvrige indirekte skatter  |  21,4  |  22,9  |  23,0  |  23,0  |  24,0
+p.169: Direkte skatter  |  785,5  |  826,6  |  894,1  |  924,0  |  953,6
+p.169: - Kildeskatter1)  |  547,4  |  570,6  |  605,9  |  620,4  |  640,9
+p.169: - Statsskat  |  188,6  |  197,7  |  211,1  |  222,2  |  229,2
+p.169: - Bundskat  |  164,0  |  172,8  |  183,9  |  192,6  |  200,7
+p.169: - Mellemskat  |  0,0  |  0,0  |  0,0  |  0,0  |  15,1
+p.169: - Topskat  |  22,0  |  22,4  |  25,2  |  27,6  |  10,0
+p.169: - Toptopskat  |  0,0  |  0,0  |  0,0  |  0,0  |  1,3
+p.169: - Kommuneskat i alt  |  282,6  |  297,1  |  321,6  |  331,6  |  342,7
+p.169: - Ejendomsværdiskat  |  14,4  |  14,4  |  14,4  |  13,8  |  14,1
+p.169: BNP  |  2.844,2  |  2.804,7  |  2.943,8  |  3.084,0  |  3.188,9
+p.169: Samtlige skatter i pct. af BNP  |  42,3  |  43,8  |  44,1  |  43,6  |  43,5
+p.169: 1)  |  Tal for fordeling af kildeskatter på stats- og kommuneskatter er fra Danmarks Statistik for 2020-2023. For 2024-2026 benyttes
+p.170: Tabel B.21 Udviklingen i skattegrundlaget for kommunerne
+p.170: 2022  |  2023  |  2024  |  2025  |  2026  |  2022  |  2023  |  2024  |  2025  |  2026
+p.170: Dec. 2020  |  1.087,2  |  -  |  -  |  -  |  -  |  1,5  |  -  |  -  |  -  |  -
+p.170: Maj 2021  |  1.085,6  |  -  |  -  |  -  |  -  |  1,4  |  -  |  -  |  -  |  -
+p.170: Aug. 2021  |  1.081,7  |  -  |  -  |  -  |  -  |  0,6  |  -  |  -  |  -  |  -
+p.170: Dec. 2021  |  1.104,2  |  1.153,8  |  -  |  -  |  -  |  0,9  |  4,5  |  -  |  -  |  -
+p.170: Maj 2022  |  1.105,9  |  1.148,2  |  -  |  -  |  -  |  0,3  |  3,8  |  -  |  -  |  -
+p.170: Aug. 2022  |  1.122,8  |  1.148,8  |  -  |  -  |  -  |  -1,2  |  2,3  |  -  |  -  |  -
+p.170: Mar. 2023  |  1.154,2  |  1.185,7  |  1.233,2  |  -  |  -  |  1,9  |  2,7  |  4,0  |  -  |  -
+p.170: Maj 2023  |  1.160,9  |  1.193,6  |  1.230,1  |  -  |  -  |  2,5  |  2,8  |  3,1  |  -  |  -
+p.170: Aug. 2023  |  1.140,0  |  1.195,7  |  1.249,2  |  -  |  -  |  0,6  |  4,9  |  4,5  |  -  |  -
+p.170: Dec. 2023  |  1.140,0  |  1.203,3  |  1.265,4  |  1.310,3  |  -  |  0,6  |  5,5  |  5,2  |  3,6  |  -
+p.170: Maj 2024  |  1.140,0  |  1.193,2  |  1.280,9  |  1.300,8  |  -  |  0,6  |  4,7  |  7,3  |  1,6  |  -
+p.170: Aug. 2024  |  1.138,0  |  1.197,0  |  1.285,9  |  1.315,0  |  -  |  0,5  |  5,2  |  7,4  |  2,3  |  -
+p.170: Dec. 2024  |  1.138,0  |  1.197,9  |  1.300,4  |  1.340,7  |  1.386,2  |  0,5  |  5,3  |  8,6  |  3,1  |  3,4
+p.171: Tabel B.22 Indkomstoverførsler
+p.171: 2022  |  2023  |  2024  |  2025  |  2026
+p.171: A-dagpenge (ekskl. aktiverede)  |  11,7  |  13,7  |  15,2  |  15,0  |  17,1
+p.171: Kontanthjælp1) (ekskl. aktiverede)  |  27,8  |  29,4  |  31,4  |  33,4  |  35,0
+p.171: Feriedagpenge  |  0,5  |  0,5  |  0,4  |  0,5  |  0,5
+p.171: Førtidspension2)  |  47,7  |  51,2  |  53,9  |  57,9  |  61,9
+p.171: Ressourceforløb  |  6,6  |  6,5  |  6,4  |  6,6  |  7,2
+p.171: Efterløn  |  7,8  |  5,7  |  4,6  |  3,6  |  3,2
+p.171: Revalideringsydelse  |  0,4  |  0,3  |  0,3  |  0,3  |  0,2
+p.171: Sygedagpenge  |  16,5  |  14,8  |  15,4  |  15,7  |  16,6
+p.171: Barselsdagpenge  |  12,0  |  11,9  |  12,3  |  13,0  |  13,9
+p.171: Boligydelse og boligsikring  |  15,6  |  16,0  |  16,8  |  18,2  |  19,1
+p.171: Børnefamilieydelse  |  14,9  |  15,8  |  16,1  |  16,7  |  16,7
+p.171: Øvrige overførsler3)  |  24,6  |  23,3  |  21,7  |  24,2  |  25,7
+p.171: SU  |  20,0  |  19,9  |  20,4  |  21,1  |  22,5
+p.171: Folkepension  |  145,2  |  151,7  |  163,3  |  172,6  |  184,9
+p.171: Øvrige pensioner5)  |  36,5  |  39,0  |  40,7  |  42,5  |  45,1
+p.171: I alt  |  387,9  |  399,8  |  418,8  |  441,4  |  469,7
+p.171: I alt ekskl. folkepension og øvrige pensioner  |  206,2  |  209,1  |  214,9  |  226,3  |  239,7
+p.171: I alt ekskl. SU, folkepension og øvrige pensioner  |  186,2  |  189,2  |  194,5  |  205,2  |  217,1
+p.172: Tabel B.23 Skøn på forskellige tidspunkter over centrale størrelser
+p.172: 2023  |  2023  |  2023  |  2024  |  2024  |  2024
+p.172: BNP (realvækst, pct.)  |  0,6  |  1,2  |  1,2  |  1,9  |  2,5  |  2,5
+p.172: Forbrugerpriser (ændring, pct.)  |  4,3  |  3,8  |  3,4  |  3,3  |  3,3  |  3,3
+p.172: BNP (realvækst, pct.)  |  1,4  |  1,4  |  1,4  |  2,7  |  1,9  |  3,0
+p.172: Forbrugerpriser (ændring, pct.)  |  3,0  |  3,0  |  2,8  |  2,1  |  1,8  |  1,5
+p.172: BNP (realvækst, pct.)  |  -  |  -  |  1,0  |  1,8  |  2,2  |  2,9
+p.172: Forbrugerpriser (ændring, pct.)  |  -  |  -  |  2,1  |  2,1  |  2,0  |  1,9
+p.172: BNP (realvækst, pct.)  |  -  |  -  |  -  |  -  |  -  |  1,7
+p.172: Forbrugerpriser (ændring, pct.)  |  -  |  -  |  -  |  -  |  -  |  1,7

@@ -1,7 +1,7 @@
 # or-2017-05
 # url: https://regeringen.dk/media/u0lnig0x/oekonomisk_redegoerelse_maj_2017_pdfa.pdf
 # http: 200  bytes: 2498570  sha256: 73558d27a5f871479f7417f54a6ecace11f5b5cda9358b895df90ce240e57d2f
-# fetched: 2026-09-29T18:08:05Z
+# fetched: 2026-09-29T18:11:28Z
 # pages: 167  (lines below are quotes; p.N = PDF page)
 
 p.5: peger på en pæn vækst og beskæftigelsesfremgang i 2017 og 2018.
@@ -504,3 +504,303 @@ p.125: Det udenlandske finansieringsbehov for 2017 skønnes aktuelt til 7 mia. k
 p.126: Tabel 4.14
 p.127: af BNP i 2016 til ca. 50¾ pct. af BNP i 2018, jf. bilagstabel 4.1.
 p.127: Bilagstabel 4.1
+p.127: 2013  |  2014  |  2015  |  2016  |  2017  |  2018
+p.127: Offentlige udgifter1)  |  54,5  |  54,1  |  53,7  |  52,6  |  51,6  |  50,7
+p.127: Primære udgifter  |  52,8  |  52,7  |  52,2  |  51,2  |  50,4  |  49,8
+p.127: - Offentligt forbrug  |  26,0  |  25,9  |  25,7  |  25,5  |  25,3  |  25,1
+p.127: - Offentlige investeringer2)  |  3,6  |  3,8  |  3,5  |  3,6  |  3,5  |  3,4
+p.127: - Indkomstoverførsler  |  17,8  |  17,6  |  17,4  |  17,3  |  17,0  |  16,7
+p.127: - Subsidier  |  2,1  |  2,1  |  2,0  |  1,9  |  1,9  |  1,8
+p.127: - Øvrige primære udgifter  |  3,3  |  3,3  |  3,6  |  3,0  |  2,8  |  2,8
+p.127: Renteudgifter  |  1,7  |  1,5  |  1,6  |  1,3  |  1,2  |  0,9
+p.127: De offentlige investeringers andel af BNP skønnes at aftage svagt fra 3,6 pct. af BNP i 2016
+p.127: til 3,4 pct. af BNP i 2018. I forlængelse af det ekstraordinært høje niveau i de foregående år
+p.127: udvikling) med en realvækst på -0,6 pct. i 2017 og -2,9 pct. i 2018.
+p.128: og skønnes at falde til ca. 50 pct. af BNP i 2018, jf. bilagstabel 4.2. Udviklingen dækker navn-
+p.129: Bilagstabel 4.2
+p.129: 2013  |  2014  |  2015  |  2016  |  2017  |  2018
+p.129: Personskatter mv.1)  |  22,1  |  23,4  |  22,4  |  21,0  |  20,8  |  20,9
+p.129: Arbejdsmarkedsbidrag  |  4,3  |  4,3  |  4,3  |  4,4  |  4,5  |  4,5
+p.129: Pensionsafkastskat  |  1,0  |  2,7  |  1,1  |  1,6  |  0,5  |  0,5
+p.129: Selskabsskatter  |  2,8  |  2,8  |  2,6  |  2,6  |  2,5  |  2,5
+p.129: - selskabsskat af kulbrintevirksomhed  |  0,4  |  0,3  |  0,1  |  0,0  |  0,1  |  0,1
+p.129: - øvrig selskabsskat  |  2,4  |  2,5  |  2,5  |  2,5  |  2,4  |  2,4
+p.129: Moms  |  9,4  |  9,4  |  9,4  |  9,5  |  9,6  |  9,7
+p.129: Øvrige indirekte skatter  |  7,2  |  7,0  |  7,1  |  6,9  |  6,7  |  6,7
+p.129: Øvrige skatter  |  0,3  |  0,3  |  0,3  |  0,3  |  0,3  |  0,3
+p.129: Skattetryk  |  47,1  |  49,9  |  47,2  |  46,3  |  44,9  |  44,9
+p.129: Renteindtægter3)  |  1,3  |  1,0  |  0,8  |  0,8  |  0,8  |  0,7
+p.129: Øvrige indtægter  |  5,3  |  4,8  |  4,6  |  4,7  |  4,5  |  4,5
+p.129: sen af det offentlige forbrug. Der henvises i øvrigt til anmærkningerne til bilagstabel 4.1.
+p.129: ningsafgift mv. (til og med 2013), og udbytter fra Nordsøfonden (fra og med 2012). Nordsøindtæg-
+p.130: 2016. Provenuet fra personskatterne ventes i 2017 at falde en smule til godt 20¾ pct. af BNP
+p.130: af BNP. Provenuet skønnes at stige til 4,5 pct. af BNP 2017 og 2018.
+p.130: pct. af BNP. Indtægterne fra pensionsafkastskatten forventes at falde til 0,5 pct. af BNP i
+p.130: både 2017 og 2018. Gennemsnitligt ventes renterne at stige gennem 2017 og 2018. På
+p.130: være lavere i 2017 og 2018, end det har været de senere år.
+p.130: 2,5 pct. af BNP. Niveauet forventes omtrent at være uændret i 2017. På denne baggrund
+p.130: skønnes indtægterne med betydelig usikkerhed at udgøre ca. 2,4 pct. af BNP i både 2017 og
+p.130: Momsindtægterne er opgjort til ca.196¼ mia. kr. i 2016 svarende til 9,5 pct. af BNP og skøn-
+p.130: nes at stige jævnt til at svare til 9,7 pct. af BNP i 2018.
+p.130: nedjusteret i 2017 og 2018 som følge af aftalen om afskaffelsen af PSO-afgiften. Aftalen
+p.130: mia. kr. i 2016 svarende til 6,9 pct. af BNP. Indtægterne skønnes at falde til 6,7 pct. af BNP i
+p.130: både 2017 og 2018. De lavere indtægter i 2017 og 2018 i forhold til BNP skyldes blandt
+p.131: Nordsøindtægterne er opgjort til godt 1,9 mia. kr. i 2016 svarende til 0,1 pct. af BNP. Indtæg-
+p.131: terne skønnes med betydelig usikkerhed til omtrent 0,2 pct. af BNP i både 2017 og 2018.
+p.131: isoleret set i retning af lidt lavere statslige indtægter fra Nordsøen i 2017 og 2018.
+p.131: skønnes at falde til 0,7 pct. af BNP i 2018. Udviklingen i de offentlige renteindtægter (inkl.
+p.134: Bilagstabel 4.3
+p.134: Mia. kr.  |  2013  |  2014  |  2015  |  2016  |  2017  |  2018
+p.134: -7,4  |  -7,4  |  -7,4  |  -  |  -  |  -
+p.134: I alt i pct. af BNP  |  1,5  |  2,9  |  0,8  |  -0,1  |  -0,1  |  -0,2
+p.134: 1)  |  Antages ligeligt fremrykket i 2015-2019.
+p.134: 3)  |  Ud over engangsforholdet på 7,4 mia. kr. årligt i 2013-2015 er der i Danmarks Statistiks foreløbige
+p.134: afskrivninger af skatterestancer i 2017-2018. Begge forhold påvirker den strukturelle saldo.
+p.139: Tabel B.1
+p.139: 2016  |  2017  |  2018  |  2016  |  2017  |  2018  |  2016  |  2017  |  2018
+p.139: Privatforbrug  |  979  |  1.011  |  1.048  |  1,9  |  2,0  |  2,0  |  0,5  |  1,3  |  1,6
+p.139: Offentligt forbrug1)  |  526  |  538  |  555  |  -0,1  |  0,7  |  1,0  |  1,0  |  1,7  |  2,0
+p.139: Offentlige investeringer2)  |  74  |  75  |  74  |  2,2  |  -0,6  |  -2,9  |  1,5  |  1,7  |  2,3
+p.139: Boliginvesteringer  |  91  |  100  |  110  |  11,0  |  7,0  |  8,0  |  0,6  |  2,1  |  2,2
+p.139: Faste erhvervsinvesteringer  |  245  |  255  |  268  |  4,0  |  3,6  |  3,9  |  0,2  |  0,6  |  1,3
+p.139: 1.920  |  1.981  |  2.058  |  2,0  |  1,8  |  2,1  |  0,6  |  1,3  |  1,7
+p.139: Lagerændringer3)  |  -1,0  |  -0,8  |  -1,5  |  -0,4  |  0,0  |  0,0
+p.139: I alt indenlandsk efterspørgsel  |  1.919  |  1.980  |  2.057  |  1,6  |  1,8  |  2,1  |  0,6  |  1,3  |  1,7
+p.139: Eksport af varer og tjenester  |  1.094  |  1.149  |  1.208  |  1,7  |  2,9  |  2,8  |  -3,9  |  2,1  |  2,2
+p.139: Samlet efterspørgsel  |  3.013  |  3.130  |  3.265  |  1,7  |  2,2  |  2,3  |  -1,1  |  1,6  |  1,9
+p.139: Import af varer og tjenester  |  953  |  1.000  |  1.054  |  2,4  |  3,4  |  3,7  |  -4,1  |  1,5  |  1,7
+p.139: Bruttonationalprodukt  |  2.061  |  2.130  |  2.210  |  1,3  |  1,7  |  1,7  |  0,4  |  1,6  |  2,0
+p.139: Bruttoværditilvækst  |  1.787  |  1.848  |  1.918  |  1,0  |  1,9  |  1,6  |  0,5  |  1,7  |  2,1
+p.139: Heraf i private byerhverv4)  |  1.225  |  1.280  |  1.334  |  1,9  |  2,5  |  2,0  |  1,5  |  1,9  |  2,2
+p.139: Bruttonationalindkomst  |  2.117  |  2.186  |  2.268
+p.140: Tabel B.2
+p.140: 2012  |  2013  |  2014  |  2015  |  2016  |  2017  |  2018
+p.140: EU28  |  -0,5  |  0,2  |  1,6  |  2,2  |  1,9  |  1,9  |  1,9
+p.140: Euroområdet  |  -0,9  |  -0,3  |  1,2  |  2,0  |  1,8  |  1,7  |  1,8
+p.140: Tyskland  |  0,5  |  0,5  |  1,6  |  1,7  |  1,9  |  1,6  |  1,9
+p.140: Frankrig  |  0,2  |  0,6  |  0,6  |  1,3  |  1,2  |  1,4  |  1,7
+p.140: Italien  |  -2,8  |  -1,7  |  0,1  |  0,8  |  0,9  |  0,9  |  1,1
+p.140: Spanien  |  -2,9  |  -1,7  |  1,4  |  3,2  |  3,2  |  2,8  |  2,4
+p.140: Nederlandene  |  -1,1  |  -0,2  |  1,4  |  2,0  |  2,2  |  2,1  |  1,8
+p.140: Belgien  |  0,1  |  -0,1  |  1,7  |  1,5  |  1,2  |  1,5  |  1,7
+p.140: Østrig  |  0,7  |  0,1  |  0,6  |  1,0  |  1,5  |  1,7  |  1,7
+p.140: Finland  |  -1,4  |  -0,8  |  -0,6  |  0,3  |  1,4  |  1,3  |  1,7
+p.140: Danmark1)  |  0,2  |  0,9  |  1,7  |  1,6  |  1,3  |  1,7  |  1,7
+p.140: Sverige  |  -0,3  |  1,2  |  2,6  |  4,1  |  3,3  |  2,6  |  2,2
+p.140: Storbritannien  |  1,3  |  1,9  |  3,1  |  2,2  |  1,8  |  1,8  |  1,3
+p.140: USA  |  2,2  |  1,7  |  2,4  |  2,6  |  1,6  |  2,2  |  2,3
+p.140: Japan  |  1,5  |  2,0  |  0,3  |  1,2  |  1,0  |  1,2  |  0,6
+p.140: Norge  |  2,7  |  1,0  |  1,9  |  1,6  |  1,0  |  1,4  |  1,6
+p.140: Verden  |  3,3  |  3,2  |  3,3  |  3,1  |  3,0  |  3,4  |  3,6
+p.140: EU28  |  2,6  |  1,5  |  0,5  |  0,0  |  0,3  |  1,8  |  1,7
+p.140: Euroområdet  |  2,5  |  1,3  |  0,4  |  0,0  |  0,2  |  1,6  |  1,3
+p.140: Tyskland  |  2,1  |  1,6  |  0,8  |  0,1  |  0,4  |  1,7  |  1,4
+p.140: Frankrig  |  2,2  |  1,0  |  0,6  |  0,1  |  0,3  |  1,4  |  1,3
+p.140: Italien  |  3,3  |  1,2  |  0,2  |  0,1  |  -0,1  |  1,5  |  1,3
+p.140: Spanien  |  2,4  |  1,5  |  -0,2  |  -0,6  |  -0,3  |  2,0  |  1,4
+p.140: Nederlandene  |  2,8  |  2,6  |  0,3  |  0,2  |  0,1  |  1,6  |  1,3
+p.140: Belgien  |  2,6  |  1,2  |  0,5  |  0,6  |  1,8  |  2,3  |  1,5
+p.140: Østrig  |  2,6  |  2,1  |  1,5  |  0,8  |  1,0  |  1,8  |  1,6
+p.140: Finland  |  3,2  |  2,2  |  1,2  |  -0,2  |  0,4  |  1,0  |  1,2
+p.140: Danmark1)  |  2,4  |  0,6  |  0,4  |  0,3  |  0,0  |  1,2  |  1,6
+p.140: Sverige  |  0,9  |  0,4  |  0,2  |  0,7  |  1,1  |  1,4  |  1,4
+p.140: Storbritannien  |  2,8  |  2,6  |  1,5  |  0,0  |  0,6  |  2,6  |  2,6
+p.140: USA  |  2,1  |  1,5  |  1,6  |  0,1  |  1,3  |  2,2  |  2,3
+p.140: Japan  |  0,0  |  0,4  |  2,7  |  0,8  |  -0,1  |  0,4  |  1,0
+p.140: Norge  |  0,4  |  2,0  |  1,9  |  2,0  |  3,9  |  2,1  |  2,0
+p.141: Tabel B.3
+p.141: 2012  |  2013  |  2014  |  2015  |  2016  |  2017  |  2018
+p.141: EU28  |  2,0  |  1,7  |  1,2  |  1,2  |  1,7  |  2,2  |  2,4
+p.141: Euroområdet  |  1,8  |  1,6  |  1,3  |  1,1  |  1,3  |  1,8  |  2,1
+p.141: Tyskland  |  2,5  |  1,8  |  2,8  |  2,4  |  2,3  |  2,5  |  2,6
+p.141: Frankrig  |  2,4  |  1,6  |  1,2  |  1,1  |  1,3  |  1,5  |  1,8
+p.141: Italien  |  0,4  |  1,3  |  0,0  |  0,2  |  0,3  |  0,9  |  1,6
+p.141: Spanien  |  -0,6  |  1,4  |  0,0  |  0,4  |  0,0  |  1,0  |  1,3
+p.141: Nederlandene  |  2,5  |  2,2  |  1,6  |  0,4  |  1,3  |  2,8  |  2,8
+p.141: Belgien  |  3,2  |  2,5  |  1,0  |  0,0  |  0,1  |  2,0  |  1,7
+p.141: Østrig  |  2,7  |  2,1  |  1,9  |  1,9  |  1,3  |  1,9  |  1,9
+p.141: Finland  |  2,8  |  1,3  |  1,0  |  1,6  |  1,0  |  -0,8  |  1,5
+p.141: Danmark2), 3)  |  2,5  |  1,8  |  1,7  |  1,5  |  2,2  |  2,5  |  2,8
+p.141: Sverige  |  3,1  |  1,9  |  2,2  |  3,5  |  2,5  |  2,5  |  2,6
+p.141: Storbritannien  |  1,7  |  2,1  |  0,7  |  1,1  |  2,8  |  2,4  |  2,4
+p.141: USA  |  2,2  |  1,5  |  2,9  |  3,0  |  2,3  |  3,5  |  4,0
+p.141: Japan  |  -0,6  |  -0,1  |  1,1  |  0,7  |  0,1  |  0,7  |  0,5
+p.141: Norge  |  4,5  |  4,5  |  3,2  |  2,7  |  1,7  |  2,1  |  2,4
+p.141: EU28  |  0,9  |  1,4  |  1,4  |  1,9  |  2,1  |  1,9  |  1,9
+p.141: Euroområdet  |  1,9  |  2,4  |  2,5  |  3,3  |  3,4  |  3,0  |  2,9
+p.141: Tyskland  |  7,1  |  6,9  |  7,5  |  8,5  |  8,5  |  8,0  |  7,6
+p.141: Frankrig  |  -2,9  |  -2,9  |  -3,2  |  -2,0  |  -2,3  |  -2,4  |  -2,5
+p.141: Italien  |  -0,4  |  1,0  |  1,9  |  1,4  |  2,6  |  1,9  |  1,7
+p.141: Spanien  |  -0,4  |  1,5  |  1,0  |  1,3  |  1,9  |  1,6  |  1,6
+p.141: Nederlandene  |  10,2  |  10,2  |  8,5  |  8,5  |  7,9  |  7,4  |  7,1
+p.141: Belgien  |  1,5  |  1,1  |  -0,1  |  0,2  |  1,2  |  1,5  |  1,7
+p.141: Østrig  |  1,7  |  1,6  |  2,6  |  2,5  |  2,1  |  2,0  |  2,2
+p.141: Finland  |  -1,9  |  -1,9  |  -1,3  |  -0,7  |  -1,3  |  -1,8  |  -1,6
+p.141: Danmark3)  |  6,3  |  7,8  |  8,9  |  9,2  |  8,1  |  8,1  |  7,9
+p.141: Sverige  |  5,7  |  5,1  |  4,8  |  4,7  |  4,9  |  5,2  |  5,4
+p.141: Storbritannien  |  -3,7  |  -4,4  |  -4,7  |  -4,3  |  -4,4  |  -3,9  |  -3,2
+p.141: USA  |  2,8  |  -2,2  |  -2,3  |  -2,6  |  -2,5  |  -2,8  |  -3,3
+p.141: Japan  |  1,0  |  0,9  |  0,8  |  3,2  |  3,9  |  4,1  |  4,2
+p.141: Norge  |  12,4  |  10,2  |  11,0  |  8,7  |  4,9  |  4,6  |  4,3
+p.141: for 2017-2018 er for timefortjenesten ekskl. genetillæg for hele økonomien.
+p.142: Tabel B.4
+p.142: 2012  |  2013  |  2014  |  2015  |  2016  |  2017  |  2018
+p.142: EU28  |  10,5  |  10,9  |  10,2  |  9,4  |  8,5  |  8,0  |  7,7
+p.142: Euroområdet  |  11,4  |  12,0  |  11,6  |  10,9  |  10,0  |  9,4  |  8,9
+p.142: Tyskland  |  5,4  |  5,2  |  5,0  |  4,6  |  4,1  |  4,0  |  3,9
+p.142: Frankrig  |  9,8  |  10,3  |  10,3  |  10,4  |  10,1  |  9,9  |  9,6
+p.142: Italien  |  10,7  |  12,1  |  12,7  |  11,9  |  11,7  |  11,5  |  11,3
+p.142: Spanien  |  24,8  |  26,1  |  24,5  |  22,1  |  19,6  |  17,6  |  15,9
+p.142: Nederlandene  |  5,8  |  7,3  |  7,4  |  6,9  |  6,0  |  4,9  |  4,4
+p.142: Belgien  |  7,6  |  8,4  |  8,5  |  8,5  |  7,8  |  7,6  |  7,4
+p.142: Østrig  |  4,9  |  5,4  |  5,6  |  5,7  |  6,0  |  5,9  |  5,9
+p.142: Finland  |  7,7  |  8,2  |  8,7  |  9,4  |  8,8  |  8,6  |  8,2
+p.142: Danmark2)  |  7,7  |  7,1  |  6,8  |  6,3  |  6,3  |  6,3  |  6,2
+p.142: Danmark3)  |  5,6  |  5,3  |  4,6  |  4,2  |  3,8  |  3,9  |  3,7
+p.142: Sverige  |  8,0  |  8,0  |  7,9  |  7,4  |  6,9  |  6,6  |  6,6
+p.142: Storbritannien  |  7,9  |  7,6  |  6,1  |  5,3  |  4,8  |  5,0  |  5,4
+p.142: USA  |  8,1  |  7,4  |  6,2  |  5,3  |  4,9  |  4,6  |  4,5
+p.142: Japan  |  4,3  |  4,0  |  3,6  |  3,4  |  3,1  |  3,1  |  3,0
+p.142: Norge  |  3,2  |  3,5  |  3,5  |  4,4  |  4,7  |  4,1  |  3,7
+p.142: EU28  |  -0,4  |  -0,4  |  1,1  |  1,1  |  1,3  |  0,9  |  0,9
+p.142: Euroområdet  |  -0,4  |  -0,8  |  0,7  |  1,0  |  1,4  |  1,1  |  1,1
+p.143: Tabel B.5
+p.143: 2012  |  2013  |  2014  |  2015  |  2016  |  2017  |  2018
+p.143: EU28  |  -4,3  |  -3,3  |  -3,0  |  -2,4  |  -1,7  |  -1,6  |  -1,5
+p.143: Euroområdet  |  -3,6  |  -3,0  |  -2,6  |  -2,1  |  -1,5  |  -1,4  |  -1,3
+p.143: Tyskland  |  0,0  |  -0,2  |  0,3  |  0,7  |  0,8  |  0,5  |  0,3
+p.143: Frankrig  |  -4,8  |  -4,0  |  -3,9  |  -3,6  |  -3,4  |  -3,0  |  -3,2
+p.143: Italien  |  -2,9  |  -2,9  |  -3,0  |  -2,7  |  -2,4  |  -2,2  |  -2,3
+p.143: Spanien  |  -10,5  |  -7,0  |  -6,0  |  -5,1  |  -4,5  |  -3,2  |  -2,6
+p.143: Nederlandene  |  -3,9  |  -2,4  |  -2,3  |  -2,1  |  0,4  |  0,5  |  0,8
+p.143: Belgien  |  -4,2  |  -3,1  |  -3,1  |  -2,5  |  -2,6  |  -1,9  |  -2,0
+p.143: Østrig  |  -2,2  |  -1,4  |  -2,7  |  -1,1  |  -1,6  |  -1,3  |  -1,0
+p.143: Finland  |  -2,2  |  -2,6  |  -3,2  |  -2,7  |  -1,9  |  -2,2  |  -1,8
+p.143: Danmark1)  |  -3,5  |  -1,0  |  1,4  |  -1,3  |  -0,9  |  -1,5  |  -0,7
+p.143: Sverige  |  -1,0  |  -1,4  |  -1,5  |  0,3  |  0,9  |  0,4  |  0,7
+p.143: Storbritannien  |  -8,2  |  -5,6  |  -5,7  |  -4,3  |  -3,0  |  -3,0  |  -2,3
+p.143: USA  |  -8,9  |  -5,4  |  -4,8  |  -4,2  |  -4,8  |  -4,7  |  -5,2
+p.143: Japan  |  -8,3  |  -7,6  |  -5,4  |  -3,5  |  -3,7  |  -4,2  |  -3,6
+p.143: Norge  |  13,8  |  10,8  |  8,8  |  6,0  |  3,1  |  3,6  |  4,0
+p.143: EU28  |  -2,7  |  -1,8  |  -1,8  |  -1,6  |  -1,3  |  -1,5  |  -1,5
+p.143: Euroområdet  |  -2,1  |  -1,4  |  -1,0  |  -1,0  |  -1,0  |  -1,1  |  -1,3
+p.143: Tyskland  |  -0,1  |  0,1  |  0,8  |  0,8  |  0,8  |  0,6  |  0,3
+p.143: Frankrig  |  -4,2  |  -3,4  |  -2,9  |  -2,7  |  -2,5  |  -2,3  |  -2,8
+p.143: Italien  |  -1,5  |  -0,9  |  -1,2  |  -1,0  |  -1,7  |  -2,0  |  -2,2
+p.143: Spanien  |  -3,3  |  -1,9  |  -1,7  |  -2,5  |  -3,5  |  -3,4  |  -3,4
+p.143: Nederlandene  |  -2,1  |  -0,9  |  -0,5  |  -1,0  |  0,7  |  0,2  |  0,4
+p.143: Belgien  |  -3,4  |  -2,8  |  -2,8  |  -2,3  |  -2,2  |  -1,6  |  -2,0
+p.143: Østrig  |  -1,9  |  -1,2  |  -0,8  |  -0,3  |  -1,0  |  -1,1  |  -0,9
+p.143: Finland  |  -1,2  |  -1,2  |  -1,6  |  -1,1  |  -0,9  |  -1,3  |  -1,4
+p.143: Danmark1)  |  -0,8  |  -0,5  |  -1,0  |  -0,5  |  -0,1  |  -0,5  |  -0,2
+p.143: Sverige  |  0,2  |  0,1  |  -0,4  |  0,5  |  0,8  |  0,4  |  0,8
+p.143: Storbritannien  |  -6,5  |  -4,4  |  -5,3  |  -4,5  |  -3,2  |  -3,4  |  -2,6
+p.143: USA3)  |  -7,4  |  -4,1  |  -4,0  |  -4,0  |  -4,4  |  -4,7  |  -6,0
+p.143: Japan3)  |  -8,1  |  -8,3  |  -6,6  |  -6,2  |  -5,6  |  -5,9  |  -5,2
+p.143: Norge3), 4)  |  0,2  |  -0,4  |  -0,7  |  0,3  |  -0,6  |  -1,1  |  -1,3
+p.143: 3)  |  OECD, Economic Outlook 100, november 2016. 2016-2018 er skøn for disse lande.
+p.143: Kilde: OECD, Economic Outlook 100, november 2016, EU-kommissionens forårsprognose, maj 2017, samt
+p.144: Tabel B.6
+p.144: 2014  |  2015  |  2016  |  2017  |  2018
+p.144: Samlet befolkning  |  5.643  |  5.683  |  5.728  |  5.768  |  5.804
+p.144: I arbejdsstyrken  |  2.916  |  2.944  |  2.983  |  3.025  |  3.045
+p.144: Samlet beskæftigelse  |  2.794  |  2.829  |  2.877  |  2.914  |  2.937
+p.144: - Beskæftigede på ordinært arbejdsmarked1)  |  2.718  |  2.755  |  2.800  |  2.872  |  2.898
+p.144: Uden for arbejdsstyrken  |  2.727  |  2.739  |  2.745  |  2.744  |  2.759
+p.145: Tabel B.7
+p.145: 2014  |  2015  |  2016  |  2017  |  2018
+p.145: I alt, inkl. SU  |  1.057  |  1.054  |  1.030  |  1.016  |  997
+p.145: Folkepensionister2)  |  1.062  |  1.087  |  1.108  |  1.131  |  1.154
+p.145: I alt, inkl. SU og folkepensionister  |  2.119  |  2.141  |  2.138  |  2.147  |  2.151
+p.146: Tabel B.8
+p.146: 2016  |  2014  |  2015  |  2016  |  2017  |  2018
+p.146: Faste bruttoinvesteringer  |  412  |  3,5  |  2,5  |  5,2  |  2,8  |  3,8
+p.146: - Bygninger og anlæg  |  187  |  5,2  |  3,2  |  6,9  |  0,3  |  4,6
+p.146: - Maskiner og transport mv.  |  226  |  2,1  |  1,8  |  3,9  |  4,9  |  1,5
+p.146: - Boliginvesteringer  |  91  |  8,6  |  3,8  |  11,0  |  7,0  |  8,0
+p.146: - Offentlige investeringer  |  76  |  8,9  |  -3,6  |  2,7  |  -4,7  |  -2,1
+p.146: - Samlede erhvervsinvesteringer  |  245  |  0,1  |  4,1  |  4,0  |  3,6  |  3,9
+p.146: - Bygge- og anlægsinvesteringer  |  53  |  -3,2  |  1,3  |  4,9  |  2,0  |  3,8
+p.146: - Materielinvesteringer  |  192  |  1,1  |  4,8  |  3,8  |  4,0  |  4,0
+p.147: Tabel B.9
+p.147: 2014  |  2015  |  2016  |  2017  |  2018
+p.147: Do. i pct. af BNP  |  7,0  |  7,4  |  6,9  |  7,0  |  6,9
+p.147: Do. i pct. af BNP  |  8,9  |  9,2  |  8,1  |  8,1  |  7,9
+p.147: Danmarks nettoaktiver over for udlandet  |  902  |  762  |  1.259  |  1.420  |  1.596
+p.147: Do. i pct. af BNP  |  45,6  |  37,6  |  61,1  |  66,7  |  72,2
+p.148: Tabel B.10
+p.148: 2016  |  2015  |  2016  |  2017  |  2018
+p.148: Varer i alt  |  699  |  2,1  |  1,5  |  3,0  |  2,6
+p.148: - Landbrugsvarer mv.  |  120  |  -1,2  |  -2,2  |  0,7  |  1,0
+p.148: - Industrivarer  |  514  |  2,8  |  4,2  |  3,9  |  3,4
+p.148: - Øvrige varer1)  |  65  |  2,6  |  -10,2  |  0,1  |  -0,8
+p.148: Tjenester i alt  |  395  |  1,4  |  2,1  |  2,7  |  3,2
+p.148: I alt  |  1.094  |  1,8  |  1,7  |  2,9  |  2,8
+p.148: Varer i alt  |  596  |  1,7  |  1,9  |  3,5  |  3,7
+p.148: - Landbrugsvarer mv.  |  76  |  1,8  |  -0,1  |  1,8  |  1,9
+p.148: - Industrivarer  |  403  |  2,9  |  4,8  |  4,0  |  3,8
+p.148: - Øvrige varer2)  |  117  |  -1,3  |  -5,6  |  3,0  |  4,6
+p.148: Tjenester i alt  |  357  |  0,5  |  3,3  |  3,2  |  3,5
+p.148: I alt  |  953  |  1,3  |  2,4  |  3,4  |  3,7
+p.148: Basisvareeksport3)  |  664  |  5,9  |  3,1  |  4,8  |  5,1
+p.149: Tabel B.11
+p.149: 2016  |  2015  |  2016  |  2017  |  2018
+p.149: Varer i alt  |  699  |  1,5  |  -0,2  |  2,1  |  2,4
+p.149: - Landbrugsvarer mv.  |  120  |  3,8  |  6,5  |  1,4  |  2,6
+p.149: - Industrivarer (ekskl. skibe mv.)  |  514  |  3,7  |  -0,4  |  1,6  |  2,2
+p.149: - Øvrige varer1)  |  65  |  -12,6  |  -9,2  |  7,8  |  4,3
+p.149: Tjenester i alt  |  395  |  2,7  |  -9,9  |  2,0  |  1,9
+p.149: I alt  |  1.094  |  2,0  |  -3,9  |  2,1  |  2,2
+p.149: Varer i alt  |  596  |  -0,2  |  -3,4  |  2,0  |  2,0
+p.149: - Landbrugsvarer mv.  |  76  |  4,3  |  -0,4  |  0,3  |  0,6
+p.149: - Industrivarer (ekskl. skibe mv.)  |  403  |  3,7  |  -2,8  |  0,8  |  1,5
+p.149: - Øvrige varer2)  |  117  |  -12,0  |  -7,1  |  7,4  |  4,7
+p.149: Tjenester i alt  |  357  |  5,3  |  -5,2  |  0,7  |  1,2
+p.149: I alt  |  953  |  1,8  |  -4,1  |  1,5  |  1,7
+p.150: Tabel B.12
+p.150: 2016  |  2016  |  2017  |  2018  |  2016  |  2017  |  2018
+p.150: Forbrug i alt  |  979  |  1,9  |  2,0  |  2,0  |  1,9  |  2,0  |  2,0
+p.150: Detailomsætning  |  300  |  2,1  |  1,7  |  2,5  |  0,7  |  0,5  |  0,8
+p.150: - Fødevarer m.m.  |  142  |  1,5  |  1,3  |  2,0  |  0,2  |  0,2  |  0,3
+p.150: - Øvrige varer  |  159  |  2,7  |  2,1  |  2,9  |  0,4  |  0,3  |  0,5
+p.150: Bilkøb  |  36  |  4,5  |  5,4  |  4,0  |  0,2  |  0,2  |  0,2
+p.150: Brændsel m.m.  |  55  |  -1,2  |  3,8  |  -1,0  |  -0,1  |  0,2  |  -0,1
+p.150: Benzin og lignende  |  24  |  -0,6  |  -0,2  |  1,0  |  0,0  |  0,0  |  0,0
+p.150: Boligbenyttelse  |  220  |  0,8  |  1,2  |  1,4  |  0,2  |  0,3  |  0,3
+p.150: Øvrige tjenester  |  350  |  2,7  |  2,5  |  2,5  |  0,9  |  0,9  |  0,9
+p.150: Turistudgifter  |  42  |  4,3  |  1,0  |  2,0  |  0,2  |  0,0  |  0,1
+p.150: Turistindtægter1)  |  48  |  2,9  |  3,3  |  3,5  |  -0,1  |  -0,2  |  -0,2
+p.150: Tabel B.13
+p.150: 2014  |  2015  |  2016  |  2017  |  2018
+p.151: Tabel B.14
+p.151: 2016  |  95-08  |  95-16  |  2015  |  2016  |  2017  |  2018
+p.151: BVT i alt  |  100  |  2,0  |  1,5  |  1,4  |  1,0  |  1,9  |  1,6
+p.151: Offentlig sektor  |  22  |  1,2  |  1,0  |  0,3  |  -0,9  |  0,2  |  0,4
+p.151: Privat sektor  |  78  |  2,3  |  1,6  |  1,7  |  1,5  |  2,4  |  2,3
+p.151: Privat sektor ekskl. råstof  |  77  |  2,3  |  1,8  |  2,1  |  1,7  |  2,5  |  2,4
+p.151: Private byerhverv  |  66  |  2,4  |  1,8  |  2,3  |  1,9  |  2,5  |  2,0
+p.151: Tabel B.15
+p.151: Realvækst i pct.  |  95-08  |  95-16  |  2015  |  2016  |  2017  |  2018
+p.151: Samlet  |  1,0  |  1,0  |  0,3  |  -0,5  |  0,7  |  0,8
+p.151: Byggeriet  |  0,2  |  0,5  |  0,2  |  0,9  |  0,2  |  0,5
+p.151: Industri  |  2,3  |  2,9  |  1,4  |  1,5  |  2,0  |  0,8
+p.151: Private serviceerhverv  |  0,6  |  0,6  |  -0,0  |  -1,2  |  0,7  |  1,2
+p.151: Private byerhverv  |  0,9  |  1,0  |  0,3  |  -0,6  |  0,7  |  0,9
+p.152: Tabel B.16
+p.152: 2014  |  2015  |  2016  |  2017  |  2018
+p.152: Realindkomst før afgiftsbidrag  |  2,9  |  2,1  |  1,4  |  1,1  |  0,9
+p.152: Afgiftsbidrag2)  |  0,2  |  0,2  |  0,2  |  0,1  |  0,2
+p.152: Vækst i real disponibel indkomst i alt3)  |  3,1  |  2,3  |  1,6  |  1,2  |  1,2
+p.152: - Lønsum4)  |  1,2  |  1,5  |  1,9  |  1,6  |  1,3
+p.152: - Pensionsbidrag5)  |  0,5  |  -0,4  |  -1,3  |  0,0  |  -0,1
+p.152: Lønsum ekskl. pensionsbidrag  |  1,7  |  1,2  |  0,6  |  1,6  |  1,2
+p.152: Samlede offentlige indkomstoverførsler  |  0,2  |  0,2  |  0,1  |  0,1  |  0,1
+p.152: overførsler  |  1,9  |  1,3  |  0,7  |  1,7  |  1,4
+p.152: Nettorenteindkomst  |  0,1  |  0,3  |  0,2  |  0,1  |  0,0
+p.152: Aktieudbytter mv. 6)  |  0,4  |  0,5  |  -0,4  |  0,2  |  0,2
+p.152: Udbetalinger fra pensionsordninger5)  |  0,2  |  1,5  |  -0,2  |  -0,7  |  0,0
+p.152: Ændret beskatning7)  |  0,2  |  -0,5  |  0,0  |  0,0  |  -0,1
+p.152: Selvstændige og ejerboliger  |  0,3  |  -0,8  |  1,1  |  0,1  |  0,2
+p.152: I øvrigt8)  |  0,1  |  0,0  |  0,1  |  -0,1  |  -0,4
+p.152: Udbetalinger af efterlønsbidrag9)  |  0,0  |  0,0  |  0,0  |  0,0  |  0,0
+p.153: Tabel B.17

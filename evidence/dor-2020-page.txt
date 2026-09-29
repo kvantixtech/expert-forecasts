@@ -1,23 +1,6 @@
 # dor-2020-page
 # url: https://dors.dk/vismandsrapporter/dansk-oekonomi-efteraar-2020
-# http: 200  bytes: 85948  sha256: ae7ae0d7a7fb614b520e52b62ccb38513217e52feae652c306bc8994b95b1199
-# fetched: 2026-09-29T18:09:18Z
-# html page
+# http: 000  bytes: 0  sha256: 
+# fetched: 2026-09-29T18:12:26Z
+# FAILED: curl: (92) HTTP/2 stream 1 was not closed cleanly: PROTOCOL_ERROR (err 1)
 
-
-# PDF links on this page:
-https://dors.dk/files/media/old_files/E20_Skriftlige_indl%25C3%25A6g_fra_r%25C3%25A5dsmedlemmer_ver1.pdf
-https://dors.dk/files/media/rapporter/2020/e20/danish_economy_autumn_2020_epidemiology_and_economics.pdf
-https://dors.dk/files/media/rapporter/2020/e20/diskussionsopl%25C3%25A6g/kap._ii_baggrundsnotat_konjunkturvurdering.pdf
-https://dors.dk/files/media/rapporter/2020/e20/diskussionsopl%25C3%25A6g/kap._ii_baggrundsnotat_offentlige_finanser.pdf
-https://dors.dk/files/media/rapporter/2020/e20/diskussionsopl%25C3%25A6g/kap._iii_baggrundsnotat_finanspolitisk_holdbarhed.pdf
-https://dors.dk/files/media/rapporter/2020/e20/diskussionsopl%25C3%25A6g/kap._iii_baggrundsnotat_udviklingen_i_det_offentlige_forbrug.pdf
-https://dors.dk/files/media/rapporter/2020/e20/diskussionsopl%25C3%25A6g/presse_e20.pdf
-https://dors.dk/files/media/rapporter/2020/e20/endelig_rapport/e20_dansk_oekonomi_efteraar_2020_web.pdf
-https://dors.dk/files/media/rapporter/2020/e20/endelig_rapport/e20_kap.i_aktuel_oekonomisk_politik.pdf
-https://dors.dk/files/media/rapporter/2020/e20/endelig_rapport/e20_kap.ii_konjunktur_og_offentlige_finanser.pdf
-https://dors.dk/files/media/rapporter/2020/e20/endelig_rapport/e20_kap.iii_finanspolitisk_holdbarhed.pdf
-https://dors.dk/files/media/rapporter/2020/e20/endelig_rapport/e20_kap.iv_konjunkturudsving_og_finanspolitik.pdf
-https://dors.dk/files/media/rapporter/2020/e20/endelig_rapport/e20_kap.v_epidemiologi_oekonomi.pdf
-https://dors.dk/files/media/rapporter/2020/e20/endelig_rapport/e20_rapportens_hovedkonklusioner.pdf
-https://dors.dk/files/media/rapporter/2020/e20/english_summary/e20_summary_and_recommendations.pdf

@@ -1,0 +1,6 @@
+# dor-2018-kap1
+# url: https://dors.dk/files/media/rapporter/2018/E18/kapitel_1/e18_kap_i_konjunktur_og_offentlige_finanser.pdf
+# http: 000  bytes: 0  sha256: 
+# fetched: 2026-09-29T18:12:37Z
+# FAILED: curl: (92) HTTP/2 stream 1 was not closed cleanly: PROTOCOL_ERROR (err 1)
+

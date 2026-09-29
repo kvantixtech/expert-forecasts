@@ -1,7 +1,7 @@
 # nb-2018-03
 # url: https://www.nationalbanken.dk/media/a5fl4m0b/analyse-moderat-hoejkonjunktur-i-de-kommende-aar.pdf
 # http: 200  bytes: 437248  sha256: 96d4f17f6134aeada2552f9bbe3549760138992493516a6acdb93f7b834eb4ad
-# fetched: 2026-09-29T18:09:02Z
+# fetched: 2026-09-29T18:12:12Z
 # pages: 21  (lines below are quotes; p.N = PDF page)
 
 p.2: •  |  Det reale BNP skønnes at vokse med 1,9 pct. i år,

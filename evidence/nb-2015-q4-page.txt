@@ -1,0 +1,8 @@
+# nb-2015-q4-page
+# url: https://www.nationalbanken.dk/en/publications/Pages/2015/12/Monetary-review-4th-Quarter-2015.aspx
+# http: 200  bytes: 31689  sha256: 5b1380b41c02df359e164a5971782be4aafcb1aa46cd8bfcfaee5c5dedc299fa
+# fetched: 2026-09-29T18:12:44Z
+# html page
+
+
+# PDF links on this page:

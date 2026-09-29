@@ -1,7 +1,7 @@
 # nb-2021-09
 # url: https://www.nationalbanken.dk/media/acbhbbbv/analysis-no-24-the-economy-heading-back-towards-a-moderate-boom.pdf
 # http: 200  bytes: 672235  sha256: db6e8478a13f11c844742e8f3f99d8c0d660dd28cd1603b417827dd3c58f460f
-# fetched: 2026-09-29T18:09:07Z
+# fetched: 2026-09-29T18:12:16Z
 # pages: 32  (lines below are quotes; p.N = PDF page)
 
 p.2: Real growth relative to the previous year, per cent  |  2020  |  2021  |  2022  |  2023  |  should be prepared

@@ -1,0 +1,6 @@
+# dor-2020-kap2
+# url: https://dors.dk/files/media/rapporter/2020/e20/endelig_rapport/e20_kap.ii_konjunktur_og_offentlige_finanser.pdf
+# http: 000  bytes: 0  sha256: 
+# fetched: 2026-09-29T18:12:39Z
+# FAILED: curl: (92) HTTP/2 stream 1 was not closed cleanly: PROTOCOL_ERROR (err 1)
+
