@@ -1,7 +1,7 @@
 # nb-arch-2018-mar-page
 # url: https://www.nationalbanken.dk/en/news-and-knowledge/publications-and-speeches/archive-publications/2018/outlook-for-the-danish-economy-moderate-boom-in-the-coming-years
 # http: 200  bytes: 35069  sha256: 811f02a4d813fc2e8881db70836c2357271406dacf116c1507307baf96d21b95
-# fetched: 2026-09-29T18:54:53Z
+# fetched: 2026-09-29T19:02:44Z
 # html page
 
 The upswing continued in the 2nd half of 2017 and the Danish economy has entered a boom phase with mounting pressures on the labour market. The expansion has been balanced so far, partly supported by previous reforms that have increased the supply of labour. Growth in GDP is forecast at 1.9 per cent this year and slightly less in the next two years. The economy is well prepared for the boom, which may develop without the build-up of imbalances, but experience shows that the economy can overheat suddenly and violently. The government should be prepared to introduce preventive fiscal tightening with a view to dampening growth in demand if there are signs of overheating.

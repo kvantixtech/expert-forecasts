@@ -1,7 +1,7 @@
 # dst-first-2020-c31843
 # url: https://www.dst.dk/Site/Dst/Udgivelser/nyt/GetPdf.aspx?cid=31843
 # http: 200  bytes: 471171  sha256: f50b22d5613413eb1947ff7a8f22b4514f1620d9d233ff8c0392b2c9fd9686cb
-# fetched: 2026-09-29T18:56:03Z
+# fetched: 2026-09-29T19:03:47Z
 # pages: 6  (lines below are quotes; p.N = PDF page)
 
 p.1: for året 2020 fra -0,4 pct. til -0,1 pct. I tabellen er tal for offentlige forbrugsudgif-

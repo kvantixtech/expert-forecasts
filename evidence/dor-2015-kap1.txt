@@ -1,7 +1,7 @@
 # dor-2015-kap1
 # url: https://dors.dk/files/media/rapporter/2015/E15/kap_i/e15_kap_i_konjunkturvurdering.pdf
 # http: 200  bytes: 1230021  sha256: 66a88c1b499b74f50a0699b436a77e59379671f8102d083c92185f1680cbdfb6
-# fetched: 2026-09-29T18:53:17Z
+# fetched: 2026-09-29T19:00:57Z
 # pages: 103  (lines below are quotes; p.N = PDF page)
 
 p.1: 2015  |  personer siden midten af 2013. De positive tendenser i

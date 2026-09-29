@@ -1,7 +1,7 @@
 # nb-arch-2019
 # url: https://www.nationalbanken.dk/en/news-and-knowledge/publications-and-speeches/archive-publications/2019
 # http: 200  bytes: 60842  sha256: 7337ea428a47f568fa6e9656132e774d296e660f00d88132524ae9e463537510
-# fetched: 2026-09-29T18:54:01Z
+# fetched: 2026-09-29T19:01:49Z
 # html page
 
 

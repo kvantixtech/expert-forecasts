@@ -1,7 +1,7 @@
 # dst-first-2020-c31838
 # url: https://www.dst.dk/Site/Dst/Udgivelser/nyt/GetPdf.aspx?cid=31838
 # http: 200  bytes: 318669  sha256: 2fb7eaec37353ca8c84ae8c5f1a5a5d3024702eb8506220eb2f97ff3a1e93847
-# fetched: 2026-09-29T18:55:33Z
+# fetched: 2026-09-29T19:03:34Z
 # pages: 3  (lines below are quotes; p.N = PDF page)
 
 p.2: Næste offentliggørelse: Arbejdskraftundersøgelsen 1. kvt. 2021 udkommer 19. maj 2021.

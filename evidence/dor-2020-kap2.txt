@@ -1,7 +1,7 @@
 # dor-2020-kap2
 # url: https://dors.dk/files/media/rapporter/2020/e20/endelig_rapport/e20_kap.ii_konjunktur_og_offentlige_finanser.pdf
 # http: 200  bytes: 4563937  sha256: c0ce3be23d2c61b6004f2104e3318e3604e44980d4b0aa26b788c0c117657d04
-# fetched: 2026-09-29T18:53:36Z
+# fetched: 2026-09-29T19:01:21Z
 # pages: 95  (lines below are quotes; p.N = PDF page)
 
 p.3: de kommende år  |  ventes, at BNP i 2021 er tilbage på samme niveau som i 2019. Det er

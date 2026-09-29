@@ -1,7 +1,7 @@
 # dst-nyt-series
 # url: https://www.dst.dk/da/Statistik/udgivelser/nyt?series=2742
 # http: 200  bytes: 46597  sha256: 2b96582027683d75cec1bd0ec013013feea843abe65523b2d1307837510ef485
-# fetched: 2026-09-29T18:56:06Z
+# fetched: 2026-09-29T19:03:49Z
 # html page
 
 Bruttonationalproduktet (BNP) steg med 0,3 pct. i andet kvartal 2026, når der korrigeres for prisudvikling og sæsonbevægelser. Væksten i andet kvartal var funderet over f ...

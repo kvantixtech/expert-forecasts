@@ -1,7 +1,7 @@
 # dst-first-2019
 # url: https://www.dst.dk/Site/Dst/Udgivelser/nyt/GetPdf.aspx?cid=29946
 # http: 200  bytes: 429945  sha256: 96c89ce7ad0aa862f3ebc66c67da7a74d5a599aa76c2068f7e8605508fef2d32
-# fetched: 2026-09-29T18:55:14Z
+# fetched: 2026-09-29T19:03:07Z
 # pages: 5  (lines below are quotes; p.N = PDF page)
 
 p.1: BNP-vækst på 0,2 pct. i fjerde kvartal 2019

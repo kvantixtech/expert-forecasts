@@ -1,7 +1,7 @@
 # dst-first-2016
 # url: https://www.dst.dk/Site/Dst/Udgivelser/nyt/GetPdf.aspx?cid=23059
 # http: 200  bytes: 418610  sha256: b4a75a5db650a6330fc9c8d73a8ee2dc194faa5bc51c8936c4da106c11487a4e
-# fetched: 2026-09-29T18:55:06Z
+# fetched: 2026-09-29T19:02:57Z
 # pages: 5  (lines below are quotes; p.N = PDF page)
 
 p.1: Bruttonationalproduktet (BNP) steg 0,2 pct. i fjerde kvartal, når der korrigeres for

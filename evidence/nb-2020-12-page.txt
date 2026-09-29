@@ -1,7 +1,7 @@
 # nb-2020-12-page
 # url: https://www.nationalbanken.dk/da/viden-og-nyheder/publikationer-og-taler/arkiv-publikationer/2020/udsigter-for-dansk-oekonomi-smittespredning-forsinker-genopretningen
 # http: 200  bytes: 32491  sha256: d8519fddcde43d7973e91d4ea19d88f5edb306ad073e9ba5a0ffd1dc09efadcf
-# fetched: 2026-09-29T18:54:18Z
+# fetched: 2026-09-29T19:02:07Z
 # html page
 
 

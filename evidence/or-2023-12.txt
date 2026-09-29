@@ -1,7 +1,7 @@
 # or-2023-12
 # url: https://oem.dk/media/gp2h10nx/oekonomisk-redegoerelse-december-2023-20231212-a.pdf
 # http: 200  bytes: 6650679  sha256: 6675a1fb350d23ecbedf5cc1985f9d354a2d90e496fedb5c590d2a910d9c2599
-# fetched: 2026-09-29T18:51:48Z
+# fetched: 2026-09-29T18:59:14Z
 # pages: 219  (lines below are quotes; p.N = PDF page)
 
 p.7: 1.3 Bilagstabel ............................................................................................................... 29

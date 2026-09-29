@@ -1,6 +1,6 @@
 # dst-first-2020-c31842
 # url: https://www.dst.dk/Site/Dst/Udgivelser/nyt/GetPdf.aspx?cid=31842
 # http: 404  bytes: 35762  sha256: d9b601fa5dacd8441a3009f6689310a7f1b50a721a91e8a855e07d96d8010a80
-# fetched: 2026-09-29T18:55:42Z
+# fetched: 2026-09-29T19:03:44Z
 # FAILED: 
 

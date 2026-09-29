@@ -1,7 +1,7 @@
 # or-2016-05
 # url: https://legacy.altinget.dk/misc/oekonomisk%20redegoerelse_maj%202016.pdf
 # http: 200  bytes: 2666300  sha256: a2e7305c4c5d36b7813d2b35961d630294fef5cc2ec1e6f56205cfb9782b9357
-# fetched: 2026-09-29T18:54:08Z
+# fetched: 2026-09-29T19:01:56Z
 # pages: 193  (lines below are quotes; p.N = PDF page)
 
 p.7: 1.2 Prognosen i hovedtræk ........................................................................................  |  10

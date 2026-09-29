@@ -1,7 +1,7 @@
 # or-2015-08-sm
 # url: https://www.sm.dk/media/7593/oekonomisk-redegoerelse-maj-2015.pdf
 # http: 200  bytes: 2081817  sha256: 12eb8be32eb109e1644e14736bd9a257d236b9284d92ea4c1cc181efe8ef308e
-# fetched: 2026-09-29T18:55:02Z
+# fetched: 2026-09-29T19:02:52Z
 # pages: 183  (lines below are quotes; p.N = PDF page)
 
 p.6: 1.2 Prognosen i hovedtræk ........................................................................................  |  10

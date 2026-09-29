@@ -1,0 +1,6 @@
+# nb-2017-12-g1
+# url: https://www.nationalbanken.dk/en/publications/Documents/2017/12/Analysis_Outlook%20for%20the%20Danish%20Economy_December%202017.pdf
+# http: 404  bytes: 0  sha256: 
+# fetched: 2026-09-29T19:04:10Z
+# FAILED: 
+

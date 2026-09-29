@@ -1,7 +1,7 @@
 # nb-2019-09
 # url: https://www.nationalbanken.dk/media/n2war15y/analysis-no-20-outlook-for-the-danish-economy-september-2019.pdf
 # http: 200  bytes: 507938  sha256: 25b3ca3174ad521c6849b88c3d721725ae47ddaca929077b753e8ab842e3a1c7
-# fetched: 2026-09-29T18:54:38Z
+# fetched: 2026-09-29T19:02:27Z
 # pages: 29  (lines below are quotes; p.N = PDF page)
 
 p.2: to 1.5 per cent in 2020 and 2021, which is roughly  |  should not be seen as an indication that a down­

@@ -1,0 +1,236 @@
+# nb-2016-12
+# url: http://www.nationalbanken.dk/media/2g5o32nk/monetary-review-4th-quarter-2016.pdf
+# http: 200  bytes: 8172032  sha256: 8da176f165d0e660a21d7e2f6ae290a46557495e8dd2833ea54c68cb382105d3
+# fetched: 2026-09-29T19:04:04Z
+# pages: 85  (lines below are quotes; p.N = PDF page)
+
+p.7: trigger a global economic slowdown.  |  2017 and 1.5 per cent in 2018. Employment is
+p.9: 1 December 2016  |  9 November 2016  |  1.7
+p.10: growth. Many countries conducted expansionary  |  In the euro area, GDP grew by 0.3 per cent in the
+p.10: icant trade barriers combined with expansionary  |  In the USA, GDP growth rose to 0.8 per cent
+p.10: per cent at present. This is slightly higher than the  |  GDP growth in the UK was 0.5 per cent in the
+p.11: cf. Chart 6 (right). Until now, the most significant  |  of consumer price inflation down to 0.5 per cent
+p.11: In Japan, GDP grew by 0.5 per cent in the  |  Growth in the Swedish economy has slowed
+p.11: consecutive quarters for the first time since 2013.  |  growth rates in 2015. GDP growth was 0.5 per
+p.12: 0.60  |  2.5  |  3.8
+p.12: 0.95  |  Core inflation
+p.12: inflation has declined from the peak of 5.0 per  |  including reforms of subsidies, agriculture, the
+p.12: to stabilise after the negative shocks from oil price  |  Russia in 2014 and that of Brazil in 2015. The
+p.13: 2016  |  2017  |  2016  |  2017  |  2016  |  2017  |  2016  |  2017
+p.13: this is expected to raise US GDP growth by 0.4 percentage point, to
+p.13: 2.3 per cent, in 2017 and by 0.9 percentage point, to 3.0 per cent, in
+p.14: ly than previously.  |  since 2013, and the gap has widened during 2016.
+p.14: investments – which are relatively import-intensive  |  Inflation in the euro area rose to 0.6 per cent
+p.15: 2010  |  2011  |  2012  |  2013  |  2014  |  2015  |  2016
+p.15: 2010  |  2011  |  2012  |  2013  |  2014  |  2015  |  2016  |  Services
+p.16: ly sought to keep the principal value stable at 1.00 dollar per  |  market funds in favour of government funds in particular,
+p.18: inflation target. All in all, the ECB has purchased for 1,400 bil-  |  The ECB’s net purchases of assets currently take place via
+p.18: to 17 per cent of the euro area’s GDP. Speculations on the  |  1,100 billion euro, the PSPP is by far the largest component
+p.19: 1.8 to 2.3 per cent of GDP. UK yields remain below
+p.28: In the 3rd quarter of 2016, GDP rose by 0.4 per  |  and that has weakened the effective krone rate
+p.29: 2015  |  2016  |  2017  |  2018
+p.29: This year’s growth in GDP is forecast at 1.0 per  |  the slowdown in employment has been relatively
+p.29: cent. In 2017 and 2018, growth rates are expect-  |  sudden in the most recent projections, but is now
+p.29: consumption, cf. Chart 27 (right). In the coming  |  out the rest of the projection period, by 14,000
+p.29: background, private consumption is expected to  |  0.8 per cent p.a. in the projection period. This is
+p.29: grow by 1.9 per cent this year and 1.7 per cent next  |  slightly below the average of 1.1 per cent in the
+p.30: per cent  |  2015  |  2016  |  2017  |  2018  |  Q1  |  Q2  |  Q3
+p.30: GDP  |  1.6  |  1.0  |  1.4  |  1.5  |  0.8  |  0.2  |  0.4
+p.30: Private consumption1  |  1.9  |  1.9  |  1.7  |  1.9  |  0.7  |  0.3  |  0.0
+p.30: Public consumption  |  0.6  |  0.9  |  0.5  |  0.6  |  0.9  |  0.6  |  1.4
+p.30: Residential investment  |  3.8  |  11.1  |  1.0  |  3.4  |  9.6  |  0.0  |  -3.3
+p.30: Public investment  |  -3.9  |  0.3  |  -0.9  |  -0.7  |  2.0  |  -0.9  |  -3.3
+p.30: Business investment  |  4.1  |  0.3  |  2.2  |  2.3  |  -1.4  |  -0.2  |  2.2
+p.30: Inventory investment, etc.2  |  -0.3  |  -0.3  |  0.2  |  0.0  |  -0.1  |  -0.3  |  0.5
+p.30: Exports  |  1.8  |  0.1  |  2.4  |  2.4  |  -0.6  |  1.0  |  0.0
+p.30: Industrial exports  |  0.7  |  0.4  |  2.4  |  3.0  |  3.2  |  0.4  |  -1.1
+p.30: Imports  |  1.3  |  0.9  |  2.7  |  2.8  |  -0.8  |  0.5  |  0.8
+p.30: Employment, 1,000 persons  |  2,829  |  2,875  |  2,909  |  2,927  |  2,859  |  2,870  |  2,882
+p.30: Balance of payments, per cent of GDP  |  9.1  |  7.4  |  7.1  |  6.9  |  7.2  |  8.6  |  6.6
+p.30: Government balance, per cent of GDP  |  -1.3  |  -1.5  |  -1.5  |  -1.2  |  -1.5  |  -0.3  |  -2.2
+p.30: 6.1  |  3.9  |  3.0  |  2.7  |  4.5  |  3.8  |  3.9
+p.30: Consumer prices, per cent year-on-year  |  0.2  |  0.0  |  1.1  |  1.8  |  0.1  |  -0.1  |  -0.1
+p.30: Hourly wages, per cent year-on-year  |  1.8  |  2.2  |  2.5  |  2.7  |  2.2  |  2.1  |  2.1
+p.30: cast at -0.6 per cent of GDP in 2016. The cyclical  |  tional trade, thereby further weakening exports. If
+p.31: Kr. billion, 2010 prices  |  Kr. billion, 2010 prices
+p.31: Real GDP was adjusted upwards by 3.4 per cent in 2015,  |  Furthermore, the level of real public consumption has been
+p.31: up from 0.8 per cent p.a. The upward adjustment of GDP has  |  financing, etc. and raw material extraction are lower in the
+p.31: Growth, Q1 2009 - Q3 2016 per cent  |  Growth, Q1 2009 - Q3 2016, per cent
+p.32: 1st quarter of 2009 to the 3rd quarter of 2016.
+p.32: Average annual growth, per cent p.a.  |  2000-2015
+p.33: Per cent of potential GDP  |  1,000 persons
+p.37: 2016/2017
+p.37: Per cent, year-on-year  |  Weights1  |  2015  |  2016  |  2017  |  2018  |  Q3  |  Q4  |  Q1  |  Oct.  |  Nov.  |  Dec.
+p.37: HICP  |  0.2  |  0.0  |  1.1  |  1.8  |  -0.1  |  0.2  |  0.6  |  0.1  |  0.2  |  0.2
+p.37: Index of net retail prices  |  100.0  |  0.7  |  0.5  |  1.5  |  2.0  |  0.4  |  0.6  |  1.1  |  0.5  |  0.7  |  0.8
+p.37: Energy  |  6.9  |  -9.9  |  -6.3  |  5.7  |  3.9  |  -7.4  |  -0.8  |  3.6  |  -1.0  |  -1.7  |  -0.2
+p.37: Unprocessed food  |  4.8  |  2.6  |  1.7  |  1.3  |  1.6  |  1.3  |  1.1  |  1.4  |  0.0  |  1.7  |  1.5
+p.37: Adm. prices  |  4.1  |  0.9  |  2.1  |  2.7  |  2.8  |  2.0  |  2.2  |  2.4  |  2.0  |  2.3  |  2.4
+p.37: Rent  |  26.0  |  2.1  |  2.2  |  1.9  |  2.3  |  2.2  |  2.1  |  2.0  |  2.2  |  2.2  |  2.1
+p.37: Excl. exogenous:  |  58.2  |  1.3  |  0.5  |  0.9  |  1.6  |  0.6  |  0.0  |  0.3  |  -0.2  |  0.1  |  0.0
+p.37: Imports  |  18.7  |  2.4  |  0.1  |  0.9  |  1.3  |  -0.4  |  -0.3  |  0.3  |  -0.5  |  -0.3  |  -0.2
+p.37: IMI  |  39.5  |  1.0  |  0.7  |  0.9  |  1.8  |  0.9  |  0.1  |  0.4  |  0.0  |  0.2  |  0.2
+p.37: Index of Consumer Prices, HICP, was 0.1 per cent  |  one year earlier, partly because a stronger effec-
+p.37: consumer prices fell by 0.3 per cent. Prices of  |  This means that aggregate price pressures from
+p.38: In recent months, consumer prices have shown diverging  |  October. In September, the spread was 0.7 percentage
+p.38: HICP, was 0.1 per cent in Denmark in October, compared  |  spread has emerged since June, when HICP increased by 0.1
+p.38: 2014  |  2015  |  2016  |  10  |  11  |  12  |  13  |  14  |  15  |  16
+p.38: 1.  |  However, a spread of 0.7 percentage point between annual HICP inflation in Denmark and the euro area is not exceptional in a historical
+p.38: price inflation this year, and growth in the HICP is  |  manufacturing sector was unchanged at 2.2 per
+p.38: on inflation will cease at the turn of the year, but  |  port was somewhat lower at 1.3 per cent. In the
+p.38: into 2017. HICP is expected to grow by 1.1 per  |  which is less than at the beginning of the year. This
+p.39: For a while after the financial crisis in 2008, wages  |  indicators of labour shortage have risen in 2016,
+p.40: some years, but in 2017 and 2018 public sector  |  in the coming years
+p.40: A government deficit of 1.5 per cent of GDP is
+p.40: to an expected deficit of 0.4 per cent of GDP. This  |  factors. The broken horizontal line indicates the Budget
+p.42: Global growth is expected to increase from 2.4  |  proximately -0.4 to approximately 0.3 per cent.
+p.42: per cent in 2016 to 2.8 per cent in 2017. In the  |  The average bond yield is an average of the
+p.42: ed by rising employment, low oil prices and low  |  over the projection period, from 0.7 per cent ini-
+p.42: per cent this year, rising to 3.2 per cent in 2017  |  The projection is based on preliminary national
+p.42: and 3.4 per cent in 2018, cf. Table 3. That is 0.8  |  accounts data on public sector consumption and
+p.42: a low level. This should be seen in the context of a  |  0.9 per cent this year and by 0.5 and 0.6 per cent
+p.42: labour market recovery, so that actual unemploy-  |  in 2017 and 2018, respectively, while public invest-
+p.42: of countries. At the same time, consumer price  |  and then to fall by 0.9 and 0.7 per cent in 2017
+p.43: 2015  |  2016  |  2017  |  2018
+p.43: Export market growth, per cent year-on-year  |  3.8  |  2.4  |  3.2  |  3.4
+p.43: Export market price1, per cent year-on-year  |  -2.7  |  -1.2  |  1.7  |  1.5
+p.43: -2.7  |  -1.2  |  1.7  |  1.5
+p.43: Foreign hourly wages, per cent year-on-year  |  1.9  |  1.8  |  2.1  |  2.5
+p.43: 3-month money market interest rate, per cent p.a.  |  -0.4  |  -0.4  |  -0.4  |  -0.3
+p.43: Average bond yield, per cent p.a.  |  1.0  |  0.8  |  0.9  |  1.2
+p.43: Effective krone rate, 1980 = 100  |  99.2  |  100.8  |  101.2  |  101.2
+p.44: are a little higher and are expected to rise faster  |  wards for 2016 and especially for 2017. Consumer
+p.44: adjusted downwards by 0.1 percentage point  |  the September projection, primarily as a result of
+p.44: in 2017 and by 0.3 percentage point in 2018, cf.  |  a fall in domestic market-determined inflation.
+p.44: Per cent, year-on-year  |  2016  |  2017  |  2018  |  2016  |  2017  |  2018
+p.44: Projection, September 2016  |  0.9  |  1.5  |  1.8  |  0.3  |  1.5  |  1.8
+p.44: Export market growth  |  -0.2  |  -0.2  |  -0.2  |  0.0  |  0.0  |  -0.1
+p.44: Interest rates  |  0.0  |  0.0  |  -0.1  |  0.0  |  0.0  |  0.0
+p.44: Exchange rates  |  0.1  |  0.1  |  -0.1  |  0.0  |  0.1  |  0.1
+p.44: Oil prices  |  0.0  |  0.0  |  0.0  |  0.0  |  0.2  |  0.0
+p.44: Other factors  |  0.1  |  0.1  |  0.1  |  -0.2  |  -0.6  |  0.0
+p.44: This projection  |  1.0  |  1.4  |  1.5  |  0.0  |  1.1  |  1.8
+p.55: in 2002, cf. Klein et al. (2016), and there are mu-  |  based on e.g. the level of interest rates and the
+p.55: 1.6  |  0.20  |  0.08
+p.55: 0.8  |  0.05  |  -0.04
+p.56: T = 1981Q2 – 2014Q4  |  DW = 1.940  |  AR(1) = 1.249  |  SE = 0.025
+p.56: R2 = 0.61  |  JB = 0.973  |  AR(4) = 7.270
+p.59: Disposable income  |  Statistics Denmark and the MONA  |  The income statistics 1987-2014 (Municipalities of Copen-
+p.59: bank (the national accounts) 1981-86, and after 2014.
+p.63: averaged approximately kr. 2.5 billion on days of  |  krone stable.
+p.65: 4  |  The method follows Fatum and Hutchison (2003). Andersen (2005)
+p.70: increases.  |  financial crisis in 2008-09 and in early 2015. This
+p.72: 8  |  Andersen (2005), Hansen and Storgaard (2005), Beier and Storgaard
+p.72: (2006), Abildgren (2008), Fatum and Pedersen (2009) and Jørgensen
+p.75: During certain episodes in 2015 and 2016, the  |  change exposure. This also entails that, all else
+p.75: 2015, and Monetary Review, 2nd Quarter 2015.
+p.80: 2014 to October 2016. If the hedging of assets exceeds
+p.81: from December 2014 to October 2016. After Janu­  |  Nationalbank’s interventions in the foreign ex-
+p.81: Dependent variable: Change in krone rate (per cent)  |  Full period  |  2007-2009  |  2015-2016
+p.81: - Insurance and pension  |  -0.0047***  |  -0.0063***  |  -0.0073***
+p.81: - Other domestic customers  |  -0.0052***  |  -0.0061***  |  -0.0072***
+p.81: - Domestic banks  |  -0.0024***  |  -0.0045***  |  -0.0002
+p.81: - Non-residents  |  -0.0038***  |  -0.0047***  |  -0.0081***
+p.81: Interventions  |  -0.0055***  |  -0.0071***  |  -0.0076***
+p.82: by kr. 0.35 per 100 euro. This implies that even  |  - Insurance and pension  |  0.07***  |  0.14***
+p.82: ber 2004 to 24 October 2016.
+p.82: Table 2. This indicates that pension companies’  |  sector’s net purchases of kroner in billion kroner, Inter-
+p.82: Table 1 shows the results of the regressions.
+
+# --- full text of p.30 (table layout, for column headers and notes) ---
+p.30|      Key economic variables                                                                                                                   Table 1
+p.30|                                                                                                                                  2016
+p.30|      Real growth on preceding period,
+p.30|      per cent                                                 2015         2016          2017          2018               Q1            Q2       Q3
+p.30|      GDP                                                        1.6          1.0           1.4           1.5              0.8           0.2      0.4
+p.30|      Private consumption1                                       1.9          1.9           1.7           1.9              0.7           0.3      0.0
+p.30|      Public consumption                                         0.6          0.9           0.5           0.6              0.9           0.6      1.4
+p.30|      Residential investment                                     3.8         11.1           1.0           3.4              9.6           0.0     -3.3
+p.30|      Public investment                                         -3.9          0.3          -0.9          -0.7              2.0       -0.9        -3.3
+p.30|      Business investment                                        4.1          0.3           2.2           2.3              -1.4      -0.2         2.2
+p.30|      Inventory investment, etc.2                               -0.3          -0.3          0.2           0.0              -0.1      -0.3         0.5
+p.30|      Exports                                                    1.8          0.1           2.4           2.4              -0.6          1.0      0.0
+p.30|           Industrial exports                                    0.7          0.4           2.4           3.0              3.2           0.4     -1.1
+p.30|      Imports                                                    1.3          0.9           2.7           2.8              -0.8          0.5      0.8
+p.30|      Employment, 1,000 persons                               2,829         2,875         2,909        2,927          2,859         2,870       2,882
+p.30|      Gross unemployment, 1,000 persons                         123           112          108           106               115       112          112
+p.30|      Balance of payments, per cent of GDP                       9.1          7.4           7.1           6.9              7.2           8.6      6.6
+p.30|      Government balance, per cent of GDP                       -1.3          -1.5         -1.5          -1.2              -1.5      -0.3        -2.2
+p.30|      House prices , per cent year-on-year
+p.30|                       3
+p.30|                                                                 6.1          3.9           3.0           2.7              4.5           3.8      3.9
+p.30|      Consumer prices, per cent year-on-year                     0.2          0.0           1.1           1.8              0.1       -0.1        -0.1
+p.30|      Hourly wages, per cent year-on-year                        1.8          2.2           2.5           2.7              2.2           2.1      2.1
+p.30|      1.   Includes both households and non-profit institutions serving households, NPISH.
+p.30|      2.   Contribution to GDP growth (this item comprises inventory investment, valuables and statistical discrepancy).
+p.30|      3.   Cash prices for single-family houses.
+p.30| upswing until now. This pattern, whereby employ-                                    housing price bubble as seen in the mid-2000s. As
+p.30| ment drives a larger share of output growth, is                                     employment has risen and unemployment fallen,
+p.30| more in line with a normal cyclical pattern at this                                 some indicators point to mounting pressures in
+p.30| point where the Danish economy is well into the                                     the labour market.
+p.30| upswing. At the same time, it indicates that the                                       The projection involves both downside and
+p.30| upswing is approaching a boom, i.e. a situation                                     upside risks.
+p.30| with a positive output gap, cf. Box 7.                                                 The global tendency for countries to turn their
+p.30|    Following the revision, the estimated output                                     backs on the advantages of free trade may – if it
+p.30| gap has narrowed somewhat and is now fore-                                          leads to protectionist measures – impede interna-
+p.30| cast at -0.6 per cent of GDP in 2016. The cyclical                                  tional trade, thereby further weakening exports. If
+p.30| position means that the labour market gap will                                      US fiscal policy becomes very expansionary, as the
+p.30| close already next year. There is still room for                                    President-elect has indicated, this may, on the one
+p.30| wage growth and higher employment in the                                            hand, strengthen Denmark’s exports to the USA.
+p.30| Danish economy, and the positive gap may persist                                    But on the other hand, the market response could
+p.30| for some time. However, it is important that this                                   be an abrupt rise in long-term interest rates,
+p.30| situation does not lead to strong imbalances in                                     which will hit other Danish export markets as well
+p.30| the form of an overheated labour market and a                                       as domestic demand.
+p.30| 30                                                                                  DANMARKS NATIONALBANK MONETARY REVIEW 4TH QUARTER 2016
+
+# --- full text of p.37 (table layout, for column headers and notes) ---
+p.37|   Consumer prices                                                                                                                         Table 2
+p.37|                                                                                                                2016/2017
+p.37|   Per cent, year-on-year          Weights1       2015      2016      2017       2018          Q3        Q4     Q1       Oct.     Nov.       Dec.
+p.37|   HICP                                             0.2       0.0       1.1        1.8         -0.1      0.2    0.6       0.1       0.2          0.2
+p.37|   Index of net retail prices          100.0        0.7       0.5       1.5        2.0         0.4       0.6    1.1       0.5       0.7          0.8
+p.37|   Exogenous:
+p.37|      Energy                              6.9      -9.9      -6.3       5.7        3.9         -7.4      -0.8   3.6      -1.0      -1.7      -0.2
+p.37|      Unprocessed food                    4.8       2.6       1.7       1.3        1.6         1.3       1.1    1.4       0.0       1.7          1.5
+p.37|      Adm. prices                         4.1       0.9       2.1       2.7        2.8         2.0       2.2    2.4       2.0       2.3          2.4
+p.37|      Rent                              26.0        2.1       2.2       1.9        2.3         2.2       2.1    2.0       2.2       2.2          2.1
+p.37|   Excl. exogenous:                     58.2        1.3       0.5       0.9        1.6         0.6       0.0    0.3      -0.2       0.1          0.0
+p.37|      Imports                           18.7        2.4       0.1       0.9        1.3         -0.4      -0.3   0.3      -0.5      -0.3      -0.2
+p.37|      IMI                               39.5        1.0       0.7       0.9        1.8         0.9       0.1    0.4       0.0       0.2          0.2
+p.37|   Note:   The most recent actual figures are from October 2016.
+p.37|   1. Weight in the index of net retail prices, per cent. The weights are from January 2016.
+p.37| PRICE PRESSURES IN THE ECONOMY ARE LOW                                        fallen in the euro area as they have in Denmark, cf.
+p.37| Consumer prices are still showing a weak trend.                               Box 8.
+p.37| The annual rate of increase in the EU Harmonised                                 Wholesale prices were lower in October than
+p.37| Index of Consumer Prices, HICP, was 0.1 per cent                              one year earlier, partly because a stronger effec-
+p.37| in October, cf. Table 2. In the preceding month,                              tive krone rate has led to lower import prices.
+p.37| consumer prices fell by 0.3 per cent. Prices of                               This means that aggregate price pressures from
+p.37| goods have been falling for some time. Recent                                 the wholesale link are low. Energy prices no
+p.37| months have seen considerable price falls for
+p.37| communication, with prices in October that were
+p.37| some 10 per cent below the level in the spring.
+p.37| Core inflation, which captures prices excluding                                   Price inflation remains low                            Chart 30
+p.37| energy and unprocessed foods, has been close to
+p.37| zero in recent months, after having been a little                                 Per cent, year-on-year
+p.37|                                                                                   6
+p.37| higher for some time, cf. Chart 30.
+p.37|                                                                                    5
+p.37|    Domestic market-determined inflation, IMI,                                      4
+p.37| which is ultimately determined by developments                                     3
+p.37| in the level of costs in the economy, has been                                     2
+p.37| close to zero for the last couple of months. That is                               1
+p.37|                                                                                    0
+p.37| lower than in the first part of the year, reflecting
+p.37|                                                                                   -1
+p.37| factors such as a sharp drop in roaming costs for
+p.37|                                                                                   -2
+p.37| mobile telephony from June to July.                                                     07     08     09 10 11 12 13 14 15 16
+p.37|                                                                                                      HICP
+p.37|    Consumer prices in Denmark usually develop                                                        Core inflation
+p.37| in line with those of the euro area, but in recent                                                   Domestic market-determined inflation
+p.37| months that has not been the case. In October,
+p.37| the annual rates of increase in the HICP differed                                 Note:   HICP is the EU Harmonised Index of Consumer Prices.
+p.37|                                                                                   Source: Statistics Denmark and Danmarks Nationalbank.
+p.37| by 0.4 percentage point. This is mainly attribut-
+p.37| able to communication prices, which have not
+p.37| DANMARKS NATIONALBANK MONETARY REVIEW 4TH QUARTER 2016                                                                                                37

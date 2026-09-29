@@ -1,7 +1,7 @@
 # dor-2023
 # url: https://dors.dk/files/media/Dansk_oekonomi_efteraar_2023.pdf
 # http: 200  bytes: 8737260  sha256: e5c8b04b247c0bfc6ae2850d68191139eac1409aca0975a4cbf1601459675dd2
-# fetched: 2026-09-29T18:53:10Z
+# fetched: 2026-09-29T19:00:50Z
 # pages: 389  (lines below are quotes; p.N = PDF page)
 
 p.14: fra 2019 til 2024, og finanspolitikken burde derfor – alt andet lige –

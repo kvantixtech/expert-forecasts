@@ -1,7 +1,7 @@
 # dor-2017-kap1
 # url: https://dors.dk/files/media/rapporter/2017/E17/kap_i/e17_kap_i_konjunktur_og_offentlige_finanser.pdf
 # http: 200  bytes: 779229  sha256: 56e7a510f61ba85c8af3fea6175cb8acac21e7713250fbe4ed7d13065a159b14
-# fetched: 2026-09-29T18:53:26Z
+# fetched: 2026-09-29T19:01:08Z
 # pages: 99  (lines below are quotes; p.N = PDF page)
 
 p.1: BNP-vækst på ca. 0,7 pct. I år og næste år ventes BNP at

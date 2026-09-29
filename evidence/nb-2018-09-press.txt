@@ -1,7 +1,7 @@
 # nb-2018-09-press
 # url: https://www.nationalbanken.dk/en/news-and-knowledge/press/archive/2018/the-danish-economy-is-growing-without-signs-of-considerable-imbalances-12-09-2018
 # http: 200  bytes: 31022  sha256: 81cb1f1ee63e72ff83e6a1d9c7bfa305a877d31a6f901bde3ab8e7b197e71c77
-# fetched: 2026-09-29T18:52:11Z
+# fetched: 2026-09-29T18:59:40Z
 # html page
 
 During 2018, the economy has moved further into the upswing, and this is expected to continue in the coming years, as shown in a new projection from Danmarks Nationalbank. Growth in the gross domestic product, GDP, is expected to be 1.7 per cent in 2018 if a large one-off patent-related payment that increases GDP by 0.4 per cent in 2017 and correspondingly reduces growth in 2018 is excluded. Including this payment growth is 1.3 per cent this year. Growth is expected to be 1.8 and 1.7 per cent, respectively, in 2019 and 2020.

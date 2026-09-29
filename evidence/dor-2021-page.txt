@@ -1,7 +1,7 @@
 # dor-2021-page
 # url: https://dors.dk/vismandsrapporter/dansk-oekonomi-efteraar-2021
 # http: 200  bytes: 80785  sha256: 6ddca5117968084984c8b34eb20e6922081afcb0437df7fd959999274effbc26
-# fetched: 2026-09-29T18:52:43Z
+# fetched: 2026-09-29T19:00:14Z
 # html page
 
 

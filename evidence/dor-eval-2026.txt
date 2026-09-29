@@ -1,7 +1,7 @@
 # dor-eval-2026
 # url: https://dors.dk/files/media/F26_kapII_Prognoseevaluering.pdf
 # http: 200  bytes: 193013  sha256: 78bb8a8a76755f69c804ef7a15cd6f3341e2c531ccbad75e51616f27a8c7763c
-# fetched: 2026-09-29T18:53:14Z
+# fetched: 2026-09-29T19:00:54Z
 # pages: 10  (lines below are quotes; p.N = PDF page)
 
 p.2: 2000 været 1,2 pct.point. Ses der bort fra 2009 og 2020
