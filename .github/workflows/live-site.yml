@@ -1,0 +1,26 @@
+name: live site
+
+# Once a week: does kvantix.tech/playground/experts/ show exactly the results in this repository?
+on:
+  push:
+    paths: ["results/**", "tools/live_check.py", ".github/workflows/live-site.yml"]
+  schedule:
+    - cron: "53 5 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  actions: write
+
+jobs:
+  compare:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Compare the page's data with results/results.json
+        run: python3 tools/live_check.py | tee -a "$GITHUB_STEP_SUMMARY"; exit ${PIPESTATUS[0]}
+      - name: Keep the schedule alive
+        if: always() && github.event_name == 'schedule'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api -X PUT "repos/$GITHUB_REPOSITORY/actions/workflows/live-site.yml/enable" || true
