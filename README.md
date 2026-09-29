@@ -41,6 +41,8 @@ Standard library only. The [`check`](.github/workflows/check.yml) workflow runs 
 | Outcomes | Statistics Denmark (StatBank API), latest vintage and first estimate |
 | Evidence | [`evidence/`](evidence/): for each publication, the URL, its SHA-256 and the quoted lines with page numbers. The documents themselves are not copied here. |
 
+**Live page:** [kvantix.tech/playground/experts](https://kvantix.tech/playground/experts/), with a chart for each forecaster and the sources year by year.
+
 Part of the Kvantix [Data Playground](https://kvantix.tech/playground/). Same method as the [weather forecast test](https://github.com/kvantixtech/weather-forecast-test): lock it, measure it against data nobody controls, compare it with a lazy guess.
 
 ## Licence
