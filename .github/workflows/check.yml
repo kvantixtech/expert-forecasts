@@ -1,0 +1,21 @@
+name: check
+
+# Every value must be backed by a verbatim quote in the committed evidence, and the published
+# results must be exactly what tools/score.py produces from the committed data.
+on:
+  push:
+  pull_request:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Rebuild forecasts from evidence
+        run: python3 tools/build_forecasts.py > /dev/null && git diff --exit-code data/forecasts.csv
+      - name: Rebuild outcomes from Statistics Denmark data
+        run: python3 tools/outcomes.py && git diff --exit-code data/outcomes.csv
+      - name: Quotes and values
+        run: python3 tools/score.py --check
+      - name: Results are up to date
+        run: python3 tools/score.py && git diff --exit-code results/

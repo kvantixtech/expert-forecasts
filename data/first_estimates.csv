@@ -1,0 +1,11 @@
+year,value,release,date,source_id,url,quote
+2016,1.1,"Nyt fra Danmarks Statistik, Nationalregnskab 4. kvt. 2016",28 Feb 2017,dst-first-2016,https://www.dst.dk/Site/Dst/Udgivelser/nyt/GetPdf.aspx?cid=23059,"Opgørelsen af væksten viser 1,1 pct. for året 2016."
+2017,2.1,"Nyt fra Danmarks Statistik, Nationalregnskab 4. kvt. 2017",28 Feb 2018,dst-first-2017,https://www.dst.dk/Site/Dst/Udgivelser/nyt/GetPdf.aspx?cid=24562,"Den samlede vækst for 2017 blev dermed 2,1 pct."
+2018,1.2,"Nyt fra Danmarks Statistik, Nationalregnskab 4. kvt. 2018",28 Feb 2019,dst-first-2018,https://www.dst.dk/Site/Dst/Udgivelser/nyt/GetPdf.aspx?cid=27841,"Årsvæksten i BNP var dermed 1,2 pct. i 2018"
+2019,2.2,"Nyt fra Danmarks Statistik, Nationalregnskab 4. kvt. 2019",28 Feb 2020,dst-first-2019,https://www.dst.dk/Site/Dst/Udgivelser/nyt/GetPdf.aspx?cid=29946,"Samlet bød 2019 på en årsvækst i BNP på 2,2 pct."
+2020,-3.3,"Nyt fra Danmarks Statistik, Nationalregnskab 4. kvt. 2020",26 Feb 2021 (corrected 5 Mar 2021),dst-first-2020-c31843,https://www.dst.dk/Site/Dst/Udgivelser/nyt/GetPdf.aspx?cid=31843,"Et tidligt skøn for BNP-væksten for hele året 2020 giver et || fald på 3,3 pct."
+2021,4.1,"Nyt fra Danmarks Statistik, Nationalregnskab 4. kvt. 2021",28 Feb 2022,dst-first-2021,https://www.dst.dk/Site/Dst/Udgivelser/nyt/GetPdf.aspx?cid=36037,"kan BNP-væksten for året 2021 beregnes til 4,1 pct."
+2022,3.6,"Nyt fra Danmarks Statistik, Nationalregnskab 4. kvt. 2022",28 Feb 2023,dst-first-2022,https://www.dst.dk/Site/Dst/Udgivelser/nyt/GetPdf.aspx?cid=40702,"kan BNP-væksten for hele året 2022 beregnes || til 3,6 pct."
+2023,1.8,"Nyt fra Danmarks Statistik, Nationalregnskab 4. kvt. 2023",20 Feb 2024,dst-first-2023a,https://www.dst.dk/Site/Dst/Udgivelser/nyt/GetPdf.aspx?cid=46520,"kan BNP-væksten for hele året 2023 beregnes til || 1,8 pct."
+2024,3.6,"Nyt fra Danmarks Statistik, Nationalregnskab 4. kvt. 2024",20 Feb 2025,dst-first-2024,https://www.dst.dk/Site/Dst/Udgivelser/nyt/GetPdf.aspx?cid=48827,"Bruttonationalproduktet (BNP) steg med 3,6 pct. for året 2024."
+2025,2.9,"Nyt fra Danmarks Statistik, Nationalregnskab 4. kvt. 2025",20 Feb 2026,dst-first-2025,https://www.dst.dk/Site/Dst/Udgivelser/nyt/GetPdf.aspx?cid=52201,"Bruttonationalproduktet (BNP) steg med 2,9 pct. for året 2025."

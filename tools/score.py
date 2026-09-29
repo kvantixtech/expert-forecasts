@@ -48,12 +48,30 @@ def check(forecasts):
             errors.append(f"line {i}: evidence/{ev}.txt not found")
             continue
         for q in [x for x in r["quote"].split(" || ") if x.strip()]:
-            if norm(q) not in cache[ev]:
-                errors.append(f"line {i}: quote not in evidence/{ev}.txt: {q[:90]}")
+            src = ev
+            m = re.match(r"^@(\S+) p\.\d+: (.*)$", q)  # a quote from another evidence file: "@<id> p.N: <text>"
+            if m:
+                src, q = m.group(1), m.group(2)
+                if src not in cache:
+                    p = os.path.join(ROOT, "evidence", src + ".txt")
+                    cache[src] = norm(open(p, encoding="utf-8").read()) if os.path.exists(p) else ""
+            if norm(q) not in cache[src]:
+                errors.append(f"line {i}: quote not in evidence/{src}.txt: {q[:90]}")
+        quoted = {float(t.replace(",", ".").replace("−", "-")) for t in re.findall(r"[−-]?\d+[.,]\d(?!\d)", r["quote"])}
         for f in ("current", "forecast"):
             v = r[f].strip()
             if v and not re.fullmatch(r"-?\d+(\.\d+)?", v):
                 errors.append(f"line {i}: {f} is not a number: {v}")
+            elif v and float(v) not in quoted:
+                errors.append(f"line {i}: {f} {v} does not appear in the quote")
+    fe = os.path.join(ROOT, "data", "first_estimates.csv")
+    if os.path.exists(fe):
+        for i, r in enumerate(csv.DictReader(open(fe, encoding="utf-8")), start=2):
+            ev = r["source_id"]
+            txt = norm(open(os.path.join(ROOT, "evidence", ev + ".txt"), encoding="utf-8").read())
+            for q in r["quote"].split(" || "):
+                if norm(q) not in txt:
+                    errors.append(f"first_estimates.csv line {i}: quote not in evidence/{ev}.txt: {q[:90]}")
     return errors
 
 
