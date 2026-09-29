@@ -1,0 +1,470 @@
+# dor-2016
+# url: https://dors.dk/files/media/rapporter/2016/E16/e16.pdf
+# http: 200  bytes: 2087722  sha256: e08d19b6e03e1039bc4235f1c2444a6289ccef154cabd3c9a5be231992b4cf7b
+# fetched: 2026-09-29T18:09:26Z
+# pages: 342  (lines below are quotes; p.N = PDF page)
+
+p.5: Tabel A  |  Hovedtal i prognosen
+p.5: 2015  |  2016  |  2017  |  2018 2025
+p.5: BNP (realvækst i pct.)  |  1,0  |  1,0  |  2,0  |  2,2  |  1,9
+p.5: BVT i priv. byerhverv (realvækst i pct.)  |  1,6  |  1,4  |  2,5  |  2,8  |  2,1
+p.5: Output gap (pct. af strukturelt BNP)  |  -1,7  |  -1,8  |  -1,2  |  -0,5  |  0,0
+p.5: Inflation (pct.)  |  0,6  |  0,4  |  1,5  |  2,0  |  2,1
+p.5: Timeløn (pct.)  |  1,8  |  2,3  |  2,4  |  2,4  |  3,1
+p.5: Offentlig saldo (pct. af BNP)  |  -1,7  |  -0,6  |  -1,6  |  -1,1  |  0,7
+p.5: Strukturel offentlig saldo (pct. af BNP)  |  -0,6  |  -0,4  |  -0,3  |  -0,1  |  0,7
+p.5: BNP i aftagerlande (realvækst i pct.)  |  2,3  |  2,0  |  2,0  |  2,2  |  2,3
+p.5: a)  |  2025-søjlen viser den gennemsnitlige årlige vækst fra 2018 til 2025. For output gap og
+p.5: vises den gennemsnitlige årlige ændring fra 2018 til 2025.
+p.6: strukturelle saldo i 2016 og 2017 at ligge tæt på budgetlo-
+p.6: 2025-planen med  |  Regeringen offentliggjorde i slutningen af august 2025-
+p.7: underskud holder  |  metode forventes at udgøre 0,3 pct. af BNP i 2017. Grænsen
+p.7: er således udsigt til strukturelle overskud på 0,5 pct. af BNP
+p.7: i 2020 og 0,7 pct. af BNP i 2025.
+p.7: mindre end EU’s  |  pct. af BNP i 2016 og 1,6 pct. af BNP i 2017. Selvom skøn-
+p.7: 2025-plan med  |  Regeringen har i slutningen af august fremlagt en 2025-
+p.7: 2020 til 2025.
+p.17: Tabel I.1  |  Hovedtal i prognosen
+p.17: 2015  |  2016  |  2017  |  2018 2025
+p.17: BNP (realvækst i pct.)  |  1,0  |  1,0  |  2,0  |  2,2  |  1,9
+p.17: BVT i priv. byerhverv (realvækst i pct.)  |  1,6  |  1,4  |  2,5  |  2,8  |  2,1
+p.17: Output gap (pct. af strukturelt BNP)  |  -1,7  |  -1,8  |  -1,2  |  -0,5  |  0,0
+p.17: Inflation (pct.)  |  0,6  |  0,4  |  1,5  |  2,0  |  2,1
+p.17: Timeløn (pct.)  |  1,8  |  2,3  |  2,4  |  2,4  |  3,1
+p.17: Offentlig saldo (pct. af BNP)  |  -1,7  |  -0,6  |  -1,6  |  -1,1  |  0,7
+p.17: Strukturel offentlig saldo (pct. af BNP)  |  -0,6  |  -0,4  |  -0,3  |  -0,1  |  0,7
+p.17: BNP i aftagerlande (realvækst i pct.)  |  2,3  |  2,0  |  2,0  |  2,2  |  2,3
+p.17: a)  |  2025-søjlen viser den gennemsnitlige årlige vækst fra 2018 til 2025. For output gap og
+p.17: vises den gennemsnitlige årlige ændring fra 2018 til 2025.
+p.18: mi, efterår 2009 til 2014 for de følgende år set i forhold til væksten,
+p.19: 2000  |  2005  |  2010  |  2015  |  2020  |  2025
+p.19: med 2 pct. i 2025  |  kun bliver halvt så store som forventet i perioden 2017-25,
+p.20: udvide output  |  nedjusteret med omkring 0,7 pct.point fra 2016 til 2025 i
+p.22: således at stige til ca. 2 pct. i 2017 og ca. 2¼ pct. i 2018, og
+p.22: personer fra 2. kvartal 2016 til udgangen af 2018, jf. figur
+p.22: fra 2015 til 2025.
+p.23: 2006  |  2008  |  2010  |  2012  |  2014  |  2016  |  2018
+p.23: 2025-plan med  |  Regeringen har i slutningen af august fremlagt 2025-planen
+p.24: pct. i 2016 og 2017 og knap 2¼ pct. i 2018. Den gennemsnitlige vækstrate i ud-
+p.24: nes at have et årsniveau på godt ¼ pct. i 2016, stigende til ca. ½ pct. i 2017 og
+p.24: godt 1¼ pct. i 2018. Renten antages gradvist at stige til et niveau på 4 pct. i 2025.
+p.24: ca. 8.000 personer i 2014 og ca. 10.000 personer fra og med 2015. Således er den
+p.25: Tabel I.2  |  Hovedtal i konjunkturvurderingen
+p.25: 2015  |  2016 2017 2018 2025
+p.25: Privat forbrug  |  954  |  2,0  |  2,3  |  2,4  |  2,5
+p.25: Offentligt forbrug  |  519  |  1,2  |  0,5  |  1,0  |  1,0
+p.25: Offentlige investeringer  |  74  |  -3,6  |  -0,1  |  1,8  |  1,9
+p.25: Boliginvesteringer  |  80  |  4,3  |  4,3  |  3,7  |  3,0
+p.25: Erhvervsinvesteringer  |  225  |  2,1  |  3,8  |  4,6  |  3,4
+p.25: heraf private byerhverv  |  181  |  0,9  |  3,8  |  4,4  |  3,6
+p.25: Lagerinvesteringer  |  11  |  -0,5  |  0,2  |  0,3  |  0,1
+p.25: Indenlandsk efterspørgsel i alt  |  1.861  |  1,2  |  2,2  |  2,6  |  2,2
+p.25: Eksport i alt  |  1.061  |  0,4  |  2,5  |  3,2  |  4,8
+p.25: Vareeksport  |  646  |  0,2  |  2,4  |  3,3  |  5,0
+p.25: heraf industrivarer  |  607  |  1,5  |  2,6  |  3,4  |  5,0
+p.25: Tjenesteeksport  |  415  |  0,8  |  2,7  |  3,0  |  4,6
+p.25: Efterspørgsel i alt  |  2.922  |  0,9  |  2,3  |  2,8  |  3,2
+p.25: Import i alt  |  936  |  0,6  |  2,8  |  4,0  |  5,7
+p.25: Vareimport  |  588  |  -1,2  |  2,7  |  4,1  |  5,7
+p.25: heraf industrivarer  |  524  |  -0,4  |  2,7  |  3,8  |  6,0
+p.25: Tjenesteimport  |  349  |  3,8  |  3,0  |  3,9  |  5,5
+p.25: Bruttonationalprodukt  |  1.985  |  1,0  |  2,0  |  2,2  |  1,9
+p.25: BVT i private byerhverv  |  1.115  |  1,4  |  2,5  |  2,8  |  2,1
+p.25: Forbrugerpriser  |  0,4  |  1,5  |  2,0  |  2,1
+p.25: Timelønsomkostninger  |  2,3  |  2,4  |  2,4  |  3,1
+p.25: Kontantpris på enfamiliehuse  |  2,9  |  1,6  |  2,1  |  3,2
+p.26: Tabel I.2  |  Hovedtal i konjunkturvurderingen, fortsat
+p.26: 2015  |  2016  |  2017  |  2018 2025
+p.26: BNP i aftagerlande  |  2,3  |  2,0  |  2,0  |  2,2  |  2,3
+p.26: Udlandets timelønomkostninger  |  1,8  |  1,9  |  2,3  |  2,6  |  3,7
+p.26: Timeproduktivitet i private byerhverv  |  0,2  |  -1,4  |  1,0  |  1,1  |  1,4
+p.26: Real disponibel indkomst  |  2,0  |  0,8  |  2,8  |  2,2  |  1,3
+p.26: 10-årig statsobligationsrente  |  0,7  |  0,3  |  0,5  |  1,3  |  4,0
+p.26: Output gap  |  -1,7  |  -1,8  |  -1,2  |  -0,5  |  0,0
+p.26: Timebeskæftigelsesgap  |  -1,8  |  -0,6  |  -0,5  |  -0,3  |  0,0
+p.26: Betalingsbalance  |  7,0  |  6,0  |  5,7  |  4,6  |  3,8
+p.26: Offentlig saldo  |  -1,7  |  -0,6  |  -1,6  |  -1,1  |  0,7
+p.26: ØMU-gæld  |  40,2  |  40,4 40,8 40,5 28,1
+p.26: a)  |  2025-søjlen angiver den gennemsnitlige årlige vækst fra 2018-25 til og med rækken “Offent-
+p.29: Tabel I.3  |  Effekt af lavere privat forbrugsvækst, 2016-2025
+p.29: 2016  |  2017  |  2018  |  2019  |  2020  |  2025
+p.29: BVT, niveaueffekt i pct.  |  -0,4  |  -0,7  |  -0,8  |  -0,7  |  -0,7  |  -0,1
+p.29: Offentlig saldo, pct. af BNP  |  -0,3  |  -0,7  |  -0,8  |  -0,8  |  -0,7  |  -0,3
+p.29: BVT i de enkelte år. BNP niveauet i 2025 er i alternativberegningen ca. 0,6 pct. lavere end i
+p.30: 1990  |  1995  |  2000  |  2005  |  2010  |  2015  |  2020  |  2025  |  1990  |  1995  |  2000  |  2005  |  2010  |  2015  |  2020  |  2025
+p.36: 1990  |  1995  |  2000  |  2005  |  2010  |  2015  |  2020  |  2025
+p.36: ledighed  |  pct.point lavere fra 2016 til 2018, så vil det have en negativ
+p.36: 2015. Den begrænsede årlige vækst i 2016 dækker over
+p.36: i 2017 og 2¼ pct. i 2018.
+p.37: 2006  |  2008  |  2010  |  2012  |  2014  |  2016  |  2018
+p.38: økonomi, forår 2016. Således vurderes output gap i 2016 at være ca. -1¾ pct. mod
+p.38: 2012. Disse korrektioner påvirkede skønnet for den strukturelle ledighed i 2014
+p.38: Output gap i Dansk Økonomi, efterår 2016 og forår 2016
+p.38: Figur A  |  Efterår 2016  |  Figur B  |  Forår 2016
+p.38: 2015  |  2016  |  2017  |  2018  |  2019  |  2020  |  2015  |  2016  |  2017  |  2018  |  2019  |  2020
+p.40: frem mod 2018,  |  ke ventes at vokse med knap 60.000 personer fra 2016 til
+p.43: længere sigt  |  ca. ¼ pct.point i perioden 2019-2025. På kort sigt trækker
+p.44: mindre stram på  |  2017-20, mens det for perioden efter 2020 antages, at finans-
+p.45: nanspolitik, der er neutral frem mod 2020, og hvor der fra 2021 gradvist strammes,
+p.45: Tabel A  |  Hovedtal i fremskrivning hhv. alternativ
+p.45: 2017  |  2018  |  2019  |  2020  |  2025a)
+p.45: Finanseffekt, pct.point b)  |  -0,4  |  -0,2  |  -0,2  |  -0,3  |  0,0
+p.45: Offentlig saldo, pct. af BNP  |  -1,7  |  -1,1  |  -0,5  |  0,0  |  0,7
+p.45: Strukturel saldo, pct. af struk. BNPc)  |  -0,3  |  -0,1  |  0,1  |  0,5  |  0,7
+p.45: BNP-vækst, pct.  |  2,0  |  2,2  |  2,0  |  1,9  |  1,9
+p.45: Output gap, pct. af struk. BNP  |  -1,2  |  -0,5  |  -0,3  |  -0,3  |  0,0
+p.45: Finanseffekt, pct.point b)  |  0,0  |  0,0  |  0,0  |  0,0  |  -0,1
+p.45: Offentlig saldo, pct. af BNP  |  -1,8  |  -1,3  |  -0,8  |  -0,4  |  0,0
+p.45: Strukturel saldo, pct. af struk. BNPc)  |  -0,7  |  -0,8  |  -0,7  |  -0,5  |  0,7
+p.45: BNP-vækst, pct.  |  2,4  |  2,4  |  2,1  |  2,0  |  1,6
+p.45: Output gap, pct. af struk. BNP  |  -0,9  |  0,0  |  0,3  |  0,4  |  -0,6
+p.45: a)  |  2025-søjlen viser den gennemsnitlige vækst eller ændring fra 2019 til 2025. For offentlig
+p.46: sen på ½ pct. af BNP brydes i perioden 2017-19, og i 2020
+p.46: 2016  |  2017  |  2018  |  2019  |  2020  |  2016  |  2017  |  2018  |  2019  |  2020
+p.47: 2016  |  2017  |  2018  |  2019  |  2020
+p.49: Tabel I.4  |  Hovedtræk af renteprognosen
+p.49: 2015  |  2016  |  2017  |  2018  |  2025
+p.49: ECB  |  0,1  |  0,0  |  0,0  |  0,4  |  3,0
+p.49: Dansk statsobligation  |  0,7  |  0,3  |  0,5  |  1,3  |  4,0
+p.49: Tysk statsobligation  |  0,5  |  0,1  |  0,3  |  1,0  |  3,8
+p.49: Dansk realkreditobligation  |  2,8  |  2,6  |  2,7  |  3,3  |  5,3
+p.49: 2006  |  2008  |  2010  |  2012  |  2014  |  2016
+p.50: henholdsvis 2017 og 2018, og den danske statsobligations-
+p.50: godt 2¾ pct. i 2017 og godt 3¼ pct. i 2018.
+p.55: 2006  |  2008  |  2010  |  2012  |  2014  |  2016
+p.56: 2006  |  2008  |  2010  |  2012  |  2014  |  2016
+p.58: Tabel A  |  Vækstskøn
+p.58: 2015  |  2016  |  2017  |  2018  |  2025a)
+p.58: Euroområdet  |  1,9  |  1,6  |  1,4  |  1,7  |  1,9
+p.58: USA  |  2,6  |  1,5  |  2,4  |  2,5  |  2,6
+p.58: Japan  |  0,6  |  0,3  |  0,1  |  0,8  |  1,2
+p.58: Kina  |  7,1  |  6,6  |  6,2  |  6,0  |  4,8
+p.58: Globalt BNPb)  |  3,1  |  3,1  |  3,4  |  -  |  -
+p.58: a) “2025-søjlen” viser den gennemsnitlige årlige vækstrate fra 2018 til 2025.
+p.58: den strukturelle saldo i 2016 og en stort set uændret strukturel saldo i 2017. For
+p.58: 2016 og 2017 svarende til en svag stramning af finanspolitikken.
+p.58: juli, hvilket indebærer en nominel oliepris på 67 dollar i 2020 og 87 dollar i 2025.
+p.60: Stabil fremgang i  |  I euroområdet voksede BNP med henholdsvis 0,5 og 0,3
+p.61: 2006  |  2008  |  2010  |  2012  |  2014  |  2016  |  2006  |  2008  |  2010  |  2012  |  2014  |  2016
+p.61: 2016. Seneste observation for beskæftigelsen er 2. kvartal 2016, og seneste observation for
+p.62: 2006  |  2008  |  2010  |  2012  |  2014  |  2016  |  2006  |  2008  |  2010  |  2012  |  2014  |  2016
+p.62: og kerneinflation er august 2016, og for inflationsforventninger er det primo 3. kvartal 2016.
+p.63: 2006  |  2008  |  2010  |  2012  |  2014  |  2016
+p.63: regler, skal de pålægges en bøde på 0,2 pct. af landets BNP.
+p.64: 2006  |  2008  |  2010  |  2012  |  2014  |  2006  |  2008  |  2010  |  2012  |  2014
+p.64: Moderat  |  I USA steg BNP med henholdsvis 0,2 pct. og 0,3 pct. (k/k) i
+p.65: 2006  |  2008  |  2010  |  2012  |  2014  |  2016  |  2006  |  2008  |  2010  |  2012  |  2014  |  2016
+p.65: strukturelt BNP i procent af strukturelt BNP. Tallene for 2016 er OECD’s prognose fra juni 2016.
+p.65: 2000  |  2002  |  2004  |  2006  |  2008  |  2010  |  2012  |  2014  |  2016
+p.66: 2008  |  2010  |  2012  |  2014  |  2016  |  2006  |  2008  |  2010  |  2012  |  2014  |  2016
+p.66: siden 1960’erne,  |  fandt især sted fra midten af 1990’erne til 2008, jf. figur
+p.66: perioden 1981 til 2008 var verdenshandelselasticiteten såle-
+p.67: 1960 1965 1970 1975 1980 1985 1990 1995 2000 2005 2010 2015
+p.69: 1980  |  1985  |  1990  |  1995  |  2000  |  2005  |  2010  |  2015
+p.70: Underskuddet ventes i såvel 2016 som 2017 at være tæt på
+p.71: nanser på 0,5 pct. af BNP i 2020 og på 0,7 pct. af BNP i
+p.71: omkring 0,5 pct. af BNP. En overholdbar finanspolitik er
+p.82: frem mod 2025, mens perioden efter 2025 og den finans-
+p.83: tæt på grænsen i  |  forventes at udvise et underskud på 0,3 pct. af BNP i 2017,
+p.83: strukturelt underskud på 0,1 pct. af BNP.
+p.83: 2005  |  2010  |  2015  |  2020  |  2025
+p.83: forbedring og  |  vist, og der ventes et overskud på 0,5 pct. af BNP i 2020 og
+p.83: overskud i 2020  |  0,7 pct. af BNP i 2025. Forbedringen af den strukturelle
+p.83: 3 pct. af BNP  |  udgøre 1,6 pct. af BNP. Stigningen i underskuddet skal ses i
+p.84: regeringen i 2016  |  BNP i 2016 og 1,9 pct. af BNP i 2017. For så vidt angår den
+p.84: udvise balance i 2020 og 2025, hvor formandskabet som
+p.84: nævnt skønner et strukturelt overskud på 0,5 pct. af BNP i
+p.84: 2020 og 0,7 pct. af BNP i 2025. Forskellen skyldes blandt
+p.84: balance i 2025 …  |  turel balance i 2025, som ifølge regeringen vil udgøre den
+p.84: været et politisk mål siden 2020-planen fra 2011, lempes
+p.85: 2020 indikerer  |  nes et overskud på den strukturelle saldo fra 2020 og en
+p.85: et økonomisk  |  offentlig saldo i 2025 på 0,9 pct. af BNP, hvor regeringens
+p.85: offentlige forbrug på 0,5 pct. fra 2016 til 2025. Til sammen-
+p.86: den offentlige  |  opgjort til ca. 34¼ mia. kr., svarende til 1,7 pct. af BNP, jf.
+p.86: saldo på 1,7 pct.  |  tabel II.1. I 2015 er den offentlige saldo blandt andet på-
+p.87: • I 2016 og 2017 forudsættes de offentlige investeringer at følge regeringens
+p.88: Tabel II.1  |  Offentlige indtægter og udgifter
+p.88: 2015  |  2016  |  2017  |  2018  |  2020  |  2025
+p.88: Personskatter  |  26,3  |  25,9  |  25,8  |  25,5  |  25,2  |  24,3
+p.88: Selskabsskat ekskl. Nordsø  |  2,6  |  2,4  |  2,4  |  2,2  |  2,3  |  2,2
+p.88: Pensionsafkastbeskatning  |  1,1  |  2,2  |  0,5  |  0,5  |  0,7  |  1,1
+p.88: Nordsøindtægter  |  0,2  |  0,2  |  0,3  |  0,3  |  0,2  |  0,3
+p.88: Afgifter  |  16,6  |  16,7  |  16,6  |  16,9  |  16,9  |  16,9
+p.88: Øvrige indtægter  |  5,1  |  5,2  |  5,2  |  5,3  |  5,3  |  5,0
+p.88: Indtægter i alt  |  52,0  |  52,5  |  50,7  |  50,7  |  50,5  |  49,8
+p.88: Offentligt forbrug  |  26,1  |  26,5  |  26,3  |  26,0  |  25,5  |  25,1
+p.88: Offentlige investeringer  |  3,7  |  3,6  |  3,5  |  3,5  |  3,3  |  3,3
+p.88: Indkomstoverførsler  |  17,8  |  17,7  |  17,5  |  17,3  |  16,7  |  15,9
+p.88: Øvrige udgifter  |  5,3  |  4,8  |  4,7  |  4,7  |  4,6  |  4,5
+p.88: Udgifter i alt  |  52,9  |  52,6  |  52,0  |  51,5  |  50,2  |  48,9
+p.88: Primær saldo  |  -0,9  |  -0,1  |  -1,3  |  -0,8  |  0,4  |  0,9
+p.88: Nettorenteindtægter  |  -0,8  |  -0,5  |  -0,4  |  -0,3  |  -0,3  |  -0,3
+p.88: Offentlig saldo  |  -1,7  |  -0,6  |  -1,6  |  -1,1  |  0,0  |  0,7
+p.88: Offentlig bruttogæld  |  40,2  |  40,4  |  40,8  |  40,5  |  37,9  |  28,1
+p.88: Offentlig saldo  |  -34,3 -11,6 -34,0 -24,0  |  0,1  |  19,2
+p.89: stige med ca. 1,0 pct. af BNP på grund af lavere rente-
+p.89: stigninger gennem 2016 i forhold til 2015. Hertil kommer,
+p.89: markedsbidrag stiger med ca. 0,7 pct. af BNP. Opjusterin-
+p.89: at udvise et underskud på 0,6 pct. af BNP i 2016.
+p.89: normalisering  |  re 1,6 pct. af BNP. Forværringen fra 2016 til 2017 skyldes
+p.89: således at udvise et overskud på 0,7 pct. af BNP i 2025, jf.
+p.90: 2005  |  2010  |  2015  |  2020  |  2025
+p.90: i 2025 end sidste  |  BNP i forhold til vurderingen i Dansk Økonomi, forår 2016.
+p.91: Tabel II.2  |  Strukturelle offentlige indtægter og udgifter
+p.91: 2016  |  2020  |  2025
+p.91: Personskatter  |  24,0  |  24,2  |  24,4
+p.91: Selskabsskat ekskl. Nordsø  |  2,2  |  2,2  |  2,2
+p.91: Pensionsafkastbeskatning  |  1,2  |  1,1  |  1,1
+p.91: Nordsøindtægter  |  0,4  |  0,3  |  0,3
+p.91: Afgifter  |  16,9  |  17,0  |  16,8
+p.91: Øvrige indtægter  |  5,2  |  5,2  |  5,0
+p.91: Indtægter i alt  |  49,9  |  49,9  |  49,9
+p.91: Offentligt forbrug  |  25,8  |  24,7  |  25,1
+p.91: Offentlige investeringer  |  3,5  |  3,3  |  3,3
+p.91: Indkomstoverførsler  |  17,4  |  16,0  |  16,0
+p.91: Øvrige udgifter  |  4,6  |  4,5  |  4,5
+p.91: Udgifter i alt  |  51,2  |  48,6  |  48,9
+p.91: Primær saldo  |  -1,3  |  1,3  |  0,9
+p.91: Nettorenteindtægter  |  -0,4  |  -0,3  |  -0,3
+p.91: Offentlig saldo  |  -1,7  |  1,0  |  0,7
+p.91: Budgetlovens metode  |  -0,4  |  0,5  |  0,7
+p.93: 2025 er lavere end niveauet i 2016.
+p.93: bidrager til  |  BNP i 2016 til 25,1 pct. af BNP i 2025. Det skal ses i lyset
+p.93: 2020. Efter 2020 er det lagt til grund i fremskrivningen, at
+p.93: til overførsler  |  ventes at blive reduceret fra ca. 17,4 pct. af BNP i 2016 til
+p.93: frem mod 2025  |  16,0 pct. af BNP i 2025. Denne reduktion kan blandt andet
+p.93: mindrereguleres fra 2016 til 2023, som konsekvens af Aftale
+p.96: saldo tæt på  |  metode at udvise et underskud på 0,3 pct. af BNP, jf. tabel
+p.96: på budgetlovens underskudsgrænse på 0,5 pct. af BNP.
+p.97: Tabel II.3  |  Strukturel saldo, budgetlovens metode
+p.97: 2016  |  2017  |  2018  |  2019  |  2020  |  2025
+p.97: Det Økonomiske Råd  |  -0,4  |  -0,3  |  -0,1  |  0,1  |  0,5  |  0,7
+p.97: Finansministeriet  |  -0,3  |  -0,4  |  -0,2  |  0,0  |  0,0  |  0,0
+p.97: Forskel  |  -0,2  |  0,1  |  0,1  |  0,1  |  0,5  |  0,7
+p.98: Tabel II.4  |  Strukturel saldo
+p.98: 2017  |  2020  |  2025
+p.98: Det Økonomiske Råd  |  -0,3  |  0,5  |  0,7
+p.98: Finansministeriet  |  -0,4  |  0,0  |  0,0
+p.98: Forskel  |  0,1  |  0,5  |  0,7
+p.98: Beskæftigelse  |  0,3  |  0,4  |  0,2
+p.98: Privat forbrug  |  0,1  |  0,3  |  0,5
+p.98: Offentligt forbrug og investeringer  |  0,0  |  -0,1  |  -0,3
+p.98: Nordsøindtægter  |  -0,3  |  0,1  |  -0,1
+p.98: Offentlige nettorenter  |  0,0  |  -0,1  |  0,1
+p.98: Øvrige forhold  |  0,0  |  -0,1  |  0,3
+p.98: strukturel saldo i  |  og ventes at udvise et overskud på 0,5 pct. af BNP i 2020 og
+p.98: 2020 og 2025 …  |  0,7 pct. af BNP i 2025. Dermed skønnes en mere positiv
+p.98: forløb skønner strukturel balance i både 2020 og 2025.
+p.99: offentlige saldo med 0,3 pct. af BNP i 2025, jf. kapitel I.
+p.99: stramning  |  til -0,4 pct. målt ved den etårige finanseffekt, jf. tabel II.5.
+p.100: Tabel II.5  |  Finanseffekt 2013-20
+p.100: 2013 2014 2015 2016 2017 2018 2019 2020
+p.100: Udgifter i alt  |  -0,3  |  0,1  |  -0,4  |  -0,4  |  -0,4  |  -0,2  |  -0,2  |  -0,3
+p.100: Heraf offentligt forbrug  |  -0,3  |  0,0  |  -0,3  |  -0,2  |  -0,3  |  -0,2  |  -0,1  |  -0,3
+p.100: offentlige investeringer  |  0,0  |  0,2  |  -0,1  |  0,0  |  0,0  |  0,0  |  0,0  |  0,0
+p.100: øvrige  |  0,0  |  0,0  |  0,0  |  -0,1  |  0,0  |  0,0  |  -0,1  |  0,0
+p.100: Indtægter i alt  |  0,1  |  0,2  |  0,0  |  0,0  |  0,0  |  0,0  |  0,0  |  0,0
+p.100: Heraf personlige skatter  |  0,0  |  0,1  |  0,0  |  -0,1  |  0,0  |  0,0  |  0,0  |  0,0
+p.100: øvrige  |  0,1  |  0,1  |  0,1  |  0,0  |  0,0  |  0,0  |  0,0  |  0,0
+p.100: Finanseffekt i alt  |  -0,2  |  0,4  |  -0,4  |  -0,4  |  -0,4  |  -0,2  |  -0,2  |  -0,3
+p.100: saldo tæt på  |  at udvise et underskud på 0,3 pct. af BNP i 2017. Den struk-
+p.101: skud på 0,5 pct. af BNP i 2020 og 0,7 pct. af BNP i 2025.
+p.101: 2017 til 2020. Det nye lovforslag vil afspejle en politisk
+p.101: forslag til udgiftslofter fra 2017 til 2020 foreligger.
+p.102: Tabel II.6  |  Vurdering af overholdelse af finanspolitiske målsætninger
+p.104: Tabel II.7  |  Regeringens vurdering af de offentlige finanser i 2025-planen
+p.104: 2017 2018 2019 2020 2025
+p.104: Finansiering:  |  5,8  |  8,8  |  5,9  |  8,4  |  27,4
+p.104: Ændring i udgiftspolitisk ramme  |  0,4  |  1,1  |  -1,3  |  0,2  |  13,9
+p.104: Lavere overførselsindkomster mv.  |  4,0  |  4,3  |  4,2  |  5,3  |  8,4
+p.104: Reserver fra tidligere politiske udspil  |  1,4  |  1,3  |  1,2  |  1,2  |  1,2
+p.104: Pensionsområdet  |  0,0  |  2,1  |  1,8  |  1,7  |  3,9
+p.104: Nye initiativer:  |  5,9  |  11,7  |  12,4  |  13,6  |  27,4
+p.104: Skatter og afgiftslettelser, netto  |  5,9  |  11,7  |  12,4  |  13,6  |  14,0
+p.104: Reserve til nye initiativer  |  0,0  |  0,0  |  0,0  |  0,0  |  13,4
+p.104: Saldovirkning  |  0,0  |  -2,8  |  -6,5  |  -5,3  |  0,0
+p.109: Tabel II.8  |  Bidrag til BNP-niveau fra øget produktivitet
+p.110: beskæftigelse  |  gelse øges med ca. 31.000 fuldtidspersoner i 2025, jf. tabel
+p.110: Tabel II.9  |  Beskæftigelsesvirkning af 2025-plan
+p.114: Tabel II.10 2025-planens virkning på BNP
+p.114: 2017  |  2018  |  2019  |  2020  |  2025
+p.114: Strukturel timeproduktivitet  |  0,0  |  0,0  |  0,0  |  0,1  |  1,0
+p.114: Strukturelt timeudbud  |  0,2  |  0,3  |  0,3  |  0,4  |  1,1
+p.114: Strukturelt BNP  |  0,2  |  0,3  |  0,3  |  0,5  |  2,2
+p.114: BNP  |  0,1  |  0,1  |  0,4  |  0,6  |  2,2
+p.114: Dansk økonomi, efterår 2016  |  -1,2  |  -0,5  |  -0,3  |  -0,3  |  0,0
+p.114: Dansk økonomi med 2025-plan  |  -1,3  |  -0,6  |  -0,2  |  -0,2  |  0,0
+p.114: saldo er tæt på  |  beregningen 0,2 pct. af BNP i 2017, 0,3 i 2018 og 0,5 pct. af
+p.114: strukturelle saldo udgør ca. 0,3 pct. af BNP i 2020, mens
+p.114: og svækkes med hhv. 0,1, 0,3 og ¼ pct. af BNP i 2018, 2019 og
+p.114: 2020, mens den strukturelle saldo i 2025 vurderes at være upåvir-
+p.115: Dansk Økonomi, efterår 2016  |  Dansk Økonomi, efterår 2016
+p.115: 2  |  Dansk Økonomi med 2025-plan  |  Dansk Økonomi med 2025-plan
+p.115: 2010  |  2012  |  2014  |  2016  |  2018  |  2020  |  2022  |  2024  |  2010  |  2012  |  2014  |  2016  |  2018  |  2020  |  2022  |  2024
+p.117: offentlige finanser med ca. 0,1 pct. af BNP.
+p.117: Figur II.4  |  Arbejdsstyrke 2010 – 2025
+p.117: 2010  |  2012  |  2014  |  2016  |  2018  |  2020  |  2022  |  2024
+p.117: dagpengesystemet (2013), Aftaler om vækstplan DK (2013), Af-
+p.118: offentlig  |  fra 2016-25, når 2025-planens planlagte realvækst i det
+p.118: arbejdsmarked  |  viklingen i beskæftigelsen fra 1994-2001, hvor beskæftigel-
+p.121: 2000-09  |  2010-15  |  2016-20  |  2021-25  |  Neutral 2021-25
+p.121: offentlige forbrug. Realvæksten i 2016 – 2020 er beregnet på
+p.121: Planlagt vækst  |  En realvækst på 0,4 pct. i 2021-25 vil omtrent dække det
+p.121: forbrugs BNP-andel med ca. 0,8 pct. point, jf. figur II.7.
+p.122: 2000  |  2005  |  2010  |  2015  |  2020  |  2025
+p.123: mål i tidligere  |  turelle saldo. I 2010- og 2015-planerne var sigtepunktet et
+p.123: Med 2020-planen og regeringens 2025-plan er de årlige mål
+p.123: ligeledes suppleret af mål om balance i 2020 og 2025.
+p.124: holdbarhed, …  |  hvor regeringen vurderer holdbarheden til 0,8 pct. af BNP
+p.124: og formandskabet til 0,5 pct. af BNP. Det er ikke en mål-
+p.124: ger med 200.000 personer fra 2015 til 2025. Dette krav øges
+p.125: saldo tæt på  |  lovens metode forventes at udgøre 0,3 pct. af BNP i 2017.
+p.125: i 2017  |  holdt ved fremlæggelsen af finanslovsforslaget for 2017.
+p.125: underskud  |  pct. af BNP i 2016 og 1,6 pct. af BNP i 2017, og er dermed
+p.125: 2020 og 2025  |  til 0,1 pct. af BNP. I de følgende år forbedres den strukturel-
+p.125: skud på 0,5 pct. af BNP i 2020 og 0,7 pct. af BNP i 2025.
+p.127: lempelser efter  |  0,9 pct. af BNP i 2025, og finanspolitikken skønnes over-
+p.127: 2019, …  |  holdbar, jf. kapitel III. Set i dette lys er der efter 2019 plads
+p.127: forbrug på ½ pct. fra 2016 til 2025. Råderummet efter 2019
+p.132: Tabel III.1  |  Tilbagetrækningsaldre ved anvendelse af DREAM’s og Danmarks
+p.132: 2016  |  61,5  |  65  |  2042  |  68  |  70
+p.132: 2017  |  62  |  65  |  2045  |  68  |  71
+p.132: 2018  |  62,5  |  65  |  2047  |  69  |  71
+p.132: 2019  |  63  |  65,5  |  2050  |  69  |  72
+p.132: 2020  |  63  |  66  |  2052  |  69,5a)  |  72
+p.132: 2021  |  63  |  66,5  |  2055  |  69,5a)  |  72,5a)
+p.132: 2022  |  63,5  |  67  |  2057  |  70a)  |  72,5a)
+p.132: 2023  |  64  |  67  |  2060  |  70a)  |  73a)
+p.132: 2027  |  65  |  67  |  2062  |  71  |  73a)
+p.132: 2030  |  65  |  68  |  2065  |  71  |  74
+p.132: 2032  |  66  |  68  |  2067  |  71,5  |  74
+p.132: 2035  |  66  |  69  |  2070  |  71,5  |  74,5
+p.132: 2037  |  67  |  69  |  2072  |  72  |  74,5
+p.132: 2040  |  67  |  70  |  2075  |  72  |  75
+p.132: mod 2025  |  frem mod 2025, hvor der er udsigt til et overskud på næsten
+p.133: 2015  |  2025  |  2035  |  2045  |  2055  |  2065  |  2075
+p.134: 2015  |  2025  |  2035  |  2045  |  2055  |  2065  |  2075
+p.135: godt et promillepoint fra godt 0,3 til knap 0,5 pct. af BNP,
+p.135: jf. tabel III.2. En holdbarhed på 0,5 betyder, at det med de
+p.136: Tabel III.2  |  Ændringer i forhold til Dansk Økonomi, forår 2015
+p.138: 2015  |  2025  |  2035  |  2045  |  2055  |  2065  |  2075
+p.140: Tabel III.3  |  Væsentlige usikkerhedsfaktorer ved beregningerne
+p.141: 2040 med 0,3 pct. af BNP, jf. tabel III.4. Det skyldes, at den
+p.141: Tabel III.4  |  Ændrede antagelser om afkast og produktion
+p.143: ligefrem forbedret med 0,2 pct. af BNP som følge af bort-
+p.143: ændrede  |  heden med 0,1 pct. af BNP. Til sammenligning blev det i
+p.143: rende forringe holdbarheden med 0,1 pct. af BNP. For alle
+p.144: Tabel III.5  |  Ændrede demografiske antagelser
+p.144: Fertilitet stiger 0,1  |  -0,2  |  -0,3
+p.144: 5.000 ekstra indvandrere årligt  |  -0,1  |  0,0
+p.144: 5.000 ekstra udvandrere årligt  |  -0,1  |  0,0
+p.145: Tabel III.6  |  Ændret adfærd og politiske prioriteringer
+p.146: perioden 1995-2005 steg med godt 0,2 pct.point mindre end
+p.146: medføre en holdbarhedsforbedring på 0,8 pct. af BNP.5
+p.146: forringet med 2,4 pct. af BNP, jf. baggrundsnotat. I kapitel I be-
+p.146: rioden 2017-25. Dette forringer den primære saldo i 2025 med
+p.146: 0,7 pct. af BNP, hvilket skønsmæssigt kan oversættes til en om-
+p.147: saldoen op på 0,8 pct. af BNP omkring 2040, inden det igen
+p.148: 2015  |  2025  |  2035  |  2045  |  2055  |  2065  |  2075
+p.149: Tabel III.7  |  DØR’s og regeringens holdbarhedsbereg-
+p.149: program 2009, der blev offentliggjort februar 2010. Tallet fra
+p.150: 2015  |  2025  |  2035  |  2045  |  2055  |  2065  |  2075  |  2015  |  2025  |  2035  |  2045  |  2055  |  2065  |  2075
+p.150: en ville blive forværret med 0,8 pct. af BNP, jf. punkt 2 i
+p.150: 2025 er 0,6 pct. af BNP dårligere end den mellemfristede
+p.151: Tabel III.8 Forskelle til regeringen
+p.153: kapitalapparat  |  sektor. Det kræver et investeringsniveau på 3,7 pct. af BNP
+p.153: ligt 3,2 pct. af BNP i samme periode. Dette medfører, at det
+p.155: 2020  |  2030  |  2040  |  2050  |  2060  |  2070
+p.159: 2014 og Dansk Økonomi, forår 2015.
+p.160: forbedrer saldoen med 0,2 pct. af BNP i 2040, mens om-
+p.160: på 1,3 pct. af BNP.
+p.160: 2020  |  2030  |  2040  |  2050  |  2060  |  2070  |  2020  |  2030  |  2040  |  2050  |  2060  |  2070
+p.162: forbedring, end  |  mia. kr. eller knap 0,3 pct. af BNP og løfter hængekøjen
+p.163: 2020  |  2030  |  2040  |  2050  |  2060  |  2070
+p.163: nede virkninger af 2025-planen frem til 2025, jf. beskrivelsen i
+p.175: 1970  |  1980  |  1990  |  2000  |  2010
+p.186: nettoinvesterings-  |  kvote i årene 1987-2008. I beregningen er det opnået, at den
+p.187: tages for perioden 1995-2008.
+p.187: Tabel A  |  Landevægte i sammenvejningen
+p.187: Nettokvoten  |  Fra 1985 og frem til finanskrisen i 2008 følger den danske
+p.187: efter 2008 …  |  2008 falder den danske kvote dog væsentligt mere end den
+p.189: 1985  |  1990  |  1995  |  2000  |  2005  |  2010  |  2015
+p.227: Tabel V.1  |  Bidrag til ændringer i Gini-koefficienten fra 1994 til 2014
+p.227: Kapitalindkomster  |  0,021  |  0,004  |  0,025
+p.227: Arbejdsindkomster  |  -0,020  |  0,046  |  0,025
+p.227: Overførselsindkomster  |  0,042  |  -0,010  |  0,032
+p.227: Øvrige indkomster  |  0,022  |  -0,031  |  -0,009
+p.227: Skat  |  0,011  |  -0,022  |  -0,011
+p.230: Kapitalindkomst  |  Kapitalindkomsterne har i perioden 1994-2014 bidraget til
+p.234: været stigende, jf. figur V.11. I perioden 1994-2000 lå Gini-
+p.240: Tabel V.2  |  Modtagere af overførselsindkomster
+p.240: 1994  |  2014
+p.240: sig i perioden 1994-2014. Visse overførselsindkomster som
+p.243: ville uligheden blot have været 0,126, jf. tabel V.3 og boks
+p.244: Tabel V.3  |  Indkomstulighed og befolkningssammensætning
+p.247: inkl. pension er i  |  1,1 mio. kr. pr. person, jf. tabel V.4. Aktiverne inkl. pension
+p.247: disponible indkomst i 2014 er 0,27, som det fremgår af tabel
+p.248: Tabel V.4  |  Nettoformuernes sammensætning, 2014
+p.248: 1 Nettoformue inkl. pension (3-13)  |  11,6 0,0 88,4 1.093  |  536  |  0,71
+p.248: 2 Nettoformue ekskl. pens. (3-12-13) 26,3 0,1 73,6  |  563  |  145  |  0,96
+p.248: 3 Aktiver i alt, inkl. pens. (4+8+12)  |  0,0 0,1 99,9 1.657 1.097  |  0,58
+p.248: 4 Reale aktiver i alt (5+6+7)  |  0,0 27,8 72,2  |  869  |  564  |  0,64
+p.248: 5 Ejendomme  |  0,0 45,0 55,0  |  771  |  406  |  0,70
+p.248: 6 Andele i andelsboligforeninger  |  0,0 93,3 6,7  |  56  |  0  |  0,95
+p.248: 7 Biler  |  0,0 41,2 58,8  |  42  |  18  |  0,67
+p.248: 8 Finansielle aktiver i alt, ekskl.  |  0,0 1,2 98,8  |  258  |  48  |  0,79
+p.248: 9 Indestående i pengeinstitutter  |  0,0 1,4 98,6  |  136  |  39  |  0,72
+p.248: 10 Aktier og investeringsforenings-  |  0,0 66,6 33,4  |  99  |  0  |  0,95
+p.248: 11 Obligationer, pantebreve og  |  0,0 95,5 4,5  |  23  |  0  |  0,99
+p.248: 12 Pensionsopsparing  |  0,0 3,5 96,5  |  530  |  295  |  0,61
+p.248: 13 Passiver i alt (14+15+16)  |  0,0 22,0 78,0  |  564  |  228  |  0,69
+p.248: 14 Gæld til pengeinstitutter  |  0,0 30,7 69,3  |  156  |  27  |  0,77
+p.248: 15 Kreditforeningsgæld  |  0,0 57,0 43,0  |  395  |  0  |  0,76
+p.248: 16 Anden gæld  |  0,0 86,8 13,2  |  13  |  0  |  0,98
+p.250: muen ekskl. pension er hhv. 0,71 og 0,96, jf. tabel V.4.
+p.272: nanser frem mod 2025 end den, der ligger til grund for 2025-planen.
+p.273: DØR skønner et underskud på den strukturelle saldo på 0,3 pct. af BNP i 2017,
+p.274: ges reviderede lovforslag om udgiftslofter for 2017-2020, der afspejler prioriterin-
+p.274: 0,5 pct. af BNP. Det betegner DØR som, at de offentlige finanser er ”overholdbare”
+p.274: overskride budgetlovens underskudsgrænse på 0,5 pct. af BNP.
+p.276: skudsgrænse på 0,5 pct. af BNP er passende afstemt i forhold til den faktiske under-
+p.285: professionel hovedreparation) på 6,1 % i 2016 og 4,8 % i 2017. Og vi forventer, at
+p.285: -0,4 % af BNP i 2017) er fornuftig, set i lyset af, at det så småt strammer til på
+p.287: 1985 til ca. 6 % årligt i 2015. Det bør føre til en politikanbefaling om, at ambitio-
+p.293: ninger – idet holdbarhedsindikatoren ligger på 0,5 pct. af BNP.
+p.293: Der er fortsat et ’hængekøjeproblem’ i perioden 2025-2040, men som Vismændene
+p.300: pct. i 2016 tiltagende til 2 pct. i 2017 og 2,2 pct. i 2018. Det er i særlig grad andre
+p.310: BNP i 2016 og 1,6 pct. 2017, og overholder dermed EU's grænse på 3 pct. Dansk
+p.310: overholdbar med 0,5 pct. af BNP. Dansk Erhverv er enig med Formandskabet i, at
+p.315: på 0,5 pct., er det ikke hensigtsmæssigt at etablere en ny snævre grænse på 0,3 pct.,
+p.317: hverken vokset mere eller mindre end den strukturelle velstand fra 2000-2015 –
+p.328: per cent to -0.5 per cent, cf. Table A.
+p.329: Table A  |  Key figures of the short-term outlook for the Danish economy
+p.329: 2015  |  2015 2016 2017 2018  |  2025
+p.329: Private consumption  |  953.5  |  2.3 2.0 2.3 2.4  |  2.5
+p.329: Public sector consumption  |  518.8  |  -0.7 1.2 0.5 1.0  |  1.0
+p.329: Gross fixed capital formation  |  377.9  |  1.0 1.2 3.1 3.9  |  3.1
+p.329: Residential investment  |  73.4  |  -1.6  |  4.3  |  4.3  |  3.7  |  3.0
+p.329: Business fixed investment  |  224.6  |  2.8  |  2.1  |  3.8  |  4.6  |  3.4
+p.329: Public sector investment  |  73.6  |  -1.1  |  -3.6  |  -0.1  |  1.8  |  1.9
+p.329: Stockbuilding  |  10.8  |  -0.3  |  -0.5  |  0.2  |  0.3  |  0.0
+p.329: Total domestic demand  |  1,861.0  |  0.9  |  1.2  |  2.2  |  2.6  |  2.2
+p.329: Exports of goods and services  |  1,060.5  |  0.3  |  0.4  |  2.5  |  3.2  |  4.8
+p.329: Imports of goods and services  |  936.2  |  0.0  |  0.6  |  2.8  |  4.0  |  5.7
+p.329: GDP  |  1,985.3  |  1.0  |  1.0  |  2.0  |  2.2  |  1.9
+p.329: Consumer prices, percentage change  |  0.6  |  0.4  |  1.5  |  2.0  |  2.1
+p.329: Unemployment, per cent  |  3.6  |  3.2  |  3.1  |  3.0  |  2.7
+p.329: Current account, per cent of GDP  |  7.0  |  6.0  |  5.7  |  4.6  |  3.8
+p.329: General gov. budget balance, per cent of GDP  |  -1.7  |  -0.6  |  -1.6  |  -1.1  |  0.7
+p.329: Hourly wage costs, percentage change  |  1.8  |  2.3  |  2.4  |  2.4  |  3.1
+p.329: Terms of trade, percentage change  |  0.1  |  -1.3  |  -0.4  |  -0.8  |  0.2
+p.329: a)  The column shows projected average annual growth from 2018 to 2025 for all variables except for
+p.330: by 2025, compared to 2016. If the reform effects turn out to
+p.331: budget deficit is expected to be 0.6 per cent of GDP in 2016
+p.331: and 1.6 per cent of GDP in 2017, cf. figure A. The budget
+p.332: 2005  |  2010  |  2015  |  2020  |  2025
+p.333: Table B  |  Assessment of fiscal policy rules
+p.333: •  |  Structural surplus in the period 2019-2025
+p.334: 2015  |  2025  |  2035  |  2045  |  2055  |  2065  |  2075
+p.335: nently by 0.5 per cent of GDP without causing debt to ex-
+p.335: tural budget balance from around 2025 to 2040 should not

@@ -1,0 +1,34 @@
+# dor-eval-2026
+# url: https://dors.dk/files/media/F26_kapII_Prognoseevaluering.pdf
+# http: 200  bytes: 193013  sha256: 78bb8a8a76755f69c804ef7a15cd6f3341e2c531ccbad75e51616f27a8c7763c
+# fetched: 2026-09-29T18:09:43Z
+# pages: 10  (lines below are quotes; p.N = PDF page)
+
+p.2: 2000 været 1,2 pct.point. Ses der bort fra 2009 og 2020
+p.2: -2  |  høj vækst. For 2021 og 2022 ramte prognosen for
+p.2: 2000  |  2005  |  2010  |  2015  |  2020  |  2025  |  •  |  For 2025 var den skønnede BNP-vækst omtrent som
+p.2: væksten for 2025 med vækstskønnet for 2025 fra Dansk Økonomi, efterår 2024.  |  2008-09 og coronapandemien i 2020, er prognose-
+p.3: 2000  |  2005  |  2010  |  2015  |  2020  |  2025
+p.3: 2024 er således opgjort som den samlede vækst for 2023 og 2024 omregnet til en årlig  |  med lav vækst og for lavt i perioder med høj vækst.
+p.3: væksten for 2024-25 med vækstskønnet for 2024-25 fra Dansk Økonomi, efterår 2023.
+p.4: BNP-vækst 2024  |  BNP-vækst 2025
+p.4: 2022  |  2023  |  2024  |  2023  |  2024  |  2025
+p.4: den stiplede linje og er opgjort fra Nationalregnskabet (d. 31.03.2025). Højre figur viser det tilsvarende for 2025. Den faktiske BNP-vækst fremgår af den stiplede linje og er
+p.4: • Den lave skønnede vækst for 2024 fra DØR i slutningen af 2024 afspejler delvist, at prognosen blev udgivet før de andre
+p.5: 2000  |  2005  |  2010  |  2015  |  2020  |  2025  |  efterfølgende to år, men den faktiske beskæftigelse steg med
+p.5: 157.000 pers. I prognosen fra Dansk Økonomi, efterår 2022
+p.5: diverse udgivelser af Dansk Økonomi, efterår for perioden 2001 til 2025.
+p.7: •  |  I årene 2023 og 2024 blev inflationen til gengæld
+p.7: 2000  |  2005  |  2010  |  2015  |  2020  |  2025
+p.7: forbrugerpriserne for 2025 fra Dansk Økonomi, efterår 2024.
+p.8: 2000  |  2005  |  2010  |  2015  |  2020  |  2025
+p.8: forbrugerprisindeks for 2025 med den skønnede ændring i forbrugerpriserne for 2025
+p.9: BNP-vækstskøn (t+1, 2000-2025)  |  DØR  |  ØR  |  DN  |  DI  |  OECD  |  EU  |  •  |  Den absolutte gennemsnitlige afvigelse er et mål for
+p.9: Absolut gns. afvigelse (pct.point)  |  1,21  |  1,20  |  1,37  |  1,43  |  1,34  |  1,30  |  præcisionen af en prognose. På tværs af institutioner er
+p.9: RMSE (pct.point)  |  1,73  |  1,71  |  1,95  |  1,98  |  1,79  |  1,81  |  den skønnede BNP-vækst i gns. ca. 1,2-1,4 pct.point
+p.9: Theil-koefficient  |  0,75  |  0,75  |  0,86  |  0,89  |  0,79  |  0,79  |  forskellig fra den faktiske BNP-vækst.
+p.9: Retning  |  0,73  |  0,88  |  0,65  |  0,58  |  0,81  |  •  |  Theil-koefficienten sammenligner prognoserne med et
+p.9: - 2000-2009  |  1,49  |  1,39  |  1,64  |  1,62  |  1,53  |  1,47  |  klarer prognoserne sig bedre end det mekaniske skøn,
+p.9: - 2010-2019  |  0,72  |  0,73  |  0,81  |  0,90  |  0,72  |  0,84  |  hvilket er tilfældet på tværs af de forskellige institutioner.
+p.9: - 2020-2025  |  1,55  |  1,68  |  1,85  |  1,98  |  2,07  |  1,78
+p.9: prognoseafvigelserne fra et mekanisk skøn. Det mekaniske skøn er beregnet som et  |  2010-19. Dette skyldes bl.a. coronapandemien i 2020,

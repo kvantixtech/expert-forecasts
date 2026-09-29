@@ -1,0 +1,333 @@
+# or-2019-12-en
+# url: https://en.fm.dk/media/mxwkmcmw/economic-survey-december-2019.pdf
+# http: 200  bytes: 521173  sha256: 1001afe1c102935466a1dd68ff0b496f58944f90ab252dd78e21262ba158fc7d
+# fetched: 2026-09-29T18:08:21Z
+# pages: 65  (lines below are quotes; p.N = PDF page)
+
+p.1: mately 2½ per cent per year in 2015-2018, and the economy is expected to grow by 2.0
+p.1: per cent in 2019 and approximately 1½ per cent in 2020 and 2021.
+p.2: tribute relatively strongly to GDP growth, cf. figure 1.2.
+p.2: In 2020 and 2021 the economic slowdown in the euro area and the global economy is
+p.4: Overall, GDP growth is estimated at 2.0 per cent in 2019, declining to 1.5 per cent and
+p.4: 1.4 per cent in 2020 and 2021 respectively. The moderate slowdown in the growth rate
+p.4: 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021
+p.8: that their central estimate for Danish GDP growth of 1.4 per cent in 2021 lies in an inter-
+p.8: val between -1.7 per cent and +2.5 per cent, cf. box 1.1.
+p.9: The OECD forecasts that Danish GDP with grow by 1.4 per cent in both 2020 and 2021, and their forecast is
+p.9: GDP growth of 2.5 per cent in 2021 corresponds to an additional employment of almost 22,000 persons,
+p.9: 2018  |  2019  |  2020  |  2021
+p.10: period 2016-2018, which show greater economic progress than previously calculated, corresponding to an
+p.10: in 2017 has an impact on the calculation of GDP. The national accounts data for 2016 are now considered
+p.10: In connection with the presentation of the governments political Budget Bill for 2020 on 2 October 2019, the
+p.10: Opdateret 2025-forløb: Grundlag for udgiftslofter 2023 (October 2019).
+p.11: Table 1.1
+p.11: 2019  |  2020  |  20214)
+p.11: 0.1  |  -0.1  |  0.3
+p.11: Actual budget balance, per cent of GDP  |  2.5  |  -0.2  |  -0:2
+p.11: EMU-debt, per cent of GDP  |  33.5  |  33.8  |  33.4
+p.11: Growth in public consumption, per cent1)  |  0.7  |  1.3  |  0.4
+p.11: One-year fiscal effect, per cent of GDP2)  |  -0.1  |  0.1  |  0.0
+p.11: Output gap, per cent  |  0.7  |  0.7  |  0.5
+p.11: Employment gap, per cent3)  |  0.7  |  0.6  |  0.3
+p.11: the same. The preconditions for 2021 are technical as the fiscal policy for 2021 is yet to be determined.
+p.11: time refunds of property taxes in 2020 and 2021.
+p.11: 4)  |  The estimates for 2021 are based on technical assumptions for the fiscal policy in 2021.
+p.11: at -0.1 per cent of GDP in 2020.
+p.12: in 2020, cf. table 1.1. The estimate is in line with the assessment in October based on the
+p.12: prospect of an improvement of the structural budget balance from -0.1 per cent of GDP
+p.13: in 2020 to 0.3 per cent of GDP in 2021 in the assessment reflects, among other things,
+p.13: 2021 reflects the impact on the fiscal space in 2021 following the property tax settlement
+p.13: 2021-2025. The actual fiscal policy for 2021 is specified during 2020 with the budget bill
+p.13: A significant surplus on the actual public budget balance of 2.5 per cent of GDP is ex-
+p.13: come from the pension yield tax of a total 2.6 per cent of GDP, which is 1.5 per cent of
+p.13: to be reduced markedly in the following years. In 2020 and 2021, the actual public
+p.13: be about 3-4 per cent of GDP in 2019-2021, cf. figure 1.11. The EMU debt for the same
+p.15: 1,000 persons  |  1,000 persons  |  Per cent of GDP  |  Per cent of GDP
+p.15: Average 1990-2007
+p.15: 2015 2016 2017  |  2018  |  2019  |  2020  |  2021  |  00  |  02  |  04  |  06  |  08  |  10  |  12  |  14  |  16  |  18  |  20
+p.16: about 0.5 per cent of GDP, the interest expenditures in the public sector have fallen continuously, cf. figure
+p.16: penditures. The structural net interest expenditures are estimated to be 0.0 per cent of GDP in 2020.
+p.16: interest payments was about DKK 12 billion (2020-level). In 2020, it is expected that the amount is about
+p.16: is 0.5 per cent of GDP in 2020 compared to 2013, which is about DKK 11½ billion.
+p.17: 1.3 Annex table
+p.17: Table 1.2
+p.17: 2019  |  2020  |  2021
+p.17: Private consumption  |  1.9  |  1.6  |  2.0  |  1.9  |  1.7
+p.17: Total government demand  |  1.0  |  0.8  |  1.2  |  1.2  |  0.8
+p.17: - of which government consumption  |  0.8  |  0.7  |  1.3  |  1.3  |  0.4
+p.17: - of which government investment  |  2.9  |  1.5  |  0.4  |  0.6  |  4.2
+p.17: Housing investment  |  3.9  |  5.0  |  2.1  |  0.7  |  1.0
+p.17: Business fixed investment  |  0.2  |  -3.3  |  4.4  |  3.8  |  2.8
+p.17: Total domestic demand  |  1.3  |  0.7  |  2.2  |  2.0  |  1.5
+p.17: 0.0  |  -0.1  |  -0.1  |  0.0  |  0.0
+p.17: Total final domestic demand  |  1.3  |  0.5  |  2.1  |  2.0  |  1.5
+p.17: Exports  |  2.7  |  3.4  |  2.2  |  1.5  |  2.2
+p.17: - of which manufacturing exports  |  5.5  |  10.4  |  3.0  |  2.1  |  3.0
+p.17: Total demand  |  1.8  |  1.6  |  2.1  |  1.8  |  1.7
+p.17: Imports  |  2.0  |  0.8  |  3.1  |  2.5  |  2.4
+p.17: - of which imports of goods  |  1.8  |  2.2  |  2.8  |  3.3  |  2.5
+p.17: GDP  |  1.7  |  2.0  |  1.6  |  1.5  |  1.4
+p.17: Gross value added  |  1.7  |  2.1  |  1.4  |  1.3  |  1.3
+p.17: - of which private non-farm sector  |  2.2  |  2.8  |  2.1  |  1.6  |  1.8
+p.17: Output gap  |  0.7  |  0.7  |  1.0  |  0.7  |  0.5
+p.17: Employment gap  |  0.7  |  0.7  |  0.9  |  0.6  |  0.3
+p.17: Unemployment gap  |  0.0  |  -0.2  |  -0.1  |  -0.2  |  -0.1
+p.18: Table 1.2 (continued)
+p.18: 2019  |  2020  |  2021
+p.18: House prices (single family homes)  |  3.1  |  2.7  |  3.4  |  3.2  |  3.0
+p.18: Consumer prices  |  1.0  |  0.8  |  1.4  |  1.2  |  1.6
+p.18: Hourly earnings in the private sector  |  2.5  |  2.5  |  2.8  |  2.6  |  2.7
+p.18: Real disposable income, households  |  2.0  |  1.9  |  2.3  |  3.5  |  1.4
+p.18: Productivity in the private non-farm sector  |  0.7  |  1.4  |  1.3  |  1.1  |  1.4
+p.18: Interest rate, 1-year rate loan  |  -0.6  |  -0.6  |  -0.7  |  -0.6  |  -0.5
+p.18: Interest rate, 10-year government bond  |  -0.1  |  -0.2  |  -0.3  |  -0.3  |  -0.2
+p.18: Interest rate, 30-year mortgage credit bond  |  1.7  |  1.6  |  1.6  |  1.3  |  1.4
+p.18: Actual public balance (DKK bn.)  |  44.4  |  58.8  |  9.4  |  -5.6  |  -5.1
+p.18: Actual public balance (per cent of GDP)  |  1.9  |  2.5  |  0.4  |  -0.2  |  -0.2
+p.18: Structural public balance (per cent of GDP)  |  -0.1  |  0.1  |  -0.1  |  -0.1  |  0.3
+p.18: Gross debt (per cent of GDP)  |  33.7  |  33.5  |  33.5  |  33.8  |  33.4
+p.18: Labour force, total (1,000 persons)  |  3,111  |  3,098  |  3,135  |  3,118  |  3,128
+p.18: Employment, total (1,000 persons)  |  3,010  |  2,996  |  3,036  |  3,015  |  3,023
+p.18: 3.3  |  3.4  |  3.2  |  3.4  |  3.4
+p.18: Trade-weighted international GDP-growth  |  1.8  |  1.7  |  1.9  |  1.7  |  1.7
+p.18: 2.9  |  2.0  |  3.1  |  1.6  |  2.3
+p.18: Exchange rate (DKK per USD)  |  6.6  |  6.7  |  6.7  |  6.8  |  6.8
+p.18: Oil price, dollars per barrel  |  64.7  |  63.9  |  64.5  |  61.9  |  64.0
+p.18: Current account balance (per cent of GDP)  |  6.1  |  7.7  |  5.7  |  7.2  |  6.9
+p.18: Note: Forecasts are compared to Opdateret 2025-forløb: Grundlag for udgiftslofter (October 2019).
+p.19: Index (1990=100)  |  Index (1990=100)
+p.19: 1990  |  1992  |  1994  |  1996  |  1998  |  2000  |  2002  |  2004  |  2006  |  2008  |  2010  |  2012  |  2014  |  2016
+p.23: Index (1990=100)  |  Index (1990=100)
+p.23: 1990  |  1992  |  1994  |  1996  |  1998  |  2000  |  2002  |  2004  |  2006  |  2008  |  2010  |  2012  |  2014  |  2016  |  2018
+p.38: figure 2.19. This projection takes into account the 2018 Energy Agreement, including
+p.38: Index (1990=100)  |  Index (1990=100)
+p.38: 1990 1992 1994 1996 1998 2000 2002 2004 2006 2008 2010 2012 2014 2016 2018 2020 2022 2024 2026 2028 2030
+p.45: Table B.1
+p.45: 2019  |  2020  |  2021  |  2019  |  2020  |  2021  |  2019  |  2020  |  2021
+p.45: Private consumption  |  1,073  |  1,107  |  1,143  |  1.6  |  1.9  |  1.7  |  0.8  |  1.2  |  1.6
+p.45: Public consumption  |  559  |  577  |  591  |  0.7  |  1.3  |  0.4  |  1.5  |  2.0  |  1.9
+p.45: Public investments2)  |  78  |  80  |  85  |  1.5  |  0.6  |  4.2  |  2.4  |  1.8  |  1.5
+p.45: Residential investment  |  117  |  120  |  123  |  5.0  |  0.7  |  1.0  |  1.4  |  1.4  |  1.5
+p.45: Fixed business investment  |  300  |  315  |  329  |  -3.3  |  3.8  |  2.8  |  0.9  |  1.1  |  1.6
+p.45: 2,129  |  2,203  |  2,273  |  0.7  |  2.0  |  1.5  |  1.1  |  1.4  |  1.7
+p.45: Stock building  |  16  |  16  |  16  |  -0.1  |  0.0  |  0.0
+p.45: Total domestic demand  |  2,145  |  2,219  |  2,289  |  0.5  |  2.0  |  1.5  |  1.1  |  1.4  |  1.7
+p.45: Exports of goods and services  |  1,314  |  1,354  |  1,405  |  3.4  |  1.5  |  2.2  |  1.7  |  1.5  |  1.6
+p.45: GDP  |  2,309  |  2,375  |  2,445  |  2.0  |  1.5  |  1.4  |  0.8  |  1.4  |  1.5
+p.45: Gross value added  |  2,010  |  2,069  |  2,130  |  2.1  |  1.3  |  1.3  |  1.1  |  1.6  |  1.6
+p.45: - Non-farm private sector  |  1,384  |  1,424  |  1,471  |  2.8  |  1.6  |  1.8  |  0.2  |  1.3  |  1.5
+p.45: Gross national income  |  2,362  |  2,428  |  2,497
+p.45: 1)  |  The volume statement for public consumption is calculated by using the input method. In 2019-2021 growth
+p.46: Table B.2
+p.46: 2017  |  2018  |  2019  |  2020  |  2021
+p.46: Export market growth1)  |  5.3  |  3.7  |  2.0  |  1.6  |  2.3
+p.46: Trade-weighted GDP2)  |  2.8  |  2.4  |  1.7  |  1.7  |  1.7
+p.46: EU28  |  2.6  |  2.0  |  1.4  |  1.4  |  1.4
+p.46: Euro Area  |  2.7  |  1.9  |  1.2  |  1.1  |  1.2
+p.46: Germany  |  2.8  |  1.5  |  0.6  |  0.4  |  0.9
+p.46: France  |  2.4  |  1.7  |  1.3  |  1.2  |  1.2
+p.46: Italy  |  1.8  |  0.7  |  0.2  |  0.4  |  0.5
+p.46: Spain  |  2.9  |  2.4  |  2.0  |  1.6  |  1.6
+p.46: Netherlands  |  3.0  |  2.5  |  1.7  |  1.8  |  1.6
+p.46: UK  |  1.9  |  1.4  |  1.2  |  1.0  |  1.2
+p.46: Poland  |  4.9  |  5.1  |  4.3  |  3.8  |  3.0
+p.46: Sweden  |  2.7  |  2.4  |  1.4  |  1.2  |  1.2
+p.46: Norway  |  2.3  |  1.3  |  1.1  |  2.4  |  2.3
+p.46: USA  |  2.4  |  2.9  |  2.3  |  2.0  |  2.0
+p.47: Table B.3
+p.47: Interest rate, per cent  |  2017  |  2018  |  2019  |  2020  |  2021
+p.47: USA  |  Federal Funds Target Rate  |  1.1  |  1.9  |  2.3  |  1.6  |  1.5
+p.47: 3-month LIBOR  |  1.3  |  2.3  |  2.3  |  1.7  |  1.5
+p.47: 10-year government bond  |  2.3  |  2.9  |  2.1  |  1.8  |  1.9
+p.47: Euro area  |  Main Refinancing Operations Rate  |  0.0  |  0.0  |  0.0  |  0.0  |  0.0
+p.47: 3-month EURIBOR  |  -0.3  |  -0.3  |  -0.4  |  -0.4  |  -0.4
+p.47: 10-year government bond (Germany)  |  0.4  |  0.5  |  -0.2  |  -0.3  |  -0.2
+p.47: Denmark  |  Certificates of deposit rate  |  -0.7  |  -0.7  |  -0.7  |  -0.8  |  -0.8
+p.47: 3-month CIBOR  |  -0.4  |  -0.3  |  -0.4  |  -0.4  |  -0.3
+p.47: 1-year adjustable mortgage rate  |  -0.6  |  -0.5  |  -0.6  |  -0.6  |  -0.5
+p.47: 10-year government bond  |  0.5  |  0.5  |  -0.2  |  -0.3  |  -0.2
+p.47: 30-year mortgage interest rate  |  2.3  |  2.1  |  1.6  |  1.3  |  1.4
+p.47: Average interest rate  |  0.7  |  0.7  |  0.5  |  0.3  |  0.4
+p.47: Dollar per barrel  |  54.3  |  71.1  |  63.9  |  61.9  |  64.0
+p.47: DKK per barrel  |  358.1  |  448.7  |  426.1  |  418.9  |  433.1
+p.47: DKK per 100 dollar  |  660.1  |  631.5  |  667.3  |  677.0  |  677.0
+p.47: DKK per 100 euro  |  743.9  |  745.3  |  746.6  |  747.2  |  747.2
+p.47: 102.1  |  103.6  |  103.0  |  102.7  |  102.7
+p.48: Table B.4
+p.48: 2017  |  2018  |  2019  |  2020  |  2021
+p.48: Total population  |  5,765  |  5,794  |  5,819  |  5,843  |  5,867
+p.48: - Labour force  |  3,035  |  3,069  |  3,098  |  3,118  |  3,128
+p.48: - Total employment  |  2,922  |  2,963  |  2,906  |  3,015  |  3,023
+p.48: - Ordinary employment1)  |  2,842  |  2,880  |  2,962  |  2,918  |  2,922
+p.48: - Outside the labour force  |  2,730  |  2,725  |  2,721  |  2,725  |  2,739
+p.49: Table B.5
+p.49: 2017  |  2018  |  2019  |  2020  |  2021
+p.49: Employment, total  |  2,922  |  2,963  |  2,996  |  3,015  |  3,023
+p.49: - Service industries  |  1,533  |  1,554  |  1,576  |  1,588  |  1,594
+p.49: Table B.6
+p.49: 2017  |  2018  |  2019  |  2020  |  2021
+p.49: - per cent of workforce  |  3.8  |  3.5  |  3.4  |  3.4  |  3.4
+p.49: LFS unemployment (per cent)  |  6.0  |  5.3  |  5.0  |  5.0  |  5.0
+p.50: Table B.7
+p.50: 2017  |  2018  |  2019  |  2020  |  2021
+p.51: Table B.8
+p.51: 2018  |  2017  |  2018  |  2019  |  2020  |  2021
+p.51: Gross fixed capital formation  |  495  |  3.0  |  5.4  |  -1.3  |  3.0  |  2.4
+p.51: - Construction investment  |  231  |  5.0  |  4.6  |  4.8  |  2.6  |  2.1
+p.51: - Tangible and intangible investments  |  263  |  1.2  |  6.2  |  -6.7  |  3.4  |  2.7
+p.51: - Residential investments  |  110  |  12.1  |  5.3  |  5.0  |  0.7  |  1.0
+p.51: - Public investments  |  77  |  -8.0  |  1.8  |  -2.5  |  3.4  |  3.2
+p.51: - Total business investments  |  307  |  3.2  |  6.5  |  -3.3  |  3.8  |  2.8
+p.51: - Construction investment  |  81  |  6.3  |  4.7  |  6.0  |  3.9  |  3.0
+p.52: Table B.9
+p.52: 2017  |  2018  |  2019  |  2020  |  2021
+p.52: - Per cent of GDP  |  7.0  |  6.0  |  7.1  |  6.6  |  6.4
+p.52: - Per cent of GDP  |  7.8  |  7.0  |  7.7  |  7.2  |  6.9
+p.52: Net assets against other countries  |  1,118  |  1,346  |  1,513  |  1,686  |  1,855
+p.52: - Per cent of GDP  |  51.4  |  60.0  |  65.5  |  71.0  |  75.9
+p.53: Table B.10
+p.53: 2018  |  2017  |  2018  |  2019  |  2020  |  2021
+p.53: Goods, total  |  755  |  5.5  |  1.8  |  7.3  |  1.4  |  2.3
+p.53: - Agricultural goods etc.  |  119  |  3.1  |  -1.4  |  1.7  |  1.0  |  1.5
+p.53: - Industrial goods (excl. ships etc.)  |  559  |  6.3  |  2.6  |  10.4  |  2.1  |  3.0
+p.53: - Other goods  |  77  |  2.5  |  1.2  |  -7.1  |  -4.6  |  -3.0
+p.53: Services, total  |  495  |  3.3  |  3.3  |  -2.4  |  1.8  |  1.9
+p.53: - Sea transport  |  200  |  -1.1  |  -1.1  |  -0.5  |  0.0  |  1.0
+p.53: - Other services  |  236  |  5.6  |  7.6  |  -5.0  |  2.9  |  2.5
+p.53: Total  |  1,250  |  4.6  |  2.4  |  3.4  |  1.5  |  2.2
+p.54: Table B.11
+p.54: 2018  |  2017  |  2018  |  2019  |  2020  |  2021
+p.54: Total consumption  |  1,048  |  1.6  |  2.6  |  1.6  |  1.9  |  1.7
+p.54: Retail trade goods  |  338  |  2.2  |  3.9  |  0.1  |  1.8  |  1.6
+p.54: - Food, drinks and tobacco  |  154  |  1.3  |  2.2  |  -0.5  |  1.8  |  1.5
+p.54: - Other goods  |  184  |  3.0  |  5.3  |  0.6  |  1.8  |  1.7
+p.54: Purchase of vehicles  |  42  |  3.8  |  8.8  |  4.0  |  3.0  |  0.5
+p.54: Electricity, fuels and gas  |  51  |  -2.2  |  1.0  |  0.0  |  1.6  |  0.0
+p.54: Gasoline and similar  |  26  |  -0.2  |  1.0  |  2.6  |  1.0  |  1.1
+p.54: Housing  |  231  |  0.9  |  0.8  |  1.5  |  1.5  |  1.5
+p.54: Other services  |  375  |  2.8  |  2.4  |  2.6  |  2.3  |  2.3
+p.54: Table B.12
+p.54: 2017  |  2018  |  2019  |  2020  |  2021
+p.54: table B.9.
+p.55: Table B.13
+p.55: 2018  |  2017  |  2018  |  2019  |  2020  |  2021
+p.55: Total GVA  |  100  |  2.0  |  2.4  |  2.1  |  1.3  |  1.3
+p.55: Public sector  |  20  |  0.6  |  0.4  |  0.4  |  0.8  |  0.0
+p.55: Private sector  |  80  |  2.4  |  2.9  |  2.5  |  1.4  |  1.7
+p.55: 78  |  2.5  |  3.1  |  2.6  |  1.6  |  1.7
+p.55: Non-farm private sector  |  69  |  2.4  |  4.0  |  2.8  |  1.6  |  1.8
+p.55: Table B.14
+p.55: Avg. 1995-2018  |  2017  |  2018  |  2019  |  2020  |  2021
+p.55: Total  |  1.1  |  0.9  |  2.6  |  1.0  |  0.8  |  1.1
+p.55: Public sector  |  0.7  |  0.4  |  0.2  |  -0.2  |  0.2  |  0.0
+p.55: Private sector  |  1.2  |  0.9  |  3.4  |  1.2  |  0.9  |  1.3
+p.55: 1.4  |  1.0  |  3.6  |  1.4  |  1.1  |  1.3
+p.55: Non-farm private sector  |  1.3  |  0.7  |  4.6  |  1.4  |  1.1  |  1.4
+p.56: Table B.15
+p.56: 2017  |  2018  |  2019  |  2020  |  2021
+p.56: Disposable income  |  1.9  |  2.3  |  1.9  |  3.5  |  1.4
+p.56: Compensation of employees2)  |  2.0  |  2.4  |  2.8  |  2.0  |  1.3
+p.56: Social benefits  |  0.0  |  0.0  |  0.4  |  0.6  |  0.2
+p.56: Income taxes  |  -1.1  |  -0.7  |  -1.2  |  -0.1  |  -0.6
+p.56: Net interest income  |  0.3  |  0.0  |  0.1  |  0.1  |  0.1
+p.56: Dividend etc.  |  -0.2  |  0.4  |  0.8  |  0.2  |  0.2
+p.56: Pension contribution4)  |  -0.1  |  0.4  |  -1.4  |  0.5  |  -0.1
+p.56: Payment from pension schemes4)  |  0.0  |  0.2  |  0.0  |  0.1  |  0.2
+p.57: Table B.16
+p.57: 2017  |  2018  |  2019  |  2020  |  2021
+p.57: Disposable gross income  |  1,067  |  1,101  |  1,131  |  1,185  |  1,220
+p.57: Private consumption  |  1,012  |  1,048  |  1,073  |  1,107  |  1,143
+p.58: Table B.17
+p.58: 2017  |  2018  |  2019  |  2020  |  2021
+p.58: Housing  |  3,633  |  3.4  |  1.2  |  0.3  |  0.4  |  -0.2
+p.58: Cars  |  310  |  2.6  |  3.3  |  5.0  |  4.7  |  3.8
+p.58: - Mortgage debt etc.  |  -1,933  |  1.1  |  0.6  |  2.7  |  2.4  |  2.0
+p.58: - Equity etc.4) and bonds  |  1,899  |  12.0  |  -7.4  |  5.0  |  4.5  |  4.0
+p.58: Total directly owned net wealth  |  3,910  |  9.8  |  -1.0  |  1.6  |  2.1  |  1.3
+p.58: Pension wealth6)  |  2,326  |  1.4  |  -1.3  |  1.6  |  2.9  |  2.6
+p.58: Total net wealth  |  6,235  |  6.5  |  -1.1  |  1.6  |  2.4  |  1.8
+p.58: Table B.18
+p.58: Per cent  |  2017  |  2018  |  2019  |  2020  |  2021
+p.58: 4.0  |  3.9  |  2.7  |  3.2  |  3.0
+p.58: Housing gross investment (real growth)  |  12.1  |  5.3  |  5.0  |  0.7  |  1.0
+p.59: Table B.19
+p.59: 2017  |  2018  |  2019  |  2020  |  2021
+p.59: Private sector  |  57.3  |  57.2  |  57.4  |  57.5  |  57.5
+p.59: The entire economy  |  63.2  |  63.2  |  63.3  |  63.4  |  63.3
+p.59: - Hourly earnings (excl. nuisance bonus)  |  2.2  |  2.3  |  2.5  |  2.6  |  2.7
+p.59: - Budgetary impact  |  1.7  |  1.6  |  1.8  |  2.5  |  2.0
+p.59: Table B.20
+p.59: 2017  |  2018  |  2019  |  2020  |  2021
+p.59: Net price index  |  1.2  |  0.9  |  0.9  |  1.4  |  1.8
+p.59: Tariffs and housing benefits, contribution  |  -0.1  |  -0.1  |  -0.1  |  -0.2  |  -0.2
+p.59: Consumer price index  |  1.1  |  0.8  |  0.8  |  1.2  |  1.6
+p.59: HICP  |  1.1  |  0.7  |  0.8  |  1.3  |  1.7
+p.60: Table B.21
+p.60: 2017  |  2018  |  2019  |  2020  |  2021
+p.60: Public consumption  |  535.6  |  546.8  |  558.8  |  577.5  |  590.7
+p.60: Income transfers1)  |  353.2  |  355.9  |  363.2  |  374.8  |  383.8
+p.60: Investments  |  72.3  |  75.4  |  78.4  |  80.3  |  85.0
+p.60: Interest expenditures  |  23.4  |  23.8  |  23.0  |  22.4  |  20.9
+p.60: Subsidies  |  38.7  |  38.1  |  39.8  |  39.6  |  39.1
+p.60: Other expenditures2)  |  69.4  |  81.0  |  72.4  |  79.6  |  84.1
+p.60: Total expenditure  |  1,092.6  |  1,121.0  |  1,135.7  |  1,174.2  |  1,203.7
+p.60: Personal income taxes, etc.4)  |  455.3  |  463.7  |  483.2  |  492.4  |  507.9
+p.60: Labour market contributions  |  94.2  |  98.1  |  102.2  |  105.4  |  108.4
+p.61: Table B.22
+p.61: 2017  |  2018  |  2019  |  2020  |  2021
+p.61: Indirect taxes  |  348.3  |  360.6  |  365.3  |  373.3  |  379.7
+p.61: - VAT  |  208.0  |  217.0  |  221.2  |  228.7  |  235.7
+p.61: - Registration tax  |  20.0  |  20.6  |  21.6  |  21.8  |  22.5
+p.61: - Excise duties  |  72.6  |  72.2  |  70.3  |  69.8  |  70.3
+p.61: - Energy (incl. PSO)  |  43.2  |  42.6  |  39.2  |  38.8  |  37.4
+p.61: - Environmental  |  3.7  |  3.8  |  3.7  |  3.8  |  4.2
+p.61: - Tobacco and spirits etc.  |  11.5  |  11.0  |  11.9  |  11.6  |  12.4
+p.61: - Others  |  14.1  |  14.9  |  15.5  |  15.7  |  16.2
+p.61: - Property taxes  |  28.5  |  29.6  |  31.2  |  31.6  |  29.4
+p.61: - Motor vehicle tax paid by businesses  |  3.5  |  3.6  |  3.6  |  3.6  |  3.7
+p.61: - Other indirect taxes  |  15.7  |  17.6  |  17.4  |  17.7  |  18.2
+p.61: Direct taxes  |  653.7  |  640.5  |  706.6  |  671.4  |  691.8
+p.61: - Withholding taxes1)  |  435.1  |  442.9  |  461.6  |  471.0  |  486.7
+p.61: - State tax  |  150.6  |  156.4  |  164.7  |  169.7  |  175.4
+p.61: - Bottom-bracket tax  |  111.3  |  126.9  |  143.8  |  148.8  |  154.0
+p.61: - Top-bracket tax  |  17.5  |  17.4  |  18.3  |  18.3  |  18.6
+p.61: - Health contributions  |  19.2  |  9.7  |  0.0  |  0.0  |  0.0
+p.61: - Limited tax liability  |  2.6  |  2.4  |  2.6  |  2.7  |  2.7
+p.61: - Total municipal tax  |  236.9  |  239.2  |  248.2  |  256.0  |  265.3
+p.61: - Property value tax  |  14.2  |  14.5  |  14.6  |  14.9  |  14.9
+p.61: GDP  |  2,175.1  |  2,246.0  |  2,308.7  |  2,374.9  |  2,445.2
+p.61: Total taxes, share of GDP  |  46.5  |  45.0  |  46.9  |  44.4  |  44.2
+p.61: 1)  |  For 2017-2018, the distribution of withholding taxes to the state and municipalities is from Statistics Den
+p.61: mark. For 2019-2021, an estimate is used based on the Ministry of Finance’s tax base forecast.
+p.62: Table B.23
+p.62: 2017  |  2018  |  2019  |  2020  |  2021  |  2017  |  2018  |  2019  |  2020  |  2021
+p.62: December 2016  |  957.1  |  989.3  |  -  |  -  |  -  |  2.9  |  3.4  |  -  |  -  |  -
+p.62: May 2017  |  954.3  |  988.0  |  -  |  -  |  -  |  2.8  |  3.5  |  -  |  -  |  -
+p.62: August 2017  |  955.4  |  982.8  |  -  |  -  |  -  |  3.0  |  2.9  |  -  |  -  |  -
+p.62: December 2017  |  961.4  |  990.9 1,010.5  |  -  |  -  |  3.7  |  3.1  |  2.0  |  -  |  -
+p.62: May 2018  |  955.3  |  981.2 1,005.3  |  -  |  -  |  3.1  |  2.7  |  2.5  |  -  |  -
+p.62: August 2018  |  959.2  |  979.9 1,008.0  |  -  |  -  |  3.5  |  2.2  |  2.9  |  -  |  -
+p.63: Table B.24
+p.63: 2017  |  2018  |  2019  |  2020  |  2021
+p.63: Unemployment benefits (excl. activation)  |  14.6  |  14.0  |  13.4  |  14.6  |  15.5
+p.63: Cash benefits1) (excl. activation)  |  23.5  |  24.0  |  25.9  |  27.9  |  29.1
+p.63: Vacation allowance  |  0.8  |  0.8  |  0.7  |  0.3  |  0.3
+p.63: Anticipatory pensions2)  |  40.2  |  40.2  |  41.2  |  44.2  |  46.7
+p.63: Resource rehabilitation allowance  |  5.9  |  6.5  |  6.8  |  6.6  |  6.6
+p.63: Early retirement benefit  |  11.6  |  9.0  |  8.6  |  8.9  |  9.3
+p.63: Rehabilitation benefit  |  1.1  |  0.9  |  0.8  |  0.7  |  0.6
+p.63: Sickness benefit  |  11.3  |  11.4  |  11.6  |  12.0  |  12.2
+p.63: Maternity pay  |  10.7  |  10.9  |  11.5  |  11.5  |  11.6
+p.64: Table B.25
+p.64: 2017  |  2017  |  2018  |  2018  |  2018  |  2019  |  2019
+p.64: GDP (Real growth rate, per cent)  |  1.8  |  1.9  |  1.9  |  1.8  |  1.7  |  1.5  |  2.4
+p.64: Consumer prices (Change, per cent)  |  1.5  |  1.5  |  1.0  |  1.1  |  0.9  |  0.8  |  0.8
+p.64: 1.9  |  2.1  |  2.3  |  2.3  |  2.1  |  2.0  |  2.0
+p.64: GDP (Real growth rate, per cent)  |  -  |  1.7  |  1.7  |  1.8  |  1.7  |  1.7  |  2.0
+p.64: Consumer prices (Change, per cent)  |  -  |  1.7  |  1.6  |  1.6  |  1.5  |  1.0  |  0.8
+p.64: -  |  1.9  |  2.0  |  2.0  |  1.9  |  1.4  |  1.4
+p.64: GDP (Real growth rate, per cent)  |  -  |  -  |  -  |  -  |  1.6  |  1.6  |  1.5
+p.64: Consumer prices (Change, per cent)  |  -  |  -  |  -  |  -  |  1.8  |  1.4  |  1.2
+p.64: -  |  -  |  -  |  -  |  1.8  |  1.6  |  1.4
+p.64: GDP (Real growth rate, per cent)  |  -  |  -  |  -  |  -  |  -  |  -  |  1.4
+p.64: Consumer prices (Change, per cent)  |  -  |  -  |  -  |  -  |  -  |  -  |  1.6

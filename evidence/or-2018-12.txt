@@ -1,0 +1,506 @@
+# or-2018-12
+# url: https://regeringen.dk/media/31udkb5x/oekonomisk-redegoerelse-december-2018.pdf
+# http: 200  bytes: 4452674  sha256: e698f0c717ef32c394eef4869597596f330058e5f4c5b60d23953d2a5deb1268
+# fetched: 2026-09-29T18:08:19Z
+# pages: 225  (lines below are quotes; p.N = PDF page)
+
+p.7: 1.3 Bilagstabel ............................................................................................................. 27
+p.7: 3.2 Forbrugerpriser......................................................................................................  |  57
+p.9: er vokset med omtrent 2¼ pct. om året i 2015-2017. Det ses også i beskæftigelsen, der er
+p.11: 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020
+p.13: ver gradvist forhøjet fra aktuelt 65 år til 67 år i perioden 2019-2022, og efterlønsalderen
+p.13: er løbende blevet forhøjet siden 1. januar 2014 og vil være 64 år i 2023. Reformvirknin-
+p.14: I prognosen skønnes beskæftigelsen at stige med i alt 110.000 personer i årene 2018-
+p.16: Tabel a
+p.16: 1985-1986 1995-2000 2005-2007
+p.16: Gns. årlig forskel mellem faktisk og strukturel BNP-vækst, pct.  |  0,6  |  0,4  |  1,2
+p.16: Outputgab (slutår), pct.  |  0,9  |  1,9  |  3,4
+p.16: Forbrugskvote (slutår), pct. af disponibel indkomst  |  104,5  |  105,0  |  105,1
+p.16: Lønstigningstakt (slutår+1), pct.  |  10,5  |  4,2  |  4,6
+p.16: Boligprisstigning (slutår-1), pct.  |  17,1  |  6,9  |  21,6
+p.18: omtrent uændret, mens BNP er 28,5 mia. kr. højere i løbende priser i 2017. Revisionen
+p.19: økonomiske vækst for årene 2015, 2016 og 2017 til henholdsvis 2,3, 2,4 og 2,3 pct.
+p.19: beregning for samme år. For 2016 og 2017 foreligger endnu ikke en endelig beregning, og derfor sammenlig-
+p.20: Boks 1.3 beskriver prognosegrundlaget og andre ændringer siden augustvurderingen.
+p.20: Skønnene for BNP-væksten i 2018 og 2019 er i begge år nedjusteret med 0,1 pct.-point til 1,7 pct. Nedjuste-
+p.20: eksportmarkedsvæksten er nedjusteret med 0,7 pct.-point i 2018 og med 0,6 pct.-point i 2019, primært på
+p.21: for derefter at holde sig på samme niveau i 2020, jf. tabel 1.1. Det indebærer en fortsæt-
+p.21: kapacitet er dog endnu forholdsvist moderat. Under overophedningen i 2007-2008
+p.21: kapacitetspresset fra 2018 til 2019 med ca. 0,2 pct. af BNP målt ved den ét-årige finans-
+p.21: nes en dæmpende virkning på 0,1 pct. af BNP i 2020. Den strukturelle offentlige saldo
+p.21: skønnes at være i omtrent balance i 2018-2020. Finans- og strukturpolitikken vurderes
+p.21: Tabel 1.1
+p.21: 2018  |  2019  |  2020
+p.21: Strukturel saldo, pct. af strukturelt BNP  |  0,0  |  -0,1  |  -0,1
+p.21: Faktisk saldo, pct. af BNP  |  0,2  |  -0,1  |  -0,1
+p.21: ØMU-gæld, pct. af BNP  |  33,8  |  33,4  |  33,4
+p.21: Offentlig forbrugsvækst, pct.1)  |  0,4  |  0,5  |  0,4
+p.21: Ét-årig finanseffekt, pct. af BNP2)  |  0,0  |  -0,2  |  -0,1
+p.21: Outputgab, pct.3)  |  0,6  |  1,2  |  1,2
+p.21: 1)  |  Det offentlige forbrug i tabel 1.1 er opgjort inkl. afskrivninger. Den offentlige forbrugsvækst er beregningstek-
+p.21: skud på den strukturelle offentlige saldo på ca. 0,1 pct. af BNP i 2019.
+p.23: 2019. Samlet set giver justeringerne i 2018 og 2019 anledning til en opjustering af skøn-
+p.24: Skønnet for realvæksten i det offentlige forbrug i 2019 er opjusteret med 0,1 pct.-point til 0,5 pct. siden au-
+p.24: Skønnet for det offentlige forbrug i 2019 er baseret på de offentlige budgetter for 2019, herunder finansloven
+p.24: og de kommunale og regionale budgetter for 2019. Aftalen om finansloven for 2019 mv. indebærer isoleret
+p.24: set, at skønnet for realvæksten i det offentlige forbrug reduceres med ca. 0,1 pct.-point i 2019. Det skyldes
+p.24: udgiftsniveauet i 2018 og 2019.
+p.24: Finanspolitikken for 2020 tilrettelægges i løbet af 2019 med blandt andet aftalerne om
+p.24: 44¾ pct. af BNP i 2020, jf. figur 1.10.
+p.24: pct. af BNP i 2020, jf. figur 1.11.
+p.25: Gennemsnit 1990-2007
+p.25: Gennemsnit 1990-2007
+p.26: relle underskud til 0,1 pct. af BNP i 2019 og 2020, jf. figur 1.14. Over de senere år er der
+p.26: ¾ pct. af BNP i 2014 og derefter til omtrent balance i 2015-2018.
+p.26: For 2019 og 2020 forudsættes de offentlige driftsudgifter at udvikle sig i overensstem-
+p.26: søen fra 2018 til 2019 og 2020, jf. kapitel 8.
+p.26: Udvikling i strukturel saldo  |  Finanseffekt 2015-2020
+p.26: 3,0  |  3,0  |  0,25  |  0,25
+p.26: 1,0  |  1,0  |  -0,50  |  -0,50
+p.26: 0,5  |  0,5  |  -0,75  |  -0,75
+p.26: -1,5  |  -1,5  |  -1,50  |  -1,50
+p.26: 00  |  02  |  04  |  06  |  08  |  10  |  12  |  14  |  16  |  18  |  20  |  2015  |  2016  |  2017  |  2018  |  2019  |  2020
+p.27: 2018 og virkningen skønnes lidt højere i 2019-2020, jf. figur 1.15.
+p.27: (februar 2018) og aftalerne i forbindelse med finansloven for 2019. Det betyder samlet
+p.27: skuddet på den faktiske saldo at blive reduceret fra 1,2 pct. af BNP i 2017 til skønsmæs-
+p.27: sigt omtrent balance i 2018-2020.
+p.27: som udbetalinger af efterlønsbidrag i 2018 og ejendomsskat i 2020. Når der korrigeres
+p.27: på i omegnen af 1 pct. af BNP i 2017-2020, jf. figur 1.16.
+p.27: I 2018 og 2019 skønnes den offentlige nettogæld fortsat at være tæt på 0 (konkret om-
+p.27: kring 1 pct. af BNP), mens ØMU-gælden skønnes til under 35 pct. af BNP, jf. figur 1.17.
+p.28: 2017  |  2018  |  2019  |  2020  |  00  |  02  |  04  |  06  |  08  |  10  |  12  |  14  |  16  |  18  |  20
+p.29: 1.3 Bilagstabel
+p.29: Tabel 1.2
+p.29: 2018  |  2019  |  2020
+p.29: Privatforbrug  |  2,3  |  2,4  |  2,1  |  2,1  |  2,3
+p.29: Samlet offentlig efterspørgsel  |  0,5  |  0,5  |  0,6  |  0,9  |  0,3
+p.29: - offentligt forbrug  |  0,4  |  0,4  |  0,4  |  0,5  |  0,4
+p.29: - offentlige investeringer  |  1,2  |  1,2  |  2,0  |  4,1  |  -0,4
+p.29: Boliginvesteringer  |  7,0  |  6,0  |  5,4  |  4,5  |  3,5
+p.29: Erhvervsinvesteringer  |  8,5  |  7,9  |  2,2  |  1,8  |  4,7
+p.29: I alt endelig indenlandsk efterspørgsel  |  2,8  |  2,7  |  1,8  |  1,8  |  2,2
+p.29: Lagerændringer (vækstbidrag)  |  0,0  |  0,1  |  0,0  |  0,0  |  0,0
+p.29: I alt indenlandsk efterspørgsel  |  2,8  |  2,9  |  1,8  |  1,8  |  2,2
+p.29: Eksport  |  2,52)  |  1,72)  |  2,8  |  2,6  |  2,3
+p.29: - industrieksport  |  4,2  |  4,0  |  4,0  |  3,5  |  3,4
+p.29: Samlet efterspørgsel  |  2,72)  |  2,42)  |  2,2  |  2,1  |  2,2
+p.29: BNP  |  1,8  |  1,7  |  1,8  |  1,7  |  1,6
+p.29: Bruttoværditilvækst  |  1,8  |  1,5  |  1,8  |  1,6  |  1,4
+p.29: - private byerhverv  |  2,62)  |  2,62)  |  2,3  |  2,1  |  2,0
+p.29: Outputgab  |  0,4  |  0,6  |  0,9  |  1,2  |  1,2
+p.29: Beskæftigelsesgab  |  0,5  |  0,8  |  0,7  |  1,1  |  1,3
+p.29: Ledighedsgab  |  -0,1  |  -0,1  |  -0,2  |  -0,3  |  -0,3
+p.30: Tabel 1.2 (fortsat)
+p.30: 2018  |  2019  |  2020
+p.30: Huspriser (enfamiliehuse)  |  4,2  |  4,2  |  3,3  |  3,3  |  2,5
+p.30: Forbrugerprisindeks  |  1,1  |  0,9  |  1,6  |  1,5  |  1,8
+p.30: Timeløn i privat sektor  |  2,5  |  2,5  |  2,8  |  2,8  |  3,0
+p.30: Real disponibel indkomst, husholdninger  |  1,6  |  3,4  |  1,9  |  2,2  |  1,7
+p.30: Timeproduktiviteten i private byerhverv  |  -0,4  |  -0,1  |  0,9  |  0,6  |  0,7
+p.30: Rente, etårigt flekslån  |  -0,5  |  -0,5  |  -0,2  |  -0,3  |  0,3
+p.30: Rente, tiårig statsobligation  |  0,5  |  0,5  |  1,0  |  0,6  |  1,1
+p.30: Rente, 30-årig realkreditobligation  |  2,2  |  2,1  |  2,7  |  2,3  |  2,7
+p.30: Faktisk offentlig saldo (mia. kr.)  |  0,0  |  3,9  |  -8,2  |  -1,9  |  -2,6
+p.30: Faktisk offentlig saldo (pct. af BNP)  |  0,0  |  0,2  |  -0,4  |  -0,1  |  -0,1
+p.30: Strukturel offentlig saldo (pct. af BNP)  |  -0,2  |  0,0  |  -0,1  |  -0,1  |  -0,1
+p.30: ØMU-gæld (pct. af BNP)  |  35,1  |  33,8  |  34,0  |  33,4  |  33,4
+p.30: Arbejdsstyrke, i alt (1.000 personer)  |  3.068  |  3.070  |  3.093  |  3.097  |  3.121
+p.30: Beskæftigelse (inkl. orlov), i alt (1.000 pers.)  |  2.967  |  2.969  |  2.997  |  3.002  |  3.028
+p.30: Bruttoledighed (pct. af arbejdsstyrken)  |  3,5  |  3,5  |  3,3  |  3,3  |  3,2
+p.30: Handelsvægtet BNP-vækst i udlandet, pct.  |  2,7  |  2,5  |  2,5  |  2,2  |  2,1
+p.30: Eksportmarkedsvækst (industrivarer), pct.  |  4,4  |  3,7  |  4,4  |  3,9  |  3,4
+p.30: Dollarkurs (kr. pr. dollar)  |  6,3  |  6,3  |  6,4  |  6,6  |  6,6
+p.30: Oliepris, dollar pr. td.  |  72,3  |  71,4  |  74,7  |  64,6  |  67,9
+p.30: Betalingsbalancesaldo (pct. af BNP)  |  6,2  |  5,8  |  6,1  |  5,6  |  5,1
+p.35: 2,5  |  2,5  |  2,5  |  2,5
+p.35: 2,0  |  2,0  |  2,0  |  2,0
+p.35: 1,5  |  1,5  |  1,5  |  1,5
+p.35: 1,0  |  1,0  |  1,0  |  1,0
+p.35: 0,5  |  0,5  |  0,5  |  0,5
+p.35: 0,0  |  0,0  |  0,0  |  0,0
+p.35: 1990-  |  2001-  |  2015-  |  2018-  |  2020-  |  2023-  |  1990-  |  2001-  |  2015-  |  2018-  |  2020-  |  2023-
+p.35: 2000  |  2014  |  2017  |  2019  |  2022  |  2025  |  2000  |  2014  |  2017  |  2019  |  2022  |  2025
+p.35: 2.3 er residualt beregnet, dvs. ændringer i potentielt BNP, som ikke kan forklares ved stigning i den strukturel-
+p.35: Kilde: Danmarks Statistik, Finansministeriet: Opdateret 2025-forløb: Grundlaget for 2022-lofter og egne beregnin-
+p.46: 5 Se fx OECD (2016): Compendium of Productivity Indicators 2016, Chad Syverson (2016): Challenges to Mis-
+p.46: nomic Outlook 100, November 2016 og Andrews et al. (2016): The Global Productivity Slowdown, Technology Di-
+p.51: bag BNP-væksten, jf. figur 3.1.
+p.51: 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020
+p.51: Anm.: BNP-væksten i 2017 og 2018 er skønsmæssigt korrigeret for en større enkeltstående betaling i 1. kvartal
+p.51: 2017 for brug af intellektuelle rettigheder, jf. boks 4.1 i Økonomisk Redegørelse, maj 2018.
+p.51: onsindbetalinger fra februar 2018 blev skatten lempet med ca. 5 mia. kr. i 2018 og 2019,
+p.51: stigende til godt 7 mia. kr. i 2020 i umiddelbar virkning (målt i 2019-priser). Aftalen
+p.51: 2019 og 455 mio. kr. i 2020 (2019-priser). Lempelserne kommer blandt andet i form af
+p.52: 2020, jf. tabel 3.1.
+p.52: Tabel 3.1
+p.52: Gns. 1995-2017  |  2017  |  2018  |  2019  |  2020
+p.52: Privatforbrug, realvækst i pct.  |  1,4  |  2,1  |  2,4  |  2,1  |  2,3
+p.52: Disponibel indkomst, realvækst i pct.  |  1,6  |  2,1  |  3,4  |  2,2  |  1,7
+p.52: Kerneindkomst, realvækst i pct.  |  1,6  |  1,7  |  2,4  |  1,9  |  1,7
+p.52: Forbrugskvote, pct.  |  100,5  |  94,7  |  93,8  |  93,8  |  94,3
+p.52: Forbrug som andel af kerneindkomst, pct.  |  70,7  |  69,7  |  69,7  |  69,9  |  70,2
+p.52: fra 1993 til 1997 steg privatforbruget med 2,5 pct. om året i gennemsnit, og fra 2003 til
+p.56: 1993-1997  |  2003-2007  |  2013-2016
+p.58: 1993-1997  |  2003-2007  |  2013-2016
+p.58: Gns. årlig vækst i disp. indkomst, 2013-2016  |  Gns. årlig vækst i disp. indkomst, 2013-2016
+p.59: 3.2 Forbrugerpriser
+p.59: Forbrugerprisinflationen er aftaget siden midten af 2018. I november var inflationen 0,8
+p.59: med til at forklare den forholdsvis svage inflation, jf. figur 3.8.
+p.59: 2008  |  2009  |  2010  |  2011  |  2012  |  2013  |  2014  |  2015  |  2016  |  2017  |  2018
+p.59: I 2018 ventes forbrugerprisinflationen at blive 0,9 pct. for derefter at tiltage igen i de
+p.59: kommende år. Således ventes inflationen at blive 1,5 pct. i 2019 og 1,8 pct. i 2020, jf. ta-
+p.59: Tabel 3.2
+p.59: Gns. 1995-2017  |  2017  |  2018  |  2019  |  2020
+p.59: Forbrugerpriser  |  1,8  |  1,1  |  0,9  |  1,5  |  1,8
+p.59: Kerneinflation  |  1,7  |  1,1  |  0,7  |  1,6  |  2,0
+p.59: EU-harmoniseret forbrugerprisindeks (HICP)  |  1,7  |  1,0  |  0,8  |  1,5  |  1,8
+p.60: gjorde kerneinflationen således 0,7 pct., hvilket er 0,1 pct.-point mindre end forbruger-
+p.60: prisinflationen. I 2019 og 2020 ventes kerneinflationen at være højere end forbruger-
+p.60: har inflationen i Danmark været lavere end i euroområdet, jf. figur 3.9. Prisstignings-
+p.60: 2005  |  2006  |  2007  |  2008  |  2009  |  2010  |  2011  |  2012  |  2013  |  2014  |  2015  |  2016  |  2017  |  2018
+p.61: 0,6  |  0,6  |  0,6  |  0,6
+p.61: 0,5  |  0,5  |  0,5  |  0,5
+p.61: 0,1  |  0,1  |  0,0  |  0,0
+p.61: 0,0  |  0,0  |  -0,1  |  -0,1
+p.61: 2010 2011 2012 2013 2014 2015 2016 2017 2018  |  2016  |  2017  |  2018
+p.62: enfamiliehuse på 4,2 pct. i 2018, 3,3 pct. i 2019 og 2,5 pct. i 2020.
+p.64: Indeks (2001=100)  |  Indeks (2001=100)
+p.70: 2007  |  2008  |  2009  |  2010  |  2011  |  2012  |  2013  |  2014  |  2015  |  2016  |  2017  |  2018
+p.70: pct. i 2019 og 3,5 pct. i 2020. Dermed forudsættes boliginvesteringerne som andel af
+p.73: Gns. årlig vækst 2000-2017 (ekskl. 2009)
+p.73: 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020
+p.73: 2017 for brug af intellektuelle rettigheder, jf. boks 4.1 i Økonomisk Redegørelse, maj 2018.
+p.74: største vækstmotor i 2018-2020. Det kommer efter en række år, hvor genopretningen af
+p.75: 2010  |  2011  |  2012  |  2013  |  2014  |  2015  |  2016  |  2017  |  2018  |  2019  |  2020
+p.76: stofindvinding i 2005-2008 skal ses på baggrund af, at nordsøproduktionen dengang udgjorde en noget stør-
+p.76: duktion. Samlet set skønnes der et fald i BVT i råstofindvinding på 35 pct. fra 2017 til 2020.
+p.76: 2018, hvor skønnet for navnlig olieproduktionen i 2018-2020 er blevet revideret ned som følge af lavere end
+p.76: Mia. kr., 2010-priser  |  Pct. af BNP  |  Indeks (2005=100)  |  Pct.-point
+p.77: duktivitetsvæksten var svag. Beskæftigelsen steg med 1,7 pct., mens BNP steg med knap
+p.77: 2010  |  2011  |  2012  |  2013  |  2014  |  2015  |  2016  |  2017  |  2018  |  2019  |  2020
+p.77: Anm.: Væksten i BNP i 2017 og 2018 er skønsmæssigt korrigeret for en større enkeltstående betaling i 1. kvartal
+p.77: 2017 for brug af intellektuelle rettigheder, jf. boks 4.1 i Økonomisk Redegørelse, maj 2018. Indikator pba. hi-
+p.77: storisk produktivitetsvækst er baseret på den gennemsnitlige sammenhæng i perioden 2000-2017 mellem
+p.77: baseret på gradvist højere produktivitetsvækst på 0,2 pct.-point pr. serie fra 0,0 pct. op til 1,0 pct.. Det be-
+p.78: til grund. I 2019 og 2020 ventes en moderat fremgang, navnlig hvis man ser bort fra de
+p.78: lingen i 2019 og 2020 dog stadig ud til at halte efter de historiske erfaringer. Hvis pro-
+p.78: gennemsnit i årene 2018-2020. Det er omtrent 0,8 pct.-point lavere end gennemsnittet
+p.78: for perioden 1995-2017, jf. figur 4.6.
+p.78: Gns. 1995-2017  |  Gns. 1995-2017
+p.78: råstofindvinding) er i gennemsnit revideret op med 0,7 pct.-point i de tre år 2015-2017.
+p.78: Revisionen vedrørte især 2015 og 2016, hvor produktivitetsudviklingen i 2016 gik fra at
+p.79: 5 pct. i 2020. Det er højt i et historisk perspektiv og omtrent på niveau med 2007-2008,
+p.79: starten af 2013. Den samlede fremgang i perioden fra 1. kvartal 2013 til 3. kvartal 2018
+p.85: falder bort i 2019, hvilket trækker vækstraten ned på knap 2 pct. I 2020 forventes en
+p.85: ra-anlæggene, jf. tabel 4.1.
+p.85: Tabel 4.1
+p.85: Gns. 1995-2017  |  2017  |  2018  |  2019  |  2020
+p.85: Samlede erhvervsinvesteringer  |  2,8  |  5,6  |  7,9  |  1,8  |  4,7
+p.85: Materielle og immaterielle investeringer  |  3,6  |  6,5  |  7,1  |  0,8  |  5,1
+p.85: Bygge- og anlægsinvesteringer  |  0,8  |  2,8  |  10,3  |  4,8  |  3,7
+p.85: gennemsnit og forventes at tiltage lidt yderligere i prognoseårene, jf. figur 4.14.
+p.86: 1980-2017
+p.89: eller European Commission (2018), Country Report Denmark 2018
+p.108: forbrugerprisinflation, som giver lønmodtagerne en pæn reallønsfremgang, jf. afsnit 5.3
+p.110: betydeligt lavere end i euroområdet, jf. tabel 5.1. En væsentlig del af AKU-ledigheden
+p.111: Tabel 5.1
+p.111: 2017  |  2018  |  2019  |  2020
+p.111: Bruttoledighed (pct. af arbejdsstyrken)  |  3,8  |  3,5  |  3,3  |  3,2
+p.111: AKU-ledighed (pct. af arbejdsstyrken)  |  5,9  |  5,0  |  4,7  |  4,5
+p.111: AKU-ledighed i euroområdet (pct. af arbejdsstyrken)  |  9,1  |  8,4  |  7,9  |  7,5
+p.111: Det gælder fx indstrømningen af flygtninge i 2015-2016 og regelændringen om, at inte-
+p.114: og 3,0 pct. i henholdsvis 2018, 2019 og 2020. Skønnet indebærer, at både den nominelle
+p.114: og reale lønudvikling i 2019 og 2020 vil være omtrent på det historiske gennemsnit.
+p.118: Budgetvirkningen er skønnet til 1,6 pct. i 2018, 1,8 pct. i 2019 og 2,8 pct. i 2020, jf. tabel
+p.118: Tabel 5.2
+p.118: 2016  |  2017  |  2018  |  2019  |  2020
+p.118: Timefortjeneste ekskl. genetillæg (privat sektor)  |  2,3  |  2,2  |  2,5  |  2,8  |  3,0
+p.118: Budgetvirkning (offentlig sektor)  |  1,3  |  1,7  |  1,6  |  1,8  |  2,8
+p.118: Satsreguleringsprocent1)  |  1,4  |  2,0  |  2,0  |  2,0  |  2,2
+p.118: 1)  |  For 2020 er der tale om et skøn baseret på den skønnede lønudvikling i 2018 samt virkningen af Aftale om ny
+p.122: lektuelle rettigheder i 1. kvartal 2017, jf. boks 4.1 i Økonomisk Redegørelse, maj 2018.
+p.123: april 2016  |  juli 2016  |  november 2016  |  november 2017  |  november 2018
+p.124: Indeks (2000=100)  |  Indeks (2000=100)
+p.124: 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020
+p.127: 2017  |  2005
+p.128: reducere BNP i EU med i omegnen af 0,1-0,2 pct. på kort sigt, hvis der både indregnes
+p.128: elt reducere BNP i EU med i størrelsesordenen 0,3 pct. på langt sigt.
+p.131: BNP med op mod 1,2 pct. i 2030 i det hårdest mulige scenarie, mens effekten er ca. 0,2
+p.133: prognoseperioden, så importen i 2020 udgør lidt over halvdelen af BNP, jf. figur 6.12.
+p.134: 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020
+p.136: skønnes væksten i eksporten at aftage fra 2019 til 2020.
+p.136: BNP i år til ca. 5,1 pct. af BNP i 2020, jf. figur 6.13. Der er altså fortsat tale om betydeli-
+p.136: 2009  |  2010  |  2011  |  2012  |  2013  |  2014  |  2015  |  2016  |  2017  |  2018  |  2019  |  2020
+p.137: På den baggrund ventes et overskud på løn- og formueindkomsten på ca. 1,9 pct. af BNP
+p.137: i 2018 aftagende til ca. 1,7 pct. af BNP i 2020.
+p.139: BNP-væksten på danske eksportmarkeder ventes at gå fra 2,7 pct. i 2017 til 2,1 pct. i
+p.139: Kilde: IMF World Economic Outlook, oktober 2018 og EU-Kommissionens efterårsprognose, november 2018.
+p.141: 2016-2018  |  2018-2020
+p.142: teråret 2018, drevet af et fald i privatforbruget. Det svenske boligmarked vendte i 2017,
+p.142: pct. i 2019 og 2020. Det følger af svagere indenlandsk efterspørgsel, herunder fra inve-
+p.144: turelle underskud, som ifølge EU-Kommissionen ventes at udgøre henholdsvis 1,9 og 1,8 pct. af BNP i 2018.
+p.144: pct. af BNP i 2019 og endnu mere i 2020.
+p.144: Tabel a
+p.144: 2018  |  2019  |  2020
+p.144: BNP, realvækst i pct.  |  1,2  |  1,1  |  1,5  |  1,2  |  1,6  |  1,3
+p.144: Outputgab, pct. af BNP  |  -1,9  |  -0,3  |  -1,2  |  0,3  |  -  |  0,8
+p.144: Faktisk saldo, pct. af BNP  |  -1,8  |  -1,9  |  -2,4  |  -2,9  |  -2,1  |  -3,9
+p.144: Strukturel saldo, pct. af BNP  |  -0,9  |  -1,8  |  -1,7  |  -3,0  |  -  |  -3,5
+p.144: er på 0,0 pct. af BNP. Italien skal konkret i både 2018 og 2019 forbedre struktursaldoen med 0,6 pct. af BNP
+p.145: depositum på op til 0,2 pct. af BNP til EU (ca. 3,5 mia. euro). Hvis Italien efterlever henstillingen, returneres
+p.145: sin statsgæld samt øge væksten og produktiviteten. Fra 2010 til 2017 har Italiens BNP været omtrent uæn-
+p.145: Pct.  |  Pct.  |  Indeks (1995=100)  |  Indeks (1995=100)
+p.146: Indeks (1. jan 2018=100)  |  Indeks (1. jan 2018=100)  |  Pct. (å/å)  |  Pct. (å/å)
+p.146: Jan Feb Mar Apr Maj Jun Jul Aug Sep Okt Nov Dec  |  2012  |  2013  |  2014  |  2015  |  2016  |  2017  |  2018
+p.146: relativ lav inflation, jf. figur 7.9.
+p.146: Kinas vækst er fortsat høj, men ventes at aftage fra 6,6 pct. i 2018 til 5,9 pct. i 2020. Det
+p.146: I Indien er der udsigt til en høj vækst på omtrent 7,5 pct. hvert år fra 2018 til 2020, hvil-
+p.147: 1970-1979  |  1980-1989  |  1990-2006  |  2010-2017
+p.148: 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017
+p.148: about it? OECD (2016) Economic Policy Paper no. 18, IMF (2016), Global trade: What’s behind the slowdown?,
+p.151: samt tre renteforhøjelser i løbet af 2019 og én i 2020. Efter de seneste udmeldinger i no-
+p.151: under ECB’s inflationsmål, som er tæt på, men under 2 pct., jf. figur 7.17.
+p.152: 2005  |  2006  |  2007  |  2008  |  2009  |  2010  |  2011  |  2012  |  2013  |  2014  |  2015  |  2016  |  2017  |  2018
+p.152: i renterne frem mod 2020. Den korte danske rente skønnes at forblive på -0,3 pct. i 2019
+p.152: tiltage fra 0,5 pct. i 2018 til 1,1 pct. i 2020.
+p.153: 2020 2022 2024 2026 2028 2030 2032 2034 2036 2038 2040 2042 2044 2046 2048 2050 2052 2054 2056 2058 2060
+p.158: OECD (2021)  |  IMF (2019/2020)
+p.161: er vokset med omtrent 2¼ pct. om året i 2015-2017. Det ses også i beskæftigelsen, der er
+p.161: kapacitetspresset fra 2018 til 2019 med ca. 0,2 pct. af BNP målt ved den ét-årige finans-
+p.161: nes en dæmpende virkning på 0,1 pct. af BNP i 2020. Den strukturelle offentlige saldo
+p.161: skønnes at være i omtrent balance i 2018-2020. Finans- og strukturpolitikken vurderes
+p.161: Den faktiske offentlige saldo skønnes til 0,2 pct. af BNP i 2018 og -0,1 pct. af BNP i både
+p.161: 2019 og 2020. Den faktiske saldo forbedres henover årene underliggende af konjunktur-
+p.161: udbetalinger i 2018 og 2020 trækker i modsat retning.
+p.162: faktiske saldo ca. 25½ mia. kr. svarende til 1,2 pct. af BNP i 2017. Det opgjorte overskud
+p.162: i 2017 er ca. 0,1 pct. af BNP større end i Danmarks Statistiks foreløbige regnskabsopgø-
+p.162: balance i 2018-2020, jf. tabel 8.1.
+p.162: Tabel 8.1
+p.162: 2015  |  2016  |  2017  |  2018  |  2019  |  2020
+p.162: Offentlig saldo, mia.kr.  |  -27,1  |  -1,5  |  25,6  |  3,9  |  -1,9  |  -2,6
+p.162: Offentlig saldo, pct. af BNP  |  -1,3  |  -0,1  |  1,2  |  0,2  |  -0,1  |  -0,1
+p.162: skud i 2017 således vendt til omtrent balance mellem indtægter og udgifter i 2018-2020.
+p.162: skønnes at aftage med ca. 1,2 pct. af BNP fra 2017 til 2020.
+p.162: 2018-2020 er påvirket af engangsforhold knyttet til de indgåede aftaler i foråret 2017. I
+p.163: skud på den faktiske saldo på 25½ mia. kr. i 2017 svarende til 1,2 pct. af BNP. Det opgjorte overskud på den
+p.163: 2018), der lå til grund for vurderingen i Økonomisk Redegørelse, august 2018.
+p.163: Tabel a
+p.164: frem mod 2025 vil således blive udarbejdet i forbindelse med Danmarks Konvergensprogram 2019, som
+p.164: EU-bidrag i lyset af fastlæggelsen af EU’s flerårige finansielle ramme for 2021-2027. Ligeledes forudsætter
+p.164: indgåede politiske aftaler om Aftale om omlægning af bilafgifterne (september 2017) og Energiaftale 2018
+p.164: (juni 2018), at der udmøntes et finansieringsbidrag fra vejafgifter fra 2020 og en midlertidig energiafgift i
+p.164: 2021-2025. Det bemærkes desuden, at en del af det finanspolitiske råderum frem mod 2025 vil være reserve-
+p.164: ret til det aftalte løft af forsvaret i forbindelse med forsvarsforliget for 2018-2023 samt en reserve til sikring
+p.164: Ændring af skønnene for den faktiske offentlige saldo i 2018-2019
+p.164: med ca. 4 mia. kr. i 2018 og ca. 6¼ mia. kr. i 2019, jf. tabel 8.2. Forbedringen skal navn-
+p.164: fentligt forbrug i både 2018 og 2019.
+p.165: Tabel 8.2
+p.165: 2018  |  2019
+p.166: strukturelle underskud til 0,1 pct. af BNP i 2019 og 2020. Over de senere år er der skabt
+p.167: forbedring i forhold til et skønnet underskud på 0,2 pct. af BNP i augustvurderingen.
+p.167: 3,0  |  3,0  |  1,6  |  1,6
+p.167: 2,5  |  2,5  |  1,4  |  1,4
+p.167: 2,0  |  2,0  |  1,2  |  1,2
+p.167: -0,5  |  -0,5  |  0,4  |  0,4
+p.167: -1,0  |  -1,0  |  0,2  |  0,2
+p.167: -1,5  |  -1,5  |  0,0  |  0,0
+p.167: med udbytteskat i 2012-2015, men provenutabet heraf indgår på udgiftssiden og har tilsvarende virkning på
+p.168: Eksempelvis beregnes det skønnede strukturelle underskud på 0,1 pct. af BNP i 2020
+p.168: pct. af BNP, jf. tabel 8.3 (pkt. 1). Da de aktuelle konjunkturer (målt ved et sammenvejet
+p.168: gift og nettorenteudgifter ligger 0,1 pct. af BNP over det forudsatte strukturelle niveau i
+p.168: 2020. Omvendt ligger det skønnede provenu for pensionsafkastskatten 0,9 pct. af BNP
+p.168: tægterne skønnes at ligge henholdsvis 0,4 pct. af BNP og 0,1 pct. af BNP under det
+p.168: hold samlet set at udgøre ca. 0,1 pct. af BNP over det faktiske niveau.
+p.168: samlet set korrigeres for i beregningen af den strukturelle saldo i 2018-2020, er beskre-
+p.169: Tabel 8.3
+p.169: 2017  |  2018  |  2019  |  2020
+p.169: 1. Faktisk saldo  |  1,2  |  0,2  |  -0,1  |  -0,1
+p.169: 2. Konjunkturgab  |  -0,1  |  0,5  |  0,8  |  0,9
+p.169: 3. Selskabsskat1)  |  0,6  |  0,3  |  0,2  |  0,1
+p.169: 4. Registreringsafgift  |  0,1  |  0,1  |  0,1  |  0,1
+p.169: 5. Pensionsafkastskat  |  0,4  |  -0,8  |  -1,0  |  -0,9
+p.169: 6. Nordsøindtægter2)  |  -0,3  |  0,0  |  -0,1  |  -0,1
+p.169: 7. Nettorentebetalinger og udbytter  |  0,1  |  0,2  |  0,1  |  0,1
+p.169: 8. Specielle budgetposter3)  |  0,3  |  -0,1  |  -0,1  |  -0,4
+p.169: 9. Øvrige forhold4)  |  -0,2  |  -0,1  |  0,0  |  0,1
+p.169: 10. Strukturel saldo (1-2-3-4-5-6-7-8-9)5)  |  0,3  |  0,0  |  -0,1  |  -0,1
+p.169: le indtægter fra Nordsøen” på www.fm.dk. Korrektionen svarer til 0,03-0,12 pct. af BNP i 2017-2020. Herud-
+p.169: over justeres provenuet for de direkte konsekvenser for Nordsøindtægterne i 2017-2020 af Aftalen om genop-
+p.169: bejdsmarkedet (juni 2017). I 2020 indgår en korrektion, som afspejler tilbagebetaling af ejendomsskatter vedr.
+p.169: om boligbeskatningen (maj 2017). Korrektionen er beregningsteknisk fastsat til 5¼ mia. kr. i 2020.
+p.169: mia. kr. i 2014 (netto) fra perioden 2014-2019. Øvrige forhold omfatter desuden en omregning af strukturel
+p.169: saldo. I 2018-2020 er der endvidere korrigeret for investeringen i kampfly, som planlægges i perioden 2021-
+p.170: 4,0  |  4,0  |  1,5  |  1,5
+p.170: 0,0  |  0,0  |  0,0  |  0,0
+p.170: 3,0  |  3,0  |  2,5  |  2,5
+p.170: 0,0  |  0,0  |  0,0  |  0,0
+p.170: 1,0  |  1,0  |  2,0  |  2,0
+p.170: 0,0  |  0,0  |  1,0  |  1,0
+p.170: -1,0  |  -1,0  |  0,0  |  0,0
+p.170: -2,0  |  -2,0  |  -1,0  |  -1,0
+p.170: -3,0  |  -3,0  |  -2,0  |  -2,0
+p.171: Tabel 8.4
+p.171: 2017  |  2018  |  2019  |  2020
+p.171: Strukturel saldo  |  0,3  |  0,0  |  -0,1  |  -0,1
+p.171: Ændring i strukturel saldo  |  -0,3  |  -0,1  |  0,0
+p.171: Provenuer fra finanspolitikken og virkning fra strukturreformer1)  |  0,0  |  0,1  |  0,1
+p.171: Pensionsafkastskat  |  0,0  |  0,0  |  0,0
+p.171: Nordsøindtægter  |  -0,2  |  -0,1  |  -0,2
+p.171: Nettorentebetalinger  |  0,0  |  0,1  |  0,0
+p.171: Registreringsafgift  |  0,0  |  0,0  |  0,0
+p.171: Specielle budgetposter  |  0,1  |  0,0  |  0,0
+p.171: Overførsler til udlandet  |  -0,2  |  -0,1  |  0,0
+p.171: Andre forhold (residual)2)  |  0,0  |  -0,1  |  0,1
+p.171: Fra 2017 til 2018 skønnes den strukturelle saldo at gå fra et overskud på 0,3 pct. af BNP
+p.171: til balance med de aktuelle forudsætninger, jf. tabel 8.4. Forværringen af den struktu-
+p.171: relle saldo fra 2017 til 2018 er drevet af et fald i indtægterne fra olie- og gasindvinding i
+p.171: relle saldo mellem 2017 og 2018.
+p.171: Fra 2018 til 2019 og 2020 skønnes den strukturelle saldo forværret marginalt med sam-
+p.171: let set 0,1 pct. af BNP i 2019. Det skal overvejende ses i lyset af, at de strukturelle ind-
+p.172: kommuner og regioner, jf. tabel 8.5.
+p.172: Tabel 8.5
+p.172: Udgiftsloft  |  201,0  |  269,9  |  252,3  |  114,5  |  3,1
+p.172: 200,9  |  264,6  |  251,9  |  114,5  |  3,1
+p.172: Kilde: Finansloven for 2019 og foreløbige oplysninger om kommunernes og regionernes budgetter i 2019.
+p.173: www.fm.dk. Udgiftslofterne på finansloven for 2019 fremgår af tabel 8.6.
+p.173: Tabel 8.6
+p.173: 2019  |  2020  |  2021  |  2022
+p.173: Statsligt delloft for driftsudgifter  |  201,0  |  203,7  |  207,6  |  215,1
+p.173: Statsligt delloft for indkomstoverførsler  |  269,9  |  267,3  |  265,9  |  276,6
+p.173: Kommunalt udgiftsloft  |  252,3  |  251,8  |  251,3  |  250,8
+p.173: Regionalt delloft for sundhedsudgifter  |  114,5  |  114,5  |  114,4  |  114,3
+p.173: Regionalt delloft for udviklingsopgaver  |  3,1  |  3,1  |  3,1  |  3,0
+p.173: 1)  |  Det bemærkes, at budgetteringen i 2022 isoleret set indebærer et teknisk højere udgiftsniveau i 2022 svaren-
+p.174: I 2020 er realvæksten i det offentlige forbrug beregningsteknisk forudsat at udgøre 0,4
+p.174: rende offentligt forbrug, jf. Aftale på forsvarsområdet 2018-2023. Det resterende råde-
+p.174: snittet for 2000-2017 og bidrager til, at udgifterne til offentligt forbrug aftager målt som
+p.174: 1990-2007, dvs. før den globale finanskrise satte ind.
+p.174: Gennemsnit 1990-2007
+p.174: Gennemsnit  |  2018  |  2019  |  2020  |  00  |  02  |  04  |  06  |  08  |  10  |  12  |  14  |  16  |  18  |  20
+p.174: 2000-2017
+p.174: Anm.: I figur 8.9 er realvæksten i det offentlige forbrug opgjort ved inputmetoden. Det offentlige forbrug er opgjort
+p.174: nedjustering på ca. 1½ mia. kr. i forhold til skønnet i august, jf. tabel 8.7. Nedjusterin-
+p.174: Realvæksten i det offentlige forbrug i 2018 skønnes til 0,4 pct., hvilket er uændret sam-
+p.175: Tabel 8.7
+p.175: Skøn for det offentlige forbrug 2018-2020
+p.175: 2017*  |  2018  |  2019  |  2020
+p.175: Augustvurdering  |  0,8  |  0,4  |  0,4  |  -
+p.175: Decembervurdering  |  0,7  |  0,4  |  0,5  |  0,4
+p.175: - Ændring ift. august, pct.-point  |  -0,1  |  0,0  |  0,1  |  -
+p.175: Augustvurdering  |  536,6  |  549,3  |  561,3  |  -
+p.175: Decembervurdering  |  535,6  |  547,8  |  560,0  |  575,8
+p.175: - Ændring ift. august, mia. kr.  |  -1,0  |  -1,5  |  -1,3  |  -
+p.175: for 2019 godt ¼ mia. kr. under det aftalte niveau i økonomiaftalen for 2019. Det vurde-
+p.176: Realvæksten i det offentlige forbrug i 2019 er opjusteret fra 0,4 pct. i augustvurderingen
+p.176: mekanisk opjustering af realvæksten i 2019. Samlet set giver justeringerne i 2018 og
+p.176: 2019 anledning til en opjustering af skønnet for forbrugsvæksten i 2019 på 0,1 pct.-point
+p.176: I 2020 er der forudsat en realvækst i det offentlige forbrug på 0,4 pct. svarende til rege-
+p.176: ringens målsætning om en basisrealvækst i det offentlige forbrug på 0,3 pct. tillagt den
+p.176: forsvarsområdet 2018-2023. Det resterende finanspolitiske råderum i 2020 er – på lin-
+p.176: je med fremskrivningen i Opdateret 2025-forløb: Grundlag for udgiftslofter 2022, au-
+p.177: personer fra 2017 til 2018, jf. tabel 8.8. Skønnet for den offentlige beskæftigelse er opju-
+p.177: fentlige forbrug i 2019 og 2020.
+p.177: Figur 8.11  |  Tabel 8.8
+p.177: 860  |  860  |  1.000 personer  |  2017 2018 2019 2020
+p.177: 820  |  820  |  August 2018  |  0,0  |  1,0  |  1,0  |  -
+p.177: 800  |  800  |  December 2018  |  0,0  |  5,0  |  1,0  |  0,0
+p.177: 780  |  780  |  - Ændring  |  0,0  |  4,0  |  0,0  |  -
+p.178: nemsnit. De offentlige investeringer skønnes således at udgøre 3,4 pct. af BNP i 2018,
+p.178: 3,5 pct. af BNP i 2019 og 3,4 pct. af BNP i 2020, jf. figur 8.12.
+p.178: Pct. af BNP  |  Pct. af BNP  |  Mia. kr., 2019-priser  |  Mia. kr., 2019-priser
+p.178: Gennemsnit 1990-2007
+p.178: på 1,2 pct., jf. tabel 8.9. Skønnet for de nominelle offentlige investeringer er nedjusteret
+p.178: 79,9 mia. kr. i 2019 svarende til en realvækst på 4,1 pct. Det nominelle niveau er opju-
+p.179: Tabel 8.9
+p.179: Offentlige investeringer 2018-2020
+p.179: 2018  |  2019  |  2020
+p.179: Nominelt investeringsniveau, mia. kr. (årets priser)  |  75,3  |  79,9  |  81,0
+p.179: - heraf bygninger og anlæg m.m.  |  55,6  |  59,7  |  59,8
+p.179: - heraf forskning og udvikling1)  |  19,7  |  20,2  |  21,2
+p.179: Realvækst i offentlige investeringer, pct.  |  1,2  |  4,1  |  -0,4
+p.179: - heraf bygninger og anlæg m.m.  |  4,2  |  5,3  |  -1,4
+p.179: - heraf forskning og udvikling  |  -6,3  |  0,6  |  2,5
+p.179: Offentlige investeringer, pct. af BNP  |  3,4  |  3,5  |  3,4
+p.179: - heraf bygninger og anlæg m.m.  |  2,5  |  2,6  |  2,5
+p.179: - heraf forskning og udvikling  |  0,9  |  0,9  |  0,9
+p.179: Med udgangspunkt i Opdateret 2025-forløb: Grundlag for udgiftslofter 2022, august
+p.179: mende år målt ved de såkaldte finanseffekter, jf. tabel 8.10. Virkningen på kapacitets-
+p.179: 2018 og 2020, mens virkningen er omtrent neutral i 2019. Det afspejler især engangs-
+p.179: arbejdsmarkedet (juni 2017) og Forlig om tryghed om boligbeskatningen (maj 2017),
+p.179: som øger efterspørgslen i 2018 og 2020.
+p.179: En moderat vækst i det offentlige forbrug på hhv. 0,4 pct. i 2018, 0,5 pct. i 2019 og 0,4
+p.180: Tabel 8.10
+p.180: 2015  |  2016  |  2017  |  2018  |  2019  |  2020
+p.180: Finanspolitikkens virkning på BNP-vækst  |  -0,2  |  -0,1  |  -0,1  |  0,1  |  0,0  |  0,1
+p.180: Strukturpolitikkens virkning på kapacitetspres  |  -0,1  |  -0,1  |  -0,1  |  -0,2  |  -0,2  |  -0,2
+p.180: Samlet virkning på kapacitetspres  |  -0,3  |  -0,2  |  -0,2  |  0,0  |  -0,2  |  -0,1
+p.180: BNP 2019 og 0,1 pct. af BNP i 2020, skal det ses i lyset af, at strukturpolitikken øger ar-
+p.180: bejdsmarkedet dæmpes med ca. 25.000 fuldtidspersoner, jf. tabel 8.11.
+p.180: dæmpet svarende til henholdsvis 0,0 pct. af BNP i 2018, -0,2 pct. af BNP i 2019 og -0,3
+p.180: pct. af BNP i 2020, jf. boks 8.4.
+p.181: Tabel 8.11
+p.181: 2015  |  2016  |  2017  |  2018  |  2019  |  2020
+p.181: Virkning på outputgab (inkl. flerårig virkning)  |  -0,3  |  -0,5  |  -0,8  |  -0,9  |  -1,0  |  -1,0
+p.181: År-til-år udvikling  |  -0,3  |  -0,2  |  -0,2  |  -0,1  |  -0,1  |  0,0
+p.181: - Heraf ét-årig finanseffekt  |  -0,3  |  -0,2  |  -0,2  |  0,0  |  -0,2  |  -0,1
+p.182: Pct. af BNP  |  Pct. af BNP  |  1.000 personer  |  1.000 personer
+p.182: 2018  |  2019  |  2020  |  2018  |  2019  |  2020
+p.183: 60 pct. af BNP, jf. figur 8.14. Til gengæld holder den danske offentlige bruttogæld – op-
+p.183: gælden ventes at udgøre 33,8 pct. af BNP i 2018 og 33,4 pct. i 2019 og 2020, jf. tabel
+p.183: Figur 8.14  |  Tabel 8.12
+p.183: 2018  |  2019  |  2020
+p.183: ØMU-gæld  |  33,8  |  33,4  |  33,4
+p.183: EU's 60 pct. krav  |  Offentlig nettogæld1)  |  1,1  |  1,1  |  1,2
+p.183: Statsgæld  |  18,9  |  19,0  |  18,2
+p.183: ØMU-gældskvoten forventes at falde med ca. 0,4 pct. af BNP fra 2018 til 2020, da sta-
+p.184: BNP i 2018 til ca. 18,2 pct. af BNP i 2020.
+p.184: 2019, jf. tabel 8.13, hvilket primært skyldes en lavere DAU-saldo i 2019 og en en-
+p.185: Tabel 8.13
+p.185: Nettofinansieringsbehovet og DAU-saldo, 2018 og 2019
+p.185: 2018  |  2019
+p.185: ge årsager ikke på § 40 i 2019. Fra 2019 posteres opkøbene på § 42 Afdrag på statsgælden (netto).
+p.185: ½ mia. kr. for 2019. Det skyldes, at et statsligt selskab har fremrykket genudlån til 2018
+p.185: behov, jf. tabel 8.14.
+p.185: Tabel 8.14
+p.185: Finansieringsbehov for 2018 og 2019
+p.185: 2018  |  2019
+p.185: Nettofinansieringsbehov  |  0,8  |  -0,7  |  7,9  |  9,4
+p.185: Afdrag langfristet gæld mv.  |  73,4  |  95,5  |  112,4  |  104,1
+p.185: Afdrag skatkammerbeviser2)  |  32,7  |  32,7  |  30,0  |  30,0
+p.185: Finansieringsbehov  |  106,9  |  127,5  |  150,2  |  143,5
+p.189: pct. af BNP i 2017 til ca. 49¼ pct. af BNP i 2020, jf. bilagstabel 8.1.
+p.189: Bilagstabel 8.1
+p.189: 2015  |  2016  |  2017  |  2018  |  2019  |  2020
+p.189: Offentlige udgifter1)  |  53,4  |  51,6  |  50,1  |  50,3  |  49,7  |  49,2
+p.189: Primære udgifter  |  51,8  |  50,2  |  49,1  |  49,3  |  48,7  |  48,3
+p.189: - Offentligt forbrug  |  25,5  |  25  |  24,6  |  24,6  |  24,4  |  24,2
+p.189: - Offentlige investeringer2)  |  3,5  |  3,7  |  3,4  |  3,4  |  3,5  |  3,4
+p.189: - Indkomstoverførsler  |  17,3  |  16,9  |  16,5  |  16,3  |  16,2  |  15,9
+p.189: - Subsidier  |  2,0  |  1,8  |  1,8  |  1,8  |  1,7  |  1,6
+p.189: - Øvrige primære udgifter  |  3,5  |  2,9  |  2,8  |  3,2  |  3,0  |  3,1
+p.189: Renteudgifter  |  1,6  |  1,3  |  1,1  |  1,0  |  0,9  |  0,9
+p.189: forbrug til 0,4 pct. i 2018, 0,5 pct. i 2019 og 0,4 pct. i 2020.
+p.189: ringer på 1,2 pct. i 2018, 4,1 pct. i 2019 og -0,4 pct. i 2020.
+p.190: falde til ca. 49 pct. af BNP i 2020, jf. bilagstabel 8.2. Udviklingen dækker navnlig over et
+p.190: fald i skattetrykket fra ca. 46 pct. af BNP i 2017 til ca. 44¼ pct. af BNP i 2020.
+p.190: BNP i 2017. Provenuet fra personskatterne ventes at stige til godt 21 pct. af BNP i 2018
+p.190: komstskatten end i 2019 og 2020.
+p.190: pct. af BNP. Provenuet skønnes at udgøre ca. 4,5 pct. af BNP i 2018, 2019 og 2020.
+p.190: 1,5 pct. af BNP. Indtægterne fra pensionsafkastskatten forventes at falde til 0,3 pct. af
+p.190: BNP frem mod 2020. I 2018 har udviklingen på aktiemarkederne været kendetegnet ved
+p.190: fra pensionsafkastskatten. I 2019 og 2020 ventes renterne gennemsnitligt at stige. På
+p.190: ver at være lavere i 2019 og 2020, end det har været de senere år.
+p.191: Bilagstabel 8.2
+p.191: 2015  |  2016  |  2017  |  2018  |  2019  |  2020
+p.191: Personskatter mv.1)  |  22,3  |  21,0  |  20,9  |  21,1  |  21,0  |  20,8
+p.191: Arbejdsmarkedsbidrag  |  4,3  |  4,3  |  4,3  |  4,5  |  4,5  |  4,5
+p.191: Pensionsafkastskat  |  1,1  |  1,6  |  1,5  |  0,3  |  0,2  |  0,3
+p.191: Selskabsskatter  |  2,8  |  2,9  |  3,0  |  2,8  |  2,6  |  2,4
+p.191: - selskabsskat af kulbrintevirksomhed  |  0,1  |  0,0  |  0,1  |  0,1  |  0,1  |  0,0
+p.191: - øvrig selskabsskat  |  2,7  |  2,8  |  2,9  |  2,6  |  2,5  |  2,4
+p.191: Moms  |  9,4  |  9,5  |  9,5  |  9,8  |  9,9  |  9,9
+p.191: Øvrige indirekte skatter  |  7,0  |  6,9  |  6,6  |  6,6  |  6,4  |  6,3
+p.191: Øvrige skatter2)  |  0,3  |  0,3  |  0,3  |  0,3  |  0,2  |  0,1
+p.191: Skattetryk  |  47,3  |  46,4  |  46,1  |  45,3  |  44,7  |  44,3
+p.191: Renteindtægter3)  |  0,8  |  0,8  |  0,9  |  1,0  |  0,8  |  0,7
+p.191: Øvrige indtægter  |  4,1  |  4,5  |  4,5  |  4,4  |  4,2  |  4,1

@@ -1,0 +1,23 @@
+# dor-2022-page
+# url: https://dors.dk/vismandsrapporter/dansk-oekonomi-efteraar-2022
+# http: 200  bytes: 80380  sha256: 6dfc74bc6122eb2eec4ef270429605bccb96b314f3a2d83f7395a58babff6b1b
+# fetched: 2026-09-29T18:09:22Z
+# html page
+
+
+# PDF links on this page:
+https://dors.dk/files/media/Rettelse_L%C3%A6rerbidrag_maj2023.pdf
+https://dors.dk/files/media/old_files/E22_Skriftlige_indl%25C3%25A6g_fra_r%25C3%25A5dsmedlemmer.pdf
+https://dors.dk/files/media/rapporter/2022/e22/baggrundsmateriale/E22_Kap.%20IV_L%C3%A6rerbidrag%2C%20baggrundsnotat%20om%20international%20sammenligning_Rev2023.pdf
+https://dors.dk/files/media/rapporter/2022/e22/baggrundsmateriale/e22_kap._ii_konjunktur_baggrundsnotat_konjunkturvurdering_ny.pdf
+https://dors.dk/files/media/rapporter/2022/e22/baggrundsmateriale/e22_kap._ii_offentlige_finanser_baggrundsnotat.pdf
+https://dors.dk/files/media/rapporter/2022/e22/baggrundsmateriale/e22_kap._iii_finanspolitisk_endeligt.pdf
+https://dors.dk/files/media/rapporter/2022/e22/baggrundsmateriale/e22_kap._iv_laererbidrag_baggrundsnotat_om_data.pdf
+https://dors.dk/files/media/rapporter/2022/e22/diskussionsoplaeg/e22_english_summary.pdf
+https://dors.dk/files/media/rapporter/2022/e22/diskussionsoplaeg/e22_pressemeddelelse.pdf
+https://dors.dk/files/media/rapporter/2022/e22/endelig_rapport/E22_Hovedkonklusioner_Rev2023.pdf
+https://dors.dk/files/media/rapporter/2022/e22/endelig_rapport/E22_Kap_IV_Rev2023.pdf
+https://dors.dk/files/media/rapporter/2022/e22/endelig_rapport/WEB_E22_Revideret%20maj%202023_med%20links.pdf
+https://dors.dk/files/media/rapporter/2022/e22/endelig_rapport/e22_kap._i.pdf
+https://dors.dk/files/media/rapporter/2022/e22/endelig_rapport/e22_kap._ii.pdf
+https://dors.dk/files/media/rapporter/2022/e22/endelig_rapport/e22_kap._iii.pdf

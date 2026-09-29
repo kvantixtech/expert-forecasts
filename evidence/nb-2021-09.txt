@@ -1,0 +1,83 @@
+# nb-2021-09
+# url: https://www.nationalbanken.dk/media/acbhbbbv/analysis-no-24-the-economy-heading-back-towards-a-moderate-boom.pdf
+# http: 200  bytes: 672235  sha256: db6e8478a13f11c844742e8f3f99d8c0d660dd28cd1603b417827dd3c58f460f
+# fetched: 2026-09-29T18:09:07Z
+# pages: 32  (lines below are quotes; p.N = PDF page)
+
+p.2: Real growth relative to the previous year, per cent  |  2020  |  2021  |  2022  |  2023  |  should be prepared
+p.2: GDP (real), per cent  |  -2.1  |  3.8  |  3.1  |  2.4  |  to tighten its economic
+p.2: Employment, 1,000 persons  |  2,982  |  3,040  |  3,090  |  3,104
+p.2: 8.2  |  6.8  |  7.1  |  7.3
+p.2: Government budget balance, per cent of GDP  |  -0.6  |  -0.9  |  2.1  |  1.5
+p.2: 4.5  |  11.6  |  4.6  |  1.2
+p.2: Consumer prices, per cent year-on-year  |  0.3  |  1.5  |  1.7  |  1.6
+p.2: 2.2  |  2.7  |  3.2  |  3.1
+p.3: global GDP growth of 6.0 per cent this year and 4.6
+p.5: over a number of years3, and over the past decade  |  sharply by 3.8 per cent in 2021, 3.1 per cent in 2022
+p.5: relative to income.  |  quarter of 2021 and towards the end of 2023.
+p.5: update, ECB Economic Bulletin, Issue 5/2021, 2021.  |  potential GDP is the long-term level of sustainable real output in the
+p.8: society in spring. GDP rose by 2.3 per cent in the 2nd  |  bution to the workforce, that is estimated to having
+p.8: already before the summer. This has also spilled over  |  from 2019 to 2021.
+p.9: for some time yet, but that they will gradually return  |  quarter 2021 to the end of 2023.
+p.11: as the disruptions of the production and supply  |  2021 to 1.7 per cent in 2022 and 1.6 per cent in 2023.
+p.12: LD pensions in 2013 and 2015.
+p.14: the coming years and remain above the average level  |  2015  |  2016  |  2017  |  2018  |  2019  |  2020  |  2021
+p.15: year. However, the surplus is still 7.7 per cent of GDP  |  Despite the tightening of fiscal policy, however, there
+p.15: increase in exports is expected to be most pro-  |  per cent of GDP is forecast following a deficit of 0.9
+p.15: nounced for services, whereas the growth in exports  |  per cent in 2021. In 2023, a budget balance surplus
+p.15: of goods will decrease. Overall, exports are esti-  |  of 1.5 per cent of GDP is estimated.
+p.15: cent in 2022 and by 3.7 per cent in 2023.  |  Continued great uncertainty
+p.15: to fall to 6.8 per cent of GDP as the Danish economy  |  widespread, periods of increasing infection rates has
+p.18: 2020  |  2021
+p.18: Real growth relative to the previous period, per cent  |  2020  |  2021  |  2022  |  2023  |  Q4  |  Q1  |  Q2
+p.18: GDP  |  -2.1  |  3.8  |  3.1  |  2.4  |  0.9  |  -0.9  |  2.3
+p.18: -1.3  |  3.1  |  6.1  |  2.1  |  1.0  |  -5.1  |  4.3
+p.18: Public consumption  |  -1.7  |  4.7  |  -1.8  |  0.9  |  6.2  |  -1.8  |  2.5
+p.18: Residential investments  |  10.1  |  14.0  |  0.1  |  -1.8  |  5.4  |  5.5  |  3.0
+p.18: Public investments  |  9.8  |  3.9  |  -1.6  |  17.4  |  17.5  |  -13.4  |  7.2
+p.18: Corporate investments  |  2.1  |  4.6  |  3.9  |  3.7  |  8.3  |  -5.0  |  3.1
+p.18: -0.1  |  -0.5  |  0.0  |  0.0  |  -0.5  |  -1.3  |  0.4
+p.18: Exports  |  -7.0  |  3.5  |  8.4  |  3.7  |  0.0  |  3.8  |  -2.5
+p.18: Industrial exports  |  -0.9  |  9.7  |  0.7  |  3.4  |  2.2  |  6.7  |  1.2
+p.18: Imports  |  -4.1  |  3.7  |  8.8  |  3.9  |  4.9  |  -4.0  |  0.2
+p.18: Employment, 1,000 persons  |  2,982  |  3,040  |  3,090  |  3,104  |  2,996  |  2,978  |  3,035
+p.18: Government budget balance, per cent of GDP  |  -0.6  |  -0.9  |  2.1  |  1.5  |  -1.3  |  -0.6  |  -1.5
+p.18: House prices3, per cent year-on-year  |  4.5  |  11.6  |  4.6  |  1.2  |  8.4  |  12.1  |  13.3
+p.18: Consumer prices (HICP), per cent year-on-year  |  0.3  |  1.5  |  1.7  |  1.6  |  0.4  |  0.6  |  1.7
+p.18: 2.2  |  2.7  |  3.2  |  3.1  |  1.9  |  2.1  |  2.7
+p.20: 2019  |  2020  |  2021  |  Jun 19  |  Dec 19  |  Jun 20  |  Dec 20  |  Jun 21
+p.22: 2020  |  2021  |  2022  |  2020  |  2021  |  2022
+p.23: 2019  |  2020  |  2021
+p.24: Euro area inflation, measured by the annual rate  |  tion in the euro area was 1.1 per cent in August.
+p.24: 2.2 per cent in July, see Chart 23. Core inflation, i.e.  |  than in the euro area, and this is not just driven by
+p.24: alcohol and tobacco, has increased to 1.6 per cent in  |  inflation in the United States has been at a high level
+p.24: 4.2 per cent in July, while core inflation was 3.6 per  |  increases in the United States are thus expected to
+p.25: 0,4  |  0.00,4
+p.25: inflation to decrease from 3.4 per cent in 2021 to
+p.25: just over 2 per cent in 2022 and 2023. In September,  |  Note:  |  Motor vehicles and parts comprise both new and used
+p.25: point out that significant fiscal policy stimuli, labour  |  expected to be 1.9 per cent and PCE inflation in the
+p.25: increase PCE inflation by 0.5 percentage points  |  to the behaviour of consumers and companies and are
+p.25: towards the end of 2023.24  |  thus important to the actual formation of inflation.
+p.28: 1.0  |  may consequently be periods in which inflation is slightly
+p.29: Economic Survey, August 2021 and Updated 2025
+p.29: in 2021, 6.0 per cent in 2022 and 3.7 per cent in  |  Real public consumption is expected to increase by
+p.29: June projection and reflect that there are no major  |  2022 and to increase by 0.9 per cent in 2023. Public
+p.29: and European Commission.  |  in 2021, to decrease by 1.6 per cent in 2022 and to
+p.29: increase by 17.4 per cent in 2023, see table A.1. The
+p.29: the yield curve in the financial markets. The 3-month  |  to the previous projection, but downwards by 0.6
+p.30: 2020  |  2021  |  2022  |  2023
+p.30: Export market growth, per cent year-on-year  |  -8.9  |  6.9  |  6.0  |  3.7
+p.30: Foreign price1, per cent year-on-year  |  -2.3  |  0.5  |  1.0  |  1.6
+p.30: Foreign hourly wages, per cent year-on-year  |  1.4  |  2.1  |  2.3  |  2.6
+p.30: 3-month money market interest rate, per cent p.a.  |  -0.6  |  -0.4  |  -0.4  |  -0.4
+p.30: Average bond yield, per cent p.a.  |  0.3  |  0.4  |  0.5  |  0.6
+p.30: Effective krone rate, 1980 = 100  |  104.1  |  104.3  |  104.0  |  104.0
+p.30: Dollar exchange rate, DKK per USD  |  6.5  |  6.2  |  6.3  |  6.3
+p.30: Per cent, year-on-year  |  2021  |  2022  |  2023  |  2021  |  2022  |  2023
+p.30: Projection from June  |  3.3  |  3.7  |  2.2  |  1.3  |  1.5  |  1.6
+p.30: Export market growth  |  0.1  |  0.0  |  0.0  |  0.0  |  0.1  |  0.1
+p.30: Development in interest rates  |  0.0  |  0.0  |  0.1  |  0.0  |  0.0  |  0.0
+p.30: Exchange rates  |  0.1  |  0.1  |  0.0  |  0.0  |  0.1  |  0.1
+p.30: Oil prices  |  0.0  |  0.0  |  0.0  |  0.0  |  0.0  |  0.0
+p.30: Other factors  |  0.3  |  -0.8  |  0.1  |  0.1  |  0.0  |  -0.2
+p.30: This projection  |  3.8  |  3.1  |  2.4  |  1.5  |  1.7  |  1.6

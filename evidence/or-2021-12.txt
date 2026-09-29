@@ -1,0 +1,506 @@
+# or-2021-12
+# url: https://fm.dk/media/3kphzibb/oekonomisk-redegoerelse-december-2021_a.pdf
+# http: 200  bytes: 4270379  sha256: 2bd2640f6f89a25cc474f97f0be1a821bab57e96b1e2eb3d324f64278e1d1efc
+# fetched: 2026-09-29T18:08:30Z
+# pages: 223  (lines below are quotes; p.N = PDF page)
+
+p.9: 1.3 Bilagstabel ..........................................................................................................  |  26
+p.9: 3.2 Forbrugerpriser ...................................................................................................  |  58
+p.14: Dansk økonomi ventes på den baggrund at vokse med 2,8 pct. i 2022 og 2,1 pct. i 2023 efter en
+p.14: BNP-vækst på 3,9 pct. i 2021. Aktivitetsfremgangen ventes frem mod 2023 at øge beskæftigelsen
+p.14: ser er steget. Muligheden for udbetaling af de indefrosne feriemidler i efteråret 2020 og foråret 2021
+p.15: Indeks (4. kvartal 2019=100)  |  Indeks (4. kvartal 2019=100)  |  3. kvartal 2021 ift 4. kvartal 2019, pct.
+p.15: 2000  |  2005  |  2010  |  2015  |  2020
+p.17: 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21  |  2006  |  2008  |  2010  |  2012  |  2014  |  2016  |  2018  |  2020
+p.17: godt 2 pct. over det neutrale niveau i 2022 og 2023, jf. figur 1.8. Det er omtrent på linje med størrel-
+p.18: 2019  |  2020  |  2021  |  2000  |  2003  |  2006  |  2009  |  2012  |  2015  |  2018  |  2021
+p.19: Den skønnede vækst i BNP i 2021 på 3,9 pct. vil være på højde med fremgangen i 2006, hvor dansk
+p.19: sætte i et lidt roligere tempo i 2022 og 2023 med vækstrater på henholdsvis 2,8 pct. og 2,1 pct.
+p.19: 2009  |  2010  |  2011  |  2012  |  2013  |  2014  |  2015  |  2016  |  2017  |  2018  |  2019  |  2020  |  2021  |  2022  |  2023
+p.20: mien. Det afspejles fx i, at mens BNP under 1. smittebølge faldt med 6,3 pct. (2. kvartal 2020), var nedgangen under
+p.21: isoleret anledning til omtrent 0,2 pct.-point lavere vækst i BNP for 2022 som helhed, mens beskæftigelsen reduce-
+p.21: res med 4.000 personer, jf. tabel a.
+p.21: Tabel a
+p.21: Stiliseret alternativt scenarie med tilbageslag i 1. kvartal 2022 på linje med 1. kvartal 2021
+p.21: BNP, realvækst, pct.  |  2,8  |  2,6
+p.21: Beskæftigelse, 1.000 personer  |  3.125  |  3.121
+p.22: ger i skøn for BNP-væksten i 2021 og 2022, jf. figur a. De omtrent uændrede skøn for BNP dækker dog over en
+p.22: for fremgangen i beskæftigelsen i år og næste år. Beskæftigelsesfremgangen fra 2020 til 2022 ventes nu at blive
+p.22: 2000  |  2003  |  2006  |  2009  |  2012  |  2015  |  2018  |  2021  |  2000 2003 2006 2009 2012 2015 2018 2021
+p.22: December 2021  |  August 2021  |  December 2021  |  August 2021
+p.23: res strukturelle niveauer, jf. tabel 1.1.
+p.23: 2020  |  2021  |  2022  |  2023
+p.23: 2019  |  2020  |  2021  |  2022  |  2023
+p.23: August 2021  |  December 2021  |  Hjælpepakker mv.
+p.23: påvirker BNP sammenholdt med året før – skønnes til -1,5 pct. af BNP i 2022, jf. figur 1.13.
+p.23: effekt skønnet til -1,9 pct. af BNP. Forskellen til det nuværende skøn afspejler blandt andet et lavere
+p.23: get i BoligJob-ordningen fra 1. april 2022, hvor provenuet ikke udmøntes til nye initiativer i 2022, og
+p.24: Den strukturelle offentlige saldo skønnes til -0,3 pct. af BNP i 2021, -0,2 pct. af BNP i 2022 og -0,1
+p.24: mål om balancen i 2025. I august-redegørelsen blev den strukturelle saldo skønnet til -0,5 pct. af BNP
+p.24: relle saldo, jf. kapitel 8. Skønnet for den strukturelle saldo i 2022 og 2023 er uændret i forhold til tidli-
+p.25: Tabel 1.1
+p.25: 2021  |  2022  |  2023
+p.25: Strukturel saldo, pct. af strukturelt BNP  |  -0,3  |  -0,2  |  -0,1
+p.25: Faktisk saldo, pct. af BNP  |  -0,2  |  1,0  |  0,8
+p.25: Nettogæld, pct. af BNP  |  -10,5  |  -11,0  |  -11,4
+p.25: ØMU-gæld, pct. af BNP  |  37,4  |  34,1  |  34,9
+p.25: Offentlig forbrugsvækst, pct.1)  |  5,4  |  -1,4  |  -0,4
+p.25: Ét-årig finanseffekt, pct. af BNP  |  1,6  |  -1,5  |  -0,7
+p.25: Flerårig finanseffekt, pct. af BNP3)  |  3,5  |  2,1  |  1,2
+p.25: Outputgab, pct.  |  1,8  |  2,4  |  2,2
+p.25: Beskæftigelsesgab, pct.  |  1,7  |  2,7  |  2,5
+p.25: Realvæksten i det offentlige forbrug skønnes til 5,4 pct. i 2021 og til -1,4 pct. i 2022 med udgangs-
+p.25: punkt i Aftalen om finansloven for 2022. I 2023 skønnes den offentlige forbrugsvækst beregningstek-
+p.25: til 3,1 pct. i 2021, 0,9 pct. i 2022 og 0,7 pct. i 2023, jf. figur 1.14. I 2020-2023 er den gennemsnitlige
+p.25: Den offentlige beskæftigelse ventes samlet set at stige med ca. 24.000 personer i 2020 og 2021. Ud-
+p.25: skønnes på den baggrund at falde med ca. 4.000 personer i 2022 og 2023 under ét. Samtidig ventes
+p.25: den strukturelle beskæftigelse at stige med i alt ca. 78.000 personer fra 2019 til 2023 blandt andet
+p.26: Gns.  |  Gns.  |  2021  |  2022  |  2023  |  Gennemsnit 2020-2023
+p.26: 2000-2010 2010-2020
+p.26: Anm.: Realvæksten i det offentlige forbrug inkl. afskrivninger er opgjort ved inputmetoden. I figur 1.15 er realvæksten i
+p.26: Den faktiske offentlige saldo skønnes at udvise et underskud på 0,2 pct. af BNP i 2021, mens der
+p.26: ventes et overskud på 1,0 pct. af BNP i 2022, jf. figur 1.16. Det er en betydelig forbedring sammen-
+p.26: drager ligeledes til overskud på den faktiske offentlige saldo i 2023. I 2023 falder overskuddet dog lidt
+p.26: BNP ved udgangen af 2020 fra ca. 34 pct. af BNP ved udgangen af 2019, dvs. før coronakrisen, jf.
+p.26: den offentlige nettoformue at vokse til godt 11 pct. BNP ved udgangen af 2023, jf. figur 1.17. Dermed
+p.27: 2020  |  2021  |  2022  |  2023  |  2000 2003 2006 2009 2012 2015 2018 2021
+p.27: August 2021  |  December 2021  |  ØMU-gæld  |  Nettogæld  |  August 2021
+p.28: 1.3 Bilagstabel
+p.28: Tabel 1.2
+p.28: 2021  |  2022  |  2023
+p.28: Privat forbrug  |  3,2  |  4,3  |  4,1  |  3,8  |  1,9
+p.28: Samlet offentlig efterspørgsel  |  4,6  |  5,4  |  -1,8  |  -1,5  |  1,3
+p.28: - heraf offentligt forbrug  |  4,7  |  5,4  |  -1,8  |  -1,4  |  -0,4
+p.28: - heraf offentlige investeringer  |  3,8  |  5,3  |  -1,6  |  -2,5  |  13,6
+p.28: Boliginvesteringer  |  13,2  |  9,1  |  1,5  |  3,9  |  2,1
+p.28: Faste erhvervsinvesteringer  |  2,4  |  5,0  |  5,3  |  4,7  |  3,0
+p.28: Lagerændringer (vækstbidrag)  |  0,0  |  -0,3  |  0,0  |  0,0  |  0,0
+p.28: I alt indenlandsk efterspørgsel  |  4,1  |  4,7  |  2,3  |  2,3  |  1,9
+p.28: Eksport  |  7,1  |  3,7  |  5,8  |  5,4  |  3,7
+p.28: - heraf industrieksport  |  9,8  |  10,3  |  4,4  |  3,7  |  1,8
+p.28: Samlet efterspørgsel  |  5,2  |  4,4  |  3,7  |  3,5  |  2,6
+p.28: Import  |  8,2  |  5,2  |  5,2  |  4,9  |  3,5
+p.28: BNP  |  3,8  |  3,9  |  2,8  |  2,8  |  2,1
+p.28: Bruttoværditilvækst  |  3,6  |  3,8  |  3,1  |  2,9  |  2,0
+p.28: - heraf i private byerhverv  |  4,3  |  4,8  |  3,8  |  3,7  |  2,5
+p.28: Outputgab  |  0,5  |  1,8  |  1,1  |  2,4  |  2,2
+p.28: Beskæftigelsesgab  |  0,6  |  1,7  |  1,0  |  2,7  |  2,5
+p.28: Ledighedsgab  |  -0,1  |  -0,3  |  -0,3  |  -1,1  |  -1,0
+p.29: Tabel 1.2 (fortsat)
+p.29: 2021  |  2022  |  2023
+p.29: Huspriser (enfamiliehuse)  |  13,1  |  10,4  |  3,8  |  3,3  |  2,8
+p.29: Forbrugerprisindeks  |  1,3  |  1,8  |  1,5  |  2,2  |  1,8
+p.29: Timeløn i privat sektor  |  2,6  |  2,9  |  2,8  |  3,4  |  3,4
+p.29: Real disponibel indkomst, husholdninger  |  2,0  |  3,1  |  2,2  |  2,7  |  2,3
+p.29: Timeproduktiviteten i private byerhverv  |  2,7  |  -0,4  |  1,1  |  1,1  |  2,2
+p.29: Rente, 1-årigt flekslån  |  -0,5  |  -0,5  |  -0,3  |  -0,4  |  -0,2
+p.29: Rente, 10-årig statsobligation  |  -0,1  |  -0,1  |  -0,1  |  -0,1  |  0,0
+p.29: Rente, 30-årig realkreditobligation  |  1,2  |  1,3  |  1,5  |  1,7  |  1,9
+p.29: Faktisk offentlig saldo, mia. kr.  |  -46,6  |  -4,8  |  9,5  |  25,0  |  20,2
+p.29: Faktisk offentlig saldo, pct. af BNP  |  -1,9  |  -0,2  |  0,4  |  1,0  |  0,8
+p.29: Strukturel offentlig saldo, pct. af BNP  |  -0,5  |  -0,3  |  -0,2  |  -0,2  |  -0,1
+p.29: ØMU-gæld, pct. af BNP  |  40,0  |  37,4  |  38,5  |  34,1  |  34,9
+p.29: Arbejdsstyrke (inkl. orlov), 1.000 personer  |  3.136  |  3.166  |  3.159  |  3.201  |  3.212
+p.29: Beskæftigelse (inkl. orlov), 1.000 personer  |  3.024  |  3.061  |  3.057  |  3.125  |  3.136
+p.29: Bruttoledighed, pct. af arbejdsstyrken  |  3,6  |  3,4  |  3,3  |  2,4  |  2,4
+p.29: Handelsvægtet, BNP-vækst i udl., pct.  |  4,5  |  5,0  |  4,1  |  4,0  |  2,5
+p.29: Eksportmarkedsvækst (industrivarer), pct.  |  7,1  |  8,4  |  6,2  |  6,1  |  4,0
+p.29: Dollarkurs, kr. pr. dollar  |  6,2  |  6,3  |  6,3  |  6,6  |  6,6
+p.29: Oliepris, dollar pr. tønde  |  68,8  |  70,5  |  70,4  |  74,4  |  73,7
+p.29: Betalingsbalancesaldo (pct. af BNP)  |  6,8  |  7,3  |  6,9  |  7,2  |  6,5
+p.31: på et enkelt år siden den store depression i 1930’erne. I EU faldt BNP med 5,9 pct. Dansk økonomi
+p.31: blev også ramt med store udsving i den økonomiske aktivitet, og BNP blev reduceret med 2,1 pct. i
+p.33: større overdødelighed under pandemien også har haft større nedgang i BNP, jf. figur 2.3.
+p.34: Akkumuleret ændring i BNP i pct. af BNP-niveau i 2019  |  Akkumuleret ændring i BNP i pct. af BNP-niveau i 2019
+p.34: 2019. Overdødelighed er målt som den samlede dødelighed fra januar 2020 til og med juni 2021 fratrukket en
+p.34: vægtning af den gennemsnitlige årlige dødelighed i 2015-2019 og den gennemsnitlige dødelighed i 2015-2019
+p.34: mellem januar og juni. Den akkumulerede ændring i BNP er målt fra 1. kvartal 2020 til og med 2. kvartal 2021.
+p.35: rede BNP-tab fra 2020 til og med 3. kvartal 2021 var på 1,8 pct., hvilket er betydeligt lavere end ek-
+p.35: niveauet inden pandemiens start, og i 3. kvartal lå BNP 2,1 pct. højere end før krisen. I blandt andet
+p.35: ledes før-krise-niveau i 2. kvartal 2021, mens BNP i EU i 3. kvartal lå blot 0,1 pct. under niveauet fra
+p.35: 2021 som andel af BNP i hele 2019. En negativ værdi er dermed udtryk for et akkumuleret tab.
+p.37: BNP. Opgjort på denne måde var faldet i beskæftigelsen omtrent 60.000 mindre i Danmark i 2020,
+p.47: til blandt de mindste reduktioner i EU, og med en offentlig saldo på -0,2 pct. af BNP i 2020 havde
+p.47: 60 pct. af BNP, jf. figur 2.21.
+p.47: Selvom den offentlige gæld steg i 2020, betalte landene generelt mindre i renteudgifter i 2020 end i
+p.47: 2019 målt i forhold til BNP. I Danmark faldt de offentlige renteudgifter fra 0,7 pct. af BNP i 2019 til 0,5
+p.51: 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+p.60: 2011  |  2012  |  2013  |  2014  |  2015  |  2016  |  2017  |  2018  |  2019  |  2020  |  2021  |  2022  |  2023
+p.60: 3.2 Forbrugerpriser
+p.60: Inflationen er tiltaget betragteligt fra omkring ½ pct. i årets begyndelse til 3,4 pct. i november, og infla-
+p.61: 2010  |  2011  |  2012  |  2013  |  2014  |  2015  |  2016  |  2017  |  2018  |  2019  |  2020  |  2021
+p.61: Bidraget fra de stigende energipriser til forbrugerprisinflationen udgjorde i november 1,8 pct.-point.
+p.61: Uden dette bidrag ville inflationen have været 1,6 pct. Modsat trak fald i energipriserne i begyndelsen
+p.61: ændringen på tobak sidste år er med til at holde inflationen oppe i 2021, og pr. 1 januar 2022 kommer
+p.62: 2005 2007 2009 2011 2013 2015 2017 2019 2021  |  0,0  |  0,2  |  0,3  |  0,5  |  0,6  |  0,8  |  0,9
+p.62: Anm.: Figur 3.14 viser bidrag fra energipriser til forbrugerprisinflationen. Figur 3.15 viser bidrag til årsstigningen i
+p.62: men kerneinflationen på 1,6 pct. i november er stadig forholdsvis afdæmpet i et længere perspektiv
+p.62: og i forhold til ECB’s inflationsmålsætning på 2 pct., jf. figur 3.16.
+p.62: 2010  |  2011  |  2012  |  2013  |  2014  |  2015  |  2016  |  2017  |  2018  |  2019  |  2020  |  2021
+p.63: flationen. Således skønnes inflationen at stige fra 1,8 pct. i 2021 til 2,2 pct. i 2022 og herefter falde
+p.63: ned på 1,8 pct. i 2023. Derved vil inflationen ligge tæt på det historiske gennemsnit på knap 1,8 pct. i
+p.63: perioden 1990-2020. Såfremt begrænsninger i produktionen, fx som følge af coronapandemien, driver
+p.63: For 2022 og 2023 forventes der fortsat fremgang i boligpriserne, jf. figur 3.17. Tempoet ventes dog at
+p.63: 2022 og 2,8 pct. i 2023. Den moderate fremgang skal ses på baggrund af, at det midlertidige løft til
+p.68: 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+p.68: derat tempo, hvilket skal ses på baggrund af den betydelige fremgang i 2020 og 2021. Overordnet set
+p.70: 1990  |  1992  |  1994  |  1996  |  1998  |  2000  |  2002  |  2004  |  2006  |  2008  |  2010  |  2012  |  2014  |  2016  |  2018  |  2020  |  2022
+p.71: 2020, hvor der ventes et højere investeringsniveau i 2022 og 2023 end i 2021. Samtidig har fremgan-
+p.71: formentlig forskudt til 2022 og 2023 på grund af travlhed i byggeriet. Travlheden i byggeriet afspejles i
+p.71: ningen af efterspørgslen end sædvanligt, hvilket vil kunne understøtte fremgangen i 2022 og 2023.
+p.75: tagende efterspørgselsvækst. På den baggrund ventes BNP at vokse med 3,9 pct. i år, 2,8 pct. i 2022
+p.75: Høj vækst i realt BNP i år, og der ventes også pæn fremgang i 2022 og 2023
+p.75: 1990  |  1992  |  1994  |  1996  |  1998  |  2000  |  2002  |  2004  |  2006  |  2008  |  2010  |  2012  |  2014  |  2016  |  2018  |  2020  |  2022
+p.76: Mia. kr. (2010-priser, kædede værdier)  |  Mia. kr. (2010-priser, kædede værdier)
+p.76: 2015  |  2016  |  2017  |  2018  |  2019  |  2020  |  2021
+p.76: kvartalsvækstrater, der giver årsvækstrater i BNP i 2020 og 2021 på henholdsvis 1,5 pct. og 1,4 pct., hvilket
+p.76: udvikling. I 2022 og 2023 ventes outputgabet at være omtrent 2-2½ pct., hvilket er en højkonjunktur
+p.76: med et kapacitetspres, der er lidt større end perioden 1997-2000, men hvor presset er mindre end
+p.76: 2006-2007, jf. figur 4.3.
+p.76: 1  |  Se fx Produktivitetsrådet (2021), ”Produktivitet 2021”.
+p.77: 1990  |  1992  |  1994  |  1996  |  1998  |  2000  |  2002  |  2004  |  2006  |  2008  |  2010  |  2012  |  2014  |  2016  |  2018  |  2020  |  2022
+p.77: omtrent svarer til lidt over det historiske gennemsnit fra 1990 til 2019, jf. figur 4.4.
+p.80: olie- og gasmængder. Olie- og gasproduktionen ventes at stige fra 2022 frem til 2027 og derefter aftage gradvist og
+p.81: en stærk kvartalsvækst på 2,2 pct., at BNP var tilbage over niveauet fra før corona. I 3. kvartal fort-
+p.81: Samlet fremgang i BVT fra 4. kvt. 2019 til 3. kvt. 2021 dækker over fortsat store forskelle på tværs af
+p.86: forhold til egen produktion, 2018  |  energi i forhold til egen produktion, 2018
+p.87: med 2 pct. i 2020, og efter en sløj start på 2021, hvor store dele af økonomien var lukket ned som
+p.88: 1990-2020
+p.88: 1990  |  1992  |  1994  |  1996  |  1998  |  2000  |  2002  |  2004  |  2006  |  2008  |  2010  |  2012  |  2014  |  2016  |  2018  |  2020  |  2022
+p.109: 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+p.116: reallønsfremgangen tiltager fra 1,1 pct. i 2021 til 1,2 pct. i 2022 og 1,6 pct. i 2023, hvilket er over gen-
+p.116: ons", 2021, og OECD Economic Outlook 2021, december 2021.
+p.117: Gns. inflation, 2000-2020
+p.117: Gns. stigning i realløn, 2000-2020
+p.117: 1995  |  1997  |  1999  |  2001  |  2003  |  2005  |  2007  |  2009  |  2011  |  2013  |  2015  |  2017  |  2019  |  2021  |  2023
+p.117: 2023 i forhold til 2020, jf. figur 5.28. Det skal ses i sammenhæng med et skønnet fald i den gennem-
+p.117: arbejdstid falder en smule i 2022 og 2023. Opgørelsen af arbejdstiden, herunder antallet af præste-
+p.119: imidlertid lidt højere i 2020 end i 2005, jf. figur a. Ved beregningen overvurderes lønkvoten dog, da en del af værdi-
+p.121: 2022 og 2,7 pct. i 2023, jf. tabel 5.1.
+p.121: Tabel 5.1
+p.121: Stigning i pct.  |  2020  |  2021  |  2022  |  2023
+p.121: Budgetvirkning (offentlig sektor)  |  2,5  |  1,3  |  2,0  |  2,7
+p.121: Satsreguleringsprocent  |  2,0  |  2,0  |  1,2  |  2,6
+p.132: 2019 og 2020, jf. figur 6.14. Overskuddet skønnes at blive 7,3 pct. af BNP i 2021 – omtrent det
+p.132: cen gradvist vil vokse til lidt højere niveauer frem mod 2023. I løbet af 2020 og 2021 har der generelt
+p.132: at overskuddet på betalingsbalancen vil falde en smule over de kommende år til 7,2 pct. af BNP i
+p.132: 2022 og 6,5 pct. af BNP i 2023.
+p.133: 2010  |  2012  |  2014  |  2016  |  2018  |  2020  |  2005 2007 2009 2011 2013 2015 2017 2019 2021 2023
+p.134: lancen i 2021 til og med 3. kvartal, alt andet lige, have været 26 mia. kr. mindre, svarende til 1,1 pct. af BNP-ni-
+p.134: Pct. ift. 2019-gennemsnit  |  Pct. ift. 2019-gennemsnit  |  Bytteforhold (2010=1)  |  Bytteforhold (2010=1)
+p.137: 2000  |  2002  |  2004  |  2006  |  2008  |  2010  |  2012  |  2014  |  2016  |  2018  |  2020  |  2022
+p.137: med deres andel af dansk eksport. De stiplede linjer angiver gennemsnittene for 2000-2020.
+p.139: 7.4. I EU som helhed var den kvartalsvise vækst i 3. kvartal på 2,1 pct., hvilket stort set bragte BNP
+p.139: sempelvis Spanien, hvor BNP i 3. kvartal fortsat var 6,6 pct. lavere end i 4. kvartal 2019.
+p.139: 2019  |  2020  |  2021
+p.139: land er industriproduktionen tilmed faldet igennem 2021 og ligger nu omkring 6 pct. under 2019-ni-
+p.147: 2005 2007 2009 2011 2013 2015 2017 2019 2021 2023  |  USA  |  Avancerede  |  Vækst-  |  Euroområdet
+p.147: 2019  |  2020  |  2021  |  2022  |  2023
+p.148: inflationen i oktober nåede op på 5,0 pct., jf. figur 7.20.
+p.148: 2011  |  2013  |  2015  |  2017  |  2019  |  2021  |  2011  |  2013  |  2015  |  2017  |  2019  |  2021
+p.148: Anm.: Inflationsopgørelsen i figur 7.20 er privatforbrugsdeflatoren fra BEA’s månedlige opgørelse af forbrug og
+p.148: gennemsnitlige inflation i USA over de seneste to år på ca. 3,1 pct., mens kerneinflationen udgjorde
+p.148: 2,8 pct. Udviklingen skal dog også ses i lyset af, at inflationen siden 2010 i gennemsnit har udgjort 1,7
+p.148: I euroområdet er inflationen også tiltaget til godt 4,9 pct. i november, mens kerneinflationen steg til
+p.148: politiske målsætning. Således var inflationen i euroområdet i perioden 2011-2021 i gennemsnit 1,3
+p.149: 2000  |  2003  |  2006  |  2009  |  2012  |  2015  |  2018  |  2021  |  2000  |  2003  |  2006  |  2009  |  2012  |  2015  |  2018  |  2021
+p.149: statsobligationer. Seneste observation er 10. december 2021. I figur 7.23 vises inflationsforventningerne på langt
+p.152: 2014  |  2015  |  2016  |  2017  |  2018  |  2019  |  2020  |  2021
+p.152: omkring -0,1 pct. i 2022 og kun vil stige til 0,0 pct. i 2023. Renten på 30-årige fastforrentede realkre-
+p.152: ditobligationer ventes at stige fra 1,3 pct. i 2021 til 1,7 pct. i 2022 og 1,9 pct. i 2023. Dermed er der
+p.154: især skal ses i lyset af den stigende inflation, jf. figur 7.29. Usikkerheden på de globale aktiemarke-
+p.154: der, målt ved VIX, er faldet betydeligt igennem 2020 og 2021, men er de seneste uger igen forøget
+p.154: Indeks (gennemsnit 2000-2021=100)  |  Indeks (gennemsnit 2000-2021=100)
+p.156: udgøre 220 pct. af BNP i 2. kvartal i år, jf. figur 7.33. Gældsætningen er steget både blandt hushold-
+p.156: 2009  |  2011  |  2013  |  2015  |  2017  |  2019  |  2021  |  2000 2003 2006  |  2009  |  2012 2015 2018 2021
+p.156: sisk BNP.3 Det er markant mere end de fleste vestlige lande, jf. figur 7.34. Det er også højt relativt til
+p.161: 2021 svarende til et skøn for den ét-årige finanseffekt på -1,5 pct. af BNP i 2022. I august-redegørel-
+p.161: sen blev den ét-årige finanseffekt skønnet til -1,9 pct. af BNP. Forskellen afspejler til dels et lavere
+p.161: virkning på den ét-årige finanseffekt på ca. -0,1 pct. af BNP i 2022. Det kan særligt tilskrives afskaffel-
+p.161: sen af håndværkerfradraget i BoligJob-ordningen fra 1. april 2022, hvor provenuet i 2022 ikke udmøn-
+p.161: Den strukturelle offentlige saldo skønnes til henholdsvis -0,3 pct. af BNP i 2021, -0,2 pct. af BNP i
+p.161: 2022 og -0,1 pct. af BNP i 2023. Finanspolitikken er således tilrettelagt med gradvist aftagende struk-
+p.161: turelle underskud frem mod det mellemfristede mål om strukturel balance i 2025. For 2021 indebærer
+p.161: det en opjustering af den strukturelle saldo på 0,2 pct. af BNP sammenlignet med skønnet i august-
+p.161: ikke behandles som engangsforhold i opgørelsen af den strukturelle saldo. I 2022 og 2023 er skøn-
+p.161: og 2023 på henholdsvis ca. 1 pct. af BNP i 2022 og 0,8 pct. af BNP i 2023. Forbedringen sammen-
+p.162: gen af 2020, hvorved den offentlige sektor havde en finansiel nettoformue. Fra 2020 og frem mod ud-
+p.162: skud på den faktiske offentlige saldo på 4 mia. kr. eller ca. 0,2 pct. af BNP. Underskuddet i 2020 er
+p.162: på ca. 25 mia. kr. (ca. 1,0 pct. af BNP) i 2022 og ca. 20 mia. kr. i 2023 (ca. 0,8 pct. af BNP), jf. tabel
+p.162: Tabel 8.1
+p.162: 2018  |  2019  |  2020  |  2021  |  2022  |  2023
+p.162: Offentlig saldo, mia. kr.  |  17,1  |  94,2  |  -4,3  |  -4,8  |  25,0  |  20,2
+p.162: Offentlig saldo, pct. af BNP  |  0,8  |  4,1  |  -0,2  |  -0,2  |  1,0  |  0,8
+p.162: Den offentlige saldo skønnes omtrent uændret fra 2020 til 2021. På den ene side bidrager den for-
+p.162: den faktiske offentlige saldo fra 2020 til 2021 blandt andet som følge af de ekstraordinære midlerti-
+p.162: Den faktiske saldo skønnes forbedret med ca. 30 mia. kr. fra 2021 til 2022. Det afspejler især en for-
+p.162: ske overskud ventes at blive reduceret med ca. 5 mia. kr. fra 2022 til 2023. Det skal blandt andet ses i
+p.162: ligskat i perioden 2011-2020, er forudsat udgiftsført i 2023.
+p.163: justeret med 42 mia. kr. i 2021 (ca. 1¾ pct. af BNP) og 15 mia. kr. i 2022 (½ pct. af BNP), jf. tabel 8.2.
+p.163: Forbedringen af den faktiske offentlige saldo i 2021 og 2022 kan særligt tilskrives markante opjuste-
+p.163: satser i både 2021 og 2022.
+p.163: holdningernes indkomster i både 2021 og 2022, hvilket primært afspejler et højere skøn for beskæfti-
+p.163: Provenuet fra moms er opjusteret med ca. 5 mia. kr. i 2021 og 7¾ mia. kr. i 2022. Opjusteringen skyl-
+p.164: Tabel 8.2
+p.164: Mia. kr.  |  2021  |  2022
+p.165: Den strukturelle saldo skønnes til -0,3 pct. af BNP i 2021, hvilket er en opjustering på 0,2 pct. af BNP
+p.165: les som engangsforhold i den strukturelle saldo. I 2022 og 2023 skønnes den strukturelle saldo til
+p.165: henholdsvis -0,2 og -0,1 pct. af BNP, hvilket er på linje med august-vurderingen. Det strukturelle un-
+p.165: 2020  |  2021  |  2022  |  2023
+p.166: pct. af BNP i 2021, -0,7 pct. af BNP i 2022 og -0,3 pct. af BNP i 2023, jf. figur 8.1.
+p.166: Den strukturelle saldo beregnes til -0,3 pct. af BNP i 2021 med udgangspunkt i skønnet for den fakti-
+p.166: ske offentlige saldo på -0,2 pct. af BNP, jf. tabel 8.3 (pkt. 1). Da konjunkturerne i 2021 (målt ved et
+p.166: af den strukturelle saldo, og samlet set svarer korrektionen i pkt. 3-9 til 0,0 pct. af BNP i 2021.
+p.167: Tabel 8.3
+p.167: 2020  |  2021  |  2022  |  2023
+p.167: 1. Faktisk saldo  |  -0,2  |  -0,2  |  1,0  |  0,8
+p.167: 2. Konjunkturgab  |  -0,5  |  1,3  |  1,8  |  1,7
+p.167: 3. Selskabsskat1)  |  0,1  |  0,9  |  0,6  |  0,2
+p.167: 4. Registreringsafgift  |  0,0  |  -0,2  |  -0,1  |  -0,1
+p.167: 5. Aktieskat  |  0,2  |  0,0  |  0,0  |  0,0
+p.167: 6. Pensionsafkastskat  |  0,8  |  0,2  |  -0,5  |  -0,4
+p.167: 7. Nordsøindtægter2)  |  0,0  |  -0,1  |  -0,1  |  -0,1
+p.167: 8. Nettorentebetalinger og udbytter  |  0,0  |  0,0  |  0,1  |  0,1
+p.167: 9. Specielle budgetposter3)  |  -0,5  |  -0,9  |  -0,2  |  -0,5
+p.167: 10. Øvrige forhold4)  |  -0,8  |  -1,2  |  -0,4  |  -0,1
+p.167: Heraf covid-19-relaterede tiltag  |  -1,6  |  -1,6  |  -0,4  |  0,0
+p.167: Heraf skatteindtægter knyttet til udbetaling af feriepenge  |  0,9  |  0,5  |  0,0  |  0,0
+p.167: 11. Strukturel saldo (1-2-3-4-5-6-7-8-9-10)  |  0,5  |  -0,3  |  -0,2  |  -0,1
+p.167: Illustrativ strukturel saldo inkl. covid-19-engangsforhold6)  |  -1,2  |  -2,1  |  -0,7  |  -0,3
+p.167: udgiftslofterne (hhv. 2020-fremskrivning, august 2016 for 2020, 2025-fremskrivning, august 2017 for 2021 og
+p.167: Opdateret 2025-forløb, august 2018 for 2022, Opdateret 2025-forløb, oktober 2019 for 2023) justeret for
+p.167: Den varige virkning af de opdaterede provenuskøn svarer til ca. -0,08 pct. af BNP i 2020, ca. -0,05 pct. af BNP i
+p.167: 2021, -0,05 pct. af BNP i 2022 og -0,04 pct. af BNP i 2023.
+p.167: alt ca. 8,5 mia. kr. i 2020, ca. 19,1 mia. kr. i 2021 og 0,2 mia. kr. i 2022. Der er korrigeret for tilbagebetaling af
+p.167: at tilbagebetalingen til boligejerne udgør ca. 1,4 mia. kr. i 2022 og 13,4 mia. kr. i 2023. I 2022 er der korrigeret
+p.167: mia. kr. i 2020, 40 mia. kr. i 2021, 10 mia. kr. i 2022 og 1 mia. kr. i 2023. Hertil kommer engangsindtægterne fra
+p.167: personskatterne på ca. 20 mia. kr. i 2020 og ca. 13,3 mia. kr. i 2021 knyttet til udbetalingen af indefrosne
+p.167: endvidere korrigeret for investeringen i kampfly, som planlægges i perioden 2021-2026, men som påvirker den
+p.168: 2000  |  2003  |  2006  |  2009  |  2012  |  2015  |  2018  |  2021  |  2000 2003 2006 2009 2012 2015 2018 2021
+p.168: 2,0  |  2,0  |  2,0  |  2,0
+p.168: 1,5  |  1,5  |  1,5  |  1,5
+p.168: 1,0  |  1,0  |  1,0  |  1,0
+p.168: 0,5  |  0,5  |  0,5  |  0,5
+p.168: 0,0  |  0,0  |  0,0  |  0,0
+p.168: 2000 2003 2006 2009 2012 2015 2018 2021  |  2000 2003 2006 2009 2012 2015 2018 2021
+p.168: 3,0  |  3,0  |  2,5  |  2,5
+p.168: 2,5  |  2,5  |  2,0  |  2,0
+p.168: 2,0  |  2,0  |  1,5  |  1,5
+p.168: 1,5  |  1,5  |  1,0  |  1,0
+p.168: 1,0  |  1,0  |  0,5  |  0,5
+p.168: 0,5  |  0,5  |  0,0  |  0,0
+p.168: 0,0  |  0,0  |  -0,5  |  -0,5
+p.168: 2000 2003 2006 2009 2012 2015 2018 2021  |  2000 2003 2006 2009 2012 2015 2018 2021
+p.169: 2000  |  2003  |  2006  |  2009  |  2012  |  2015  |  2018  |  2021  |  2000  |  2003  |  2006  |  2009  |  2012  |  2015  |  2018  |  2021
+p.169: Fra 2020 til 2021 skønnes den strukturelle saldo at blive forværret med 0,8 pct. af BNP, jf. tabel 8.4.
+p.169: forværrer den strukturelle saldo med 0,5 pct. af BNP. Det skal ses i sammenhæng med, at finanspoli-
+p.169: Fra 2021 til 2022 skønnes den strukturelle saldo at blive forbedret med 0,1 pct. af BNP. Det afspejler
+p.169: en række forhold, herunder et positivt bidrag fra finans- og strukturpolitikken på ca. 0,4 pct. af BNP,
+p.169: idet finanspolitikken strammes i 2022 målt i forhold til det ekspansive niveau i 2021 i takt med, at kon-
+p.169: de enkelte ændringsbidrag i tabel 8.4, dels øvrige forhold, som ikke fremgår i tabel 8.4. Det gælder
+p.170: Tabel 8.4
+p.170: 2020  |  2021  |  2022  |  2023
+p.170: Strukturel saldo  |  0,5  |  -0,3  |  -0,2  |  -0,1
+p.170: Ændring i strukturel saldo  |  -0,8  |  0,1  |  0,1
+p.170: -0,5  |  0,4  |  0,0
+p.170: Selskabsskat (ekskl. provenuer fra finanspolitik)  |  -0,1  |  0,0  |  -0,1
+p.170: Pensionsafkastskat  |  0,0  |  0,0  |  0,0
+p.170: Nordsøindtægter  |  0,1  |  0,0  |  0,0
+p.170: Nettorentebetalinger  |  0,0  |  0,0  |  0,0
+p.170: Registreringsafgift  |  0,0  |  0,0  |  0,0
+p.170: Aktieskat  |  0,0  |  0,0  |  0,0
+p.170: Specielle budgetposter  |  0,0  |  0,0  |  0,0
+p.171: regioner, jf. tabel 8.5.
+p.171: Tabel 8.5
+p.171: Udgiftsloft på FL22  |  223,4  |  289,4  |  275,6  |  124,2  |  2,7
+p.171: 223,3  |  287,4  |  275,6  |  124,2  |  2,7
+p.171: Kilde: Finansloven for 2022 og foreløbig opgørelse af regionale og kommunale budgetter for 2022.
+p.171: giftslofterne. Udgiftslofterne for perioden 2022-2025 på finansloven for 2022 fremgår af tabel 8.6.
+p.171: Tabel 8.6
+p.171: 2022  |  2023  |  2024  |  2025
+p.171: Statslige delloft for driftsudgifter  |  223,4  |  225,5  |  231,5  |  238,3
+p.171: Statslige delloft for indkomstoverførsler  |  289,4  |  290,2  |  292,2  |  293,5
+p.171: Kommunalt udgiftsloft  |  275,6  |  275,6  |  275,6  |  275,6
+p.171: Regionalt delloft for sundhedsudgifter  |  124,2  |  124,2  |  124,2  |  124,2
+p.171: Regionalt delloft for udviklingsopgaver  |  2,7  |  2,7  |  2,7  |  2,7
+p.172: tember opgjort til 574,5 mia. kr. i 2020. Realvæksten i det offentlige forbrug er i 2020 opgjort til 0,2
+p.172: Realvæksten i det offentlige forbrug skønnes til 5,4 pct. i 2021 og -1,4 pct. i 2022. Den høje skønnede
+p.172: offentlige forbrug til 3,1 pct. i 2021 og 0,9 pct. i 2022. Det er væsentligt højere end den gennemsnit-
+p.172: lige reale årlige forbrugsvækst i perioden 2010-2020, jf. figur 8.10.
+p.172: I 2023 er realvæksten i det offentlige forbrug beregningsteknisk forudsat at udgøre -0,4 pct. svarende
+p.172: giftslofter 2025, august 2021. Det følger primært af opjusteringen af det offentlige forbrug i 2022. Kor-
+p.172: Gns.  |  Gns.  |  2021  |  2022  |  2023  |  2000 2003 2006 2009 2012 2015 2018 2021
+p.172: 2000-2010 2010-2020
+p.172: Anm.: I figur 8.10 er realvæksten i det offentlige forbrug opgjort ved inputmetoden og inkl. afskrivninger.
+p.172: en opjustering på 5,3 mia. kr. i forhold august, jf. tabel 8.7. Det skal blandt andet ses i sammenhæng
+p.173: Realvæksten i det offentlige forbrug i 2021 skønnes på den baggrund til 5,4 pct. svarende til en opju-
+p.173: stering på 0,7 pct.-point i forhold til august-redegørelsen, jf. tabel 8.7.
+p.173: Tabel 8.7
+p.173: 2020  |  2021  |  2022  |  2023
+p.173: Augustvurdering  |  0,2  |  4,7  |  -1,8  |  -
+p.173: Decembervurdering  |  0,2  |  5,4  |  -1,4  |  -0,4
+p.173: - Ændring ift. august, pct.-point  |  0,0  |  0,7  |  0,4  |  -
+p.173: Augustvurdering  |  574,5  |  607,0  |  602,5  |  -
+p.173: Decembervurdering  |  574,5  |  612,2  |  611,8  |  624,1
+p.173: - Ændring i forhold til august, mia. kr.  |  0,0  |  5,3  |  9,3  |  -
+p.173: Realvæksten i det offentlige forbrug i 2022 skønnes som nævnt til -1,4 pct., hvilket er en opjustering
+p.173: I 2023 skønnes de nominelle offentlige forbrugsudgifter til 624,1 mia. kr. Realvæksten i det offentlige
+p.173: giftslofter 2025, august 2021. Det afspejler primært opjusteringen af det offentlige forbrug i 2022, jf.
+p.173: ovenfor. Finanspolitikken og de konkrete offentlige budgetter for 2023 vil blive fastlagt i løbet af 2022 i
+p.173: forbindelse med finansloven for 2023 og økonomiaftalerne med kommunerne og regionerne for 2023.
+p.174: Figur 8.12  |  Tabel 8.8
+p.174: 1.000 personer  |  2020  |  2021  |  2022  |  2023
+p.174: 840  |  840  |  August-redegørelsen  |  3,7  |  16,0  |  -3,0  |  -
+p.174: 820  |  820  |  December-redegørelsen  |  3,7  |  20,0  |  -3,0  |  -1,0
+p.174: 800  |  800  |  - Ændring  |  0,0  |  4,0  |  0,0  |  -
+p.174: 833,4 853,4 850,4 849,4
+p.174: 2002  |  2005  |  2008  |  2011  |  2014  |  2017  |  2020
+p.175: skabstal fra september opgjort til ca. 83 mia. kr. i 2020 svarende til 3,6 pct. af BNP.
+p.175: hold til niveauet i 1990’erne og den første halvdel af 2000’erne. Det høje niveau ventes opretholdt i de
+p.175: kommende år. De offentlige investeringsudgifter skønnes at udgøre 3,6 pct. af BNP i 2021 og 3,4 pct.
+p.175: af BNP i 2022 og forudsættes at udgøre 3,8 pct. af BNP i 2023, hvilket er betydeligt over det histori-
+p.175: ske gennemsnit for perioden 1990-2007, jf. figur 8.13.
+p.175: Pct. af BNP  |  Pct. af BNP  |  Mia. kr. (2022-priser)  |  Mia. kr. (2022-priser)
+p.175: Gennemsnit 1990-2007
+p.175: 1990 1994 1998 2002 2006 2010 2014 2018 2022  |  2010  |  2012 2014 2016 2018 2020 2022
+p.175: vækst på 5,3 pct., jf. tabel 8.9. De skønnede udgifter er opjusteret med 1½ mia. kr. sammenlignet
+p.175: ket svarer til en realvækst på -2,5 pct.
+p.176: Tabel 8.9
+p.176: 2020  |  2021  |  2022  |  2023
+p.176: Nominelt investeringsniveau, mia. kr. (årets priser)  |  83,0  |  88,9  |  88,3  |  102,5
+p.176: - Heraf bygninger og anlæg m.m.  |  61,1  |  66,6  |  65,9  |  78,8
+p.176: - Heraf forskning og udvikling  |  21,9  |  22,4  |  22,4  |  23,8
+p.176: Realvækst i de offentlige investeringer, pct.  |  9,8  |  5,3  |  -2,5  |  13,6
+p.176: - Heraf bygninger og anlæg m.m.  |  14,6  |  6,8  |  -2,9  |  17,1
+p.176: - Heraf forskning og udvikling  |  -2,1  |  1,2  |  -1,2  |  3,4
+p.176: Offentlige investeringer, pct. af BNP  |  3,6  |  3,6  |  3,4  |  3,8
+p.176: - Heraf bygninger og anlæg  |  2,6  |  2,7  |  2,6  |  3,0
+p.176: - Heraf forskning og udvikling  |  0,9  |  0,9  |  0,9  |  0,9
+p.176: giftslofter 2025, august 2021. Nedjusteringen kan henføres til, at Aftale om grøn omstilling af dansk
+p.176: pct. af BNP i 2020, målt ved de såkaldte ét-årige finanseffekter, jf. tabel 8.10 (pkt. 7). Den positive ak-
+p.176: viteten med skønsmæssigt 1,3 pct. af BNP i 2020, jf. tabel 8.10 (pkt. 6). Beregningen af finanspolitik-
+p.177: yderligere vækstbidrag på 0,4 pct. af BNP i 2021. Den understøttende virkning fra kompensationsord-
+p.177: ningerne aftager fra 2021 til 2022 i takt med, at der forudsættes lavere udgifter til kompensationsord-
+p.177: Tabel 8.10
+p.177: 2020  |  2021  |  2022  |  2023
+p.177: 1. Finanspolitikkens virkning på BNP-vækst1)  |  0,3  |  0,7  |  -0,2  |  0,2
+p.177: 2. Strukturpolitikkens virkning på kapacitetsudnyttelsen  |  -0,1  |  -0,2  |  -0,2  |  -0,1
+p.177: 3. Finanseffekt ekskl. midlertidige tiltag1) (1+2)  |  0,2  |  0,6  |  -0,4  |  0,1
+p.177: 4. Udbetaling af feriepenge, offentligt initierede investeringer mv.  |  0,3  |  0,7  |  -0,2  |  -0,2
+p.177: 0,4  |  1,3  |  -0,6  |  -0,2
+p.177: 6. Virkning af midlertidige kompensationsordninger  |  1,3  |  0,4  |  -0,9  |  -0,5
+p.177: 1,8  |  1,6  |  -1,5  |  -0,7
+p.177: skattereform, herunder virkningen af investeringsvinduet i 2021 og 2022.
+p.177: i 2020 og 2021, herunder fx udbetalingen af indefrosne feriepenge og Aftale om grøn skattereform og
+p.177: tag (ekskl. kompensationsordninger) at styrke væksten med 0,4 pct. i 2020 og 1,3 pct. i 2021, jf. tabel
+p.177: I 2022 planlægges en opstramning af finanspolitikken (ekskl. hjælpepakker) med 0,6 pct. af BNP i takt
+p.178: set ventes at dæmpe væksten med ca. 1,5 pct. af BNP i 2022, jf. tabel 8.10 (pkt. 7).
+p.178: Den isolerede effekt af strukturpolitikken på den ét-årige finanseffekt er ca. 0,1-0,2 pct. af BNP om
+p.178: året i perioden 2020-2023, jf. tabel 8.10 (pkt. 2). Det skal ses i lyset af, at strukturpolitikken gradvist
+p.178: aftalen (2011) og Skattereform 2012.
+p.178: nans- og strukturpolitiske ændringer i perioden 2020-2023 aktuelt i beregningen af den flerårige ef-
+p.178: fekt, jf. tabel 8.11.
+p.179: Tabel 8.11
+p.179: 2020  |  2021  |  2022  |  2023
+p.179: Virkning på outputgab ekskl. midlertidige covid-19 tiltag1)  |  0,2  |  0,9  |  0,5  |  0,4
+p.179: Udbetaling af feriepenge, offentligt initierede investeringer mv.  |  0,3  |  1,0  |  0,8  |  0,6
+p.179: Virkning på outputgab ekskl. midlertidige covid-19 tiltag  |  0,4  |  1,8  |  1,3  |  0,9
+p.179: Virkning af midlertidige kompensationsordninger  |  1,3  |  1,7  |  0,7  |  0,2
+p.179: Virkning på outputgab inkl. midlertidige covid-19 tiltag  |  1,8  |  3,5  |  2,1  |  1,2
+p.179: - Heraf efterspørgselsvirkning  |  1,9  |  3,8  |  2,6  |  1,8
+p.179: 85.000 personer i 2021, 55.000 personer i 2022 og 45.000 personer i 2023 jf. tabel 8.11. Tilsvarende
+p.179: skønnes BNP-niveauet øget med henholdsvis 1,9 pct. i 2020, 3,8 pct. i 2021, 2,6 pct. i 2022 og 1,8
+p.180: gælden skønnes til ca. 37 pct. af BNP i 2021, ca. 34 pct. af BNP i 2022 og ca. 35 pct. af BNP i 2023,
+p.180: jf. tabel 8.12.
+p.180: fra 2020 til 2021. Der er ligeledes skattebetalinger, der er blevet udskudt fra 2021 til 2022, men netto-
+p.180: effekten af skatteudskydelserne i henholdsvis 2020 og 2021 forventes at trække statens nettofinan-
+p.180: statsejede aktier, hvormed den offentlige nettogæld endte på -11,3 pct. af BNP i 2020, svarende til en
+p.180: samme niveau i 2021-2023. Der redegøres nærmere for de forskellige gældsbegreber i boks 8.2.
+p.180: I perioden 2020-2023 skønnes den offentlige ØMU-gæld i Danmark fortsat at være lav i et historisk
+p.181: Figur 8.15  |  Tabel 8.12
+p.181: 2020  |  2021  |  2022  |  2023
+p.181: ØMU-gæld  |  42,1  |  37,4  |  34,1  |  34,9
+p.181: Statsgæld  |  23,0  |  19,2  |  17,1  |  18,9
+p.181: BGR  |  Offentlig nettogæld  |  -11,3  |  -10,5  |  -11,0  |  -11,4
+p.181: -0,2  |  -0,2  |  1,0  |  0,8
+p.181: forhold til 2020, jf. tabel 8.12. Skønnene for nettogælden er usikre, da udviklingen i nettogælden ud
+p.181: 23 pct. af BNP i 2020 og skønnes til 19,2 pct. af BNP i 2021, 17,1 pct. af BNP i 2022 og 18,9 pct. af
+p.181: BNP i 2023, jf. tabel 8.12.
+p.182: det forventes at udgøre ca. -77 mia. kr. i 2021 og ca. -47 mia. kr. i 2022. Skønnet for statens nettofi-
+p.182: udgøre ca. 226 mia. kr. i 2021 og ca. 146 mia. kr. i 2022, jf. tabel 8.13. Skønnet for statens bruttofi-
+p.183: Tabel 8.13
+p.183: August-redegørelse 2021 December-redegørelse 2021
+p.183: Mia. kr.  |  2021  |  2022  |  2021  |  2022
+p.183: 1. DAU-saldo  |  -71,4  |  21,2  |  -17,6  |  52,6
+p.183: 2. Genudlån mv. (§ 40)  |  15,6  |  22,9  |  1,5  |  21,7
+p.183: 3. Beholdningsbevægelser og periodiseringer mv. (§ 41)  |  59,1  |  20,0  |  96,4  |  16,3
+p.183: 4. Nettokassesaldo (1-2+3)  |  -28,0  |  18,2  |  77,2  |  47,3
+p.183: 5. Nettofinansieringsbehov (-4)  |  28,0  |  -18,2  |  -77,2  |  -47,3
+p.183: 6. Afdrag langfristet gæld  |  108,7  |  99,5  |  144,1  |  99,3
+p.183: 7. Afdrag kortfristet gæld  |  152,7  |  95,0  |  152,7  |  70,0
+p.183: 8. Transaktioner i de statslige fonde  |  -12,1  |  -0,2  |  -12,1  |  -0,2
+p.183: 9. Opkøb af almene boligobligationer  |  18,6  |  18,8  |  18,6  |  23,7
+p.183: Finansieringsbehov (5+6+7+8+9)  |  295,9  |  194,8  |  226,2  |  145,6
+p.185: 2023, jf. bilagstabel 8.1. Denne udvikling skal helt overordnet ses i sammenhæng med de betydelige
+p.185: ekstraordinære covid-19-tiltag, som særligt påvirker de offentlige udgifter i 2020 og 2021, men også i
+p.185: Bilagstabel 8.1
+p.185: Pct. af BNP  |  2019  |  2020  |  2021  |  2022  |  2023
+p.185: Offentlige udgifter  |  48,5  |  52,4  |  51,5  |  47,7  |  47,9
+p.185: Primære udgifter  |  47,8  |  51,8  |  50,6  |  47,1  |  47,4
+p.185: - Offentligt forbrug  |  24,1  |  24,7  |  24,8  |  23,7  |  23,4
+p.185: - Offentlige investeringer  |  3,2  |  3,6  |  3,6  |  3,4  |  3,8
+p.185: - Indkomstoverførsler  |  15,8  |  16,6  |  15,7  |  14,9  |  14,8
+p.185: - Subsidier  |  1,6  |  3,2  |  2,5  |  1,6  |  1,6
+p.185: - Øvrige primære udgifter  |  3,1  |  3,9  |  4,1  |  3,3  |  3,7
+p.185: Renteudgifter  |  0,7  |  0,5  |  0,8  |  0,6  |  0,5
+p.185: 2022 og ca. 23½ pct. af BNP i 2023. Både i 2020, 2021 og 2022 påvirkes niveauet for forbrugsudgif-
+p.185: dog i mindre grad i 2022. Reduktionen i det offentlige forbrugs andel af BNP fra 2021 til 2023 skal så-
+p.186: vid-19 mv. Realvæksten i det offentlige forbrug skønnes til 5,4 pct. i 2021 og -1,4 pct. i 2022 og forud-
+p.186: ret til covid-19, skønnes den offentlige forbrugsvækst til 3,1 pct. i 2021, 0,9 pct. i 2022 og 0,7 pct. i
+p.186: De offentlige investeringers andel af BNP udgjorde 3,6 pct. af BNP i 2020 og forudsættes at stige til
+p.186: 3,8 pct. i 2023. Der skønnes en realvækst i de offentlige investeringer på 5,3 pct. i 2021, -2,5 pct. i
+p.186: 2022 og 13,6 pct. i 2023. Den negative vækst i 2022 skal blandt andet ses i sammenhæng med rege-
+p.186: gradvist reduceret til knap 15 pct. af BNP i 2023. Faldet fra 2020 skal især ses i lyset af en forbedret
+p.186: 2023. Det midlertidige høje niveau for de offentlige subsidier i 2020 og 2021 kan henføres til kompen-
+p.186: ¾ pct. af BNP i 2021 og ½ pct. af BNP i 2022 og 2023.
+p.186: De samlede offentlige indtægter er foreløbigt opgjort til ca. 52,2 pct. af BNP i 2020 og skønnes at falde
+p.186: gradvist til ca. 48,6 pct. af BNP i 2023, jf. bilagstabel 8.2. Denne udvikling afspejler primært de ekstraor-
+p.186: dinære personskatteindtægter knyttet til udbetalingen af indefrosne feriepenge i 2020 og 2021, og at
+p.186: der i 2021-2023 ventes lavere indtægter fra pensionsafkastskatten end i 2020. Det faktiske skattetryk
+p.186: skønnes tilsvarende at falde gradvist fra ca. 47,4 pct. af BNP i 2020 til ca. 44,0 pct. af BNP i 2023.
+p.186: Personskatteindtægterne er opgjort til ca. 509,0 mia. kr. svarende til ca. 21,9 pct. af BNP i 2020. Per-
+p.186: terne i 2020 og 2021 skal blandt andet ses i lyset af de ekstraordinære indtægter fra personlige ind-
+p.186: 2020 og de resterende to uger i 2021. Personskatteindtægterne forventes at udgøre 20,3 pct. af BNP
+p.186: i 2022 og 20,4 pct. af BNP i 2023, hvor de nævnte ekstraordinære indtægter bortfalder.
+p.186: Provenuet fra arbejdsmarkedsbidrag er opgjort til ca. 105,9 mia. kr. svarende til 4,5 pct. af BNP i
+p.186: 2020. Provenuet skønnes at udgøre ca. 4,5 pct. af BNP i 2021 og 4,4 pct. af BNP i 2022 og 2023.
+p.186: Provenuet fra pensionsafkastskatten er opgjort til ca. 48,2 mia. kr. i 2020 svarende til 2,1 pct. af BNP i
+p.186: 2020. De ekstraordinært høje indtægter i 2020 skal primært ses i lyset af høje afkast på tværs af ak-
+p.187: Bilagstabel 8.2
+p.187: Pct. af BNP  |  2019  |  2020  |  2021  |  2022  |  2023
+p.187: Personskatter mv.1)  |  21,0  |  21,9  |  21,0  |  20,3  |  20,4
+p.187: Arbejdsmarkedsbidrag  |  4,3  |  4,5  |  4,5  |  4,4  |  4,4
+p.187: Pensionsafkastskat  |  2,7  |  2,1  |  1,4  |  0,8  |  0,9
+p.187: Selskabsskatter  |  3,1  |  2,6  |  3,3  |  2,9  |  2,7
+p.187: - Selskabsskat af kulbrintevirksomhed  |  0,1  |  0,0  |  0,0  |  0,0  |  0,0
+p.187: - Øvrig selskabsskat  |  3,0  |  2,6  |  3,3  |  2,9  |  2,7
+p.187: Moms  |  9,6  |  9,9  |  9,9  |  9,8  |  9,9
+p.187: Øvrige indirekte skatter  |  6,3  |  6,2  |  5,9  |  5,7  |  5,6
+p.187: Øvrige skatter2)  |  0,2  |  0,2  |  0,1  |  0,0  |  0,0
+p.187: Skattetryk  |  47,3  |  47,4  |  46,2  |  43,9  |  44,0
+p.187: Renteindtægter  |  3)  |  1,0  |  0,9  |  1,2  |  0,9  |  0,9
+p.187: Øvrige indtægter4)  |  4,4  |  4,1  |  4,0  |  3,9  |  3,8
+p.187: i øvrigt til anmærkningerne til bilagstabel 8.1.
+p.188: teskat, som indgår i nordsøindtægterne) er opgjort til 61 mia. kr. i 2020 svarende til 2,6 pct. af BNP.
+p.188: Indtægterne fra øvrige selskabsskatter skønnes til 3,3 pct. af BNP i 2021, 2,9 pct. af BNP i 2022 og
+p.188: 2,7 pct. af BNP i 2023. De relativt høje indtægtsskøn i 2021 og 2022 kan blandt andet henføres til
+p.188: høje 2. rate acontoindbetalinger i 2021, som i et vist omfang skønnes at bære med over i 2022. Fi-
+p.188: Momsindtægterne er opgjort til ca. 230,5 mia. kr. i 2020 svarende til 9,9 pct. af BNP. Momsindtæg-
+p.188: terne skønnes at udgøre en tilsvarende andel af BNP i perioden 2021-2023.
+p.188: 2020 svarende til 6,2 pct. af BNP. Frem mod 2023 skønnes indtægterne fra punktafgifterne mv. at
+p.188: falde gradvist til 5,6 pct. af BNP.
+p.188: Nordsøindtægterne er opgjort til godt ½ mia. kr. i 2020 svarende til 0,0 pct. af BNP. I 2021-2023
+p.188: ner).1 Nordsøindtægterne skønnes at stige fra 2021 til 2022 som følge af et højere olieprisskøn, og
+p.188: stige yderligere fra 2022 til 2023 som følge af højere skøn for gas- og olieproduktionen (men udgør
+p.188: fortsat 0,0 pct. af BNP).
+p.188: De offentlige renteindtægter er opgjort til ca. 20,7 mia. kr. i 2020 svarende til 0,9 pct. af BNP. De of-

@@ -1,0 +1,69 @@
+# nb-2018-03
+# url: https://www.nationalbanken.dk/media/a5fl4m0b/analyse-moderat-hoejkonjunktur-i-de-kommende-aar.pdf
+# http: 200  bytes: 437248  sha256: 96d4f17f6134aeada2552f9bbe3549760138992493516a6acdb93f7b834eb4ad
+# fetched: 2026-09-29T18:09:02Z
+# pages: 21  (lines below are quotes; p.N = PDF page)
+
+p.2: •  |  Det reale BNP skønnes at vokse med 1,9 pct. i år,
+p.2: 2017  |  2018  |  2019  |  2020  |  2. kvt.  |  3. kvt.  |  4. kvt.
+p.2: BNP (realt), pct.  |  2,1  |  1,9  |  1,8  |  1,7  |  -1,2  |  -0,8  |  1,0
+p.2: Beskæftigelse, 1.000 personer  |  2.923  |  2.963  |  2.989  |  3.008  |  2.917  |  2.929  |  2.942
+p.2: Betalingsbalance, pct. af BNP  |  7,5  |  7,7  |  7,3  |  6,8  |  8,4  |  7,2  |  6,7
+p.2: Offentlig saldo, pct. af BNP  |  0,5  |  -0,9  |  -1,0  |  -0,6  |  0,1  |  -1,1  |  2,3
+p.2: Huspriser1, pct. år-år  |  3,9  |  3,2  |  2,8  |  2,5  |  4,4  |  3,9  |  3,7
+p.2: Forbrugerpriser (HICP), pct. år-år  |  1,1  |  0,7  |  1,5  |  1,6  |  0,7  |  1,5  |  1,2
+p.2: Timeløn (industrien), pct. år-år  |  2,1  |  2,5  |  3,0  |  3,3  |  2,0  |  2,3  |  2,0
+p.3: reale bruttonationalprodukt, BNP, steg med 2,1 pct.  |  det store overskud på betalingsbalancen muliggør
+p.3: realt BNP skønnes til 1,9 pct. i år for gradvist at falde  |  indbetalt efterløn og for meget betalt ejendomsskat.
+p.9: Væksten i BNP ventes i år at blive 1,9 pct. omtrent  |  Væksten trækkes af det private  |  Figur 12
+p.9: BNP-vækst på 1,8 pct. til næste år og 1,7 pct. i 2020,
+p.9: 2017  |  2018  |  2019  |  2020
+p.10: på 0,5 pct. af BNP. Den fortsatte konjunkturfremgang  |  ne er høje. Det giver et potentiale for en kraftige-
+p.10: af BNP i år og næste år og 0,6 pct. af BNP i 2020.  |  tion, hvor økonomien befinder sig i en højkonjunk-
+p.11: Realvækst i forhold til perioden før, pct.  |  2017  |  2018  |  2019  |  2020  |  2. kvt.  |  3. kvt.  |  4. kvt.
+p.11: BNP  |  2,1  |  1,9  |  1,8  |  1,7  |  -1,2  |  -0,8  |  1,0
+p.11: Privat forbrug1  |  1,5  |  2,2  |  2,3  |  2,2  |  0,4  |  -1,1  |  1,3
+p.11: Offentligt forbrug  |  1,1  |  1,0  |  0,8  |  0,8  |  0,3  |  0,1  |  1,0
+p.11: Boliginvesteringer  |  4,8  |  4,2  |  3,8  |  4,0  |  0,9  |  1,4  |  5,2
+p.11: Offentlige investeringer  |  -4,5  |  -1,1  |  0,2  |  0,5  |  4,6  |  -3,5  |  6,4
+p.11: Erhvervsinvesteringer  |  3,9  |  3,6  |  4,7  |  4,9  |  3,7  |  2,8  |  -1,9
+p.11: 0,1  |  0,0  |  0,0  |  0,0  |  -0,4  |  -0,3  |  0,4
+p.11: Eksport  |  4,6  |  2,1  |  2,7  |  2,9  |  -2,3  |  -0,7  |  1,3
+p.11: Industrieksport  |  6,9  |  2,8  |  3,6  |  3,7  |  2,4  |  -1,7  |  0,3
+p.11: Import  |  4,1  |  2,5  |  3,8  |  3,9  |  0,7  |  -0,3  |  2,5
+p.11: Beskæftigelse, 1.000 personer  |  2.923  |  2.963  |  2.989  |  3.008  |  2.917  |  2.929  |  2.942
+p.11: Betalingsbalance, pct. af BNP  |  7,5  |  7,7  |  7,3  |  6,8  |  8,4  |  7,2  |  6,7
+p.11: Offentlig saldo, pct. af BNP  |  0,5  |  -0,9  |  -1,0  |  -0,6  |  0,1  |  -1,1  |  2,3
+p.11: Huspriser3, pct. år-år  |  3,9  |  3,2  |  2,8  |  2,5  |  4,4  |  3,9  |  3,7
+p.11: Forbrugerpriser (HICP), pct. år-år  |  1,1  |  0,7  |  1,5  |  1,6  |  0,7  |  1,5  |  1,2
+p.11: Timeløn (industrien), pct. år-år  |  2,1  |  2,5  |  3,0  |  3,3  |  2,0  |  2,3  |  2,0
+p.12: blevet opjusteret, jf. figur 14. Dermed er flere års ten-  |  2019 svarende til omtrent 0,7 pct. af BNP i begge år,
+p.12: dens til at nedjustere vækstudsigterne blevet brudt.  |  dvs. en forøgelse af gælden på 1,4 pct. af BNP. Det
+p.12: snittet på 2,8 pct. de seneste 30 år.  |  fentligt forbrug. På kort sigt vil det øge BNP-væksten,
+p.13: 3,5  |  af potentielt BNP
+p.13: af BNP i 2007 til knap 80 pct. af BNP i 2017, hvilket er  |  spændinger og protektionisme. Den amerikanske
+p.14: ramt af gældskrisen. Ledigheden toppede med 12,1  |  Inflationsmålsætning
+p.15: 2012  |  2013  |  2014  |  2015  |  2016  |  2017  |  01  |  03  |  05  |  07  |  09  |  11  |  13  |  15  |  17
+p.15: euro i 2017 trukket i retning af lavere inflation.  |  1,25-1,50 pct. I sin renteprognose lægger FOMC op
+p.15: i 2016 og 2,7 pct. i 2017.  |  3.500 mia. dollar. Det nuværende niveau er omtrent
+p.15: 2015, senest i december 2017. På det seneste møde  |  over de kommende år i takt med, at Fed nedbringer
+p.16: i december 2017.  |  2017  |  2018  |  2019  |  2020
+p.18: Prognosen er udarbejdet ved brug af den makroøko-  |  4,2 pct. i år og henholdsvis 4,1 og 4,0 pct. i 2019 og
+p.18: 2017  |  2018  |  2019  |  2020
+p.18: Eksportmarkedsvækst, pct. år-år  |  4,3  |  4,2  |  4,1  |  4,0
+p.18: 3,3  |  1,9  |  1,5  |  1,6
+p.18: Udenlandsk timeløn, pct. år-år  |  2,1  |  2,3  |  2,4  |  2,6
+p.18: 3-måneders pengemarkedsrente, pct. p.a.  |  -0,5  |  -0,5  |  -0,3  |  0,2
+p.18: Gennemsnitlig obligationsrente, pct. p.a.  |  0,7  |  0,9  |  1,3  |  1,7
+p.18: Effektiv kronekurs, 1980 = 100  |  102,1  |  103,9  |  103,9  |  103,9
+p.19: tioner) ventes at stige gennem prognoseperioden  |  investeringer antages at falde 1,1 pct. i år og stige
+p.19: fra et udgangspunkt på 0,8 pct. op til 1,8 pct. ved  |  med henholdsvis 0,2 og 0,5 pct. i 2019 og 2020, jf.
+p.19: HICP, er for 2018 og 2019 justeret ned. Nedjusterin-
+p.19: Pct., år-år  |  2017  |  2018  |  2019  |  2017  |  2018  |  2019
+p.19: Prognose fra december 2017  |  2,3  |  1,8  |  1,7  |  1,0  |  1,4  |  1,7
+p.19: Eksportmarkedsvækst  |  0,1  |  0,1  |  0,1  |  0,0  |  0,0  |  0,1
+p.19: Renteudvikling  |  0,0  |  0,0  |  -0,1  |  0,0  |  0,0  |  0,0
+p.19: Valutakurser  |  0,0  |  -0,3  |  0,0  |  0,0  |  -0,1  |  -0,1
+p.19: Oliepriser  |  0,0  |  0,0  |  -0,1  |  0,1  |  0,5  |  -0,1
+p.19: Andre faktorer  |  -0,3  |  0,3  |  0,0  |  -0,1  |  -1,1  |  -0,1
+p.19: Denne prognose  |  2,1  |  1,9  |  1,8  |  1,1  |  0,7  |  1,5

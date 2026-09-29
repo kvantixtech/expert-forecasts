@@ -1,0 +1,23 @@
+# dor-2015-page
+# url: https://dors.dk/vismandsrapporter/dansk-oekonomi-efteraar-2015
+# http: 200  bytes: 81426  sha256: a2c562c80d4329fcc698c86c892137a1ee55028ef362d7b29ca5ac14648bc4b6
+# fetched: 2026-09-29T18:09:13Z
+# html page
+
+
+# PDF links on this page:
+https://dors.dk/files/media/offentlige_finanser/hoeringssvar.pdf
+https://dors.dk/files/media/rapporter/2015/E15/e15.pdf
+https://dors.dk/files/media/rapporter/2015/E15/e15_english_summary.pdf
+https://dors.dk/files/media/rapporter/2015/E15/e15_pressemeddelelse.pdf
+https://dors.dk/files/media/rapporter/2015/E15/e15_resume.pdf
+https://dors.dk/files/media/rapporter/2015/E15/e15_skriftlige_indlaeg.pdf
+https://dors.dk/files/media/rapporter/2015/E15/kap_i/e15_kap_i_baggrund_arbejdsstyrke.pdf
+https://dors.dk/files/media/rapporter/2015/E15/kap_i/e15_kap_i_baggrund_konjunkturvurdering.pdf
+https://dors.dk/files/media/rapporter/2015/E15/kap_i/e15_kap_i_baggrund_oecd_fremskrivninger_sammenligning.pdf
+https://dors.dk/files/media/rapporter/2015/E15/kap_i/e15_kap_i_baggrund_skatteberegninger.pdf
+https://dors.dk/files/media/rapporter/2015/E15/kap_i/e15_kap_i_konjunkturvurdering.pdf
+https://dors.dk/files/media/rapporter/2015/E15/kap_ii/e15_kap_ii_dokumentationsnotat_-_offentlige_finanser_efteraar_2015.pdf
+https://dors.dk/files/media/rapporter/2015/E15/kap_ii/e15_kap_ii_offentlige_finanser.pdf
+https://dors.dk/files/media/rapporter/2015/E15/kap_iii/e15_kap_iii_baggrund_effekter_af_ydelsesreduktioner.pdf
+https://dors.dk/files/media/rapporter/2015/E15/kap_iii/e15_kap_iii_indkomstoverfoersler_med_fokus_paa_kontanthjaelp.pdf

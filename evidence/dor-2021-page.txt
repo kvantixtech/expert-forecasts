@@ -1,0 +1,22 @@
+# dor-2021-page
+# url: https://dors.dk/vismandsrapporter/dansk-oekonomi-efteraar-2021
+# http: 200  bytes: 80785  sha256: 6ddca5117968084984c8b34eb20e6922081afcb0437df7fd959999274effbc26
+# fetched: 2026-09-29T18:09:19Z
+# html page
+
+
+# PDF links on this page:
+https://dors.dk/files/media/old_files/E21_Skriftlige_indl%25C3%25A6g_fra_r%25C3%25A5dsmedlemmer.pdf
+https://dors.dk/files/media/rapporter/2021/e21/baggrundsmateriale/dansk_oekonomi_efteraar_2021_kap._iii_finanspolitisk_holdbarhed.pdf
+https://dors.dk/files/media/rapporter/2021/e21/baggrundsmateriale/dansk_oekonomi_efteraar_2021_kap_ii_baggrundsnotat_til_konjunkturvurdering.pdf
+https://dors.dk/files/media/rapporter/2021/e21/baggrundsmateriale/dansk_oekonomi_efteraar_2021_kap_ii_baggrundsnotat_til_offentlige_finanser.pdf
+https://dors.dk/files/media/rapporter/2021/e21/baggrundsmateriale/dansk_oekonomi_efteraar_2021_kap_iv_baggrundsnotat_helbred_og_aeldres_beskaeftigelse.pdf
+https://dors.dk/files/media/rapporter/2021/e21/endelig_rapport/dansk_oekonomi_efteraar_2021_web.pdf
+https://dors.dk/files/media/rapporter/2021/e21/endelig_rapport/e21_hovedkonklusioner.pdf
+https://dors.dk/files/media/rapporter/2021/e21/endelig_rapport/e21_kap_i.pdf
+https://dors.dk/files/media/rapporter/2021/e21/endelig_rapport/e21_kap_ii.pdf
+https://dors.dk/files/media/rapporter/2021/e21/endelig_rapport/e21_kap_iii.pdf
+https://dors.dk/files/media/rapporter/2021/e21/endelig_rapport/e21_kap_iv_.pdf
+https://dors.dk/files/media/rapporter/2021/e21/endelig_rapport/e21_kap_v.pdf
+https://dors.dk/files/media/rapporter/2021/e21/endelig_rapport/e21_summary.pdf
+https://dors.dk/files/media/rapporter/2021/e21/presse_e21.pdf

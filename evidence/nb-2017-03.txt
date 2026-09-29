@@ -1,0 +1,76 @@
+# nb-2017-03
+# url: https://www.nationalbanken.dk/media/otbgtlbo/analysis-outlook-for-the-danish-economy-march-2017.pdf
+# http: 200  bytes: 839248  sha256: f9ba0f6ff1211afbc348275c44c42fc5d1c0a640dabe527b6ac82497f52f1745
+# fetched: 2026-09-29T18:09:00Z
+# pages: 20  (lines below are quotes; p.N = PDF page)
+
+p.1: 2017-19  |  increase by the end of 2019  |  has scope for such increase
+p.2: •  |  Real GDP is expected to grow by 1.6 per cent per  |  increases are normalising.
+p.2: 2016  |  2017  |  2018  |  2019  |  Q2  |  Q3  |  Q4
+p.2: GDP (real), per cent year-on-year  |  1.1  |  1.6  |  1.6  |  1.6  |  0.3  |  0.7  |  0.2
+p.2: Employment, 1,000 persons  |  2,877  |  2,916  |  2,936  |  2,950  |  2,871  |  2,882  |  2,894
+p.2: Balance of payments, per cent of GDP  |  8.1  |  7.5  |  7.3  |  7.1  |  8.5  |  7.4  |  9.5
+p.2: Government balance, per cent of GDP  |  -1.0  |  -1.3  |  -1.0  |  -1.2  |  -1.1  |  -1.8  |  1.0
+p.2: House prices1, per cent year-on-year  |  3.8  |  3.1  |  2.7  |  2.4  |  3.2  |  4.0  |  3.4
+p.2: Consumer prices (HICP) , per cent year-on-year  |  0.0  |  1.4  |  1.7  |  1.7  |  -0.1  |  -0.1  |  0.2
+p.2: Hourly wages (manufacturing), per cent year-on-year  |  2.2  |  2.5  |  2.7  |  3.0  |  2.2  |  2.1  |  2.4
+p.3: 2013, 48,000 of whom entered the labour market last  |  Structural GDP
+p.3: Real GDP is expected to grow by 1.6 per cent both  |  98
+p.9: 2012  |  2013  |  2014  |  2015  |  2016  |  2017
+p.10: ac­celeration, this means that growth in consumer  |  tural deficit is expected to be 0.5 per cent of GDP
+p.10: expected to be 0.2 per cent of GDP in 2018.
+p.10: of GDP. The government deficit will improve to 1.0  |  hand, lead to higher economic volatility. In the slight-
+p.11: Real growth on preceding period, per cent  |  2016  |  2017  |  2018  |  2019  |  Q2  |  Q3  |  Q4
+p.11: GDP  |  1.1  |  1.6  |  1.6  |  1.6  |  0.3  |  0.7  |  0.2
+p.11: Private consumption1  |  2.1  |  2.0  |  2.0  |  2.0  |  0.1  |  -0.1  |  1.5
+p.11: Public consumption  |  -0.2  |  0.5  |  0.6  |  0.8  |  0.8  |  -0.7  |  -1.1
+p.11: Residential investment  |  11.1  |  1.6  |  3.5  |  3.0  |  2.4  |  -2.7  |  0.2
+p.11: Public investment  |  0.6  |  -1.5  |  -0.7  |  -0.2  |  -1.4  |  -2.4  |  -5.0
+p.11: Business investment  |  3.7  |  3.6  |  3.6  |  3.6  |  0.1  |  3.9  |  3.7
+p.11: Inventory investment, etc.2  |  -0.3  |  0.0  |  0.0  |  0.0  |  -0.5  |  1.1  |  -1.0
+p.11: Exports  |  1.4  |  3.2  |  2.5  |  2.5  |  1.1  |  0.9  |  4.1
+p.11: Industrial exports  |  3.0  |  3.7  |  2.9  |  2.8  |  0.5  |  -0.3  |  5.7
+p.11: Imports  |  2.4  |  3.5  |  3.0  |  3.1  |  0.3  |  1.9  |  3.7
+p.11: Employment, 1,000 persons  |  2,877  |  2,916  |  2,936  |  2,950  |  2,871  |  2,882  |  2,894
+p.11: Balance of payments, per cent of GDP  |  8.1  |  7.5  |  7.3  |  7.1  |  8.5  |  7.4  |  9.5
+p.11: Government balance, per cent of GDP  |  -1.0  |  -1.3  |  -1.0  |  -1.2  |  -1.1  |  -1.8  |  1.0
+p.11: 3.8  |  3.1  |  2.7  |  2.4  |  3.2  |  4.0  |  3.4
+p.11: Consumer prices (HICP), per cent year-on-year  |  0.0  |  1.4  |  1.7  |  1.7  |  -0.1  |  -0.1  |  0.2
+p.11: Hourly wages (manufacturing), per cent year-on-year  |  2.2  |  2.5  |  2.7  |  3.0  |  2.2  |  2.1  |  2.4
+p.12: than 2 million people, corresponding to 1.6 per cent,  |  age inflation rate 5-10 years into the future.
+p.12: investment. As a result, inflation expectations and  |  3.5
+p.12: adjust US GDP growth upwards, cf. Chart 14.1 Growth
+p.12: a total increase in GDP growth of 0.5 percentage point in 2017-18,
+p.13: 1,000 billion dollars  |  127 per cent of GDP
+p.15: 2017, from a level close to zero in most of 2016. In  |  USA
+p.15: the USA and the UK, inflation was slightly lower in  |  1.5
+p.15: to be 1.7 per cent in 2019 and that core inflation will
+p.15: rise to 1.8 per cent, due to both the accommodative  |  2014  |  2015  |  2016  |  2017
+p.16: 2017  |  2018  |  2019  |  2.5
+p.16: Euro area, inflation  |  1.7  |  1.6  |  1.7  |  2.0
+p.16: Euro area, core inflation  |  1.1  |  1.5  |  1.8  |  1.5
+p.16: USA, inflation  |  1.9  |  2.0  |  2.0
+p.16: USA, core inflation  |  1.8  |  2.0  |  2.0
+p.16: Anm.:  |  The EU Harmonised Index of Consumer Prices, HICP, is  |  -1.0
+p.16: 2016  |  2017  |  2018
+p.16: December 2016 for the USA and March 2017 for the  |  USA (Fed funds target rate, upper band)
+p.16: 0.5 per cent of GDP according to the Fiscal Compact.  |  Fiscal easing
+p.16: 2011  |  2012  |  2013  |  2014  |  2015  |  2016  |  2017  |  2018
+p.17: and 3.5 per cent in 2019, cf. Table A1.  |  Real public consumption is expected to rise by 0.5
+p.17: erate foreign price increases are expected this year  |  cent in 2018 and 0.2 per cent in 2019, cf. Table A1.
+p.18: 2016  |  2017  |  2018  |  2019
+p.18: Export market growth, per cent year-on-year  |  2.7  |  3.2  |  3.4  |  3.5
+p.18: Foreign price1, per cent year-on-year  |  -2.6  |  0.6  |  1.5  |  1.5
+p.18: Foreign hourly wages, per cent year-on-year  |  1.8  |  2.1  |  2.3  |  2.5
+p.18: 3-month money market interest rate, per cent p.a.  |  -0.4  |  -0.5  |  -0.4  |  -0.3
+p.18: Average bond yield, per cent p.a.  |  0.8  |  0.8  |  1.1  |  1.4
+p.18: Effective krone rate, 1980 = 100  |  100.8  |  100.3  |  100.3  |  100.3
+p.18: Dollar exchange rate, DKK per USD  |  6.7  |  7.0  |  7.0  |  7.0
+p.19: Per cent, year-on-year  |  2016  |  2017  |  2018  |  2016  |  2017  |  2018
+p.19: Projection, December 2016  |  1.0  |  1.4  |  1.5  |  0.0  |  1.1  |  1.8
+p.19: Export market growth  |  0.1  |  0.0  |  0.0  |  0.0  |  0.0  |  0.0
+p.19: Interest rates  |  0.0  |  0.0  |  0.1  |  0.0  |  0.0  |  0.0
+p.19: Exchange rates  |  0.0  |  0.2  |  0.1  |  0.0  |  0.1  |  0.1
+p.19: Oil prices  |  0.0  |  0.0  |  0.0  |  0.0  |  0.0  |  0.0
+p.19: Other factors  |  0.1  |  0.0  |  0.0  |  0.0  |  0.2  |  -0.2
+p.19: This projection  |  1.1  |  1.6  |  1.6  |  0.0  |  1.4  |  1.7

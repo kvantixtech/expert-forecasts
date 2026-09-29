@@ -1,0 +1,506 @@
+# or-2016-12
+# url: https://regeringen.dk/media/xb0jk32l/oekonomisk-redegoerelse-december-2016.pdf
+# http: 200  bytes: 3721208  sha256: 573652babf0964524f384da54affb1263f4bd31b80aa3ff34183931aa783badb
+# fetched: 2026-09-29T18:08:00Z
+# pages: 177  (lines below are quotes; p.N = PDF page)
+
+p.7: 1.5 Bilagstabel ............................................................................................................  |  36
+p.7: Bilag 4.2 Engangsforhold i 2013-2018........................................................................ 141
+p.9: perspektiv, falder til omkring det strukturelle niveau i prognoseperioden, jf. figur 1.2. Ledig-
+p.9: Anm.: I figur 1.1 angiver de vandrette streger skønnede årsniveauer for BNP og beskæftigelsen.
+p.10: vækst på knap 1 pct. i 2016 ventes væksten at tiltage i 2017 og 2018 til henholdsvis 1,5 pct.
+p.10: mien i 2008-2009 var dansk økonomi kraftigt overophedet med blandt andet et højt privatfor-
+p.11: Indeks (1. kvartal 2005 =100)  |  Indeks (1. kvartal 2005 =100)  |  Pct.-point  |  Pct.-point
+p.11: indkomsten (lønindkomst og overførsler) siden 2007, jf. figur 1.5. For 2017 og 2018 er der
+p.13: 00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18  |  1981-1995  |  1996-2006  |  2007-2011  |  2012-2016
+p.17: august 2016, og DK2025 – Et stærkere Danmark. Den marginale nedjustering af vækstskønnet for 2016
+p.17: regnskabstal til og med 2. kvartal 2016, Danmarks Statistiks BNP-indikator for 3. kvartal 2016 samt en
+p.17: nationalregnskabstal for 3. kvartal. Ifølge opgørelsen steg BNP med 0,4 pct. i 3. kvartal og med 0,2 pct.-
+p.17: point mere end BNP-indikatorens bud. Danmarks Statistik angiver usikkerheden på BNP-væksten til +/- 0,5
+p.17: Statistik endvidere revideret BNP-væksten i 1. kvartal op med 0,1 pct.-point, mens den er revideret ned i 2.
+p.18: og regionerne tilrettelagt med et skønnet strukturelt underskud på 0,4 pct. af BNP. Nye op-
+p.18: saldo i forhold til augustvurderingen. Underskuddet i 2017 skønnes nu til 0,5 pct. af BNP, jf.
+p.18: også tabel 1.1.
+p.18: Tabel 1.1
+p.18: 2016  |  2017  |  2018
+p.18: Strukturel saldo, pct. af strukturelt BNP  |  -0,3  |  -0,5  |  -0,2
+p.18: Faktisk saldo, pct. af BNP  |  -1,4  |  -1,6  |  -0,9
+p.18: ØMU-gæld, pct. af BNP  |  38,1  |  37,6  |  36,7
+p.18: Offentlig forbrugsvækst, pct.  |  0,4  |  0,7  |  0,81)
+p.18: Etårig finanseffekt, pct. af BNP2)  |  -0,1  |  0,0  |  -0,1
+p.18: Outputgab, pct.3)  |  -0,6  |  -0,2  |  0,0
+p.18: Finanspolitikken for 2018 fastlægges i løbet af 2017 med blandt andet finansloven for 2018
+p.19: finanspolitikken i 2018 vil blive fastlagt i løbet af 2017.
+p.19: strukturelt underskud på 0,2 pct. af BNP indregnet som en realvækst i det offentlige forbrug på 0,8 pct.
+p.19: realvækst i det offentlige forbrug på 0,3 pct. om året. Hertil kommer udgifter muliggjort af reformer, fx SU,
+p.19: samt øgede investeringer i danskernes sikkerhed. Regeringen ønsker således en basis realvækst på 0,3
+p.19: mod 2025, økonomiaftalerne med kommuner og regioner samt finansloven for 2018.
+p.19: pct. af BNP i både 2016 og 2017, mens der i 2018 skønnes et underskud på knap 1 pct. af
+p.19: BNP, jf. figur 1.17. Korrigeret for udsving i det volatile provenu fra pensionsafkastskatten, jf.
+p.19: BNP i 2017 til ca. 0,2 pct. af BNP i 2018.
+p.20: 2015  |  2016  |  2017  |  2018  |  00  |  02  |  04  |  06  |  08  |  10  |  12  |  14  |  16  |  18
+p.20: normalisering af renterne medvirker til lavere indtægter fremadrettet. I 2017 og 2018 skønnes
+p.20: I både 2016 og 2017 påvirkes den faktiske saldo endvidere negativt af forventede ned- og
+p.20: på et lavt niveau på ca. 8 pct. af BNP i 2018, jf. figur 1.18. Den offentlige ØMU-gæld skønnes
+p.21: ud af drift i midten af 2015. Danmarks Statistik ændrede i efteråret 2015 den regnskabsmæssige hånd-
+p.21: fra 2016 til 2017. Det bemærkes, at størrelsesordenen af en mulig ekstraordinær afskrivning i 2017 er
+p.21: årene 2014-2016. Afskrivningen i 2017 er tilsvarende fordelt ligeligt i årene 2015-2017.
+p.21: Tabel a
+p.21: 2016  |  2017
+p.21: Anm.: Både nedskrivningen af skatterestancer i 2016 (fordelt over 2014-2016) og den ekstraordinære af-
+p.21: skrivning på 2 mia. kr. i 2017 (fordelt over 2015-2017) påvirker den strukturelle saldo gennem et
+p.22: Den strukturelle saldo skønnes at udvise et underskud på 0,3 pct. af BNP i 2016, mens
+p.22: underskuddet vurderes til 0,5 pct. af BNP i 2017, jf. figur 1.19. Set i forhold til august er den
+p.22: strukturelle saldo dermed uændret i 2016, men svækket med 0,1 pct. af BNP i 2017.
+p.22: tikken tilrettelagt med et skønnet underskud på 0,4 pct. af BNP og med afstand til budgetlo-
+p.22: strukturelle saldo, som derfor nu udviser et underskud på 0,5 pct. af BNP i 2017. De nye
+p.22: større i 2017  |  (før nye prioriteringer for 2018)
+p.22: 0,0  |  0,0  |  1,4  |  1,4
+p.22: -0,3  |  -0,3  |  1,0  |  1,0
+p.22: -0,6  |  -0,6  |  0,6  |  0,6
+p.22: -0,7  |  Underskudsgrænse i budgetloven  |  -0,7  |  0,4  |  0,4
+p.22: -1,0  |  -1,0  |  0,0  |  0,0
+p.22: 2014  |  2015  |  2016  |  2017  |  2018  |  Gennemsnit  |  2016  |  2017  |  2018
+p.22: 2000-2015  |  beregnings-
+p.22: Anm.: Figur 1.20 viser realvæksten i det offentlige forbrug opgjort ved inputmetoden.
+p.23: det strukturelle underskud skønnet til 0,2 pct. af BNP.
+p.23: cer, indebærer på linje med 2017 en svækkelse af den strukturelle saldo på 0,1 pct. af BNP i
+p.23: uændret på 0,2 pct. af BNP. Med mindredisponeringen vokser det offentlige forbrug bereg-
+p.23: frem mod 2025 og med finansloven for 2018 samt økonomiaftalerne med kommunerne og
+p.23: regionerne. Regeringen har et mål om en årlig basis realvækst i det offentlige forbrug på 0,3
+p.23: danskernes sikkerhed. Regeringen ønsker således en basis realvækst på 0,3 pct., og at de
+p.24: finanspolitik siden 2014 samlet til at dæmpe BNP-niveauet med ca. 0,4 pct. i 2018 og dermed
+p.24: 0,0  |  0,0  |  3.100  |  4. kvt. 2016  |  3.100
+p.24: -0,1  |  -0,1  |  3.000  |  3.000
+p.24: -0,2  |  -0,2  |  2.900  |  2.900
+p.24: -0,3  |  -0,3  |  2.800  |  2.800
+p.24: -0,4  |  -0,4  |  2.700  |  Forløb uden  |  2.700
+p.24: Anm.: I figur 1.23 er aktivitetsvirkningen af finanspolitikken på BNP-niveauet opgjort ved den flerårige
+p.32: nyt kildemateriale for årene 2013-2015. Det har blandt andet bidraget til en opjustering af
+p.32: re år. I perioden 2010-2015 er BNP-væksten ca. ½ pct.-point højere i gennemsnit hvert år
+p.32: figur 1.37. Revisionerne medfører både et højere niveau for BNP og for eksport, import og
+p.32: erhvervsinvesteringer, hvilket gælder både i løbende og faste priser, jf. figur 1.38. BNP er i
+p.34: gående retning i perioden 2010-2015, jf. tabel 1.2. Den årlige realvækst i det offentlige for-
+p.34: brug er således opjusteret med gennemsnitligt 0,6 pct.-point i perioden 2008-2015. Derimod
+p.34: Tabel 1.2
+p.34: 2008  |  2009  |  2010  |  2011  |  2012  |  2013  |  2014  |  2015
+p.34: Før revision  |  3,2  |  3,0  |  1,3  |  -1,4  |  0,0  |  -0,7  |  0,2  |  -0,7
+p.34: Efter revision  |  3,3  |  3,0  |  1,6  |  -0,6  |  0,8  |  -0,1  |  1,2  |  0,6
+p.34: Forskel (pct.-point)  |  0,1  |  0,0  |  0,3  |  0,8  |  0,8  |  0,6  |  1,0  |  1,3
+p.35: metoden, jf. tabel 1.3.
+p.36: I perioden 2008-2015 er bidraget til BNP-væksten fra det offentlige forbrug i gennemsnit 0,1
+p.36: Tabel 1.3
+p.36: 2008  |  2009  |  2010  |  2011  |  2012  |  2013  |  2014  |  2015
+p.36: Input  |  2,5  |  2,3  |  0,5  |  -1,9  |  0,9  |  -0,4  |  1,4  |  0,9
+p.36: Output  |  3,2  |  3,0  |  1,6  |  -0,6  |  0,8  |  -0,1  |  1,2  |  0,6
+p.36: Forskel (pct.-point)  |  0,7  |  0,7  |  1,1  |  1,3  |  -0,1  |  0,3  |  -0,2  |  -0,3
+p.36: den private sektor  |  1995-2015
+p.36: Indeks (1995=100)  |  Indeks (1995=100)  |  Pct.  |  Pct.
+p.37: 2009 til 2015  |  indbygger i 2015
+p.37: Anm.: I figur 1.43 er EA19 euroområdet. I figur 1.44 er BNP opgjort i løbende priser købekraftskorrigeret
+p.38: 1.5 Bilagstabel
+p.38: Tabel 1.4
+p.38: 2016  |  2017  |  2018
+p.38: Privat forbrug  |  1,9  |  1,9  |  1,6  |  1,8  |  2,0
+p.38: Samlet offentlig efterspørgsel  |  0,6  |  0,4  |  0,4  |  0,7  |  0,4
+p.38: - heraf offentligt forbrug  |  1,2  |  0,4  |  0,5  |  0,7  |  0,81)
+p.38: - heraf offentlige investeringer  |  -3,3  |  0,7  |  -0,2  |  0,6  |  -2,5
+p.38: Boliginvesteringer  |  4,0  |  4,0  |  6,0  |  6,0  |  8,0
+p.38: Faste erhvervsinvesteringer  |  3,6  |  1,5  |  4,7  |  3,8  |  3,9
+p.38: I alt endelig indenlandsk efterspørgsel  |  1,8  |  1,5  |  1,7  |  1,8  |  2,0
+p.38: Lagerændringer (vækstbidrag)  |  -0,1  |  -0,2  |  0,1  |  0,0  |  0,0
+p.38: I alt indenlandsk efterspørgsel  |  1,7  |  1,3  |  1,8  |  1,7  |  2,0
+p.38: Eksport  |  1,0  |  0,6  |  3,3  |  2,4  |  2,7
+p.38: - heraf industrieksport  |  3,6  |  2,1  |  3,4  |  2,8  |  2,9
+p.38: Samlet efterspørgsel  |  1,5  |  1,0  |  2,3  |  2,0  |  2,3
+p.38: BNP  |  0,9  |  0,8  |  1,5  |  1,5  |  1,7
+p.38: BNP efter outputmetoden (beregningsteknisk)  |  -  |  0,9  |  -  |  1,6  |  1,8
+p.38: Bruttoværditilvækst  |  0,8  |  0,8  |  1,5  |  1,5  |  1,8
+p.38: - heraf i private byerhverv  |  1,6  |  1,5  |  2,1  |  2,1  |  2,4
+p.38: Outputgab  |  -0,9  |  -0,6  |  -0,4  |  -0,2  |  0,0
+p.38: Beskæftigelsesgab  |  -1,2  |  -0,8  |  -0,9  |  -0,4  |  -0,1
+p.38: Ledighedsgab  |  0,6  |  0,3  |  0,4  |  0,1  |  0,0
+p.39: Tabel 1.4 (fortsat)
+p.39: 2016  |  2017  |  2018
+p.39: Huspriser (enfamiliehuse)  |  4,0  |  4,0  |  4,0  |  4,0  |  4,0
+p.39: Forbrugerprisindeks  |  0,5  |  0,2  |  1,4  |  1,2  |  1,5
+p.39: Timeløn i privat sektor (DA’s StrukturStatistik)  |  2,1  |  2,2  |  2,5  |  2,5  |  2,7
+p.39: Real disponibel indkomst, husholdninger  |  2,3  |  3,9  |  0,6  |  1,2  |  1,3
+p.39: Timeproduktiviteten i private byerhverv  |  -0,4  |  -1,0  |  0,9  |  0,6  |  1,1
+p.39: Rente, 1-årigt flekslån  |  -0,3  |  -0,3  |  -0,3  |  -0,2  |  0,0
+p.39: Rente, 10-årig statsobligation  |  0,4  |  0,4  |  0,5  |  0,7  |  1,0
+p.39: Rente, 30-årig realkreditobligation  |  2,6  |  2,6  |  2,6  |  2,9  |  3,1
+p.39: Faktisk offentlig saldo (mia. kr.)  |  -19,1  |  -29,3  |  -39,1  |  -32,6  |  -20,5
+p.39: Faktisk offentlig saldo (pct. af BNP)  |  -0,9  |  -1,4  |  -1,9  |  -1,6  |  -0,9
+p.39: Strukturel offentlig saldo (pct. af BNP)  |  -0,3  |  -0,3  |  -0,4  |  -0,5  |  -0,2
+p.39: ØMU-gæld (pct. af BNP)  |  38,7  |  38,1  |  37,9  |  37,6  |  36,7
+p.39: Arbejdsstyrke, i alt  |  2.940  |  2.976  |  2.961  |  3.002  |  3.025
+p.39: Beskæftigelse (inkl. orlov), i alt  |  2.833  |  2.873  |  2.857  |  2.901  |  2.926
+p.39: Bruttoledighed (pct. af arbejdsstyrken)  |  3,9  |  3,7  |  3,7  |  3,6  |  3,5
+p.39: Handelsvægtet BNP-vækst i udlandet, pct.  |  2,1  |  2,1  |  1,9  |  2,0  |  2,1
+p.39: Eksportmarkedsvækst (industrivarer), pct.  |  5,0  |  3,2  |  4,7  |  3,4  |  3,9
+p.39: Dollarkurs (kr. pr. dollar)  |  6,7  |  6,7  |  6,7  |  6,9  |  6,9
+p.39: Oliepris, dollar pr. tønde  |  43,1  |  43,0  |  52,8  |  50,8  |  58,7
+p.39: Betalingsbalancesaldo (pct. af BNP)  |  6,8  |  7,7  |  6,6  |  7,5  |  7,5
+p.42: tempo, jf. figur 2.1 og tabel 2.1.
+p.42: BNP-vækst i 2015-2018 for udvalgte lande og regioner
+p.42: 2015  |  2016  |  2017  |  2018  |  1992-2007
+p.42: Kilde: EU-Kommissionen, European Economic Forecast, Autumn 2016, november 2016 og IMF.
+p.43: Tabel 2.1
+p.43: 2015  |  2016  |  2017  |  2018
+p.43: Handelsvægtet BNP  |  2,4  |  2,1  |  2,0  |  2,1
+p.43: USA  |  2,6  |  1,6  |  2,1  |  1,9
+p.43: EU28  |  2,2  |  1,8  |  1,6  |  1,8
+p.43: Euroområdet  |  2,0  |  1,7  |  1,5  |  1,7
+p.43: Tyskland  |  1,7  |  1,9  |  1,5  |  1,7
+p.43: Frankrig  |  1,3  |  1,3  |  1,4  |  1,7
+p.43: Italien  |  0,7  |  0,7  |  0,9  |  1,0
+p.43: Spanien  |  3,2  |  3,2  |  2,3  |  2,1
+p.43: Holland  |  2,0  |  1,7  |  1,7  |  1,8
+p.43: Storbritannien  |  2,2  |  1,9  |  1,0  |  1,2
+p.43: Polen  |  3,9  |  3,1  |  3,4  |  3,2
+p.43: Sverige  |  4,1  |  3,4  |  2,4  |  2,1
+p.43: Norge  |  1,6  |  0,7  |  1,6  |  1,7
+p.43: Danmarks industrieksport. For 2016-2018 er eksportmarkedsvæksten skønnet ud fra estimerede
+p.43: med henholdsvis 0,8, 0,6 og 0,4 pct.-point i 2016, 2017 og 2018 for at tage højde for, at forholdet
+p.44: 2,5  |  2,5  |  0,8  |  0,8
+p.45: med 4 pct. årligt i perioden 1991-2011, men er faldet 1,7 pct. årligt i perioden 2011-2015. Det
+p.46: Efter relativt stærk vækst i slutningen af 2015 og i 1. kvartal 2016 har fremgangen i den øko-
+p.48: en finanspolitisk lempelse i 2017 på op til 0,5 pct. af BNP begrundet i et ønske om at aflaste
+p.48: størrelsesordenen 0,5 pct. af BNP for en periode på 3-4 år, og under den forudsætning, at
+p.49: Kilde: EU-Kommissionen, European Economic Forecast, Autumn 2016, november 2016 og OECD, Economic
+p.50: 05 06 07 08 09 10 11 12 13 14 15 16 17 18  |  2013  |  2014  |  2015  |  2016
+p.50: 2018. Væksten i Storbritannien skønnes at aftage fra 1,9 pct. i 2016 til 1,0 pct. i 2017. For
+p.50: 2018 ventes lidt højere vækst på 1,2 pct. Der er udsigt til gradvist aftagende bidrag til BNP-
+p.50: årene 2017 og 2018 og aftagende vækst i det private forbrug, i takt med at svækkelsen af
+p.50: skuddet på betalingsbalancen ventes indsnævret fra 5,6 pct. af BNP i 2016 til 3,3 pct. af BNP
+p.52: Pct. (å/å)  |  Pct. (å/å)  |  Indeks (2005=100)  |  Indeks (2005=100)
+p.52: vækst på 0,7 pct. efter henholdsvis 0,2 og 0,4 pct. i 1. kvartal og 2 kvartal, jf. figur 2.17. Det
+p.53: det, at de offentlige udgifter øges med ½ pct. af BNP i 2017 og 2018 (ligeligt fordelt på inve-
+p.53: steringer og forbrug), samt at indkomstskatterne reducerer indtægterne i 2017 og 2018 med
+p.53: holdsvis 2,3 pct. i 2017 og 3,0 pct. i 2018, mod vækstskøn på 2,1 pct. og 1,9 pct. i denne
+p.54: jf. figur 2.19. Der ventes BNP-vækst på lige over 7 pct. i de kommende år, trukket af frem-
+p.54: 07  |  08  |  09  |  10  |  11  |  12  |  13  |  14  |  15  |  16  |  2013  |  2014  |  2015  |  2016
+p.55: Således var inflationen i USA 1,6 pct. i november, mens den i euroområdet fortsat var meget
+p.55: lav på blot 0,6 pct. Kerneinflationen i euroområdet har ligget forholdsvis stabilt omkring 0,8
+p.56: 2,0  |  2,0  |  2,0  |  2,0
+p.56: 0,0  |  0,0  |  0,5  |  0,5
+p.56: -0,5  |  -0,5  |  0,0  |  0,0
+p.56: cember 2016 forlængede ECB sit opkøbsprogram til at løbe mindst til udgangen af 2017 i
+p.56: små stigninger i de lange renter, jf. tabel 2.2.
+p.57: Tabel 2.2
+p.57: 2015  |  2016  |  2017  |  2018
+p.57: USA  |  Federal funds target rate  |  0,3  |  0,5  |  0,9  |  1,4
+p.57: 3-mdrs. pengemarkedsrente  |  0,3  |  0,7  |  1,3  |  2,0
+p.57: 10-årig statsobligation  |  2,1  |  1,8  |  2,5  |  2,8
+p.57: Euroområdet  |  ECB’s refinansieringsrente  |  0,1  |  0,0  |  0,0  |  0,0
+p.57: 3-mdrs. pengemarkedsrente  |  0,0  |  -0,3  |  -0,2  |  -0,1
+p.57: 10-årig statsobligation  |  0,5  |  0,2  |  0,6  |  0,8
+p.57: Danmark  |  Indskudsbevisrente  |  -0,7  |  -0,7  |  -0,7  |  -0,4
+p.57: 3-mdrs. pengemarkedsrente  |  -0,1  |  -0,1  |  -0,1  |  0,0
+p.57: 1-årig realkreditobligation  |  -0,2  |  -0,3  |  -0,2  |  0,0
+p.57: nes svækket med godt 0,3 pct. i 2017 i forhold til 2016, jf. tabel 2.3.
+p.58: Tabel 2.3
+p.58: 2016  |  2017  |  2018
+p.58: Kr. pr. 100 dollar  |  671,2  |  688,7  |  688,7
+p.58: Kr. pr. 100 euro  |  744,6  |  744,2  |  744,2
+p.58: Effektiv kronekurs (indeks 1980=100)  |  100,8  |  101,2  |  101,2
+p.58: Dollar  |  43,0  |  50,8  |  58,7
+p.58: Kroner  |  289,0  |  350,0  |  404,1
+p.59: dollar pr. tønde til 50,8 dollar pr. tønde i 2017 og 58,7 dollar pr. tønde i 2018, jf. tabel 2.3.
+p.60: langsigtede BNP-niveau i de tre regioner med omtrent 2 pct., jf. figur 2.29. Sådanne bereg-
+p.61: gældskrisen i 2012-2013. Navnlig er rentespændet for italienske statsobligationer steget
+p.61: 05  |  06  |  07  |  08  |  09  |  10  |  11  |  12  |  13  |  14  |  15  |  16  |  2015  |  2016  |  2017  |  2018  |  2019  |  2020
+p.61: Anm.: Figur 2.31 viser forskellen i BNP-niveauet mellem et scenarie, hvor væksten bremser hårdere op i
+p.65: tiltage fra knap 1 pct. i år til 1,5 pct. og 1,7 pct. i henholdsvis 2017 og 2018. Efter flere år med
+p.65: 2016-2018.
+p.65: sporten på godt ½ pct. i år, tiltagende til 2½-2¾ pct. i 2017-2018.
+p.66: 2014, jf. figur 3.1. Det skyldes for det første, at en lav inflation siden 2013 har sikret, at selv
+p.66: Indeks (2013=100)  |  Indeks (2013=100)  |  Pct.  |  Pct.
+p.66: 2012  |  2013  |  2014  |  2015  |  2016  |  08 09 10 11  |  12  |  13  |  14 15 16 17 18
+p.68: forlængelse af de senere års tendens, jf. tabel 3.1. Det afspejler blandt andet den lavere
+p.68: Tabel 3.1
+p.68: 2015  |  1991-2015  |  2015  |  2016  |  2017  |  2018
+p.68: Detailomsætning  |  30,9  |  1,4  |  0,4  |  1,6  |  2,1  |  2,6
+p.68: - Fødevarer og nydelsesmidler  |  14,6  |  0,4  |  -0,1  |  0,9  |  1,8  |  2,0
+p.68: - Øvrige varer  |  16,3  |  2,5  |  0,9  |  2,3  |  2,4  |  3,2
+p.68: Bilkøb  |  3,7  |  3,1  |  6,7  |  4,5  |  5,0  |  4,0
+p.68: Energi  |  8,6  |  0,6  |  6,8  |  0,7  |  2,0  |  -1,4
+p.68: - Brændsel  |  5,9  |  0,5  |  9,6  |  0,0  |  2,5  |  -2,5
+p.68: - Benzin og lign.  |  2,7  |  0,8  |  1,3  |  2,3  |  1,0  |  1,0
+p.68: Boligbenyttelse  |  22,4  |  0,9  |  0,3  |  1,1  |  1,2  |  1,4
+p.68: Øvrig service  |  35,1  |  1,7  |  3,1  |  2,2  |  1,8  |  2,6
+p.68: Forbrug i alt  |  100,0  |  1,5  |  1,9  |  1,9  |  1,8  |  2,0
+p.68: Forbrug i alt ekskl. brændsel mv.  |  94,1  |  1,5  |  1,4  |  2,0  |  1,8  |  2,3
+p.68: Turistindtægter  |  -4,9  |  1,7  |  4,4  |  0,0  |  3,5  |  3,5
+p.68: Turistudgifter  |  4,3  |  1,5  |  -0,5  |  3,5  |  1,5  |  2,0
+p.69: om året frem mod 2018, trods stigende renter, jf. tabel 3.2.
+p.70: Tabel 3.2
+p.70: 2014  |  2015  |  2016  |  2017  |  2018
+p.70: Boliginvesteringer (realvækst)  |  8,6  |  3,8  |  4,0  |  6,0  |  8,0
+p.70: Boligpriser (løbende priser)  |  3,4  |  6,0  |  4,0  |  4,0  |  4,0
+p.73: pct. næste år og med knap 2¾ pct. i 2018, jf. tabel 3.3. Det er relativt moderat og afspejler
+p.73: Indeks (2010=100)  |  Indeks (2010=100)  |  Indeks (2010=100)  |  Indeks (2010=100)
+p.74: Tabel 3.3
+p.74: 2000-2015  |  2015  |  2016  |  2017  |  2018
+p.74: Eksport  |  3,6  |  1,8  |  0,6  |  2,4  |  2,7
+p.74: Vareeksport  |  2,5  |  2,1  |  1,1  |  2,3  |  2,5
+p.74: - Industri  |  3,9  |  2,8  |  2,1  |  2,8  |  2,9
+p.74: Tjenesteeksport  |  5,6  |  1,4  |  -0,4  |  2,4  |  2,9
+p.74: - Søtransport  |  7,2  |  -6,5  |  -4,5  |  0,5  |  1,5
+p.74: - Øvrige tjenester  |  5,2  |  10,5  |  4,1  |  3,7  |  3,9
+p.74: Væksten i industrieksporten skønnes til godt 2 pct. i år, stigende til 2¾-3 pct. i 2017-2018.
+p.76: efterfulgt af moderat vækst på 1 pct. i 2017 og knap 2 pct. i 2018. Efterspørgslen i nye vækst-
+p.76: kante prisfald. Udsigterne for 2017 og 2018 peger til gengæld på fremgang, såvel i mængder
+p.78: tjenester skønnes på den baggrund at stige med godt 4 pct. i 2016, med knap 3¾ pct. i 2017
+p.79: erhvervsinvesteringerne skønnes til 1½ pct. i år og knap 4 pct. i 2017 og 2018.
+p.81: 2018, jf. tabel 3.4.
+p.81: tabel 3.4.
+p.82: Tabel 3.4
+p.82: 2015  |  1995-2015  |  2015  |  2016  |  2017  |  2018
+p.82: Samlede erhvervsinvesteringer  |  235  |  2,5  |  4,1  |  1,5  |  3,8  |  3,9
+p.82: Materiel  |  185  |  3,6  |  4,8  |  2,2  |  4,3  |  4,0
+p.82: - ekskl. boreplatforme, skibe og fly  |  175  |  7,2  |  2,2  |  4,2  |  4,6
+p.82: Bygninger og anlæg  |  50  |  -0,4  |  1,3  |  -1,3  |  2,0  |  3,5
+p.82: tet, øges ganske vist i prognoseårene, men vil ligge på et lavt niveau jf. figur 3.24. Udbygnin-
+p.82: kapitalapparatet også, jf. figur 3.25. I prognoseårene ventes væksten i kapitalapparatet at
+p.85: BNP skønnes at stige med 0,8 pct. i 2016, 1,5 pct. i 2017 og 1,7 pct. i 2018. Væksten i de tre
+p.85: afslutning på 2015 med fald i BNP i både 3. og 4. kvartal, jf. figur 3.27. Faldet i andet halvår
+p.85: Pct.  |  Pct.  |  Mia. kr. (kædede 2010-priser)  |  Mia. kr. (kædede 2010-priser)
+p.85: 2,0  |  2,0  |  1.950  |  1.950
+p.85: 1,5  |  1,5  |  1.900  |  1.900
+p.85: 1,0  |  1,0  |  1.850  |  1.850
+p.85: 0,5  |  0,5  |  1.800  |  1.800
+p.85: 0,0  |  0,0  |  1.750  |  1.750
+p.85: Anm.: Figur 3.27 viser annualiseret, kvartalsvist BNP.
+p.85: efterspørgsel i år på 1 pct. endvidere skønnes at tiltage til 2-2¼ pct. i 2017-2018. I takt her-
+p.85: Importvæksten er drevet omtrent ligeligt af fremgang i tjenester og varer, jf. tabel 3.5.
+p.85: Tabel 3.5
+p.85: Pct.  |  Gns. årlig realvækst, 2000-2015  |  2015  |  2016  |  2017  |  2018
+p.85: Import  |  4,3  |  1,3  |  1,3  |  3,0  |  3,4
+p.85: Vareimport  |  3,5  |  1,7  |  0,9  |  2,9  |  3,3
+p.85: Tjenesteimport  |  6,0  |  0,5  |  2,0  |  3,1  |  3,6
+p.86: efterspørgsel og importvækst, 1997-2015
+p.87: Importkvote  |  Tendens (ekskl. 2006-2008)  |  Offentlig efterspørgsel  |  Private investeringer
+p.87: Anm.: Tendensen i figur 3.28 er beregnet over perioderne 2000-2006 og 2010-2015 i løbende priser.
+p.87: eksporten tiltager i 2017 og 2018, vil vækstbidraget herfra vokse, samtidig med at væksten i
+p.87: det private forbrug og investeringerne fortsat løfter væksten i BNP, jf. figur 3.29.
+p.87: år, jf. tabel 3.6.
+p.88: Tabel 3.6
+p.88: Andel 2015  |  1995-2015  |  2015  |  2016  |  2017  |  2018
+p.88: BVT i alt  |  100  |  1,5  |  1,4  |  0,8  |  1,5  |  1,8
+p.88: Offentlig sektor  |  22  |  1,0  |  0,3  |  -0,4  |  0,2  |  0,3
+p.88: Privat sektor  |  78  |  1,6  |  1,7  |  1,1  |  1,9  |  2,2
+p.88: Privat sektor ekskl. råstof  |  76  |  1,8  |  2,1  |  1,3  |  1,9  |  2,3
+p.88: Private byerhverv  |  66  |  1,8  |  2,3  |  1,5  |  2,1  |  2,4
+p.88: Over de seneste år har timeproduktiviteten været stigende. I 2015 og 2016 ser fremgangen i
+p.88: time), som dog vurderes at være af midlertidig karakter, jf. tabel 3.7. En stor del af beskæfti-
+p.88: lav produktivitetsvækst.2 I 2017 og 2018 ventes produktiviteten igen at tage til, især trukket af
+p.88: Tabel 3.7
+p.88: 1995-2015  |  2014  |  2015  |  2016  |  2017  |  2018
+p.88: Samlet  |  1,0  |  1,5  |  0,3  |  -0,8  |  0,5  |  0,9
+p.88: Byggeriet  |  0,5  |  2,1  |  0,2  |  -3,0  |  0,7  |  1,0
+p.88: Industri  |  3,0  |  1,5  |  1,4  |  0,3  |  1,8  |  2,5
+p.88: Private serviceerhverv  |  0,7  |  1,9  |  0,0  |  -1,1  |  0,4  |  0,9
+p.88: Private byerhverv  |  1,0  |  1,4  |  0,3  |  -1,0  |  0,6  |  1,1
+p.90: ket over prognoseperioden, jf. figur 3.30. Outputgabet, som er et mål for, hvor langt produkti-
+p.90: beskæftigelsesgabet først gradvist lukkes i 2017 og 2018.
+p.90: BNP i 2015 til omtrent 7,5 pct. af BNP i 2016-2018, jf. figur 3.31.
+p.91: lancen således øget med 1,4 pct. af BNP, mens overskuddet fra løn- og formueindkomst er øget med 0,4
+p.91: pct. af BNP og tjenestebalancen nedjusteret med 1,1 pct. af BNP. Samlet set er de løbende poster oprevi-
+p.91: deret med 0,7 pct. af BNP i gennemsnit, jf. figur a.
+p.91: eksport med knap 0,3 pct.-point mere om året i perioden 2002-2012, mens vareimporten stiger med knap
+p.91: 2010  |  2011  |  2012  |  2013  |  2014  |  2015
+p.93: mens fremgangen forventes at være mere almindelig i 2017 og 2018.
+p.93: tal 2013 til 3. kvartal 2016. Den offentlige beskæftigelse er derimod faldet lidt over de seneste
+p.94: 28.000 og 24.000 personer i perioden 2016-2018, jf. tabel 3.8.
+p.96: den. Den samlede beskæftigelsesstigning på i alt 98.000 personer fra 2015 til 2018 kommer
+p.96: Tabel 3.8
+p.96: 2015  |  2001-2015  |  2015  |  2016  |  2017  |  2018
+p.96: Produktiviteten i den private sektor ventes at falde lidt i 2016, men dog tiltage igen i 2017 og
+p.99: veau), 3.000 personer i 2017 og 2.000 personer i 2018, jf. tabel 3.9.
+p.99: Ledighed i landsdele i 2012 og 2016
+p.101: Tabel 3.9
+p.101: 2014  |  2015  |  2016  |  2017  |  2018
+p.101: AKU-ledighed (pct. af arbejdsstyrken)  |  6,8  |  6,3  |  6,2  |  5,9  |  5,7
+p.102: klima end forhandlingerne i 2014. Der skønnes lønstigninger på 2,2 i 2016, 2,5 pct. i 2017 og
+p.102: 2,7 pct. i 2018, jf. tabel 3.10. Der er dog fortsat tale om relativt moderate lønstigningstakter
+p.102: lønsstigninger. Det skønnes, at reallønstigningen vil være 2 pct. i 2016, 1,3 pct. i 2017 og 1,2
+p.102: snit i 2016, hvorimod den vil være på linje hermed i både 2017 og 2018, jf. figur 3.47. Den lidt
+p.103: lønudvikling er budgetvirkningen beregningsteknisk opgjort til 2,4 pct. i 2018, jf. tabel 3.10.
+p.103: Tabel 3.10
+p.103: Stigning i pct.  |  2013  |  2014  |  2015  |  2016  |  2017  |  2018
+p.103: Privat sektor  |  1,4  |  1,2  |  1,9  |  2,2  |  2,5  |  2,7
+p.103: Offentlig sektor  |  0,5  |  0,9  |  1,1  |  1,3  |  1,9  |  2,4
+p.103: Satsreguleringsprocent  |  1,6  |  1,8  |  1,5  |  1,4  |  2,0  |  2,0
+p.103: Forbrugerpriser  |  0,8  |  0,6  |  0,5  |  0,2  |  1,2  |  1,5
+p.103: Forbrugerpriser ekskl. energi  |  0,9  |  0,6  |  1,2  |  0,7  |  1,1  |  1,4
+p.103: Nettopriser  |  0,9  |  0,7  |  0,7  |  0,4  |  1,3  |  1,7
+p.104: både 2017 og 2018, hvilket skal ses i lyset af højere private lønstigninger de kommende år.
+p.104: 06  |  07  |  08  |  09  |  10  |  11  |  12  |  13  |  14  |  15  |  16  |  2014  |  2015  |  2016  |  2017  |  2018
+p.104: Anm.: I figur 3.49 er bidragene til forbrugerprisinflationen fordelt på hovedgrupper ifølge definitionen i
+p.104: prisinflationen i 2016, 2017 og 2018 – og dermed også den viste fremadrettede månedsprofil – tager
+p.104: Samlet set skønnes en forbrugerprisinflation på 0,2 pct. i 2016, 1,2 pct. i 2017 og 1,5 pct. i
+p.104: 2018, jf. tabel 3.10. Den tiltagende stigningstakt afspejler ud over forventningen til stigende
+p.104: De danske lønstigninger har i 2010-2015 generelt været lavere end i udlandet, hvilket isoleret
+p.109: underskudsgrænse på 3 pct. af BNP. I 2016 skønnes det faktiske underskud til 1,4 pct. af
+p.109: BNP, mens underskuddet skønnes til 1,6 pct. af BNP i 2017. Navnlig som følge af konjunktur-
+p.109: for et lavt provenu fra pensionsafkastskatten anslås underskuddet i 2018 til 0,2 pct. af BNP.
+p.109: Det strukturelle underskud anslås til 0,3 pct. af BNP i 2016, mens der i 2017 skønnes et
+p.109: strukturelt underskud på 0,5 pct. af BNP. For 2018 er der lagt beregningsteknisk forudsæt-
+p.109: forbrug for driftsudgifter, som sikrer uændret strukturel saldo på -0,2 pct. af BNP i 2018, hvor
+p.109: om de statslige, kommunale og regionale budgetter for 2017 vurderes udgiftslofterne for 2017
+p.109: rende 2018 fastlægges i løbet af 2017. Efter ekstraordinært høje niveauer for de offentlige
+p.109: kapacitetspresset i perioden 2015-2018. De finanspolitiske tiltag siden 2014 ventes samlet at
+p.109: dæmpe BNP-niveauet med 0,4 pct. i 2018 og bidrager dermed til, at outputgabet skønnes til
+p.110: Den strukturelle saldo skønnes at udvise et underskud på 0,5 pct. af BNP i 2017 og 0,2 pct.
+p.110: BNP, jf. også figur 4.1.
+p.110: lagt ud fra et strukturelt underskud på 0,4 pct. af BNP, således at der var en vis margin til
+p.110: Finanspolitikken for 2018 vil blive fastlagt i løbet af 2017 i forbindelse med regeringens udspil
+p.110: frem mod 2025 og med finansloven for 2018 samt økonomiaftalerne med kommunerne og
+p.110: tikken svarer det strukturelle underskud til ca. 0,2 pct. af BNP i 2018, jf. afsnit 4.5.
+p.112: uændret andel af BNP, svarende til en underliggende realvækst på ca. 1,2 pct.
+p.112: Den forudsatte finanspolitik for perioden 2016-2018 indebærer en finanspolitisk stramning i
+p.112: forhold til det fortsat lempelige udgangspunkt i 2015 på i størrelsesordenen 0,7 pct. af BNP
+p.112: af BNP, jf. tabel 4.1.
+p.113: Tabel 4.1
+p.113: 2016  |  2017  |  2018
+p.113: Udgifter  |  0,3  |  0,2  |  0,3
+p.113: Indtægter  |  -0,1  |  -0,1  |  0,0
+p.113: Direkte provenuer i alt  |  0,3  |  0,1  |  0,3
+p.113: beskæftigelsesgab er omtrent nul i 2018, jf. tabel 4.2. Udviklingen understreger behovet for,
+p.113: effekt på efterspørgslen svarende til 0,4 pct. af BNP i 2018, opgjort ved den flerårige finansef-
+p.113: fekt, jf. også tabel 4.2.
+p.113: Tabel 4.2
+p.113: 2015  |  2016  |  2017  |  2018
+p.113: Outputgab, pct. af BNP  |  -1,0  |  -0,6  |  -0,2  |  0,0
+p.113: De direkte provenuer, pct. af BNP  |  0,5  |  0,3  |  0,1  |  0,3
+p.113: Flerårig finanseffekt på BNP-niveau, pct. af BNP  |  -0,1  |  -0,3  |  -0,3  |  -0,4
+p.113: Etårig finanseffekt, pct. af BNP  |  -0,1  |  -0,1  |  0,0  |  -0,1
+p.114: Øvrige centrale nøgletal for de offentlige finanser fremgår af tabel 4.3.
+p.114: Tabel 4.3
+p.114: 2015  |  2016  |  2017  |  2018
+p.114: Offentlige udgifter1)  |  53,7  |  53,0  |  52,4  |  51,7
+p.114: Offentligt forbrug  |  25,7  |  25,9  |  25,8  |  25,6
+p.114: Indkomstoverførsler  |  17,4  |  17,5  |  17,3  |  17,0
+p.114: Øvrige udgifter2)  |  10,7  |  9,7  |  9,3  |  9,1
+p.114: Offentlige indtægter1)  |  52,4  |  51,6  |  50,8  |  50,7
+p.114: Skattetryk  |  47,2  |  46,4  |  45,5  |  45,4
+p.114: Øvrige indtægter  |  5,2  |  5,2  |  5,3  |  5,3
+p.114: Faktisk offentlig saldo  |  -1,3  |  -1,4  |  -1,6  |  -0,9
+p.114: Strukturel offentlig saldo  |  -0,5  |  -0,3  |  -0,5  |  -0,2
+p.115: bedrer den offentlige saldo med ca. 0,8 pct. af BNP, jf. bilag 4.2.
+p.115: den økonomiske politik skønnes et offentligt underskud på 1,4 pct. af BNP i 2016 og 1,6 pct.
+p.115: af BNP i 2017, hvorefter det offentlige underskud forventes reduceret til ca. 0,9 pct. af BNP i
+p.115: 2018, jf. tabel 4.4.
+p.115: Tabel 4.4
+p.115: 2013  |  2014  |  2015  |  2016  |  2017  |  2018
+p.115: Offentlig saldo, pct. af BNP  |  -1,0  |  1,4  |  -1,3  |  -1,4  |  -1,6  |  -0,9
+p.115: Offentlig saldo, mia. kr.  |  -19,3  |  28,2  |  -27,2  |  -29,3  |  -32,6  |  -20,5
+p.115: Underskuddet på den faktiske offentlige saldo skønnes at blive forøget fra 2015 til 2017,
+p.115: falder i 2016-2017, jf. bilag 4.2. Når der korrigeres for midlertidige forhold, forbedres den
+p.115: faktiske offentlige saldo med ca. ¾ pct. af BNP fra 2015 til 2017, jf. figur 4.2. I takt med den
+p.115: en halvering af de forventede indtægter fra pensionsafkastskatten fra 2015 til 2018.
+p.115: Faktisk saldo med og uden midlertidige forhold i 2013-2018
+p.115: 2013  |  2014  |  2015  |  2016  |  2017  |  2018
+p.116: 10¼ mia. kr. i 2016 og forbedret med ca. 6¼ mia. kr. i 2017, jf. tabel 4.5. De ændrede skøn
+p.116: kastskat er nedjusteret med ca. 15¾ mia. kr. i 2016 og ca. 1¼ mia. kr. i 2017. Omvendt bi-
+p.116: indkomstoverførsler til en forbedring af saldoen i både 2016 og 2017.
+p.116: terne skønnes omtrent uændret i 2017. Nedjusteringen i 2016 afspejler blandt andet virknin-
+p.117: Tabel 4.5
+p.117: Ændrede skøn for den offentlige saldo i 2016-2017 i forhold til augustvurderingen
+p.117: Mia. kr.  |  2016  |  2017
+p.118: lovforslaget for et givet finansår højst må udvise et underskud på 0,5 pct. af BNP – med
+p.118: Den strukturelle saldo skønnes at udvise et underskud på 0,3 pct. af BNP i 2016 og 0,5 pct.
+p.118: af BNP i 2017. Dermed er den strukturelle saldo uændret i 2016 og forværret med 0,1 pct. af
+p.118: BNP i 2017 i forhold til augustvurderingen. Forværringen i 2017 skal ses i lyset af opdaterede
+p.119: kr., og dermed fastholdes det strukturelle underskud på 0,2 pct. af BNP i 2018 på linje med
+p.119: Det strukturelle underskud på 0,5 pct. af BNP i 2017 beregnes eksempelvis med udgangs-
+p.119: punkt i det skønnede faktiske underskud på 1,6 pct. af BNP, jf. tabel 4.6 (pkt. 1). Da de aktu-
+p.119: svagere konjunkturer medfører. Den beregnede svækkelse herfra udgør ca. 0,2 pct. af BNP i
+p.119: 2017 (pkt. 2). Den negative effekt fra konjunkturerne er lavere i 2017 end i fx 2016, hvilket
+p.119: selskabsskat og registreringsafgift mv. samlet set vurderes at ligge ca. 0,8 pct. af BNP under
+p.120: Tabel 4.6
+p.120: 2015  |  2016  |  2017  |  2018
+p.120: 1. Faktisk saldo  |  -1,3  |  -1,4  |  -1,6  |  -0,9
+p.120: 2. Konjunkturgab  |  -1,0  |  -0,5  |  -0,2  |  -0,1
+p.120: 3. Selskabsskat  |  0,1  |  0,3  |  0,2  |  0,1
+p.120: 4. Registreringsafgift  |  0,0  |  0,1  |  0,1  |  0,2
+p.120: 5. Pensionsafkastskat  |  0,0  |  0,1  |  -0,7  |  -0,7
+p.120: 6. Nordsøindtægter2)  |  -0,7  |  -0,8  |  -0,4  |  -0,2
+p.120: 7. Nettorentebetalinger og udbytter  |  -0,3  |  -0,2  |  0,1  |  0,2
+p.120: 8. Specielle budgetposter  |  0,0  |  -0,1  |  -0,1  |  -0,1
+p.120: 9. Øvrige forhold  |  1,0  |  0,0  |  -0,1  |  -0,1
+p.120: 10. Strukturel saldo (1-2-3-4-5-6-7-8-9)  |  -0,5  |  -0,3  |  -0,5  |  -0,2
+p.120: afskrivninger af skatterestancer i 2015 på ca. 22¼ mia. kr. fordelt over 2013-2015. I 2018 er der end-
+p.120: videre korrigeret for investeringen af kampfly, som planlægges i perioden 2021-2026, men påvirker
+p.120: 25½ mia. kr. i 2015 afledt af Pensionspakken fra oktober 2014. Afledt af skatterabatten vedrørende
+p.120: hhv. godt 5 mia. kr. i 2013 og godt 2 mia. kr. i 2014 fra perioden 2015-2019. Herudover korrigeres
+p.120: der for ændret indfasning af EU-rabatten mellem 2015 og 2016 svarende til korrektionen af udgifts-
+p.121: 3,5  |  3,5  |  1,6  |  1,6
+p.121: 2,5  |  2,5  |  1,0  |  1,0
+p.121: 2,0  |  2,0  |  0,6  |  0,6
+p.121: 1,0  |  1,0  |  0,0  |  0,0
+p.121: 3,0  |  3,0  |  2,5  |  2,5
+p.121: 0,0  |  0,0  |  0,0  |  0,0
+p.121: 1,0  |  1,0  |  2,0  |  2,0
+p.121: 0,0  |  0,0  |  1,5  |  1,5
+p.121: -5,0  |  -5,0  |  -1,5  |  -1,5
+p.122: Tabel 4.7
+p.122: Pct. af BNP  |  2015  |  2016  |  2017  |  2018
+p.122: Strukturel saldo  |  -0,5  |  -0,3  |  -0,5  |  -0,2
+p.122: Ændring i strukturel saldo  |  0,2  |  -0,2  |  0,3
+p.122: Provenuer fra finanspolitikken1)  |  0,3  |  0,1  |  0,3
+p.122: Strukturel beskæftigelse  |  0,2  |  0,2  |  0,2
+p.122: Pensionsafkastskat  |  0,0  |  0,0  |  0,0
+p.122: Nordsøindtægter  |  -0,1  |  -0,2  |  -0,2
+p.122: Nettorentebetalinger  |  0,0  |  0,0  |  0,0
+p.122: Specielle budgetposter  |  0,0  |  0,0  |  0,1
+p.122: Overførsler til udlandet  |  0,1  |  0,0  |  -0,1
+p.122: Strukturel produktivitetsvækst2)  |  -0,2  |  -0,2  |  -0,1
+p.122: litikken til 0,1 pct. af BNP i 2016, -0,1 i 2017 og til 0,2 pct. af BNP i 2018.
+p.122: Den strukturelle saldo forbedres fra 2015 til 2016 med 0,2 pct. af BNP, jf. tabel 4.7. Udviklin-
+p.122: gen i finanspolitikken tilsiger en forbedring på 0,3 pct. af BNP, hvilket blandt andet skal ses i
+p.123: Fra 2016 til 2017 er den strukturelle saldo forværret med 0,2 pct. af BNP. Et aftagende nord-
+p.123: Fra 2017 til 2018 er den strukturelle saldo forbedret med 0,3 pct. af BNP, hvilket blandt
+p.123: og regioner, jf. tabel 4.8.
+p.123: Tabel 4.8
+p.123: Loft  |  186,3  |  262,2  |  242,4  |  110,0  |  3,0
+p.123: 186,2  |  257,9  |  241,9  |  110,0  |  3,0
+p.123: Kilde: Finansloven for 2017, foreløbige oplysninger om kommunernes og regionernes budgetter for 2017.
+p.124: for 2017 fremgår af tabel 4.9.
+p.124: Tabel 4.9
+p.124: 2017  |  2018  |  2019  |  2020
+p.124: Statsligt delloft for driftsudgifter  |  186,3  |  195,3  |  200,0  |  202,9
+p.124: Statsligt delloft for indkomstoverførsler  |  262,2  |  258,9  |  257,0  |  254,1
+p.124: Kommunalt udgiftsloft  |  242,4  |  241,9  |  241,4  |  240,9
+p.124: Regionalt delloft for sundhedsudgifter  |  110,0  |  109,9  |  109,9  |  109,8
+p.124: Regionalt delloft for udviklingsopgaver  |  3,0  |  3,0  |  3,0  |  2,9
+p.124: Udgiftslofterne for 2017-2020 på finansloven for 2017 er nærmere beskrevet i Udgiftslofter og
+p.125: 2018 er der beregningsteknisk forudsat en realvækst på 0,8 pct. Der er alene tale om en
+p.125: Regeringen har et mål om en årlig basis realvækst i det offentlige forbrug på 0,3 pct. Hertil
+p.125: hed. Regeringen ønsker således en basis realvækst på 0,3 pct., og at de resterende 0,5 pct.
+p.125: mod finanslovforslaget for 2018. De konkrete prioriteringer vedrørende 2018 vil, som nævnt,
+p.125: Gennemsnit  |  2016  |  2017  |  2018  |  00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18
+p.125: 2000-2015  |  beregnings-
+p.125: teknisk  |  Pct. af BNP  |  Gennemsnit 1990-2007
+p.125: Anm.: I figur 4.9 er realvæksten opgjort ved inputmetoden.
+p.125: 2000-2015, jf. figur 4.9. Niveauet for det offentlige forbrug som andel af den samlede økono-
+p.125: mia. kr. lavere end skønnet i august, jf. tabel 4.10. Nedjusteringen skal ses i lyset af foreløbi-
+p.125: Realvæksten i det offentlige forbrug i 2016 er nedjusteret med 0,8 pct.-point sammenlignet
+p.126: Tabel 4.10
+p.126: Skøn for det offentlige forbrug 2016-2018
+p.126: 2015  |  2016  |  2017  |  2018
+p.126: Augustvurdering  |  -0,7  |  1,2  |  0,5  |  -
+p.126: Decembervurdering  |  0,6  |  0,4  |  0,7  |  0,8
+p.126: - Ændring ift. august (pct.-point)  |  1,3  |  -0,8  |  0,2  |  -
+p.126: Augustvurdering  |  518,8  |  530,5  |  542,6  |  -
+p.126: Decembervurdering  |  520,8  |  528,0  |  540,7  |  556,1
+p.126: - Ændring ift. august  |  2,0  |  -2,5  |  -1,9  |  -
+p.126: 2017 ligger ca. ½ mia. kr. under det aftalte niveau i økonomiaftalen for 2017. Det vurderes at
+p.126: Realvæksten i det offentlige forbrug er opjusteret fra 0,5 pct. i augustvurderingen til 0,7 pct. i
+p.126: 2016 er større end nedjusteringen af det offentlige forbrug i 2017.
+p.127: lå i 3. kvartal 2016 godt 4.000 personer under niveauet i 2012, jf. figur 4.11.
+p.127: Figur 4.11  |  Tabel 4.11
+p.127: 860  |  860  |  1.000 personer  |  2015 2016 2017 2018
+p.127: 820  |  820  |  August 2016  |  -1,8  |  -4,0  |  1,0  |  2,0

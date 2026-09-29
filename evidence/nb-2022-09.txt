@@ -1,0 +1,118 @@
+# nb-2022-09
+# url: https://www.nationalbanken.dk/media/2txlffs3/the-pressure-on-the-economy-should-be-eased.pdf
+# http: 200  bytes: 896170  sha256: de7f696cc3c78e1e3cf616bbce0c0fd9dce2020a5f04dc3643744a9a08987bf3
+# fetched: 2026-09-29T18:09:08Z
+# pages: 42  (lines below are quotes; p.N = PDF page)
+
+p.2: Real growth relative to the previous year, per cent  |  2021  |  2022  |  2023  |  2024  |  recommends that fiscal
+p.2: GDP (real), per cent  |  4.9  |  2.0  |  -0.1  |  1.2  |  policy helps relieve
+p.2: Employment, 1,000 persons  |  3.046  |  3.161  |  3.150  |  3.126
+p.2: 8.8  |  10.7  |  10.4  |  10.2  |  what the proposal for
+p.2: Government budget balance, per cent of GDP  |  2.6  |  1.9  |  1.9  |  1.5  |  suggests.
+p.2: 11.0  |  2.9  |  -5.6  |  -1.8
+p.2: Consumer prices, per cent year-on-year  |  1.9  |  8.6  |  4.3  |  1.7
+p.2: 2.6  |  3.7  |  4.5  |  3.9
+p.3: to 9.9 per cent, see chart 1. High inflation has
+p.4: 2022 than in the 4th quarter of 2021.
+p.4: March risk scenario have  |  6.3 per cent. Core inflation has also increased in the
+p.5: demand, see the theme pages High consumer price  |  2022  |  2023  |  2024
+p.5: Denmark (HICP)  |  8.6  |  4.3  |  1.7
+p.5: futures prices, suggest that gas and electricity price  |  Euro area (HICP)  |  8.1  |  5.5  |  2.3
+p.5: increases will remain high throughout the winter.  |  USA (CPI)  |  7.5  |  3.2  |  2.5
+p.5: tions subsequently imposed on Russia. Moreover,  |  Denmark (HICP)  |  5.1  |  4.5  |  3.2
+p.5: widespread periods of drought and maintenance  |  Euro area (HICP)  |  3.9  |  3.4  |  2.3
+p.5: USA (CPI)  |  5.9  |  3.1  |  2.5
+p.5: rage 8.6 per cent for the year as a whole, see table
+p.5: reduced to 4.3 per cent next year. In 2024, inflation is  |  faster in Denmark than in the euro area. Second, tax
+p.5: expected to drag down headline inflation by 0.3 per-  |  are phased out. Third, there has been large volatility
+p.6: 2017  |  2018  |  2019  |  2020  |  2021  |  2022
+p.7: increase by 3.3 per cent in 2022, 3.6 per cent in 2023 and 3.0 per cent
+p.8: 2019  |  2020  |  2021  |  2022
+p.8: The same is true of the euro area. Industrial produc-  |  2020  |  2021  |  2022  |  2023
+p.9: from Russia. For instance, the German government  |  2019  |  2020  |  2021  |  2022
+p.12: 2024 compared to the end of 2019, before the out-  |  sures in the longer term.
+p.12: December 2019 to December 2021, two-thirds of the value gains on
+p.13: high, just under 11 per cent of GDP this year, prima­  |  GDP in 2023, beyond what the proposal for the 2023
+p.13: a government budget surplus of 1.9 per cent of GDP  |  Currently, monetary policy across countries is damp-
+p.16: 2021  |  2022
+p.16: Real growth relative to the previous period, per cent  |  2021  |  2022  |  2023  |  2024  |  Q4  |  Q1  |  Q2
+p.16: GDP  |  4.9  |  2.0  |  -0.1  |  1.2  |  2.5  |  -1.1  |  0.9
+p.16: Private consumption1  |  4.2  |  -1.0  |  0.4  |  1.1  |  -0.6  |  -2.5  |  -0.6
+p.16: Public consumption  |  4.2  |  0.7  |  -0.7  |  1.1  |  4.0  |  -1.9  |  0.5
+p.16: Residential investments  |  9.9  |  4.8  |  -7.6  |  -3.2  |  2.7  |  5.7  |  -0.4
+p.16: Public investments  |  3.9  |  -2.3  |  2.9  |  4.5  |  3.0  |  -5.6  |  1.9
+p.16: Corporate investments  |  6.3  |  5.0  |  -1.7  |  -1.6  |  1.6  |  3.2  |  -2.3
+p.16: 0.0  |  0.4  |  0.0  |  0.0  |  0.8  |  -0.6  |  1.3
+p.16: Exports  |  8.0  |  3.5  |  2.2  |  3.1  |  3.9  |  -1.1  |  0.7
+p.16: Industrial exports  |  11.1  |  1.9  |  2.0  |  3.1  |  3.2  |  -2.5  |  1.0
+p.16: Imports  |  8.0  |  2.1  |  1.7  |  2.4  |  3.2  |  -2.2  |  0.8
+p.16: Employment, 1,000 persons  |  3,046  |  3,161  |  3,150  |  3,126  |  3,113  |  3,140  |  3,162
+p.16: Government budget balance, per cent of GDP  |  2.6  |  1.9  |  1.9  |  1.5  |  1.4  |  -0.1  |  2.5
+p.16: 11.0  |  2.9  |  -5.6  |  -1.8  |  7.9  |  5.2
+p.16: Consumer prices (HICP), per cent year-on-year  |  1.9  |  8.6  |  4.3  |  1.7  |  3.5  |  5.4  |  8.2
+p.16: 2.6  |  3.7  |  4.5  |  3.9  |  3.2  |  3.8  |  3.4
+p.19: 2015  |  2016  |  2017  |  2018  |  2019  |  2020  |  2021  |  2022
+p.19: Inflation has intensified after Russia’s invasion of  |  increased inflation by 1.3 percentage points in the
+p.19: the end of 2019.15  |  contribution to consumer prices.
+p.20: In Denmark, consumer prices rose by 9.9 per cent
+p.20: food, Danish consumer prices rose by 6.7 per cent  |  -2
+p.21: Inflation differential in Denmark, 1997-2022
+p.21: rage inflation has not been higher for low-income  |  2.0
+p.21: and Inflation Heterogeneity 2022, PhD thesis, University of Copenha-  |  Source: Statistics Denmark, own calculations and Weissert (2022),
+p.22: 2021  |  2022  |  2023
+p.23: 2020  |  2021  |  2022  |  2023
+p.23: quarter 2015, March 2015.
+p.24: per cent in 2023 and 2 per cent in 2024. The devel-
+p.25: tion expects Danish consumer prices to rise by 8.6  |  mates that consumer price inflation in the euro area
+p.25: per cent in 2022, after which the rate of increase will  |  will peak at 9.2 per cent in the 4th quarter of 2022,
+p.25: decline to 4.3 per cent in 2023 and 1.7 per cent in  |  averaging 8.1 per cent in 2022, 5.5 per cent in 2023
+p.25: 2024, see chart 20.  |  and 2.3 per cent in 2024. The expected fall in the
+p.25: to 5.1 per cent in 2022. This rise reflects that wage  |  in the euro area, measured by the consumer price
+p.25: consumer prices with a certain lag. Core inflation is  |  expected to increase by 3.9 per cent in 2022, 3.4 per
+p.25: projected to moderate gradually in the coming years  |  cent in 2023 and 2.3 per cent in 2024.23 According to
+p.25: to 4.5 per cent in 2023 and 3.2 per cent in 2024. The  |  the ECB, some of the drivers of core inflation in the
+p.25: 3.1 per cent in 2022, 4.0 per cent in 2023 and 4.0 per  |  energy price increases but then push inflation up
+p.26: 2022  |  2023  |  2024
+p.26: 2019  |  2020  |  2021  |  2022
+p.26: Inflation expectations are well-anchored,  |  3.0
+p.26: but a prolonged period of high inflation  |  2.5
+p.26: partly because expectations of future price devel-  |  2020  |  2021  |  2022
+p.29: 01  |  03  |  05  |  07  |  09  |  11  |  13  |  15  |  17  |  19  |  21  |  2018  |  2019  |  2020  |  2021  |  2022
+p.29: 2001-July 2022. Chart B: The decomposition is based on an econometric model explaining Danish inflation on the basis of a constant
+p.30: in 1983 and abolished in 1987  |  Pass-through to wage growth
+p.30: gap and productivity growth the year before in the period Q1 1985-Q2 2022. In addition, an interaction element between inflation and a
+p.30: 2.  |  In the euro area, the share of private wages formally dependent on inflation declined from 24 per cent in 2008 to 16 per cent in 2021, of which
+p.33: 2018  |  2019  |  2020  |  2021  |  2022
+p.36: and thus the pass-through to house prices. This projection  |  from 2.3 per cent based on developments in cyclical,
+p.38: the 2nd quarter of 2022. The projection is based on  |  market growth for 2022 has been revised upwards
+p.38: statistics published up to and including 13 Septem-  |  by 1.7 percentage points from the latest projection
+p.38: ber 2022. The projection also includes a number of  |  from March 2022, primarily reflecting that higher
+p.38: and fiscal policy.  |  of 2021 to the 4th quarter of 2022 is 2.1 per cent,
+p.38: Export market growth is assumed to be 5.5 per cent  |  downwards by 1.4 percentage points in 2023 and 0.3
+p.38: in 2022, 2.5 per cent in 2023 and 2.9 per cent in  |  percentage points in 2024.
+p.38: 2021  |  2022  |  2023  |  2024
+p.38: Export market growth, per cent, year-on-year  |  8.7  |  5.5  |  2.5  |  2.9
+p.38: Foreign price1, per cent, year-on-year  |  9.1  |  16.5  |  4.1  |  1.3
+p.38: Foreign hourly wages, per cent, year-on-year  |  2.6  |  4.2  |  4.4  |  3.8
+p.38: 3-month money market interest rate, per cent, p.a.  |  -0.4  |  0.3  |  2.5  |  2.5
+p.38: Average bond yield, per cent, p.a.  |  0.4  |  1.8  |  2.4  |  2.4
+p.38: Effective krone rate, 1980 = 100  |  103.9  |  101.7  |  101.7  |  101.7
+p.38: Dollar exchange rate, DKK per USD  |  6.3  |  7.1  |  7.3  |  7.3
+p.39: the coming years, foreign price growth is assumed  |  Survey, August 2022, and Updated 2030 development:
+p.39: to slow considerably to 4.1 per cent in 2023 and 1.3  |  Grundlag for udgiftslofter i 2026 (in Danish only),
+p.39: per cent in 2024. Foreign wage growth is assumed to  |  August 2022.
+p.39: per cent in 2022 and 4.4 per cent in 2023. Assump-  |  On this basis, real public consumption is expected to
+p.39: Interest rates, currency and energy prices  |  and by 4.5 per cent in 2024, see table A1.
+p.39: 3-month money market interest rate, measured by  |  points in 2023 and by 0.5 percentage point in 2024
+p.39: in 2024.  |  to a 0.9 per cent increase in growth in 2022, but
+p.39: In the projection, the effective krone rate and the  |  table to exogenous assumptions. In 2023 and 2024,
+p.39: tember 2022, the oil price was around 100 dollars  |  prices, HICP, has been revised upwards by 3.7
+p.39: to around 75 dollars per barrel at the end of 2024.  |  in 2023 and downwards by 0.5 percentage points
+p.40: Per cent, year-on-year  |  2022  |  2023  |  2024  |  2022  |  2023  |  2024
+p.40: Projection from March  |  2.1  |  2.1  |  1.7  |  4.9  |  1.4  |  2.2
+p.40: Export market growth  |  0.6  |  -0.2  |  -0.3  |  0.0  |  0.1  |  0.2
+p.40: Development in interest rates  |  -0.1  |  -0.4  |  -0.2  |  0.0  |  0.0  |  0.0
+p.40: Exchange rates  |  0.3  |  -0.1  |  -0.1  |  0.1  |  0.2  |  0.1
+p.40: Oil prices  |  0.0  |  0.0  |  0.0  |  -0.1  |  -0.1  |  0.0
+p.40: Other factors  |  -0.9  |  -1.5  |  0.1  |  3.7  |  2.8  |  -0.7
+p.40: This projection  |  2.0  |  -0.1  |  1.2  |  8.6  |  4.3  |  1.7
