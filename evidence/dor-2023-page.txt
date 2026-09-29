@@ -1,6 +1,25 @@
 # dor-2023-page
 # url: https://dors.dk/vismandsrapporter/dansk-oekonomi-efteraar-2023
-# http: 000  bytes: 0  sha256: 
-# fetched: 2026-09-29T18:12:28Z
-# FAILED: curl: (92) HTTP/2 stream 1 was not closed cleanly: PROTOCOL_ERROR (err 1)
+# http: 200  bytes: 81078  sha256: db8ea4dc2d451092758a0d882e84cacf026dc956a8b8e73554b7850c22bb4f44
+# fetched: 2026-09-29T18:09:23Z
+# html page
 
+præsenterer en beregning af den finanspolitiske holdbarhed. Finanspolitikken er med en holdbarhedsindikator på 0,3 pct. af BNP holdbar. Siden beregningen i
+
+# PDF links on this page:
+https://dors.dk/files/media/Dansk_oekonomi_efteraar_2023.pdf
+https://dors.dk/files/media/E23_Disk_Kap.V.pdf
+https://dors.dk/files/media/E23_Hovedkonklusioner_NY.pdf
+https://dors.dk/files/media/E23_Kap.I.pdf
+https://dors.dk/files/media/E23_Kap.III_.pdf
+https://dors.dk/files/media/E23_Kap.II_.pdf
+https://dors.dk/files/media/E23_Kap.IV_.pdf
+https://dors.dk/files/media/E23_KapIII_Baggrundsnotat%20til%20Finanspolitisk%20holdbarhed.pdf
+https://dors.dk/files/media/E23_KapII_Baggrundsnotat%20til%20Offentlige%20finanser.pdf
+https://dors.dk/files/media/E23_KapII_Baggrundsnotat%20til%20konjunkturvurdering.pdf
+https://dors.dk/files/media/E23_KapIV_Baggrundsnotat%20til%20Huslejeregulering%20og%20fordeling.pdf
+https://dors.dk/files/media/E23_KapIV_Baggrundsnotat%20til%20Huslejeregulering%20og%20misallokering.pdf
+https://dors.dk/files/media/E23_KapV_Baggrundsnotat%20Langsigtede%20effekter%20af%20retten%20til%20vederlagsfri%20b%C3%B8rnetandpleje.pdf
+https://dors.dk/files/media/E23_Skriftlige_indl%C3%A6g_fra_r%C3%A5dsmedlemmer.pdf
+https://dors.dk/files/media/E23_Summary.pdf
+https://dors.dk/files/media/Presse_E23.pdf

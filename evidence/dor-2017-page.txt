@@ -1,6 +1,19 @@
 # dor-2017-page
 # url: https://dors.dk/vismandsrapporter/dansk-oekonomi-efteraar-2017
-# http: 000  bytes: 0  sha256: 
-# fetched: 2026-09-29T18:12:24Z
-# FAILED: curl: (92) HTTP/2 stream 1 was not closed cleanly: PROTOCOL_ERROR (err 1)
+# http: 200  bytes: 80084  sha256: 596c646b9941d598a647314cba71c560283fa0b300fd009ea3622622526ae457
+# fetched: 2026-09-29T18:09:15Z
+# html page
 
+Der er udsigt til underskud på den strukturelle offentlige saldo på 0,6 pct. af BNP i 2018. Dermed er der udsigt til at underskudsgrænsen i budgetloven på ½ pct. af BNP overskrides. Trods dette vurderes det, at de offentlige finanser grundlæggende er sunde.
+
+# PDF links on this page:
+https://dors.dk/files/media/old_files/E17_SKRIFTLIGE_KOMMENTARER.pdf
+https://dors.dk/files/media/rapporter/2017/E17/e17.pdf
+https://dors.dk/files/media/rapporter/2017/E17/english/e17_english_summary.pdf
+https://dors.dk/files/media/rapporter/2017/E17/kap_i/e17_kap_i_baggrundsnotat_til_konjunkturvurdering.pdf
+https://dors.dk/files/media/rapporter/2017/E17/kap_i/e17_kap_i_baggrundsnotat_til_offentlige_finanser.pdf
+https://dors.dk/files/media/rapporter/2017/E17/kap_i/e17_kap_i_konjunktur_og_offentlige_finanser.pdf
+https://dors.dk/files/media/rapporter/2017/E17/kap_ii/e17_kap_ii_landvarigt_offentligt_forsoergede.pdf
+https://dors.dk/files/media/rapporter/2017/E17/kap_iii/e17_kap_iii_baggrundsnotat_analyse_af_baumols_syge.pdf
+https://dors.dk/files/media/rapporter/2017/E17/kap_iii/e17_kap_iii_brancheforskydninger_og_vaekstudsigter.pdf
+https://dors.dk/files/media/rapporter/2017/E17/resume/e17_resume.pdf

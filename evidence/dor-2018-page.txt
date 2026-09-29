@@ -1,6 +1,19 @@
 # dor-2018-page
 # url: https://dors.dk/vismandsrapporter/dansk-oekonomi-efteraar-2018
-# http: 000  bytes: 0  sha256: 
-# fetched: 2026-09-29T18:12:24Z
-# FAILED: curl: (92) HTTP/2 stream 1 was not closed cleanly: PROTOCOL_ERROR (err 1)
+# http: 200  bytes: 79591  sha256: e8b5941b19e6123eed61f4f3873a4724594f9cf5a5184fae6ccb92a88f07b9ec
+# fetched: 2026-09-29T18:09:16Z
+# html page
 
+
+# PDF links on this page:
+https://dors.dk/files/media/old_files/E18___skriftlige_indlaeg_fra_det_oekonomiske_raads_medlemmer.pdf
+https://dors.dk/files/media/rapporter/2018/E18/e18_dansk_oekonomi_efteraar_2018.pdf
+https://dors.dk/files/media/rapporter/2018/E18/english_summary/e18_english_summary.pdf
+https://dors.dk/files/media/rapporter/2018/E18/kapitel_1/e18_kap_i_baggrundsnotat_om_offentlige_finanser_endelig.pdf
+https://dors.dk/files/media/rapporter/2018/E18/kapitel_1/e18_kap_i_baggrundsnotat_til_konjunkturvurdering.pdf
+https://dors.dk/files/media/rapporter/2018/E18/kapitel_1/e18_kap_i_konjunktur_og_offentlige_finanser.pdf
+https://dors.dk/files/media/rapporter/2018/E18/kapitel_2/e18_kap_2_100671_labour_supply_respones_to_tax_reforms_in_denmark.pdf
+https://dors.dk/files/media/rapporter/2018/E18/kapitel_2/e18_kap_ii_skat_og_arbejdsudbud.pdf
+https://dors.dk/files/media/rapporter/2018/E18/kapitel_3/e18_baggrundsnotat_beskaeftigelseseffekten_af_en_erhvervsuddannelse_til_ufaglaerte.pdf
+https://dors.dk/files/media/rapporter/2018/E18/kapitel_3/e18_kap_iii_ufaglaertes_tilknytning_til_arbejdsmarkedet.pdf
+https://dors.dk/files/media/rapporter/2018/E18/sammenfatning_og_anbefalinger/E18___Sammenfatning_og_anbefalinger.pdf

@@ -1,6 +1,24 @@
 # dor-2024-page
 # url: https://dors.dk/vismandsrapporter/dansk-oekonomi-efteraar-2024
-# http: 000  bytes: 0  sha256: 
-# fetched: 2026-09-29T18:12:29Z
-# FAILED: curl: (92) HTTP/2 stream 1 was not closed cleanly: PROTOCOL_ERROR (err 1)
+# http: 200  bytes: 81234  sha256: 21cb15bba3d4316e671614338c9c310581e91527c70e2c533af14adcdb58a150
+# fetched: 2026-09-29T18:09:24Z
+# html page
 
+omhandler den langsigtede finanspolitiske holdbarhed. Formandskabet vurderer, at de offentlige finanser er holdbare på lang sigt, og at den finanspolitiske holdbarhedsindikator udgør 1,5 pct. af BNP. Det lavere fremtidige fødselstal og revurderinger af forskellige strukturelle forhold har forbedret vurderingen af holdbarhedsindikatoren. Det er dog vigtigt at være opmærksom på, at der er stor usikkerhed om mange af forudsætningerne i fremskrivningen. Der drøftes nu, om der skal ændres i indekseringen af aldersgrænsen for folkepension. Et fuldstændigt stop for indeksering af aldersgrænsen ved 70 år vurderes at gøre finanspolitikken uholdbar, mens en gennemførelse af eksempelvis Pensionskommissionens forslag til en lempeligere aldersindeksering synes forenelig med holdbare statsfinanser.
+
+# PDF links on this page:
+https://dors.dk/files/media/E24_EndeligWEB.pdf
+https://dors.dk/files/media/E24_Hovedkonklusioner.pdf
+https://dors.dk/files/media/E24_Kap4_arbejdspapir_erhvervsuddannelse.pdf
+https://dors.dk/files/media/E24_KapI.pdf
+https://dors.dk/files/media/E24_KapII.pdf
+https://dors.dk/files/media/E24_KapIII.pdf
+https://dors.dk/files/media/E24_KapIV_300924.pdf
+https://dors.dk/files/media/E24_Pressemeddelelse.pdf
+https://dors.dk/files/media/E24_Skriftlige_indlaeg.pdf
+https://dors.dk/files/media/E24_Summary_endelig.pdf
+https://dors.dk/files/media/E24_kap2_Baggrundsnotat_konjunktur.pdf
+https://dors.dk/files/media/E24_kap2_Baggrundsnotat_offentlige%20finanser.pdf
+https://dors.dk/files/media/E24_kap2_Baggrundsnotat_produktivitet_rettet.pdf
+https://dors.dk/files/media/E24_kap2_Baggrundsnotat_udenlandsk_arbejdskraft.pdf
+https://dors.dk/files/media/E24_kap3_Baggrundsnotat_fonde.pdf

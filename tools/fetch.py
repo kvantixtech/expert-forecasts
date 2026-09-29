@@ -12,7 +12,7 @@ download the URL, check the SHA-256 and find the quoted line on the stated page.
 Statistics Denmark: table metadata and data from the public StatBank API are saved in data/dst/.
 Needs: python3, curl, pdftotext (poppler-utils). Runs in GitHub Actions (see .github/workflows).
 """
-import csv, hashlib, html, json, os, re, subprocess, sys, tempfile, urllib.parse, urllib.request
+import csv, hashlib, html, json, os, re, subprocess, sys, tempfile, time, urllib.parse, urllib.request
 from datetime import datetime, timezone
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -30,7 +30,7 @@ def now():
 
 
 def download(url, path):
-    r = subprocess.run(["curl", "-sSL", "--max-time", "120", "--retry", "2", "-A", UA, "-o", path,
+    r = subprocess.run(["curl", "-sSL", "--http1.1", "--max-time", "180", "--retry", "3", "--retry-delay", "5", "--retry-all-errors", "-A", UA, "-o", path,
                         "-w", "%{http_code}", url], capture_output=True, text=True)
     return r.stdout.strip() or "000", r.stderr.strip()
 
@@ -109,10 +109,15 @@ def main():
                     head.append(f"# html page{' (expected PDF, got HTML)' if s['kind'] == 'pdf' else ''}")
                     body += ["", "# PDF links on this page:"] + links
             else:
+                prev = index.get(s["id"])
+                if prev and str(prev.get("http", "")).startswith("2"):
+                    print(f"{s['id']:<22} {code} fetch failed, keeping the evidence from {prev['fetched_at']}")
+                    continue
                 head.append(f"# FAILED: {err[:200]}")
             open(os.path.join(ROOT, "evidence", f"{s['id']}.txt"), "w", encoding="utf-8").write("\n".join(head + [""] + body) + "\n")
             index[s["id"]] = {"id": s["id"], "url": s["url"], "http": code, "bytes": size, "sha256": sha, "fetched_at": now()}
             print(f"{s['id']:<22} {code} {size:>9} {len(body)} lines")
+            time.sleep(1.5)
     with open(idx_path, "w", newline="", encoding="utf-8") as fh:
         w = csv.DictWriter(fh, fieldnames=["id", "url", "http", "bytes", "sha256", "fetched_at"])
         w.writeheader()

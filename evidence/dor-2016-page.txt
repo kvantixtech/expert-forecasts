@@ -1,6 +1,24 @@
 # dor-2016-page
 # url: https://dors.dk/vismandsrapporter/dansk-oekonomi-efteraar-2016
-# http: 000  bytes: 0  sha256: 
-# fetched: 2026-09-29T18:12:23Z
-# FAILED: curl: (92) HTTP/2 stream 1 was not closed cleanly: PROTOCOL_ERROR (err 1)
+# http: 200  bytes: 83867  sha256: ae393753b8f908035ebe3ed3c12a0276065d3836cbdba43934661a5dfe2e0d8c
+# fetched: 2026-09-29T18:09:14Z
+# html page
 
+
+# PDF links on this page:
+https://dors.dk/files/media/old_files/E16_SKRIFTLIGE_KOMMENTARER.pdf
+https://dors.dk/files/media/rapporter/2016/E16/e16.pdf
+https://dors.dk/files/media/rapporter/2016/E16/e16_0_resume.pdf
+https://dors.dk/files/media/rapporter/2016/E16/e16_english_summary.pdf
+https://dors.dk/files/media/rapporter/2016/E16/kap_i/E16_kap_i_Bilag%2520til%2520konjunkturvurdering.pdf
+https://dors.dk/files/media/rapporter/2016/E16/kap_i/e16_kap_i.pdf
+https://dors.dk/files/media/rapporter/2016/E16/kap_ii/E16_kap_ii_Dokumentationsnotat%2520for%2520offentlige%2520finanser_01.pdf
+https://dors.dk/files/media/rapporter/2016/E16/kap_ii/e16_kap_ii.pdf
+https://dors.dk/files/media/rapporter/2016/E16/kap_iii/E16_kap_iii_Dokumentationsnotat_til_Langfristet_finanspolitisk.pdf
+https://dors.dk/files/media/rapporter/2016/E16/kap_iii/e16_kap_iii.pdf
+https://dors.dk/files/media/rapporter/2016/E16/kap_iv/E16_kap_iv_Dokumentationsnotat_Konstruktion_af_syntetisk_land.pdf
+https://dors.dk/files/media/rapporter/2016/E16/kap_iv/e16_kap_iv.pdf
+https://dors.dk/files/media/rapporter/2016/E16/kap_iv/e16_kap_iv_4_dokumentationsnotat_test_for_strukturelle_aendringer.pdf
+https://dors.dk/files/media/rapporter/2016/E16/kap_v/e16_kap5_befolkningsudviklingen_og_dekomponering_af_theilindekset.pdf
+https://dors.dk/files/media/rapporter/2016/E16/kap_v/e16_kap_v.pdf
+https://dors.dk/files/media/rapporter/2016/E16/kap_v/e16_kap_v_dekomponering_af_den_stigende_gini-koefficient.pdf
