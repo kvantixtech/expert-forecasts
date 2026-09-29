@@ -184,7 +184,11 @@
   {
    "id": "dor-2021",
    "kind": "pdf",
-   "url": "https://dors.dk/files/media/rapporter/2021/e21/endelig_rapport/dansk_oekonomi_efteraar_2021_web.pdf"
+   "url": "https://dors.dk/files/media/rapporter/2021/e21/endelig_rapport/dansk_oekonomi_efteraar_2021_web.pdf",
+   "dump_pages": [
+    48,
+    63
+   ]
   },
   {
    "id": "dor-2022",
@@ -194,7 +198,11 @@
   {
    "id": "dor-2023",
    "kind": "pdf",
-   "url": "https://dors.dk/files/media/Dansk_oekonomi_efteraar_2023.pdf"
+   "url": "https://dors.dk/files/media/Dansk_oekonomi_efteraar_2023.pdf",
+   "dump_pages": [
+    56,
+    81
+   ]
   },
   {
    "id": "dor-eval-2026",
@@ -204,7 +212,10 @@
   {
    "id": "dor-2015-kap1",
    "kind": "pdf",
-   "url": "https://dors.dk/files/media/rapporter/2015/E15/kap_i/e15_kap_i_konjunkturvurdering.pdf"
+   "url": "https://dors.dk/files/media/rapporter/2015/E15/kap_i/e15_kap_i_konjunkturvurdering.pdf",
+   "dump_pages": [
+    3
+   ]
   },
   {
    "id": "dor-2015-press",
@@ -219,7 +230,11 @@
   {
    "id": "dor-2017-kap1",
    "kind": "pdf",
-   "url": "https://dors.dk/files/media/rapporter/2017/E17/kap_i/e17_kap_i_konjunktur_og_offentlige_finanser.pdf"
+   "url": "https://dors.dk/files/media/rapporter/2017/E17/kap_i/e17_kap_i_konjunktur_og_offentlige_finanser.pdf",
+   "dump_pages": [
+    5,
+    6
+   ]
   },
   {
    "id": "dor-2018-kap1",
@@ -234,7 +249,11 @@
   {
    "id": "dor-2020-kap2",
    "kind": "pdf",
-   "url": "https://dors.dk/files/media/rapporter/2020/e20/endelig_rapport/e20_kap.ii_konjunktur_og_offentlige_finanser.pdf"
+   "url": "https://dors.dk/files/media/rapporter/2020/e20/endelig_rapport/e20_kap.ii_konjunktur_og_offentlige_finanser.pdf",
+   "dump_pages": [
+    4,
+    13
+   ]
   },
   {
    "id": "dor-2021-kap1",
@@ -264,7 +283,11 @@
   {
    "id": "dor-2024-kap2",
    "kind": "pdf",
-   "url": "https://dors.dk/files/media/E24_KapII.pdf"
+   "url": "https://dors.dk/files/media/E24_KapII.pdf",
+   "dump_pages": [
+    3,
+    45
+   ]
   },
   {
    "id": "nb-2015-q4-page",
@@ -294,7 +317,13 @@
   {
    "id": "or-2016-05",
    "kind": "pdf",
-   "url": "https://legacy.altinget.dk/misc/oekonomisk%20redegoerelse_maj%202016.pdf"
+   "url": "https://legacy.altinget.dk/misc/oekonomisk%20redegoerelse_maj%202016.pdf",
+   "dump_pages": [
+    38,
+    39,
+    19,
+    20
+   ]
   },
   {
    "id": "nb-2019-03-page",
@@ -389,6 +418,10 @@
      ]
     }
    ]
+  },
+  {
+   "id": "PRIS07",
+   "info": true
   }
  ],
  "statbank_search": [

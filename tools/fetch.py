@@ -54,6 +54,7 @@ def pdf_lines(path):
 def page_lines(path, base):
     raw = open(path, "rb").read().decode("utf-8", "replace")
     links = sorted(set(re.findall(r'href="([^"]+\.pdf[^"]*)"', raw, re.I)) |
+                   set(re.findall(r'((?:https?://[^"\'\s<>]+|/media/[^"\'\s<>]+)\.pdf)', raw, re.I)) |
                    set(l for l in re.findall(r'href="([^"]+)"', raw) if re.search(r"(outlook|udsigter|redegoerelse|dansk-oekonomi|monetary-review|kvartalsoversigt)", l, re.I)))
     links = [html.unescape(l if l.startswith("http") else urllib.parse.urljoin(base, l)) for l in links]
     text = re.sub(r"(?is)<(script|style).*?</\1>", " ", raw)
@@ -105,6 +106,12 @@ def main():
                 if s["kind"] == "pdf" and is_pdf:
                     body, npages = pdf_lines(f)
                     head.append(f"# pages: {npages}  (lines below are quotes; p.N = PDF page)")
+                    if s.get("dump_pages"):
+                        full = subprocess.run(["pdftotext", "-layout", f, "-"], capture_output=True, text=True).stdout.split("\f")
+                        for pn in s["dump_pages"]:
+                            if 1 <= pn <= len(full):
+                                body += ["", f"# --- full text of p.{pn} (table layout, for column headers and notes) ---"]
+                                body += [f"p.{pn}| " + l.rstrip() for l in full[pn - 1].splitlines() if l.strip()]
                 else:
                     body, links = page_lines(f, s["url"])
                     head.append(f"# html page{' (expected PDF, got HTML)' if s['kind'] == 'pdf' else ''}")
