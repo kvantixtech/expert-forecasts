@@ -1,0 +1,30 @@
+name: fetch sources
+
+# Downloads the listed publications and Statistics Denmark data, and commits only the quoted
+# lines, hashes and public statistics. Runs when the source list or the script changes.
+on:
+  push:
+    paths: ["tools/sources.json", "tools/fetch.py", ".github/workflows/fetch.yml"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install pdftotext
+        run: sudo apt-get install -y -qq poppler-utils >/dev/null
+      - name: Fetch
+        run: python3 tools/fetch.py | tee -a "$GITHUB_STEP_SUMMARY"
+      - name: Commit evidence
+        run: |
+          git add evidence data
+          if ! git diff --cached --quiet; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git commit -qm "evidence: fetched $(date -u +%F)"
+            git push -q
+          fi

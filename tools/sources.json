@@ -1,0 +1,52 @@
+{
+  "_note": "Sources fetched by GitHub Actions. kind: pdf = extract matching lines per page; page = HTML, extract text lines + PDF links. Only quoted lines and hashes are committed, never the documents.",
+  "sources": [
+    {"id": "or-2015-12-page", "kind": "page", "url": "https://fm.dk/udgivelser/2015/december/oekonomisk-redegoerelse-december-2015/"},
+    {"id": "or-2016-05-page", "kind": "page", "url": "https://fm.dk/udgivelser/2016/maj/oekonomisk-redegoerelse-maj-2016/"},
+    {"id": "or-2016-12", "kind": "pdf", "url": "https://regeringen.dk/media/xb0jk32l/oekonomisk-redegoerelse-december-2016.pdf"},
+    {"id": "or-2017-05", "kind": "pdf", "url": "https://regeringen.dk/media/u0lnig0x/oekonomisk_redegoerelse_maj_2017_pdfa.pdf"},
+    {"id": "or-2017-12", "kind": "pdf", "url": "https://regeringen.dk/media/5p1pvo0j/oekonomisk-redegoerelse-december-2017-web.pdf"},
+    {"id": "or-2018-05", "kind": "pdf", "url": "https://regeringen.dk/media/sj5h4rdv/oekonomisk-redegoerelse-maj2018.pdf"},
+    {"id": "or-2018-12", "kind": "pdf", "url": "https://regeringen.dk/media/31udkb5x/oekonomisk-redegoerelse-december-2018.pdf"},
+    {"id": "or-2019-12-page", "kind": "page", "url": "https://fm.dk/udgivelser/2019/december/oekonomisk-redegoerelse-december-2019/"},
+    {"id": "or-2019-12-en", "kind": "pdf", "url": "https://en.fm.dk/media/mxwkmcmw/economic-survey-december-2019.pdf"},
+    {"id": "or-2020-12", "kind": "pdf", "url": "https://fm.dk/media/xxgfxm2j/oekonomisk-redegoerelse-december-2020_web.pdf"},
+    {"id": "or-2021-12", "kind": "pdf", "url": "https://fm.dk/media/3kphzibb/oekonomisk-redegoerelse-december-2021_a.pdf"},
+    {"id": "or-2022-08", "kind": "pdf", "url": "https://fm.dk/media/gwkntgbm/oekonomisk-redegoerelse-august-2022_web_a.pdf"},
+    {"id": "or-2023-12", "kind": "pdf", "url": "https://oem.dk/media/gp2h10nx/oekonomisk-redegoerelse-december-2023-20231212-a.pdf"},
+    {"id": "or-2024-12", "kind": "pdf", "url": "https://oem.dk/media/0pvihs1s/oekonomisk-redegoerelse_december-2024_web-a.pdf"},
+
+    {"id": "nb-2016-q1", "kind": "pdf", "url": "https://www.nationalbanken.dk/media/oerbpidk/aomt-1q-2016-en.pdf"},
+    {"id": "nb-2017-03", "kind": "pdf", "url": "https://www.nationalbanken.dk/media/otbgtlbo/analysis-outlook-for-the-danish-economy-march-2017.pdf"},
+    {"id": "nb-2018-03", "kind": "pdf", "url": "https://www.nationalbanken.dk/media/a5fl4m0b/analyse-moderat-hoejkonjunktur-i-de-kommende-aar.pdf"},
+    {"id": "nb-2018-09-press", "kind": "page", "url": "https://www.nationalbanken.dk/en/news-and-knowledge/press/archive/2018/the-danish-economy-is-growing-without-signs-of-considerable-imbalances-12-09-2018"},
+    {"id": "nb-2019-09-page", "kind": "page", "url": "https://www.nationalbanken.dk/da/viden-og-nyheder/publikationer-og-taler/arkiv-publikationer/2019/udsigter-for-dansk-oekonomi-lidt-lavere-vaekst-i-de-kommende-aar"},
+    {"id": "nb-2020-12-press", "kind": "page", "url": "https://www.nationalbanken.dk/en/pressroom/Pages/2020/12/DNN202012130.aspx"},
+    {"id": "nb-2021-09", "kind": "pdf", "url": "https://www.nationalbanken.dk/media/acbhbbbv/analysis-no-24-the-economy-heading-back-towards-a-moderate-boom.pdf"},
+    {"id": "nb-2022-09", "kind": "pdf", "url": "https://www.nationalbanken.dk/media/2txlffs3/the-pressure-on-the-economy-should-be-eased.pdf"},
+    {"id": "nb-2023-09-page", "kind": "page", "url": "https://www.nationalbanken.dk/en/news-and-knowledge/publications-and-speeches/analysis/2023/persistently-high-inflationary-pressures-call-for-tight-economic-policy"},
+    {"id": "nb-2024-09", "kind": "pdf", "url": "https://www.nationalbanken.dk/media/4uudvvk5/the-outlook-is-for-a-stable-price-development-in-the-danish-economy.pdf"},
+
+    {"id": "dor-2015-page", "kind": "page", "url": "https://dors.dk/vismandsrapporter/dansk-oekonomi-efteraar-2015"},
+    {"id": "dor-2016-page", "kind": "page", "url": "https://dors.dk/vismandsrapporter/dansk-oekonomi-efteraar-2016"},
+    {"id": "dor-2017-page", "kind": "page", "url": "https://dors.dk/vismandsrapporter/dansk-oekonomi-efteraar-2017"},
+    {"id": "dor-2018-page", "kind": "page", "url": "https://dors.dk/vismandsrapporter/dansk-oekonomi-efteraar-2018"},
+    {"id": "dor-2019-page", "kind": "page", "url": "https://dors.dk/vismandsrapporter/dansk-oekonomi-efteraar-2019"},
+    {"id": "dor-2020-page", "kind": "page", "url": "https://dors.dk/vismandsrapporter/dansk-oekonomi-efteraar-2020"},
+    {"id": "dor-2021-page", "kind": "page", "url": "https://dors.dk/vismandsrapporter/dansk-oekonomi-efteraar-2021"},
+    {"id": "dor-2022-page", "kind": "page", "url": "https://dors.dk/vismandsrapporter/dansk-oekonomi-efteraar-2022"},
+    {"id": "dor-2023-page", "kind": "page", "url": "https://dors.dk/vismandsrapporter/dansk-oekonomi-efteraar-2023"},
+    {"id": "dor-2024-page", "kind": "page", "url": "https://dors.dk/vismandsrapporter/dansk-oekonomi-efteraar-2024"},
+    {"id": "dor-2016", "kind": "pdf", "url": "https://dors.dk/files/media/rapporter/2016/E16/e16.pdf"},
+    {"id": "dor-2018", "kind": "pdf", "url": "https://dors.dk/files/media/rapporter/2018/E18/e18_dansk_oekonomi_efteraar_2018.pdf"},
+    {"id": "dor-2021", "kind": "pdf", "url": "https://dors.dk/files/media/rapporter/2021/e21/endelig_rapport/dansk_oekonomi_efteraar_2021_web.pdf"},
+    {"id": "dor-2022", "kind": "pdf", "url": "https://dors.dk/files/media/rapporter/2022/e22/endelig_rapport/WEB_E22_Revideret%20maj%202023_med%20links.pdf"},
+    {"id": "dor-2023", "kind": "pdf", "url": "https://dors.dk/files/media/Dansk_oekonomi_efteraar_2023.pdf"},
+    {"id": "dor-eval-2026", "kind": "pdf", "url": "https://dors.dk/files/media/F26_kapII_Prognoseevaluering.pdf"}
+  ],
+  "statbank": [
+    {"id": "NAN1", "info": true},
+    {"id": "PRIS9", "info": true},
+    {"id": "PRIS113", "info": true}
+  ]
+}
