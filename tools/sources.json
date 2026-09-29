@@ -599,6 +599,19 @@
    "id": "nb-2018-09-page",
    "kind": "page",
    "url": "https://www.nationalbanken.dk/en/news-and-knowledge/publications-and-speeches/archive-publications/2018/outlook-for-the-danish-economy-boom-with-no-signs-of-imbalances"
+  },
+  {
+   "id": "dor-2022-kap2",
+   "kind": "pdf",
+   "url": "https://dors.dk/files/media/rapporter/2022/e22/endelig_rapport/e22_kap._ii.pdf"
+  },
+  {
+   "id": "dor-2022-press",
+   "kind": "pdf",
+   "url": "https://dors.dk/files/media/rapporter/2022/e22/diskussionsoplaeg/e22_pressemeddelelse.pdf",
+   "dump_pages": [
+    1
+   ]
   }
  ],
  "statbank": [
