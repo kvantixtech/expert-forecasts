@@ -1,7 +1,7 @@
 # dor-2020-page
 # url: https://dors.dk/vismandsrapporter/dansk-oekonomi-efteraar-2020
 # http: 200  bytes: 85948  sha256: ae7ae0d7a7fb614b520e52b62ccb38513217e52feae652c306bc8994b95b1199
-# fetched: 2026-09-29T18:46:57Z
+# fetched: 2026-09-29T18:52:41Z
 # html page
 
 

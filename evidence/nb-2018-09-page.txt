@@ -1,7 +1,7 @@
 # nb-2018-09-page
 # url: https://www.nationalbanken.dk/en/news-and-knowledge/publications-and-speeches/archive-publications/2018/outlook-for-the-danish-economy-boom-with-no-signs-of-imbalances
 # http: 200  bytes: 34916  sha256: 0b75293a570306e088b031b62660f4e3b516a38bf9d587c3703f2b84fbdf4da8
-# fetched: 2026-09-29T18:50:09Z
+# fetched: 2026-09-29T18:56:10Z
 # html page
 
 The boom in the Danish economy continues, with robust growth and rising employment. Average growth in real GDP in 2017-18 is forecast at 1.8 per cent, with similar levels the next two years. Labour market pressures are mounting, and wage growth has accelerated a little. There is room for this in the economy. In good times it is important to prepare for the period after a cyclical reversal. Fiscal policy should contribute to a continually balanced upswing and should not stimulate demand further. Dampening of growth towards the end of the boom does not call for special economic policy measures.

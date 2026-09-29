@@ -1,7 +1,7 @@
 # nb-outlook-list
 # url: https://www.nationalbanken.dk/en/news-and-knowledge/recurring-publications-overview/recurring-outlook-for-the-danish-economy
 # http: 200  bytes: 57325  sha256: f26fd55dce03d6c77822d4825f865cf28e98ff8352719315b3ad2bf89cfba9a8
-# fetched: 2026-09-29T18:48:44Z
+# fetched: 2026-09-29T18:54:27Z
 # html page
 
 

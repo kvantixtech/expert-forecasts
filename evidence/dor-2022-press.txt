@@ -1,0 +1,44 @@
+# dor-2022-press
+# url: https://dors.dk/files/media/rapporter/2022/e22/diskussionsoplaeg/e22_pressemeddelelse.pdf
+# http: 200  bytes: 74810  sha256: 05cdb98a6e3443a8ed115850b7eb2e0a3c722e0b6647dda5d6c5006ca2061d8a
+# fetched: 2026-09-29T18:56:17Z
+# pages: 3  (lines below are quotes; p.N = PDF page)
+
+
+# --- full text of p.1 (table layout, for column headers and notes) ---
+p.1|                                            Formandskabet
+p.1|               PRESSEMEDDELELSE FRA FORMANDSKABET FOR DE ØKONOMISKE RÅD
+p.1|                  KLAUSULERET TIL DEN 11. OKTOBER 2022 KLOKKEN 12.00
+p.1|        Efterårets vismandsrapport (De Økonomiske Råds formandskabs diskussionsoplæg til
+p.1|        mødet i Det Økonomiske Råd) indeholder fire kapitler:
+p.1|        • Aktuel økonomisk politik
+p.1|        • Konjunktur og offentlige finanser
+p.1|        • Finanspolitisk holdbarhed
+p.1|        • Lærerbidrag i folkeskolen
+p.1| Konjunkturudsigterne og finanspolitikken
+p.1| Krigen i Ukraine har bidraget til en betydelig usikkerhed om den forestående økonomiske udvikling.
+p.1| Inflationen er steget i Danmark såvel som i andre lande, og der er udsigt til et markant fald i
+p.1| beskæftigelsen i takt, at ECB forventeligt strammer pengepolitikken. Heldigvis er udgangspunktet for
+p.1| dansk økonomi gunstigt med høj beskæftigelse, lav ledighed, stort overskud på betalingsbalancen og
+p.1| sunde offentlige finanser. Selvom den fremlagte prognose indebærer et fald i beskæftigelsen på over
+p.1| 100.000 personer ved indgangen til 2024, vurderes beskæftigelsen kun at komme ned omkring 1 pct.
+p.1| under det strukturelle niveau, svarende til en moderat lavkonjunktur.
+p.1| Baseret på finanslovsforslaget og de aftaler, der er indgået i det tidlige efterår, vurderer
+p.1| formandskabet, at finanspolitikken i 2023 er nogenlunde neutral i forhold til væksten.
+p.1| Overvismand, Carl-Johan Dalgaard udtaler:
+p.1| “Inflationsbekæmpelse kræver i praksis, at efterspørgslen efter varer og tjenester mindskes på tværs
+p.1| af Europa. Det er usikkert, hvordan efterspørgslen vil udvikle sig, hvilket gør det vanskeligt at dosere
+p.1| finanspolitikken for det kommende år.”
+p.1| “På nuværende tidspunkt er det vores vurdering, at neutral finanspolitik er det bedste politikvalg. Det
+p.1| indebærer, at alle nye initiativer bør finansieres fuldt ud, så kapacitetspresset i dansk økonomi ikke
+p.1| øges.”
+p.1| Inflationskompenserende tiltag
+p.1| De høje prisstigninger på blandt andet energi har ledt til en lang række tiltag, der sigter mod at
+p.1| afhjælpe konsekvenserne af prisstigningerne for husholdninger og virksomheder.
+p.1| Det er ikke en nem opgave for landets politiske beslutningstagere at give “inflationshjælp” til
+p.1| forbrugere og virksomheder uden uforvarende at skabe nye problemer for dansk økonomi.
+p.1| Hvis hjælpen modvirker den nødvendige nedadgående tilpasning i den samlede efterspørgsel, eller
+p.1| skaber forventninger om fremtidige prisstigninger, kan det lede til, at inflationsproblemet forværres.
+p.1| Ligeledes kan det skabe vanskeligheder, hvis der gribes ind over for den frie prisdannelse. Det
+p.1| skyldes, at højere priser på fx gas og olie giver tilskyndelse til energibesparelser og omstilling, hvilket
+p.1| medvirker til stabiliseringen af priserne.

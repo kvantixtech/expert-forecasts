@@ -1,7 +1,7 @@
 # dor-2015-page
 # url: https://dors.dk/vismandsrapporter/dansk-oekonomi-efteraar-2015
 # http: 200  bytes: 81426  sha256: a2c562c80d4329fcc698c86c892137a1ee55028ef362d7b29ca5ac14648bc4b6
-# fetched: 2026-09-29T18:46:47Z
+# fetched: 2026-09-29T18:52:30Z
 # html page
 
 

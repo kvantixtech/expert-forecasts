@@ -1,7 +1,7 @@
 # dor-2021
 # url: https://dors.dk/files/media/rapporter/2021/e21/endelig_rapport/dansk_oekonomi_efteraar_2021_web.pdf
 # http: 200  bytes: 7012110  sha256: 2694b3f220f749928b65930f2b1a4742b037b029592dc12affca69ea60a3d71d
-# fetched: 2026-09-29T18:47:18Z
+# fetched: 2026-09-29T18:53:01Z
 # pages: 375  (lines below are quotes; p.N = PDF page)
 
 p.9: strammes i forhold  |  en udvidelse af beskæftigelsesgap fra 2019 til 2022. Formandskabet

@@ -1,7 +1,7 @@
 # dor-2022-bg
 # url: https://dors.dk/files/media/rapporter/2022/e22/baggrundsmateriale/e22_kap._ii_konjunktur_baggrundsnotat_konjunkturvurdering_ny.pdf
 # http: 200  bytes: 147586  sha256: 91977a4a288c778737f92a8e31db8cedf98757839aa7226dc6b3461ef3f05b11
-# fetched: 2026-09-29T18:48:01Z
+# fetched: 2026-09-29T18:53:44Z
 # pages: 16  (lines below are quotes; p.N = PDF page)
 
 p.1: Tabel 1 Hovedtal i fremskrivningen i Dansk Økonomi, forår 2022 og efterår 2022

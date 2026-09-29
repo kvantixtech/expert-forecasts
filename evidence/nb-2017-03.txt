@@ -1,7 +1,7 @@
 # nb-2017-03
 # url: https://www.nationalbanken.dk/media/otbgtlbo/analysis-outlook-for-the-danish-economy-march-2017.pdf
 # http: 200  bytes: 839248  sha256: f9ba0f6ff1211afbc348275c44c42fc5d1c0a640dabe527b6ac82497f52f1745
-# fetched: 2026-09-29T18:46:25Z
+# fetched: 2026-09-29T18:52:06Z
 # pages: 20  (lines below are quotes; p.N = PDF page)
 
 p.1: 2017-19  |  increase by the end of 2019  |  has scope for such increase
@@ -207,3 +207,25 @@ p.16|                                                                    -0.5
 p.16|                                                                    -1.0
 p.16|                                                                            2011     2012   2013   2014     2015   2016   2017    2018
 p.16|                                                                    Source: European Commission’s Winter Forecast, February 2017.
+
+# --- full text of p.19 (table layout, for column headers and notes) ---
+p.19| A N A LY S I S — D A N M A R K S N AT I O N A L B A N K                                                                                               19
+p.19| OUTLOOK FOR THE DANISH ECONOMY – MARCH 2017
+p.19|    Revisions in relation to the previous projection                                                                                        Table A2
+p.19|                                                                                   GDP                             Consumer prices, HICP
+p.19|    Per cent, year-on-year                                             2016         2017          2018              2016          2017       2018
+p.19|    Projection, December 2016                                          1.0           1.4            1.5              0.0           1.1         1.8
+p.19|    Contribution to revised projection from:
+p.19|       Export market growth                                            0.1           0.0            0.0              0.0           0.0         0.0
+p.19|       Interest rates                                                  0.0           0.0            0.1              0.0           0.0         0.0
+p.19|       Exchange rates                                                  0.0           0.2            0.1              0.0           0.1         0.1
+p.19|       Oil prices                                                      0.0           0.0            0.0              0.0           0.0         0.0
+p.19|       Other factors                                                   0.1           0.0            0.0              0.0           0.2         -0.2
+p.19|    This projection                                                    1.1           1.6            1.6              0.0           1.4         1.7
+p.19|    Note:    The transition from the previous to this projection may not add up due to rounding. “Other factors” includes data revisions.
+p.19| DANMARKS NATIONALBANK
+p.19| HAVNEGADE 5
+p.19| DK-1093 COPENHAGEN K
+p.19| WWW.NATIONALBANKEN.DK
+p.19| This edition closed for contributions
+p.19| on 10 March 2017.

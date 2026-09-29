@@ -1,0 +1,283 @@
+# dor-2022-kap2
+# url: https://dors.dk/files/media/rapporter/2022/e22/endelig_rapport/e22_kap._ii.pdf
+# http: 200  bytes: 3648489  sha256: ce0e966860d4c97f9153a75700f15f5ac83e72c53c25c7ee0f975b3030fcf61a
+# fetched: 2026-09-29T18:56:14Z
+# pages: 125  (lines below are quotes; p.N = PDF page)
+
+p.4: TABEL II.1  |  HOVEDTAL I PROGNOSEN
+p.4: 2021  |  2022  |  2023  |  2024  |  2030 a)
+p.4: BNP (realvækst i pct.)  |  4,9  |  2,3  |  -0,2  |  0,6  |  1,6
+p.4: Beskæftigelsesgap (pct.)  |  0,8  |  3,3  |  0,6  |  -1,0  |  0,0
+p.4: Offentlig saldo (pct. af BNP)  |  3,6  |  0,4  |  -0,1  |  -0,2  |  -0,2
+p.4: Strukturel offentlig saldo (pct. af BNP)  |  -0,6  |  0,2  |  1,1  |  0,7  |  -0,2
+p.4: Inflation (pct.)  |  2,1  |  8,1  |  5,1  |  0,8  |  1,5
+p.4: Lønvækst (pct.)  |  2,6  |  3,8  |  5,2  |  4,5  |  3,4
+p.4: BNP i aftagerlande (realvækst i pct.)  |  5,1  |  2,5  |  0,8  |  1,8  |  2,0
+p.4: 10-årig dansk statsobligation (pct.)  |  0,0  |  1,5  |  2,5  |  2,0  |  1,1
+p.4: samt rente. For BNP i Danmark og udlandet vises den gennemsnitlige årlige vækst fra 2024 til 2030.
+p.5: venstre figur, august 2022 for erhvervstilliden i højre figur og september 2022 for forbrugertilliden.
+p.6: fra 2021 til 2024. På arbejdsmarkedet ventes beskæftigelsen at falde
+p.6: niveau. Prognosen indebærer et betydeligt fald på mere end 100.000
+p.6: personer frem mod udgangen af 2023, og i 2024 ventes beskæftigel-
+p.11: er 28. september 2022 for elprisen, 27. september 2022 for naturgas-
+p.14: niveau i august med 9,1 pct. I USA toppede inflationen indtil videre
+p.14: højere kerneinflation  |  jere kerneinflation (6,3 pct.) sammenlignet med euroområdet (4,3 pct.).
+p.17: og fødevaremarkederne som følge af krigen i Ukraine. For april 2022 estimerer Shapiro (2022) kon-
+p.18: Barnichon og Shapiro (2022) og Ball mfl. (2022).
+p.20: kostninger i deres priser, jf. Ganapati mfl. (2020) og Hintermann mfl. (2020). Begge
+p.22: observation er 2. kvartal 2022 for Mærsks fragtrateindeks, august 2022 for Shanghai-indekset og
+p.23: imod slutningen af 2022 og ind i de første måneder af 2023. I løbet af
+p.25: især fra 2023 …  |  priserne i de europæiske lande oppe i resten af 2022 og også ind i
+p.25: 2022 og 2023. Dette gælder i særlig grad euroområdet, hvor der både
+p.28: Kerneinflation  |  Mens den danske inflation steg til 8,9 pct. (år/år) i august opgjort ved
+p.29: 2019  |  2020  |  2021  |  2022
+p.30: 2006  |  2008  |  2010  |  2012  |  2014  |  2016  |  2018  |  2020  |  2022
+p.31: TABEL A  |  DEKOMPONERING AF NETTOPRISINDEKS
+p.31: 2022  |  2006-20  |  seneste 3 mdr.  |  august 2022
+p.31: Energi (direkte)  |  5,2  |  0,1  |  3,6  |  65,9
+p.31: Fødevarer (uforarbejdede)  |  4,9  |  0,1  |  0,7  |  15,0
+p.31: Regulerede priser  |  29,1  |  0,7  |  1,0  |  3,8
+p.31: Energi (indirekte)  |  1,0  |  0,0  |  1,0  |  92,5
+p.31: Import (direkte)  |  13,1  |  0,1  |  1,6  |  12,8
+p.31: Import (indirekte)  |  7,4  |  0,1  |  1,2  |  16,4
+p.31: IMI  |  39,2  |  0,6  |  -0,5  |  -0,4
+p.31: Nettopris  |  100,0  |  1,5  |  8,7  |  9,1
+p.33: taljerede beregning i Produktivitet 2022 dækkede årene 2000-18. Markuppen beregnes som den
+p.33: for årene 1995-2018. Markuppen beregnes som produktionsværdien divideret med omkostningerne
+p.33: Kilde:  |  Danmarks Statistik, Statistikbanken og ADAM’s databank, Produktivitet 2020, Produktivitet 2022 samt
+p.34: inflationen i 2023  |  halvår af 2023, jf. Finansministeriet (2022c). Aftalen omfatter desuden
+p.36: Økonomi, forår 2022  |  Økonomi, forår 2022, som trækker i retning af større afledte økonomi-
+p.36: 2022 og også ind i 2023, jf. afsnit II.2, hvilket dæmper de realøkono-
+p.36: forventningerne til væksten i 2022 og 2023 siden foråret.
+p.37: fra april 2022, at de daværende sanktioner rettet mod Rusland blev fastholdt i 2022-23, men ikke
+p.37: august 2022 til marts 2023. Aftalen indgås for at reducere risikoen for, at landene løber tør for
+p.40: variation i inflationen, som i august eksempelvis spændte fra 6,6 pct. i
+p.43: 2021 til 2022 ifølge OECD’s seneste fremskrivning. Ændringen er en indikator for størrelsen af den
+p.46: observation er 27. september 2022 i venstre figur og juli 2022 i højre figur.
+p.47: udlandsvæksten  |  res med samlet omtrent 2½ pct.point i 2022 og 2023 sammenlignet
+p.48: er EU-Kommissionen (juli 2022). Frem mod 2028 antages det beregningsteknisk, at BNP gradvist
+p.48: kurrentlandene på ca. 4 pct. i 2022 og ca. 3¾ pct. i 2023.
+p.48: Energy Outlook 2021. IEA offentliggør et realt niveau i 2030, som er omregnet til et nominelt niveau
+p.48: statsobligationer i 2030 er uændrede i forhold til Dansk Økonomi, forår 2022.
+p.49: TABEL A  |  UDLANDSVÆKST OG RENTEPROGNOSE
+p.49: 2021  |  2022  |  2023  |  2024  |  2030a)
+p.49: Tyskland  |  2,6  |  1,2  |  -0,7  |  -  |  -
+p.49: USA  |  5,7  |  1,5  |  0,5  |  -  |  -
+p.49: Sverige  |  4,8  |  2,4  |  0,8  |  -  |  -
+p.49: Norge  |  4,2  |  3,1  |  1,6  |  -  |  -
+p.49: Realvækst i aftagerlande  |  5,1  |  2,5  |  0,8  |  1,8  |  2,0
+p.49: Ændring fra Dansk Økonomi, forår 2022  |  -0,1  |  -0,7  |  -1,8
+p.49: ECB's udlånsrente  |  -0,5  |  0,2  |  2,4  |  2,1  |  0,5
+p.49: Dansk tiårig statsobligation  |  0,0  |  1,5  |  2,5  |  2,0  |  1,1
+p.49: Tysk tiårig statsobligation  |  -0,3  |  1,2  |  2,1  |  1,8  |  1,0
+p.49: Dansk 30-årig realkreditrente  |  1,5  |  4,0  |  5,3  |  4,5  |  2,9
+p.49: a)  |  2030-søjlen angiver den gennemsnitlige årlige vækstrate fra 2024 til 2030 for BNP, mens de øvrige tal
+p.52: tal 2022, som blev offentliggjort den 31. august 2022, samt diverse indikatorer, der rækker ind i
+p.52: 2022 og ca. ¾ pct. i 2023. Det forudsættes, at ECB sætter renten op yderligere to gange i år, så
+p.52: stige til ca. 2¾ pct. ultimo 2022, hvorefter den gradvist falder frem mod 2030. Valutakurser forud-
+p.52: 100 dollar pr. tønde i 2022 og godt 80 dollar i 2023. Det lægges til grund, at den høje inflation
+p.52: politik, som den er præsenteret i forslaget til finanslov for 2023 og udgiftslofter for 2023-26. Der
+p.53: TABEL II.2  |  HOVEDTAL I FREMSKRIVNINGEN
+p.53: 2021  |  2021  |  2022  |  2023  |  2024  |  2030 a)
+p.53: Privat forbrug  |  1.142  |  4,2  |  -1,1  |  -0,3  |  2,5  |  3,0
+p.53: Offentligt forbrug  |  608  |  4,2  |  0,7  |  -0,7  |  1,6  |  1,1
+p.53: Offentlige investeringer  |  85  |  0,4  |  -2,6  |  2,2  |  3,4  |  2,0
+p.53: Boliginvesteringer  |  151  |  9,9  |  4,5  |  -10,0  |  -10,8  |  2,0
+p.53: Erhvervsinvesteringer  |  330  |  6,3  |  1,9  |  -4,3  |  -5,6  |  2,8
+p.53: Lagerændringer  |  9  |  0,0  |  0,8  |  -0,4  |  0,0  |  0,0
+p.53: Indenlandsk efterspørgsel i alt  |  2.325  |  4,6  |  0,9  |  -2,0  |  0,3  |  2,3
+p.53: Eksport  |  1.494  |  8,0  |  3,4  |  1,4  |  4,7  |  2,7
+p.53: Import  |  1.315  |  8,0  |  1,2  |  -1,1  |  4,7  |  3,9
+p.53: Bruttonationalprodukt  |  2.504  |  4,9  |  2,3  |  -0,2  |  0,6  |  1,6
+p.53: Bruttonationalprodukt, aftagerlande  |  5,1  |  2,5  |  0,8  |  1,8  |  2,0
+p.53: Beskæftigelsesgap  |  0,8  |  3,3  |  0,6  |  -1,0  |  0,0
+p.53: Forbrugerpriser  |  2,1  |  8,1  |  5,1  |  0,8  |  1,5
+p.53: Timelønsomkostninger  |  2,6  |  3,8  |  5,2  |  4,5  |  3,4
+p.53: Kontantpris på enfamiliehuse  |  10,6  |  2,0  |  -6,0  |  -2,4  |  5,8
+p.53: Timeproduktivitet, private byerhverv  |  1,3  |  -1,6  |  3,5  |  2,7  |  1,4
+p.53: Rente, 10-årig dansk statsobligation  |  0,0  |  1,5  |  2,5  |  2,0  |  1,1
+p.53: vises den gennemsnitlige årlige vækst fra 2024 til 2030.
+p.54: vækst i 2022 og 2023 på knap 2 pct.point, jf. figur II.23. Nedjusteringen
+p.55: 2019  |  2020  |  2021  |  2022  |  2023
+p.55: 2022 samt prognosen for årsniveauet af BNP i 2023. De stiplede
+p.55: første halvår af 2022  |  fjerde kvartal 2021 til andet kvartal 2022, jf. figur II.24. Stilstanden i BNP
+p.56: 2019  |  2020  |  2021  |  2022  |  2023  |  2024
+p.57: 2000  |  2005  |  2010  |  2015  |  2020  |  2025  |  2030
+p.63: med 2020 og på måneder fra 2021 og frem til og med juli 2022.
+p.64: trend over perioden 1955-2021.
+p.64: 2021 til 2024, hvorefter der forudsættes en gradvis tilbagevenden til
+p.64: den historiske trend. Faldet fra 2021 til 2024 er mindre end faldet under
+p.65: ked og Rekruttering (STAR) er 25. september 2022, mens nettoledigheden er for juli 2022. Der er
+p.74: skønnes at være negativt fra 2023 og frem mod 2027.
+p.74: i 2022  |  sig også gældende i 2008 umiddelbart op til finanskrisen. Denne sam-
+p.75: laterede nedlukninger i 2020 og 2021 på samme vis som i prognoser fra Dansk Øko-
+p.81: •  |  De offentlige investeringer følger i 2022 og 2023 skønnet fra Økonomisk Redegørelse, august
+p.81: 2022, dog er de offentlige investeringer i 2023 nedjusteret som følge af aftalen om vinterhjælp.
+p.81: 2021 ændres til  |  saldo i 2021 på trods af store midlertidige udgifter knyttet til håndterin-
+p.82: mindre end i 2021. Tilsvarende var der nogle høje indtægter i 2021,
+p.83: i 2023 og 2024 …  |  tidigt reguleres overførselsindkomsterne i 2023 efter de private lønstig-
+p.83: pris- og lønstigninger, der ventes i 2022 og 2023.
+p.84: TABEL II.3  |  OFFENTLIGE INDTÆGTER OG UDGIFTER
+p.84: 2021  |  2022  |  2023  |  2024  |  2025  |  2030
+p.84: Personskatter mv.a)  |  24,5  |  22,7  |  22,7  |  22,8  |  23,2  |  23,4
+p.84: Aktieskat  |  1,4  |  0,9  |  0,9  |  0,9  |  0,9  |  0,9
+p.84: Selskabsskat  |  3,7  |  2,9  |  2,8  |  2,8  |  2,8  |  2,7
+p.84: Nordsøbeskatning  |  0,0  |  0,1  |  0,1  |  0,1  |  0,2  |  0,4
+p.84: Pensionafkastbeskatning  |  2,5  |  0,2  |  0,5  |  0,7  |  0,8  |  0,8
+p.84: 15,7  |  15,1  |  15,0  |  14,9  |  15,0  |  15,3
+p.84: Øvrige indtægter  |  4,4  |  4,1  |  4,1  |  4,3  |  4,4  |  4,4
+p.84: 52,4  |  45,9  |  46,1  |  46,6  |  47,3  |  47,8
+p.84: Offentligt forbrugd)  |  24,3  |  23,1  |  23,3  |  24,0  |  24,3  |  24,6
+p.84: Offentlige investeringere)  |  3,4  |  3,2  |  3,4  |  3,4  |  3,5  |  3,5
+p.84: Indkomstoverførsler  |  15,5  |  14,4  |  14,9  |  15,3  |  15,6  |  15,9
+p.84: Øvrige udgifter f)  |  6,0  |  4,9  |  5,0  |  4,5  |  4,5  |  4,3
+p.84: Udgifter i altc)  |  49,2  |  45,6  |  46,6  |  47,2  |  47,8  |  48,3
+p.84: Primær saldo  |  3,2  |  0,2  |  -0,5  |  -0,6  |  -0,5  |  -0,4
+p.84: Nettorenteindtægter  |  0,4  |  0,1  |  0,3  |  0,4  |  0,2  |  0,3
+p.84: Offentlig saldo  |  3,6  |  0,4  |  -0,1  |  -0,2  |  -0,3  |  -0,2
+p.84: Strukturel saldog)  |  -0,6  |  0,2  |  1,1  |  0,7  |  0,5  |  -0,2
+p.84: ØMU-gæld  |  36,6  |  35,2  |  35,2  |  35,8  |  36,4  |  37,6
+p.84: Offentlig saldo  |  91,0  |  10,4  |  -3,3  |  -5,7  |  -8,5  |  -5,9
+p.84: Off. forbrug ekskl. afskrivninger  |  4,7  |  0,7  |  -0,7  |  0,9  |  1,2  |  0,9
+p.84: Off. investeringer ekskl. F&U  |  1,3  |  -3,0  |  0,7  |  3,9  |  3,5  |  1,5
+p.85: kring 0,8 pct. af BNP frem mod 2030.
+p.85: stiger mod 2030  |  res i både 2022 og 2023, hvilket som nævnt ovenfor skyldes, at ind-
+p.85: Underskudsgrænse  |  Budgetlovens underskudsgrænse blev fastsat til 0,5 pct. af BNP ved
+p.85: 2022  |  dret til 1,0 pct. af BNP med virkning fra 1. juli 2022. Det er også i Nati-
+p.85: et underskud på den strukturelle saldo på ca. 0,5 pct. af BNP mod
+p.86: skøn i 2030-planforløb: Grundlag for udgiftslofter 2026. I beregningen
+p.86: Kilde:  |  2030-planforløb: Grundlag for udgiftslofter 2026 og egne beregnin-
+p.86: saldomålsætning i  |  saldo på 0,5 pct. af BNP i 2030, da der ikke indarbejdes politiske mål-
+p.87: 2033. I Planforløb 2030: Grundlag for udgiftslofter for 2026 har Finans-
+p.87: 2033. Det er endvidere forudsat, at de samlede udgifter i 2030 er 15½
+p.87: bejdet en målsætning for den strukturelle saldo i 2030. Efter 2025
+p.88: rede i et underskud på den strukturelle saldo i 2030 på 0,5 pct. af BNP.
+p.88: turelle saldo på 0,5 pct. af BNP i 2030. Men eftersom denne saldomål-
+p.88: i juli …  |  end 0,5 pct. af BNP ved fremsættelse af forslaget til finanslov, med-
+p.88: fra juli 2022. Fra og med forslaget til finanslov for 2023 er det således
+p.88: strukturelle saldo i 2023 på 0,9 pct. af BNP. Der er således udsigt til,
+p.88: saldoen gradvist til et underskud på 0,1 pct. af BNP i 2030.
+p.92: TABEL II.4  |  FORSKEL I DEN STRUKTURELLE SALDO TIL FINANSMINISTERIET
+p.92: forskelle til Finansministeriet særligt i 2020 og 2021 som følge af forskellig behandling af engangs-
+p.92: 2019 2020 2021 2022 2023 2024 2025 2026  |  2030
+p.92: Dansk Økonomi, efterår 2022  |  0,4  |  -1,1  |  -0,6  |  0,2  |  1,1  |  0,7  |  0,5  |  0,2  |  -0,2
+p.92: 2030-planforløb  |  0,9  |  0,8  |  0,7  |  0,3  |  0,4  |  0,2  |  0,0  |  -0,1  |  -0,5
+p.92: Forskel  |  -0,5  |  -1,9  |  -1,3  |  -0,1  |  0,6  |  0,6  |  0,5  |  0,3  |  0,3
+p.92: heraf covid-19  |  0,0  |  -1,7  |  -1,9  |  -0,6  |  0,0  |  0,0  |  0,0  |  0,0
+p.92: Øvrig forskel  |  -0,4  |  -0,3  |  0,6  |  0,4  |  0,7  |  0,6  |  0,5  |  0,3  |  0,3
+p.92: - Konjunkturbidrag  |  -0,1  |  0,0  |  0,8
+p.92: - Nordsø  |  -0,1  |  0,1  |  0,0  |  -0,1  |  0,0  |  0,0  |  0,1  |  0,0  |  0,1
+p.92: - Aktiebeskatning  |  0,1  |  0,0  |  0,0  |  -0,1  |  -0,1  |  -0,2  |  -0,2  |  -0,2  |  -0,2
+p.92: - nettorenter  |  -0,1  |  -0,1  |  -0,1  |  -0,1  |  -0,1  |  -0,1  |  -0,1  |  -0,1  |  0,2
+p.92: - PAL-indtægter  |  -0,4  |  -0,4  |  -0,4  |  -0,3  |  -0,4  |  -0,4  |  -0,4  |  -0,4  |  -0,5
+p.92: - Engangsforhold  |  0,0  |  0,1  |  0,0  |  0,0  |  -0,1  |  -0,1  |  0,0  |  0,0  |  0,0
+p.92: - Førtidspensionister  |  0,1  |  0,1  |  0,1  |  0,1  |  0,1  |  0,1
+p.92: - Arbejdstid  |  0,6  |  0,7  |  0,6  |  0,6  |  0,6  |  0,6
+p.92: - Forskel i privat lønudvikjling  |  0,0  |  0,4  |  0,6  |  0,2
+p.92: - Andet  |  0,1  |  0,1  |  0,4  |  0,3  |  0,2  |  0,0  |  0,2  |  0,3  |  0,0
+p.92: strukturelle saldo i 2021 med ca. 0,7 pct. af BNP i denne fremskrivning.
+p.92: Kilde:  |  2030-planforløb: Grundlag for udgiftslofter 2026 og egne beregninger
+p.93: øge BNP med 0,5 pct. sammenlignet med 2019, jf. tabel II.5. Der har
+p.93: således været ført en ekspansiv finanspolitik fra 2019 til 2022, der sær-
+p.93: ten på 0,1 pct. af BNP. Dette bidrag stammer dog fra, at der tilbagebe-
+p.94: TABEL II.5  |  FINANSEFFEKTEN
+p.94: 2022 a)  |  2023 b)
+p.94: a)  |  Finanseffekten for 2022 er set i forhold til 2019.
+p.94: b)  |  Finanseffekten for 2023 er set i forhold til 2022.
+p.94: mere kontraktiv  |  ved forslaget til finanslov dæmper aktiviteten med 0,9 pct. af BNP,
+p.94: dæmper aktiviteten med ca. 0,3 pct. af BNP i 2023.
+p.94: vurderes ens  |  per aktiviteten med ca. 0,1 pct. af BNP, mens det i denne fremskrivning
+p.94: 0,3 pct. af BNP.
+p.95: grænsen for den strukturelle saldo fra 0,5 pct. af BNP til 1,0 pct. af
+p.96: ret 0,5 pct. af BNP, men den blev ændret til 1,0 pct. af BNP fra 1. juli
+p.96: blev ramt af covid-19 i 2020, og da der brød krig ud i Ukraine i 2022.
+p.97: er overholdt, hvis underskuddet højest er 1,5 pct. af BNP i et år eller
+p.97: 1,25 pct. af BNP i gennemsnit i to på hinanden følgende år.
+p.99: og pensionsafkastskat spiller også en rolle, jf. afsnit II.7. I 2020 og 2021
+p.107: hvis formandskabet vurderer, at underskuddene er større end 1,5 pct. af BNP.
+p.109: finanspolitikken i 2022 og 2023, og hensigtsmæssigheden af forskel-
+p.112: udgangen af 2023  |  år at være omtrent neutral, og i 2024 er der udsigt til et negativt be-
+p.112: finanspolitik …  |  tuationen i 2022 vil finanspolitikken i 2023 skulle afveje hensynet til
+p.115: tikken med en holdbarhedsindikator på 1,0 pct. af BNP vurderes at
+p.115: bør diskuteres og  |  loven, der blev vedtaget i 2012. I foråret 2022 blev det i overensstem-
+
+# --- full text of p.4 (table layout, for column headers and notes) ---
+p.4| Konjunktur og offentlige finanser - Indledning II.1
+p.4|                                       fødevarer. Det slår igennem på forbrugerpriserne med en vis forsin-
+p.4|                                       kelse, men vil bidrage til at trække priserne ned i løbet af 2023. På den
+p.4|                                       anden side forventes nye og markante prisstigninger på el og gas hen-
+p.4|                                       over sommeren at trække op i forbrugerpriserne, særligt i Europa. I
+p.4|                                       USA er der desuden et opadgående prispres fra højere lønstigninger.
+p.4|                                       I Danmark ventes bidraget fra indenlandsk genereret prispres på
+p.4|                                       samme måde at stige det kommende år blandt andet som følge af hø-
+p.4|                                       jere lønninger. I overensstemmelse med forventningerne blandt inter-
+p.4|                                       nationale prognosemagere er det lagt til grund for prognosen, at infla-
+p.4|                                       tionen vil forblive omkring det nuværende niveau resten af 2022.
+p.4|                                       Selvom inflationen ventes at aftage igennem 2023 forventes prisstig-
+p.4|                                       ningerne at forblive mærkbart over det niveau, der har været de sene-
+p.4|                                       ste mange år. Konkret skønnes de danske forbrugerpriser som års-
+p.4|                                       gennemsnit at stige ca. 8 pct. i år og ca. 5 pct. i 2023, jf. tabel II.1.
+p.4|      TABEL II.1          HOVEDTAL I PROGNOSEN
+p.4|      Beskæftigelsesgap ventes at aftage markant og vendes til et negativt gap på ca. 1 pct. i 2024.
+p.4|      Inflationen ventes at blive høj med 8 pct. i gennemsnit i år og ca. 5 pct. næste år.
+p.4|                                                                   2021        2022       2023        2024         2030 a)
+p.4|      BNP (realvækst i pct.)                                         4,9         2,3        -0,2        0,6          1,6
+p.4|      Beskæftigelsesgap (pct.)                                       0,8         3,3         0,6       -1,0          0,0
+p.4|      Nettoledighed (1.000 pers.)                                     94          68         91         110           96
+p.4|      Offentlig saldo (pct. af BNP)                                  3,6         0,4        -0,1       -0,2         -0,2
+p.4|      Strukturel offentlig saldo (pct. af BNP)                      -0,6         0,2         1,1        0,7         -0,2
+p.4|      Inflation (pct.)                                               2,1         8,1        5,1         0,8          1,5
+p.4|      Lønvækst (pct.)                                                2,6         3,8         5,2        4,5          3,4
+p.4|      BNP i aftagerlande (realvækst i pct.)                          5,1         2,5        0,8         1,8          2,0
+p.4|      10-årig dansk statsobligation (pct.)                           0,0         1,5         2,5        2,0          1,1
+p.4|      a)        Sidste søjle viser niveauet i 2030 for beskæftigelsesgap, ledighed, offentlig og strukturel saldo, inflation
+p.4|                samt rente. For BNP i Danmark og udlandet vises den gennemsnitlige årlige vækst fra 2024 til 2030.
+p.4|      Anm.:     Forbrugerpriserne er udtrykt ved deflatoren for det private forbrug.
+p.4|      Kilde:    Danmarks Statistik, ADAM’s databank, Macrobond og egne beregninger.
+p.4| Nedjusterede                          Den høje inflation har reduceret husholdningernes købekraft betragte-
+p.4| vækstudsigter                         ligt; inflationen giver også anledning til øget usikkerhed og den har gi-
+p.4|                                       vet anledning til pengepolitiske stramninger i de fleste lande. Faldende
+p.4|                                       realløn, øget usikkerhed og stigende renter har bidraget til en begyn-
+p.4|                                       dende afmatning med et svagt fald i BNP i USA i første halvår 2022 og
+p.4|                                       omtrent stilstand i flere lande i Europa i andet kvartal 2022, herunder i
+p.4| 42            Dansk Økonomi, efterår 2022
+
+# --- full text of p.53 (table layout, for column headers and notes) ---
+p.53|                                     Konjunktur og offentlige finanser - Aktuelle udsigter for dansk økonomi II.5
+p.53| TABEL II.2         HOVEDTAL I FREMSKRIVNINGEN
+p.53| Der ventes en betydelig afmatning af dansk økonomi det kommende år, hvilket skal ses i lyset af
+p.53| de dæmpede vækstudsigter for udlandet, den betydelige usikkerhed, høj inflation og højere renter.
+p.53|                                                      2021       2021      2022     2023     2024        2030 a)
+p.53|                                                   Mia. kr.     --------------- Realvækst, pct. ---------------
+p.53| Privat forbrug                                      1.142         4,2      -1,1     -0,3       2,5        3,0
+p.53| Offentligt forbrug                                    608         4,2       0,7     -0,7       1,6        1,1
+p.53| Offentlige investeringer                                85        0,4      -2,6      2,2       3,4        2,0
+p.53| Boliginvesteringer                                    151         9,9       4,5    -10,0    -10,8         2,0
+p.53| Erhvervsinvesteringer                                 330         6,3       1,9     -4,3      -5,6        2,8
+p.53| Lagerændringer                                           9        0,0       0,8     -0,4       0,0        0,0
+p.53| Indenlandsk efterspørgsel i alt                     2.325         4,6       0,9     -2,0       0,3        2,3
+p.53| Eksport                                             1.494         8,0       3,4      1,4       4,7        2,7
+p.53| Import                                              1.315         8,0       1,2     -1,1       4,7        3,9
+p.53| Bruttonationalprodukt                               2.504         4,9       2,3     -0,2       0,6        1,6
+p.53| Bruttonationalprodukt, aftagerlande                               5,1       2,5      0,8       1,8        2,0
+p.53|                                              1.000 pers.      ------------- Ændring i 1.000 pers. -----------
+p.53| Strukturel arbejdsstyrke                            3.015          23       20        16         2          5
+p.53| Arbejdsstyrke                                       3.033          38       71       -38      -26           7
+p.53| Beskæftigelse                                       2.939          63       97       -61      -45           9
+p.53|                                                              --------------------- 1.000 pers. -----------------
+p.53| Nettoledighed                                                      94       68        91      110          96
+p.53|                                                              ------------------------- Pct. ----------------------
+p.53| Beskæftigelsesgap                                                 0,8       3,3      0,6      -1,0        0,0
+p.53| Forbrugerpriser                                                   2,1       8,1      5,1       0,8        1,5
+p.53| Timelønsomkostninger                                              2,6       3,8      5,2       4,5        3,4
+p.53| Kontantpris på enfamiliehuse                                     10,6       2,0     -6,0      -2,4        5,8
+p.53| Timeproduktivitet, private byerhverv                              1,3      -1,6      3,5       2,7        1,4
+p.53| Rente, 10-årig dansk statsobligation                              0,0       1,5      2,5       2,0        1,1
+p.53| a)       Den sidste søjle viser niveauet i 2030 for ledighed, beskæftigelsesgap og rente. For de øvrige poster
+p.53|          vises den gennemsnitlige årlige vækst fra 2024 til 2030.
+p.53| Anm.:    Beskæftigelsesgap angiver afvigelsen fra den strukturelle beskæftigelse i pct. Forbrugerpriserne er ud-
+p.53|          trykt ved deflatoren for det private forbrug. Lagerinvesteringer angiver vækstbidraget til BNP. BNP i af-
+p.53|          tagerlande angiver den sammenvejede BNP-vækst i Danmarks ni primære aftagerlande. Renten er an-
+p.53|          givet som årsgennemsnit.
+p.53| Kilde:   Danmarks Statistik, ADAM’s databank, Macrobond og egne beregninger.
+p.53|                                                                          Dansk Økonomi, efterår 2022                 91

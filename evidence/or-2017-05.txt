@@ -1,7 +1,7 @@
 # or-2017-05
 # url: https://regeringen.dk/media/u0lnig0x/oekonomisk_redegoerelse_maj_2017_pdfa.pdf
 # http: 200  bytes: 2498570  sha256: 73558d27a5f871479f7417f54a6ecace11f5b5cda9358b895df90ce240e57d2f
-# fetched: 2026-09-29T18:45:07Z
+# fetched: 2026-09-29T18:50:49Z
 # pages: 167  (lines below are quotes; p.N = PDF page)
 
 p.5: peger på en pæn vækst og beskæftigelsesfremgang i 2017 og 2018.

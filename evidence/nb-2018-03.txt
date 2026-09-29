@@ -1,7 +1,7 @@
 # nb-2018-03
 # url: https://www.nationalbanken.dk/media/a5fl4m0b/analyse-moderat-hoejkonjunktur-i-de-kommende-aar.pdf
 # http: 200  bytes: 437248  sha256: 96d4f17f6134aeada2552f9bbe3549760138992493516a6acdb93f7b834eb4ad
-# fetched: 2026-09-29T18:46:28Z
+# fetched: 2026-09-29T18:52:08Z
 # pages: 21  (lines below are quotes; p.N = PDF page)
 
 p.2: •  |  Det reale BNP skønnes at vokse med 1,9 pct. i år,
@@ -156,3 +156,42 @@ p.11|    1. Omfatter både husholdninger og NPISH.
 p.11|    2. Bidrag til BNP-vækst (posten omfatter lagerinvesteringer, værdigenstande og statistisk diskrepans).
 p.11|    3. Nominelle priser på enfamiliehuse.
 p.11|    Kilde: Danmarks Statistik og egne beregninger.
+
+# --- full text of p.19 (table layout, for column headers and notes) ---
+p.19| A N A LY S E — D A N M A R K S N AT I O N A L B A N K                                                                                            19
+p.19| UDSIGTER FOR DANSK ØKONOMI – MARTS 2018
+p.19| Den gennemsnitlige obligationsrente (gennemsnit                           Det reale offentlige forbrug antages i år at stige 1,0
+p.19| af de effektive renter på stats- og realkreditobliga-                     pct. og 0,8 pct. i både 2019 og 2020. De offentlige
+p.19| tioner) ventes at stige gennem prognoseperioden                           investeringer antages at falde 1,1 pct. i år og stige
+p.19| fra et udgangspunkt på 0,8 pct. op til 1,8 pct. ved                       med henholdsvis 0,2 og 0,5 pct. i 2019 og 2020, jf.
+p.19| udgangen af 2020.                                                         tabel A1.
+p.19| I fremskrivningen antages den effektive kronekurs                         Revisioner i forhold til seneste prognose
+p.19| og dollarkursen at holde sig konstant på nuværende                        Den lidt stærkere krone end forudsat i seneste
+p.19| niveau.                                                                   prognose tilsiger en svagere vækst i 2018, mens en
+p.19|                                                                           stærkere eksportmarkedsvækst trækker op. Ændrede
+p.19| I slutningen af februar 2018 lå olieprisen omkring                        forudsætninger påvirker kun i et lille omfang pro-
+p.19| 67 dollar pr. tønde. Det antages, at olieprisen følger                    gnosen i 2019, jf. tabel A.2.
+p.19| futurespriserne, hvilket indebærer en svagt faldende
+p.19| profil frem mod slutningen af 2020.                                       Skønnet for stigningstakten i forbrugerpriserne,
+p.19|                                                                           HICP, er for 2018 og 2019 justeret ned. Nedjusterin-
+p.19| Finanspolitiske forudsætninger                                            gen skyldes primært, at priserne for uforarbejdede
+p.19| I fremskrivningen tages der udgangspunkt i de                             fødevarer og indenlandsk markedsbestemte priser
+p.19| foreløbige opgørelser fra nationalregnskabet af                           har på det seneste udviklet sig svagere end ventet,
+p.19| forbrug og investeringer i den offentlige sektor samt                     hvilket påvirker årsstigningstakten for 2018 markant
+p.19| den tilrettelagte finanspolitik i finansloven for 2018.                   (såkaldt underhæng). Desuden er de skønnede stig-
+p.19| Derudover er de nyligt indgåede politiske aftaler,                        ninger i huslejen nedjusteret for 2018.
+p.19| herunder forsvarsforliget fra januar og skatteaftalen
+p.19| fra februar 2018, indarbejdet.
+p.19|   Revisioner i forhold til seneste prognose                                                                                          Tabel A2
+p.19|                                                                               BNP                             Forbrugerpriser, HICP
+p.19|   Pct., år-år                                                      2017         2018         2019             2017         2018           2019
+p.19|   Prognose fra december 2017                                       2,3          1,8            1,7             1,0          1,4            1,7
+p.19|   Bidrag til ændret skøn fra:
+p.19|      Eksportmarkedsvækst                                           0,1          0,1            0,1             0,0          0,0            0,1
+p.19|      Renteudvikling                                                0,0          0,0           -0,1             0,0          0,0            0,0
+p.19|      Valutakurser                                                  0,0          -0,3           0,0             0,0         -0,1           -0,1
+p.19|      Oliepriser                                                    0,0          0,0           -0,1             0,1          0,5           -0,1
+p.19|      Andre faktorer                                                -0,3         0,3            0,0            -0,1         -1,1           -0,1
+p.19|   Denne prognose                                                   2,1          1,9            1,8             1,1          0,7            1,5
+p.19|   Anm.: Afrunding kan betyde, at overgangen fra seneste til nuværende prognose ikke stemmer helt. Posten ”Andre faktorer” omfatter også
+p.19|         datarevisioner.

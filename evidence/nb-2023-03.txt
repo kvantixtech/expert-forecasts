@@ -1,7 +1,7 @@
 # nb-2023-03
 # url: https://www.nationalbanken.dk/media/5udnq3q3/declining-but-still-high-inflation.pdf
 # http: 200  bytes: 777746  sha256: 12e481af69171994fc53c1180c7c2e8b10fc8dd08bbabfe3fcf88425de4b7749
-# fetched: 2026-09-29T18:48:41Z
+# fetched: 2026-09-29T18:54:23Z
 # pages: 47  (lines below are quotes; p.N = PDF page)
 
 p.2: 2022  |  2023  |  2024  |  2025  |  The Government

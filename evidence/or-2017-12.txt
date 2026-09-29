@@ -1,7 +1,7 @@
 # or-2017-12
 # url: https://regeringen.dk/media/5p1pvo0j/oekonomisk-redegoerelse-december-2017-web.pdf
 # http: 200  bytes: 2706378  sha256: 24436915ad295645084550be03dcb254a515a42a88002377dab04352b854e9e2
-# fetched: 2026-09-29T18:45:18Z
+# fetched: 2026-09-29T18:51:00Z
 # pages: 201  (lines below are quotes; p.N = PDF page)
 
 p.7: 1.5 Bilagstabel .............................................................................................................  |  44

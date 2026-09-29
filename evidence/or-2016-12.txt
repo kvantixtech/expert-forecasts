@@ -1,7 +1,7 @@
 # or-2016-12
 # url: https://regeringen.dk/media/xb0jk32l/oekonomisk-redegoerelse-december-2016.pdf
 # http: 200  bytes: 3721208  sha256: 573652babf0964524f384da54affb1263f4bd31b80aa3ff34183931aa783badb
-# fetched: 2026-09-29T18:45:03Z
+# fetched: 2026-09-29T18:50:44Z
 # pages: 177  (lines below are quotes; p.N = PDF page)
 
 p.7: 1.5 Bilagstabel ............................................................................................................  |  36

@@ -1,7 +1,7 @@
 # nb-2019-09
 # url: https://www.nationalbanken.dk/media/n2war15y/analysis-no-20-outlook-for-the-danish-economy-september-2019.pdf
 # http: 200  bytes: 507938  sha256: 25b3ca3174ad521c6849b88c3d721725ae47ddaca929077b753e8ab842e3a1c7
-# fetched: 2026-09-29T18:48:55Z
+# fetched: 2026-09-29T18:54:38Z
 # pages: 29  (lines below are quotes; p.N = PDF page)
 
 p.2: to 1.5 per cent in 2020 and 2021, which is roughly  |  should not be seen as an indication that a down­
@@ -171,3 +171,45 @@ p.14|   2. Contribution to GDP growth (this item comprises inventory investment,
 p.14|   3. Nominal prices of single-family houses.
 p.14|   4. Statistics Denmark’s implicit wage index.
 p.14|   Source: Statistics Denmark and own forecasts.
+
+# --- full text of p.27 (table layout, for column headers and notes) ---
+p.27| A N A LY S I S — D A N M A R K S N AT I O N A L B A N K                                                                                           27
+p.27| OUTLOOK FOR THE DANISH ECONOMY – SEPTEMBER 2019
+p.27| est rate, measured by the CITA swap rate, is expected                        Real public consumption is expected to rise by
+p.27| to be negative and decline further from the current                          0.8 per cent this year, 0.9 per cent in 2020 and 0.7
+p.27| level of -0.5 per cent.                                                      per cent in 2021. Public investment is expected to
+p.27|                                                                              increase by 3.0 per cent this year, decline by 0.2 per
+p.27| The average bond yield is an average of yields to                            cent in 2020 and increase by 3.5 per cent in 2021, cf.
+p.27| maturity for outstanding government and mortgage                             Table A1.
+p.27| bonds. It constitutes 0.3 per cent in the 3rd quarter
+p.27| of 2019 and rises slightly over the projection period                        Revisions in relation to the previous projection
+p.27| to just over 0.4 per cent by the end of 2021.                                Forecasts for GDP growth are adjusted upwards by
+p.27|                                                                              0.1 percentage points this year, downwards by 0.2
+p.27| In the projection, the effective krone rate and the                          percentage points in 2020 and 0.1 percentage points
+p.27| dollar rate are assumed to remain constant at the                            in 2021. Overall, changed assumptions affect GDP
+p.27| current levels.                                                              growth to a limited extent only, but mask opposite
+p.27|                                                                              effects from export market growth and interest rates,
+p.27| The price of oil was around 63 dollars per barrel at                         cf. Table A2. Lower interest rates are, to some extent,
+p.27| the time of the forecast. The oil price is assumed to                        a result of increased uncertainty, which is estimated
+p.27| develop in line with futures prices, decreasing to just                      to offset some of the positive effect from the change
+p.27| under 57 dollars by the end of 2021.                                         in interest rate developments in 2020 and 2021.
+p.27| Fiscal assumptions                                                           The forecast for consumer price inflation (HICP) is
+p.27| The projection is based on preliminary national                              somewhat weaker throughout the projection period
+p.27| accounts data on public sector consumption and                               compared with the latest projection. This year it re­
+p.27| investment as well as the planned fiscal policy in the                       flects a slightly weaker-than-expected price develop­
+p.27| Economic Survey from August 2019, the medium-term                            ment, while in 2020 and 2021 it reflects weaker price
+p.27| projection from the Updated 2025 development and                             pressures from abroad and more subdued wage
+p.27| the economic agreements with local and regional                              growth.
+p.27| government.
+p.27|   Revisions in relation to the previous projection                                                                                     Table A2
+p.27|                                                                                     GDP                            Consumer prices (HICP)
+p.27|   Per cent, year-on-year                                             2019          2020         2021              2019         2020      2021
+p.27|   Projection, March 2019                                              1.7          1.7            1.6              1.2          1.5         1.8
+p.27|   Contribution to revised forecast from:
+p.27|      Export market growth                                            -0.1          -0.2          -0.1              0.0          0.0         0.0
+p.27|      Interest rates                                                   0.0          0.2            0.2              0.0          0.0         0.0
+p.27|      Exchange rates                                                   0.1          -0.1          -0.1              0.0          0.0         0.0
+p.27|      Oil prices                                                       0.0          0.0            0.0              0.0         -0.2         0.0
+p.27|      Other factors                                                    0.0          -0.2          -0.1             -0.4         -0.4       -0.2
+p.27|   This projection                                                     1.8          1.5            1.5              0.8          1.0         1.5
+p.27|   Note: The transition from the previous to this projection may not add up due to rounding. “Other factors” includes data revisions.

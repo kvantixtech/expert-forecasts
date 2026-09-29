@@ -1,7 +1,7 @@
 # nb-2020-06
 # url: https://www.nationalbanken.dk/media/lbmic2pw/analyse-nr-12-udsigt-til-gradvis-genopretning-af-oekonomien.pdf
 # http: 200  bytes: 610259  sha256: 3f3346a256941f9ba5272fb49ba41dc1db9d7316d2f0fead4342f906fa1c0ad4
-# fetched: 2026-09-29T18:49:00Z
+# fetched: 2026-09-29T18:54:43Z
 # pages: 30  (lines below are quotes; p.N = PDF page)
 
 p.1: ligere lempelser i 2021 og 2022. Lempelserne
@@ -169,3 +169,44 @@ p.14|    1. Omfatter både husholdninger og NPISH.
 p.14|    2. Bidrag til BNP-vækst (posten omfatter lagerinvesteringer, værdigenstande og statistisk diskrepans).
 p.14|    3. Nominelle priser på enfamiliehuse.
 p.14|    4. Danmarks Statistiks implicitte lønindeks.
+
+# --- full text of p.28 (table layout, for column headers and notes) ---
+p.28| A N A LY S E — D A N M A R K S N AT I O N A L B A N K                                                                                   28
+p.28| UDSIGTER FOR DANSK ØKONOMI — JUNI 2020
+p.28| Den gennemsnitlige obligationsrente er et gennem-                         Det reale offentlige forbrug antages at stige 1,8 pct.
+p.28| snit af de effektive renter på udestående stats- og                       i år, 0,1 pct. i 2021 og 1,0 pct. i 2022. De offentlige
+p.28| realkreditobligationer. Den ventes at falde til 0,4 pct.                  investeringer antages at stige 0,5 pct. i 2020, 0,9 pct.
+p.28| i 2020 og herefter stige svagt gennem prognoseperi-                       i 2021 og 0,9 pct. i 2022, jf. tabel 1.
+p.28| oden til knap 0,5 pct. ved udgangen af 2022.
+p.28|                                                                           Revisioner i forhold til seneste prognose
+p.28| I fremskrivningen antages den effektive kronekurs                         Skønnet for BNP-væksten er nedjusteret med 5,6
+p.28| og dollarkursen at holde sig konstant på nuværende                        procentpoint i år i forhold til prognosen fra septem-
+p.28| niveau.                                                                   ber 2019, men opjusteret med 2,7 procentpoint i
+p.28|                                                                           2021. Eksportmarkedsvæksten trækker ned i skønnet
+p.28| I begyndelsen af juni 2020 lå olieprisen omkring 35                       for 2020 og 2021, men trækker op igen i 2022, jf.
+p.28| dollar pr. tønde. Det antages, at olieprisen følger                       tabel 2. En stor del af faldet i væksten skyldes andre
+p.28| futurespriserne, som stiger gradvist til omkring 45                       faktorer, der bl.a. afspejler nedlukningen af en række
+p.28| dollar pr. tønde ved udgangen af 2022.                                    brancher i 2020.
+p.28| Finanspolitiske forudsætninger                                            Skønnet for stigningstakten i forbrugerpriserne,
+p.28| I fremskrivningen tages der udgangspunkt i de fore-                       HICP, er svagere gennem hele prognoseperioden
+p.28| løbige opgørelser fra nationalregnskabet af forbrug                       sammenlignet med seneste prognose fra september
+p.28| og investeringer i den offentlige sektor samt den                         2019. Det afspejler bl.a. et stort fald i olieprisen i
+p.28| tilrettelagte finanspolitik i Økonomisk Redegørelse,                      2020.
+p.28| maj 2020 og Opdateret 2025-forløb, oktober 2019.
+p.28| Dertil er der indarbejdet Grøn Boligaftale, Aftale om
+p.28| kompensation til boligejerne og fortsat tryghed om
+p.28| boligbeskatning samt de væsentligste delaftaler fra
+p.28| Aftale om udfasning af hjælpepakker, stimuli-initiativer
+p.28| og eksportinitiativer.
+p.28|    Ændringer i prognosen                                                                                                      Tabel 2
+p.28|                                                                               BNP                     Forbrugerpriser, HICP
+p.28|    Pct., år-år                                                    2020         2021            2022   2020       2021          2022
+p.28|    Prognose fra marts 2019                                         1,5          1,5             1,6    1,0        1,5            1,6
+p.28|    Bidrag til ændret skøn fra:
+p.28|       Eksportmarkedsvækst                                         -2,9         -0,5             0,9    0,0       -0,4           -0,7
+p.28|       Renteudvikling                                               0,0          0,0             0,0    0,0        0,0            0,0
+p.28|       Valutakurser                                                 0,0         -0,2             0,0    0,0       -0,1           -0,1
+p.28|       Oliepriser                                                   0,0          0,1             0,0   -0,6       -0,1            0,0
+p.28|       Andre faktorer                                              -2,7          3,4            -0,9   -0,1       -0,1            0,4
+p.28|    Denne prognose                                                 -4,1          4,2             1,6    0,2        0,9            1,2
+p.28|    Anm.: Afrunding kan betyde, at overgangen fra seneste til nuværende prognose ikke summer.

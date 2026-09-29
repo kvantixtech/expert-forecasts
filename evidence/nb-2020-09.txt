@@ -1,7 +1,7 @@
 # nb-2020-09
 # url: https://www.nationalbanken.dk/media/fhdaeaep/analyse-nr-18-udsigt-til-moderat-lavkonjunktur-det-naeste-aars-tid.pdf
 # http: 200  bytes: 508270  sha256: 8b5ddcd92401642a844a3382ef1229bdb8ecf70a935e0015cdefe55423046926
-# fetched: 2026-09-29T18:48:57Z
+# fetched: 2026-09-29T18:54:41Z
 # pages: 30  (lines below are quotes; p.N = PDF page)
 
 p.2: På boligmarkedet er omsæt­  |  BNP ventes at falde med 3,6 pct.  |  Risikobilledet er især præget af
@@ -183,3 +183,37 @@ p.15|   3. Den seneste revision af betalingsbalancen over for udlandet er ikke i
 p.15|      ikke i datagrundlaget for prognosen.
 p.15|   4. Nominelle priser på enfamiliehuse.
 p.15|   5. Danmarks Statistiks implicitte lønindeks.
+
+# --- full text of p.28 (table layout, for column headers and notes) ---
+p.28| A N A LY S E — D A N M A R K S N AT I O N A L B A N K                                                                                               28
+p.28| UDSIGTER FOR DANSK ØKONOMI – SEPTEMBER 2020
+p.28|   Oversigt over prognosens antagelser                                                                                                     Tabel 1
+p.28|                                                                     2018                2019            2020             2021              2022
+p.28|   International økonomi:
+p.28|        Eksportmarkedsvækst, pct. år-år                                3,4                2,4             -9,4              6,6               6,0
+p.28|        Udenlandsk pris1, pct. år-år                                   2,9                0,7              2,1              2,2               1,8
+p.28|        Udenlandsk timeløn, pct. år-år                                 2,7                2,4              1,9              1,8               2,4
+p.28|   Finansielle forhold mv.:
+p.28|        3-måneders pengemarkedsrente, pct. p.a.                       -0,5               -0,6             -0,6              -0,5             -0,5
+p.28|        Gennemsnitlig obligationsrente, pct. p.a.                      0,7                0,5              0,3              0,3               0,4
+p.28|        Effektiv kronekurs, 1980 = 100                              103,6              103,0            104,2             105,4            105,4
+p.28|        Dollarkurs, DKK pr. USD                                        6,3                6,7              6,5              6,3               6,3
+p.28|        Oliepris, Brent, USD pr. tønde                                70,9               64,4            40,6              43,1              46,1
+p.28|   Finanspolitik:
+p.28|        Offentligt forbrug, pct. år-år                                 0,4                1,2              1,3              1,5               0,8
+p.28|        Offentlige investeringer, pct. år-år                           2,0                0,7              7,9              3,3               2,6
+p.28|        Offentlig beskæftigelse, 1.000 personer                       824                829              830               837              841
+p.28|   1.   Sammenvejet importpris for de lande, Danmark eksporterer til. I prognosen forudsættes de samme vækstrater for de sammenvejede eksport­
+p.28|        priser for de lande, som Danmark importerer fra.
+p.28|   Ændringer i prognosen                                                                                                                   Tabel 2
+p.28|                                                                                 BNP                             Forbrugerpriser, HICP
+p.28|   Pct., år-år                                                       2020         2021          2022             2020          2021         2022
+p.28|   Prognose fra marts 2019                                           -4,1          4,2            1,6             0,2           0,9           1,2
+p.28|   Bidrag til ændret skøn fra:
+p.28|        Eksportmarkedsvækst                                          -0,1          0,0            0,1             0,0           0,0           0,0
+p.28|        Renteudvikling                                                0,0          0,1            0,1             0,0           0,0           0,0
+p.28|        Valutakurser                                                 -0,2         -0,3           -0,1             0,0          -0,2          -0,2
+p.28|        Oliepriser                                                    0,0          0,0            0,0             0,0           0,0           0,0
+p.28|        Andre faktorer                                                0,8         -0,4            0,7             0,1           0,2           0,1
+p.28|   Denne prognose                                                    -3,6          3,6            2,3             0,3           0,9           1,2
+p.28|   Anm.: Afrunding kan betyde, at overgangen fra seneste til nuværende prognose ikke summer. Posten ”Andre faktorer” omfatter også datarevisioner.

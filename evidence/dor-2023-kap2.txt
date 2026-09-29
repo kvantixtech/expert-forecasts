@@ -1,7 +1,7 @@
 # dor-2023-kap2
 # url: https://dors.dk/files/media/E23_Kap.II_.pdf
 # http: 200  bytes: 3226132  sha256: 9c2cc2d2233cf02827b4fe82561fbc676918da5f75917cabadfc38189aa24ea2
-# fetched: 2026-09-29T18:48:06Z
+# fetched: 2026-09-29T18:53:47Z
 # pages: 83  (lines below are quotes; p.N = PDF page)
 
 p.3: år. Til gengæld har der gennem 2022 og i første del af 2023 været

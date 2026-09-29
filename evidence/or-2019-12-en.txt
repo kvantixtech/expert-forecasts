@@ -1,7 +1,7 @@
 # or-2019-12-en
 # url: https://en.fm.dk/media/mxwkmcmw/economic-survey-december-2019.pdf
 # http: 200  bytes: 521173  sha256: 1001afe1c102935466a1dd68ff0b496f58944f90ab252dd78e21262ba158fc7d
-# fetched: 2026-09-29T18:45:32Z
+# fetched: 2026-09-29T18:51:14Z
 # pages: 65  (lines below are quotes; p.N = PDF page)
 
 p.1: mately 2½ per cent per year in 2015-2018, and the economy is expected to grow by 2.0

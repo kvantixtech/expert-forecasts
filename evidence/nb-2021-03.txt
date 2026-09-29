@@ -1,7 +1,7 @@
 # nb-2021-03
 # url: https://www.nationalbanken.dk/media/n3nn2qga/analysis-no-7-outlook-for-the-danish-economy-march-2021.pdf
 # http: 200  bytes: 514194  sha256: 5bc27792448df38b26394424c8461258b39a6e6db4693fc61890dc1e1083fc2f
-# fetched: 2026-09-29T18:49:05Z
+# fetched: 2026-09-29T18:54:48Z
 # pages: 28  (lines below are quotes; p.N = PDF page)
 
 p.2: Housing market activity is high. This  |  GDP is projected to increase by 1.4  |  The pandemic still dominates the risk

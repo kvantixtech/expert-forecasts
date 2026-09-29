@@ -1,7 +1,7 @@
 # dst-first-2023a
 # url: https://www.dst.dk/Site/Dst/Udgivelser/nyt/GetPdf.aspx?cid=46520
 # http: 200  bytes: 530307  sha256: 59da30d741214b2ea909ddb417afd4e11ac784470766e950e5af36a49fd02332
-# fetched: 2026-09-29T18:49:40Z
+# fetched: 2026-09-29T18:55:22Z
 # pages: 6  (lines below are quotes; p.N = PDF page)
 
 p.1: 3. kvt. 2023 - 4. kvt. 2023  |  3. kvt. 2023 - 4. kvt. 2023

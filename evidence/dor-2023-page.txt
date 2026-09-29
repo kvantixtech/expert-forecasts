@@ -1,7 +1,7 @@
 # dor-2023-page
 # url: https://dors.dk/vismandsrapporter/dansk-oekonomi-efteraar-2023
 # http: 200  bytes: 81078  sha256: db8ea4dc2d451092758a0d882e84cacf026dc956a8b8e73554b7850c22bb4f44
-# fetched: 2026-09-29T18:47:03Z
+# fetched: 2026-09-29T18:52:47Z
 # html page
 
 præsenterer en beregning af den finanspolitiske holdbarhed. Finanspolitikken er med en holdbarhedsindikator på 0,3 pct. af BNP holdbar. Siden beregningen i
