@@ -53,7 +53,8 @@ def pdf_lines(path):
 
 def page_lines(path, base):
     raw = open(path, "rb").read().decode("utf-8", "replace")
-    links = sorted(set(re.findall(r'href="([^"]+\.pdf[^"]*)"', raw, re.I)))
+    links = sorted(set(re.findall(r'href="([^"]+\.pdf[^"]*)"', raw, re.I)) |
+                   set(l for l in re.findall(r'href="([^"]+)"', raw) if re.search(r"(outlook|udsigter|redegoerelse|dansk-oekonomi|monetary-review|kvartalsoversigt)", l, re.I)))
     links = [html.unescape(l if l.startswith("http") else urllib.parse.urljoin(base, l)) for l in links]
     text = re.sub(r"(?is)<(script|style).*?</\1>", " ", raw)
     text = re.sub(r"(?s)<[^>]+>", "\n", text)
@@ -107,7 +108,7 @@ def main():
                 else:
                     body, links = page_lines(f, s["url"])
                     head.append(f"# html page{' (expected PDF, got HTML)' if s['kind'] == 'pdf' else ''}")
-                    body += ["", "# PDF links on this page:"] + links
+                    body += ["", "# PDF and publication links on this page:"] + links
             else:
                 prev = index.get(s["id"])
                 if prev and str(prev.get("http", "")).startswith("2"):
