@@ -381,12 +381,12 @@
    "url": "https://www.nationalbanken.dk/media/n2war15y/analysis-no-20-outlook-for-the-danish-economy-september-2019.pdf"
   },
   {
-   "id": "nb-2020-06",
+   "id": "nb-2020-09",
    "kind": "pdf",
    "url": "https://www.nationalbanken.dk/media/fhdaeaep/analyse-nr-18-udsigt-til-moderat-lavkonjunktur-det-naeste-aars-tid.pdf"
   },
   {
-   "id": "nb-2020-09",
+   "id": "nb-2020-06",
    "kind": "pdf",
    "url": "https://www.nationalbanken.dk/media/lbmic2pw/analyse-nr-12-udsigt-til-gradvis-genopretning-af-oekonomien.pdf"
   },
@@ -562,6 +562,16 @@
    "id": "dst-nyt-series",
    "kind": "page",
    "url": "https://www.dst.dk/da/Statistik/udgivelser/nyt?series=2742"
+  },
+  {
+   "id": "nb-2016-12-page",
+   "kind": "page",
+   "url": "http://www.nationalbanken.dk/en/publications/Pages/2016/12/Monetary-Review-4th-Quarter-2016.aspx"
+  },
+  {
+   "id": "nb-2018-09-page",
+   "kind": "page",
+   "url": "https://www.nationalbanken.dk/en/news-and-knowledge/publications-and-speeches/archive-publications/2018/outlook-for-the-danish-economy-boom-with-no-signs-of-imbalances"
   }
  ],
  "statbank": [

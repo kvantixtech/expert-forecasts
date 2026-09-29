@@ -30,6 +30,9 @@ jobs:
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
             git commit -qm "evidence: fetched $(date -u +%F)"
-            git pull -q --rebase
-            git push -q
+            # A newer fetch wins over an older one that finished first (-X theirs = the commit being replayed).
+            for i in 1 2 3; do
+              git pull -q --rebase -X theirs && git push -q && break
+              sleep 5
+            done
           fi

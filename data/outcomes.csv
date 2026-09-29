@@ -1,0 +1,49 @@
+index,year,vintage,value,source
+cpi,2014,latest,0.6,Statistics Denmark StatBank table PRIS9 via api.statbank.dk
+cpi,2015,latest,0.5,Statistics Denmark StatBank table PRIS9 via api.statbank.dk
+cpi,2016,latest,0.3,Statistics Denmark StatBank table PRIS9 via api.statbank.dk
+cpi,2017,latest,1.1,Statistics Denmark StatBank table PRIS9 via api.statbank.dk
+cpi,2018,latest,0.8,Statistics Denmark StatBank table PRIS9 via api.statbank.dk
+cpi,2019,latest,0.8,Statistics Denmark StatBank table PRIS9 via api.statbank.dk
+cpi,2020,latest,0.4,Statistics Denmark StatBank table PRIS9 via api.statbank.dk
+cpi,2021,latest,1.9,Statistics Denmark StatBank table PRIS9 via api.statbank.dk
+cpi,2022,latest,7.7,Statistics Denmark StatBank table PRIS9 via api.statbank.dk
+cpi,2023,latest,3.3,Statistics Denmark StatBank table PRIS9 via api.statbank.dk
+cpi,2024,latest,1.4,Statistics Denmark StatBank table PRIS9 via api.statbank.dk
+cpi,2025,latest,1.9,Statistics Denmark StatBank table PRIS9 via api.statbank.dk
+gdp,2014,latest,1.3,Statistics Denmark StatBank table NAN1 via api.statbank.dk
+gdp,2015,latest,2.1,Statistics Denmark StatBank table NAN1 via api.statbank.dk
+gdp,2016,latest,3.1,Statistics Denmark StatBank table NAN1 via api.statbank.dk
+gdp,2017,latest,3.1,Statistics Denmark StatBank table NAN1 via api.statbank.dk
+gdp,2018,latest,1.9,Statistics Denmark StatBank table NAN1 via api.statbank.dk
+gdp,2019,latest,1.7,Statistics Denmark StatBank table NAN1 via api.statbank.dk
+gdp,2020,latest,-1.8,Statistics Denmark StatBank table NAN1 via api.statbank.dk
+gdp,2021,latest,6.5,Statistics Denmark StatBank table NAN1 via api.statbank.dk
+gdp,2022,latest,0.4,Statistics Denmark StatBank table NAN1 via api.statbank.dk
+gdp,2023,latest,1.1,Statistics Denmark StatBank table NAN1 via api.statbank.dk
+gdp,2024,latest,3.9,Statistics Denmark StatBank table NAN1 via api.statbank.dk
+gdp,2025,latest,3.5,Statistics Denmark StatBank table NAN1 via api.statbank.dk
+hicp,2014,latest,0.34,"Statistics Denmark StatBank table PRIS07 via api.statbank.dk; annual average of the monthly index, computed"
+hicp,2015,latest,0.23,"Statistics Denmark StatBank table PRIS07 via api.statbank.dk; annual average of the monthly index, computed"
+hicp,2016,latest,0.02,"Statistics Denmark StatBank table PRIS07 via api.statbank.dk; annual average of the monthly index, computed"
+hicp,2017,latest,1.07,"Statistics Denmark StatBank table PRIS07 via api.statbank.dk; annual average of the monthly index, computed"
+hicp,2018,latest,0.70,"Statistics Denmark StatBank table PRIS07 via api.statbank.dk; annual average of the monthly index, computed"
+hicp,2019,latest,0.73,"Statistics Denmark StatBank table PRIS07 via api.statbank.dk; annual average of the monthly index, computed"
+hicp,2020,latest,0.34,"Statistics Denmark StatBank table PRIS07 via api.statbank.dk; annual average of the monthly index, computed"
+hicp,2021,latest,1.92,"Statistics Denmark StatBank table PRIS07 via api.statbank.dk; annual average of the monthly index, computed"
+hicp,2022,latest,8.55,"Statistics Denmark StatBank table PRIS07 via api.statbank.dk; annual average of the monthly index, computed"
+hicp,2023,latest,3.35,"Statistics Denmark StatBank table PRIS07 via api.statbank.dk; annual average of the monthly index, computed"
+hicp,2024,latest,1.26,"Statistics Denmark StatBank table PRIS07 via api.statbank.dk; annual average of the monthly index, computed"
+hicp,2025,latest,1.84,"Statistics Denmark StatBank table PRIS07 via api.statbank.dk; annual average of the monthly index, computed"
+pce_deflator,2014,latest,0.61,"Statistics Denmark StatBank table NAN1 via api.statbank.dk; P.31 current prices / chained 2020 prices, computed"
+pce_deflator,2015,latest,0.18,"Statistics Denmark StatBank table NAN1 via api.statbank.dk; P.31 current prices / chained 2020 prices, computed"
+pce_deflator,2016,latest,0.07,"Statistics Denmark StatBank table NAN1 via api.statbank.dk; P.31 current prices / chained 2020 prices, computed"
+pce_deflator,2017,latest,0.96,"Statistics Denmark StatBank table NAN1 via api.statbank.dk; P.31 current prices / chained 2020 prices, computed"
+pce_deflator,2018,latest,0.48,"Statistics Denmark StatBank table NAN1 via api.statbank.dk; P.31 current prices / chained 2020 prices, computed"
+pce_deflator,2019,latest,0.83,"Statistics Denmark StatBank table NAN1 via api.statbank.dk; P.31 current prices / chained 2020 prices, computed"
+pce_deflator,2020,latest,0.17,"Statistics Denmark StatBank table NAN1 via api.statbank.dk; P.31 current prices / chained 2020 prices, computed"
+pce_deflator,2021,latest,1.87,"Statistics Denmark StatBank table NAN1 via api.statbank.dk; P.31 current prices / chained 2020 prices, computed"
+pce_deflator,2022,latest,7.78,"Statistics Denmark StatBank table NAN1 via api.statbank.dk; P.31 current prices / chained 2020 prices, computed"
+pce_deflator,2023,latest,3.25,"Statistics Denmark StatBank table NAN1 via api.statbank.dk; P.31 current prices / chained 2020 prices, computed"
+pce_deflator,2024,latest,1.51,"Statistics Denmark StatBank table NAN1 via api.statbank.dk; P.31 current prices / chained 2020 prices, computed"
+pce_deflator,2025,latest,2.52,"Statistics Denmark StatBank table NAN1 via api.statbank.dk; P.31 current prices / chained 2020 prices, computed"
