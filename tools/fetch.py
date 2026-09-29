@@ -20,7 +20,7 @@ UA = "kvantixtech/expert-forecasts (+https://github.com/kvantixtech/expert-forec
 KEY = re.compile(r"(BNP|bruttonationalprodukt|GDP|forbrugerpris|consumer price|HICP|inflation|realvækst|"
                  r"nøgletal|key (economic )?(figures|variables)|centrale skøn|tabel|table|prognose|projection)", re.I)
 NUM = re.compile(r"-?\d+[,.]\d")
-MAX_LINES = 500
+MAX_LINES = 800
 GAP = re.compile(r"\s{3,}")
 YEARS = re.compile(r"\b(?:19|20)\d\d\b")
 
@@ -118,6 +118,18 @@ def main():
         w.writeheader()
         for k in sorted(index):
             w.writerow(index[k])
+    if cfg.get("statbank_search") and not only:
+        try:
+            req = urllib.request.Request("https://api.statbank.dk/v1/tables?format=JSON&lang=en", headers={"User-Agent": UA})
+            with urllib.request.urlopen(req, timeout=60) as r:
+                tables = json.load(r)
+            pat = re.compile("|".join(cfg["statbank_search"]), re.I)
+            hits = [{"id": t["id"], "text": t["text"], "updated": t.get("updated")} for t in tables if pat.search(t.get("text", ""))]
+            os.makedirs(os.path.join(ROOT, "data", "dst"), exist_ok=True)
+            json.dump(hits, open(os.path.join(ROOT, "data", "dst", "tables-search.json"), "w"), indent=1, ensure_ascii=False)
+            print(f"statbank search: {len(hits)} tables")
+        except Exception as ex:  # noqa: BLE001
+            print(f"statbank search FAILED: {ex}")
     for e in cfg.get("statbank", []):
         if only and e["id"] not in only:
             continue
