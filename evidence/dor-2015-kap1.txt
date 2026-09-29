@@ -1,6 +1,191 @@
 # dor-2015-kap1
 # url: https://dors.dk/files/media/rapporter/2015/E15/kap_i/e15_kap_i_konjunkturvurdering.pdf
-# http: 000  bytes: 0  sha256: 
-# fetched: 2026-09-29T18:12:34Z
-# FAILED: curl: (92) HTTP/2 stream 1 was not closed cleanly: PROTOCOL_ERROR (err 1)
+# http: 200  bytes: 1230021  sha256: 66a88c1b499b74f50a0699b436a77e59379671f8102d083c92185f1680cbdfb6
+# fetched: 2026-09-29T18:17:56Z
+# pages: 103  (lines below are quotes; p.N = PDF page)
 
+p.1: 2015  |  personer siden midten af 2013. De positive tendenser i
+p.2: 2006  |  2008  |  2010  |  2012  |  2014
+p.2: udvikling i eksporten og investeringerne. I 2016 og 2017
+p.2: vækst på godt 1½  |  godt 2 pct. i 2016 og ca. 2¼ pct. i 2017. Det er moderate
+p.2: fra knap 4½ pct. i 2014 til ca. 2 pct. i 2017, jf. tabel I.1.
+p.3: Tabel I.1  |  Hovedtal i prognosen
+p.3: 2014 2015 2016 2017 2025
+p.3: BNP (realvækst i pct.)  |  1,1  1,6  2,1  2,3  2,1
+p.3: BVT i priv. byerhverv (realvækst i pct.)  |  2,1  2,2  2,7  2,7  2,5
+p.3: Output gap (pct. af strukturelt BNP)  |  -4,4 -3,8 -2,9 -2,1  0,0
+p.3: Inflation (pct.)  |  0,7  1,0  1,6  1,8  1,8
+p.3: Timeløn (pct.)  |  1,3  1,9  2,4  2,7  3,1
+p.3: Offentlig saldo (pct. af BNP)  |  1,8 -3,2 -3,2 -2,0  0,8
+p.3: Strukturel offentlig saldo (pct. af BNP)  |  0,6  0,3  0,2  0,3  0,8
+p.3: BNP i aftagerlande (realvækst i pct.)  |  2,1  2,0  2,4  2,7  2,3
+p.3: a)  |  Den sidste søjle viser den gennemsnitlige årlige vækst fra 2017 til 2025. For output gap og
+p.3: lige ændring fra 2017 til 2025. Den strukturelle offentlige saldo er beregnet efter budgetlo-
+p.3: underskud lidt  |  3,2 pct. af BNP i både 2015 og 2016. Dermed forventes
+p.3: pct.point i både 2015 og 2016. Nedjusteringen i 2015 skyl-
+p.3: til 2025  |  dansk økonomi til 2020. I dette kapitel præsenteres en frem-
+p.4: skønnes at stige  |  personer fra 2015 til 2025, jf. figur I.2. Fremgangen ventes
+p.4: 2015 til 2025  |  det strukturelle niveau, og den strukturelle arbejdsstyrke
+p.4: af beskæftigelsesstigningen fra 2015 til 2025 skyldes et fald
+p.5: halvår 2015 ca. 1,7 pct. over niveauet i første halvår 2014,
+p.5: 2006  |  2008  |  2010  |  2012  |  2014
+p.6: 2017. Output gap forventes lukket omkring 2022, jf. afsnit
+p.7: nedjusteret godt ¼ pct.point i både 2015 og 2016. Nedjuste-
+p.8: Tabel I.2  |  Hovedtal i konjunkturvurderingen
+p.8: 2014  |  2015 2016 2017 2025
+p.8: Privat forbrug  |  933  |  1,9  |  2,5  |  2,7  |  2,6
+p.8: Offentligt forbrug  |  511  |  1,2  |  0,9  |  0,5  |  1,1
+p.8: Offentlige investeringer  |  74  |  -0,7  |  -0,7  |  -1,6  |  1,5
+p.8: Boliginvesteringer  |  76  |  -1,6  |  3,7  |  4,8  |  3,6
+p.8: Erhvervsinvesteringer  |  209  |  2,2  |  7,5 10,1  |  4,5
+p.8: heraf private byerhverv  |  171  |  0,6  |  8,7 11,4  |  4,8
+p.8: Lagerinvesteringer  |  15  |  -0,4  |  0,3  |  0,1  |  0,0
+p.8: Indenlandsk efterspørgsel i alt  |  1.819  |  1,0  |  2,9  |  3,0  |  2,5
+p.8: Eksport i alt  |  1.031  |  0,1  |  3,3  |  4,6  |  4,7
+p.8: Vareeksport  |  624  |  2,7  |  3,2  |  4,2  |  4,7
+p.8: heraf industrivarer  |  576  |  2,9  |  3,8  |  4,9  |  5,0
+p.8: Tjenesteeksport  |  407  |  -4,0  |  3,4  |  5,1  |  4,8
+p.8: Efterspørgsel i alt  |  2.850  |  0,7  |  3,1  |  3,6  |  3,3
+p.8: Import i alt  |  928  |  -1,3  |  5,1  |  6,1  |  5,4
+p.8: Vareimport  |  583  |  1,0  |  6,0  |  6,3  |  5,4
+p.8: heraf industrivarer  |  497  |  0,6  |  6,5  |  6,9  |  5,7
+p.8: Tjenesteimport  |  345  |  -5,3  |  3,6  |  5,9  |  5,4
+p.8: Bruttonationalprodukt  |  1.922  |  1,6  |  2,1  |  2,3  |  2,1
+p.8: BVT i private byerhverv  |  1.055  |  2,2  |  2,7  |  2,7  |  2,5
+p.8: Forbrugerpriser  |  1,0  |  1,6  |  1,8  |  1,8
+p.8: Timelønsomkostninger  |  1,9  |  2,4  |  2,7  |  3,1
+p.8: Kontantpris på enfamiliehuse  |  5,4  |  2,9  |  2,5  |  2,9
+p.9: Tabel I.2  |  Hovedtal i konjunkturvurderingen, fortsat
+p.9: 2014  |  2015  |  2016  |  2017 2025
+p.9: BNP i aftagerlande  |  2,1  |  2,0  |  2,4  |  2,7 2,3
+p.9: Udlandets timelønomkostninger  |  2,3  |  2,4  |  2,7  |  3,0 3,6
+p.9: Timeproduktivitet i private byerhverv  |  0,9  |  0,6  |  0,6  |  0,7 1,4
+p.9: Real disponibel indkomst  |  3,0  |  0,1  |  2,7  |  1,4 1,8
+p.9: 10-årig statsobligationsrente  |  1,2  |  0,7  |  1,4  |  2,1 4,8
+p.9: Output gap  |  -4,4  |  -3,8  |  -2,9  -2,1 0,0
+p.9: Timebeskæftigelsesgap  |  -4,9  |  -4,3  |  -3,6  -2,8 0,0
+p.9: Betalingsbalance  |  6,3  |  6,3  |  5,9  |  5,4 3,5
+p.9: Offentlig saldo  |  1,8  |  -3,2  |  -3,2  |  -2,0 0,8
+p.9: ØMU-gæld  |  45,2  |  47,1  |  48,7  |  48,7 34,0
+p.9: a)  |  2025-søjlen angiver den gennemsnitlige årlige vækst fra 2017-25 til og med rækken “Offent-
+p.10: de til knap 2½ pct. i 2016 og ca. 2¾ pct. i 2017, jf. afsnit I.5.
+p.10: ¾ pct. i 2015, stigende til knap 1½ pct. i 2016 og 4¾ pct. i 2020, jf. afsnit I.4.
+p.10: oliepris på 75 dollar pr. tønde i 2020 og 91 dollar pr. tønde i 2025.
+p.10: med et negativt vækstbidrag på ca. ¼ pct.point årligt i 2015 og 2016 og knap ½
+p.10: pct.point i 2017. I årene 2018 til 2025 ventes finanspolitikken at være omtrent
+p.11: estimeres over perioden 1996-2013.
+p.11: Output gap er omtrent uændret i 2013 og 2014 i forhold til forårets prognose. Det-
+p.13: 2000  |  2002  |  2004  |  2006  |  2008  |  2010  |  2012  |  2014  |  2000  |  2002  |  2004  |  2006  |  2008  |  2010  |  2012  |  2014
+p.13: 2015 for kapacitetsudnyttelsen og 1. kvartal 2015 for nettofordringserhvervelsen.
+p.14: 7½ pct. i 2016 og godt 10 pct. i 2017.
+p.15: mængdeindeks. Seneste observation er juli 2015 for detailomsætningen og august 2015 for
+p.17: 2006  |  2008  |  2010  |  2012  |  2014
+p.27: I 2016 og 2017 ventes importvæksten at tiltage til godt 5
+p.28: gerlandene med knap ¼ pct. i 2015. For 2016-17 er vækstskønnet fastholdt siden
+p.28: Tabel A  |  Vækstskøn for udvalgte økonomier
+p.28: 2015  |  2016  |  2017
+p.28: Tyskland  |  1,8  |  1,8  |  1,3
+p.28: Sverige  |  2,8  |  3,0  |  3,3
+p.28: Norge (fastland)  |  1,5  |  1,8  |  3,0
+p.28: Storbritannien  |  2,5  |  2,8  |  2,8
+p.28: Aftagerlande i alt  |  2,0  |  2,4  |  2,7
+p.29: lands-BNP (dvs. BNP ekskl. oliesektoren) med 0,3 og 0,2 pct. (k/k) i første og
+p.30: i første halvår …  |  midten af 2013. Fremgangen fortsatte i første halvår 2015,
+p.30: hvor BNP voksede ca. 0,8 pct. i forhold til andet halvår
+p.30: fremgangen i 2015, jf. figur I.19. I 2016 og 2017 ventes
+p.30: 2006  |  2008  |  2010  |  2012  |  2014  |  2016
+p.34: stigende til knap 2½ pct. i 2016 og knap 2¾ pct. i 2017.
+p.34: 2000  |  2002  |  2004  |  2006  |  2008  |  2010  |  2012  |  2014
+p.36: året frem mod 2018. Over årene 2019 og frem til 2025 forudsæt-
+p.37: relt underskud på 0,5 pct. af BNP overskrides. Beregningen
+p.37: 2016  |  2018  |  2020  |  2022  |  2024  |  2016  |  2018  |  2020  |  2022  |  2024
+p.38: politikken, således at der i perioden 2016-18 føres neutral finanspolitik. Fra 2019
+p.38: Tabel A  |  Hovedtal i fremskrivning hhv. alternativ
+p.38: 2015  |  2016  |  2017  |  2018  |  2025a)
+p.38: Finanseffekt, pct.point  |  -0,2  |  -0,2  |  -0,4  |  -0,4  |  0,0
+p.38: Offentlig saldo, pct. af BNP  |  -3,2  |  -3,2  |  -2,0  |  -1,4  |  0,8
+p.38: Strukturel saldo, pct. af struk. BNPb)  |  0,3  |  0,2  |  0,3  |  0,5  |  0,8
+p.38: BNP-vækst, pct.  |  1,6  |  2,1  |  2,3  |  2,4  |  2,1
+p.38: Output gap, pct. af struk. BNP  |  -3,8  |  -2,9  |  -2,1  |  -1,5  |  0,0
+p.38: Finanseffekt, pct.point  |  -0,2  |  0,0  |  0,0  |  0,0  |  -0,1
+p.38: Offentlig saldo, pct. af BNP  |  -3,2  |  -3,5  |  -2,2  |  -1,7  |  0,2
+p.38: Strukturel saldo, pct. af struk. BNPb)  |  0,3  |  -0,2  |  -0,3  |  -0,6  |  0,8
+p.38: BNP-vækst, pct.  |  1,6  |  2,2  |  2,7  |  2,7  |  1,9
+p.38: Output gap, pct. af struk. BNP  |  -3,8  |  -2,8  |  -1,6  |  -0,7  |  -0,4
+p.38: a)  |  2025-søjlen viser den gennemsnitlige vækst eller ændring fra 2018 til 2025. For offentlig
+p.39: gelsen stiger ca. 30.000 personer mere fra 2015 til 2018.
+p.40: 2016  |  2018  |  2020  |  2022  |  2024
+p.40: til 2025  |  gik den mellemfristede fremskrivning frem til 2020, mens
+p.41: Tabel I.3  |  Hovedtal i den mellemfristede fremskrivning
+p.41: 2014  |  2015-17 2018-25  |  2025
+p.41: BNP  |  -  |  2,0  |  2,1  |  -
+p.41: Strukturelt BNP  |  -  |  1,2  |  1,9  |  -
+p.41: Output gap (pct.)  |  -4,4  |  -2,9  |  -0,5  |  0,0
+p.41: Beskæftigelsesgap (pct.)  |  -3,8  |  -2,8  |  -0,5  |  0,0
+p.41: Produktivitetsgap, priv. byerhv. (pct.)  |  1,6  |  1,3  |  0,2  |  0,0
+p.41: Forbrugskvote (pct.)  |  86,9  |  86,7  |  90,4  |  92,8
+p.41: Investeringskvote, priv. byerhv. (pct.)  |  17,5  |  18,4  |  22,9  |  23,5
+p.41: lonnerne 2015-17 og 2018-25 viser den gennemsnitlige årlige vækstrate eller det gennemsnit-
+p.41: lige niveau i 2015-17 hhv. 2018-25. Kolonnerne 2014 og 2025 viser niveauet i året.
+p.42: relt BNP, mens OECD vurderer, at output gap var -2,7 pct., og regeringen sagde i
+p.42: tabel A. Dette er en del af forklaringen på, hvorfor DØR forventer den højeste
+p.42: Tabel A  |  Dekomponering af vækstskøn hos DØR, regeringen og OECD
+p.42: Strukturel mandeproduktivitet  |  1,1  |  1,0  |  1,3
+p.42: + Naturlig ledighed  |  0,0  |  0,0  |  0,0
+p.42: + Strukturel arbejdsstyrke  |  0,5  |  0,4  |  0,2
+p.42: = Strukturelt BNP  |  1,7  |  1,5  |  1,5
+p.42: + Output gap  |  0,4  |  0,2  |  0,2
+p.42: = BNP  |  2,1  |  1,7  |  1,8
+p.42: Anm.:  |  DØR’s vurdering er fra september 2015, regeringens vurdering er fra marts 2015, og
+p.43: vækst vil være 0,5 pct., mens regeringen siger 0,4 pct., og OECD siger 0,2 pct.
+p.43: 165.000 personer fra 2014 til 2025, mens regeringen siger 146.000 personer.
+p.43: færdsaftalen fra 2006 og tilbagetrækningsreformen fra 2011 forekommer OECD’s
+p.44: frem mod 2025  |  forudsættes normaliseret i 2025, jf. figur I.29. Dette indebæ-
+p.44: indkomsten. Den stigende formuekvote fra 2015 til 2025
+p.46: godt 1¼ pct. fra 2015 til 2025.
+p.46: 1980  |  1990  |  2000  |  2010  |  2020
+p.52: 2016  |  2018  |  2020  |  2022  |  2024  |  2016  |  2018  |  2020  |  2022  |  2024
+p.53: 1.000 pers.  |  Pct. af BNP
+p.53: 2016  |  2018  |  2020  |  2022  |  2024  |  2016  |  2018  |  2020  |  2022  |  2024
+p.55: 2006  |  2008  |  2010  |  2012  |  2014  |  2006  |  2008  |  2010  |  2012  |  2014
+p.61: Tabel I.4  |  Hovedtræk af renteprognosen
+p.61: 2014  |  2015  |  2016  |  2017
+p.61: ECB  |  0,2  |  0,1  |  0,1  |  0,5
+p.61: Dansk statsobligation  |  1,2  |  0,7  |  1,4  |  2,1
+p.61: Tysk statsobligation  |  1,2  |  0,6  |  1,1  |  1,9
+p.61: Dansk realkreditrente  |  3,1  |  2,6  |  3,1  |  3,5
+p.61: ECB  |  0,1  |  0,1  |  0,3  |  0,8
+p.61: Dansk statsobligation  |  0,6  |  1,1  |  1,7  |  2,5
+p.61: Tysk statsobligation  |  0,6  |  0,9  |  1,4  |  2,2
+p.61: Dansk realkreditrente  |  2,6  |  3,0  |  3,3  |  3,7
+p.69: 2006  |  2008  |  2010  |  2012  |  2014
+p.70: 2006  |  2008  |  2010  |  2012  |  2014  |  Kina  |  Indien  |  USA  |  EMU  |  RUS  |  BRA  |  Japan  |  Øvrige
+p.71: 2006  |  2008  |  2010  |  2012  |  2014
+p.75: siden foråret  |  Økonomi, forår 2015. For årene 2016-17 er vækstskønnene
+p.76: Tabel A  |  Vækstskøn
+p.76: 2014  |  2015  |  2016  |  2017  |  2025a)
+p.76: Euroområdet  |  0,9  |  1,4  |  1,8  |  2,4  |  1,9
+p.76: USA  |  2,4  |  2,5  |  3,0  |  3,3  |  2,6
+p.76: Japan  |  -0,1  |  0,5  |  0,8  |  0,8  |  1,1
+p.76: Kina  |  7,5  |  6,5  |  6,3  |  6,0  |  5,0
+p.76: a) “2025-søjlen” viser den gennemsnitlige årlige vækstrate fra 2017 til 2025.
+p.76: udgangen af 2016 og ¾ pct. ved udgangen af 2017. I USA har den pengepolitiske
+p.76: euroområdet i 2015 og i 2016. I juni skønnede OECD, at den strukturelle primære
+p.76: saldo i euroområdet vil blive forværret med 0,1 pct. af strukturelt BNP i 2015 og
+p.76: relle primære saldo på henholdsvis 0,3 og 0,1 pct. af strukturelt BNP i 2015-16.
+p.78: 2006  |  2008  |  2010  |  2012  |  2014
+p.80: 2006  |  2008  |  2010  |  2012  |  2014
+p.81: Fortsættelse  |  I euroområdet voksede BNP med henholdsvis 0,5 og 0,4
+p.81: medio 2013 til 10,9 pct. i juli 2015, jf. figur I.63.
+p.82: 2006  |  2008  |  2010  |  2012  |  2014  |  2006  |  2008  |  2010  |  2012  |  2014
+p.82: 2015. Seneste observation for beskæftigelsen er 1. kvartal 2015, og seneste observation for
+p.83: 2006  |  2008  |  2010  |  2012  |  2014  |  2006  |  2008  |  2010  |  2012  |  2014
+p.85: 2006  |  2008  |  2010  |  2012  |  2014
+p.86: 2006  |  2008  |  2010  |  2012  |  2014
+p.87: stramning af finanspolitikken. Tallene for 2015 og 2016 er
+p.88: 2006  |  2008  |  2010  |  2012  |  2014
+p.91: 2006  |  2008  |  2010  |  2012  |  2014
+p.92: ca. ¾ pct.point i 2017 og godt ½ pct.point i 2018. En grad-
+p.93: for underskud  |  offentlige saldo i 2015 og 2016 ligger lidt over 3 pct. af
+p.93: pct. i 2020 og ¾ pct. i 2025. Den seneste langsigtede frem-
+p.95: holdningerne. For 2016 og 2017 er der indgået en politisk

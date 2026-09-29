@@ -1,0 +1,9 @@
+# nb-2021-03-page
+# url: https://www.nationalbanken.dk/en/news-and-knowledge/publications-and-speeches/archive-publications/2021/outlook-for-the-danish-economy-prospects-of-a-rapid-recovery-once-restrictions-are-eased
+# http: 200  bytes: 35287  sha256: b90fdc2b2629573541d1e31b34709c438630ebb32c9002eb72a59c7dbed4ee79
+# fetched: 2026-09-29T18:19:01Z
+# html page
+
+
+# PDF and publication links on this page:
+https://www.nationalbanken.dk/en/news-and-knowledge/publications-and-speeches/archive-publications/2021/outlook-for-the-danish-economy-prospects-of-a-rapid-recovery-once-restrictions-are-eased

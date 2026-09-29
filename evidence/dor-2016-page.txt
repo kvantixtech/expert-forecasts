@@ -1,11 +1,11 @@
 # dor-2016-page
 # url: https://dors.dk/vismandsrapporter/dansk-oekonomi-efteraar-2016
 # http: 200  bytes: 83867  sha256: ae393753b8f908035ebe3ed3c12a0276065d3836cbdba43934661a5dfe2e0d8c
-# fetched: 2026-09-29T18:09:14Z
+# fetched: 2026-09-29T18:17:06Z
 # html page
 
 
-# PDF links on this page:
+# PDF and publication links on this page:
 https://dors.dk/files/media/old_files/E16_SKRIFTLIGE_KOMMENTARER.pdf
 https://dors.dk/files/media/rapporter/2016/E16/e16.pdf
 https://dors.dk/files/media/rapporter/2016/E16/e16_0_resume.pdf
@@ -22,3 +22,12 @@ https://dors.dk/files/media/rapporter/2016/E16/kap_iv/e16_kap_iv_4_dokumentation
 https://dors.dk/files/media/rapporter/2016/E16/kap_v/e16_kap5_befolkningsudviklingen_og_dekomponering_af_theilindekset.pdf
 https://dors.dk/files/media/rapporter/2016/E16/kap_v/e16_kap_v.pdf
 https://dors.dk/files/media/rapporter/2016/E16/kap_v/e16_kap_v_dekomponering_af_den_stigende_gini-koefficient.pdf
+https://dors.dk/vismandsrapporter/dansk-oekonomi-efteraar-2016/kapitel-ii-offentlige-finanser
+https://dors.dk/vismandsrapporter/dansk-oekonomi-efteraar-2016/kapitel-iii-finanspolitisk-holdbarhed
+https://dors.dk/vismandsrapporter/dansk-oekonomi-efteraar-2016/kapitel-iv-investeringskrise-danmark
+https://dors.dk/vismandsrapporter/dansk-oekonomi-efteraar-2016/kapitel-konjunkturvurdering-aktuel-oekonomisk
+https://dors.dk/vismandsrapporter/dansk-oekonomi-efteraar-2016/kapitel-v-indkomst-formuefordeling
+https://dors.dk/vismandsrapporter/dansk-oekonomi-efteraar-2016
+https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fdors.dk%2Fvismandsrapporter%2Fdansk-oekonomi-efteraar-2016&title=Dansk+%C3%98konomi%2C+efter%C3%A5r+2016&source=
+https://x.com/intent/tweet?url=https%3A%2F%2Fdors.dk%2Fvismandsrapporter%2Fdansk-oekonomi-efteraar-2016&text=Dansk+%C3%98konomi%2C+efter%C3%A5r+2016
+mailto:?subject=Dansk%20%C3%98konomi%2C%20efter%C3%A5r%202016&body=https%3A%2F%2Fdors.dk%2Fvismandsrapporter%2Fdansk-oekonomi-efteraar-2016

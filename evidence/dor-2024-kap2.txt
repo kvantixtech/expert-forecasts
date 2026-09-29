@@ -1,6 +1,176 @@
 # dor-2024-kap2
 # url: https://dors.dk/files/media/E24_KapII.pdf
-# http: 000  bytes: 0  sha256: 
-# fetched: 2026-09-29T18:12:43Z
-# FAILED: curl: (92) HTTP/2 stream 1 was not closed cleanly: PROTOCOL_ERROR (err 1)
+# http: 200  bytes: 4004186  sha256: 3c00a14f326cacacd2ad8a3ef7a259fbcb712f0aba2d21b6aba864d312483ca0
+# fetched: 2026-09-29T18:18:35Z
+# pages: 99  (lines below are quotes; p.N = PDF page)
 
+p.3: TABEL II.1  |  HOVEDTAL I PROGNOSEN
+p.3: 2023  |  2024  |  2025  |  2030 a)
+p.3: BNP (realvækst i pct.)  |  2,5  |  2,3  |  2,8  |  0,9
+p.3: Beskæftigelsesgab (pct.)  |  2,2  |  2,6  |  2,5  |  0,0
+p.3: Offentlig saldo (pct. af BNP)  |  3,3  |  2,4  |  2,0  |  0,3
+p.3: Strukturel offentlig saldo (pct. af BNP)  |  1,9  |  1,4  |  0,9  |  0,3
+p.3: BNP på eksportmarkeder (realvækst i pct.)  |  1,0  |  1,4  |  2,0  |  1,9
+p.3: hhv. sammenvejet på eksportmarkederne vises den gennemsnitlige årlige vækst fra 2025 til 2030.
+p.7: BNP-vækst på  |  kommende år at stige fra 1,4 pct. i 2024 til 2,0 pct. i 2025, jf. venstre
+p.7: højt niveau i 2023 og 2024, jf. højre del af figur II.4. I Kina er der efter
+p.7: 2024 og 2025 som følge af svaghed i ejendomssektoren og underlig-
+p.9: nomi, jf. IMF (2024a). Den ekspansive finanspolitik i 2022 og 2023 blev
+p.12: 2019 til første kvartal 2024 var -0,2 pct. pr. år, og væksten i timeproduktiviteten var 0,2 pct.
+p.13: 8) ECB (2024b) forventer, at inflationen i euroområder falder fra 2,5 pct. i 2024 til 2,2 pct.
+p.32: 30 for at nå samme gennemsnitlige vækst fra 2019 til 2030 som i peri-
+p.32: oden 1999-2019.
+p.33: TABEL II.2  |  TIMEPRODUKTIVITETSVÆKST
+p.33: 1999-2019  |  2019-23
+p.33: Økonomien i alt  |  1,2  |  0,7  |  0,5
+p.33: ... ekskl. energiforsyning  |  1,2  |  0,6  |  0,8
+p.33: Private byerhverv i alt  |  1,5  |  1,1  |  1,0
+p.33: “1999-2019” væksten fra 1999 til 2019. Private byerhverv i alt er beregnet på det mest detaljerede bran-
+p.36: Produktivitet, 2023 samt ECB (2024c). Fernald mfl. (2024) argumente-
+p.44: regnskabet er således genberegnet for hele perioden 1966-2023, men revisionerne berører hoved-
+p.44: Hovedrevisionen indebærer, at BNP-væksten fra 2019-23 er løftet 0,6 pct. Det kan i høj grad tilskri-
+p.45: TABEL II.3  |  PROGNOSENS HOVEDTAL
+p.45: 2023  |  2023  |  2024  |  2025  |  2030 a)
+p.45: Privat forbrug  |  1.299  |  1,4  |  0,9  |  2,5  |  2,7
+p.45: Offentligt forbrug  |  636  |  0,2  |  3,7  |  2,3  |  1,2
+p.45: Offentlige investeringer  |  89  |  -1,2  |  2,9  |  5,6  |  0,7
+p.45: Boliginvesteringer  |  156  |  -12,4  |  -4,8  |  3,0  |  2,4
+p.45: Erhvervsinvesteringer  |  388  |  -5,5  |  -3,1  |  2,0  |  1,6
+p.45: Lagerændringer  |  7  |  -1,7  |  -0,1  |  0,4  |  0,0
+p.45: Indenlandsk efterspørgsel i alt  |  2.576  |  -2,9  |  0,6  |  3,0  |  2,0
+p.45: Eksport  |  1.906  |  10,4  |  4,7  |  6,4  |  1,9
+p.45: Import  |  1.677  |  3,7  |  2,5  |  7,4  |  3,6
+p.45: Bruttonationalprodukt (BNP)  |  2.805  |  2,5  |  2,3  |  2,8  |  0,9
+p.45: BVT i private byerhverv  |  1.682  |  1,6  |  3,8  |  2,7  |  0,8
+p.45: BVT i private byerhverv ekskl. M&P  |  1.536  |  -0,8  |  2,5  |  2,0  |  0,7
+p.45: Beskæftigelsesgab  |  2,2  |  2,6  |  2,5  |  0,0
+p.45: Produktionsgab  |  0,9  |  1,1  |  1,6  |  0,0
+p.45: Forbrugerpriser  |  2,9  |  1,5  |  1,5  |  1,8
+p.45: Timelønsomkostninger  |  4,2  |  5,7  |  4,6  |  3,3
+p.45: Kontantpris på enfamiliehuse  |  -2,6  |  3,7  |  3,5  |  4,0
+p.45: Timeproduktivitet, priv. byerhv. ekskl. M&P  |  -1,7  |  1,2  |  2,5  |  1,6
+p.45: 30-årig dansk realkreditrente  |  4,9  |  4,3  |  4,3  |  4,4
+p.45: Betalingsbalance  |  9,8  |  11,9  |  12,3  |  9,0
+p.45: lingsbalance. For de øvrige poster vises den gennemsnitlige årlige vækst fra 2025 til 2030.
+p.49: i 2022 og 2023, hvor udviklingen i Barroindekset ville tilsige en betyde-
+p.49: ligt 2022 og 2023.
+p.50: mere negativ i 2022 og 2023 end i tidligere perioder, da der ikke har
+p.50: opretning af reallønnen i 2024 og betydelig reallønsvækst i 2025, jf.
+p.51: 2006  |  2007  |  2008  |  2009  |  2010  |  2020  |  2021  |  2022  |  2023  |  2024
+p.54: i begyndelsen  |  2024, og eksporten var i andet kvartal 2024 lidt lavere end ved udgan-
+p.55: fonde er steget betydeligt siden 2000 og i 2023 udgjorde ca. 2 pct. af
+p.57: ca. 2¼ pct. i 2024  |  vækst på ca. 2¼ pct. i år og ca. 2¾ pct. i 2025. Den forventede vækst
+p.57: onsgab var i 2019 ca. 0 pct. og ventes i 2025 at være lidt over 1½
+p.58: siden 2019  |  skønnes rentestigningerne i forhold til 2019 alt andet lige at reducere
+p.58: 2019 til 2025 skønnes omvendt at øge BNP med ca. ¾ pct., og den
+p.63: i 2024 i gennemsnit på DA-området at være lidt højere end i 2021 før
+p.64: ca. 1½ pct. fra 2025 til 2030.
+p.64: 2024. Også i 2025 ventes høj reallønsfremgang.
+p.66: indikatorer samt nationalregnskabsdata til og med 2. kvartal 2024 offentliggjort den 20. august 2024.
+p.66: lande bliver lidt under 1½ pct. i 2024 og ca. 2 pct. i 2025. Desuden forudsættes, at den sammenvejede
+p.66: lønvækst blandt Danmarks konkurrentlande bliver lidt mere end 4¼ pct. i 2024 og ca. 3¼ pct. i 2025.
+p.66: Det forudsættes, at ECB fortsætter de gradvise rentenedsættelser igennem 2024 og 2025 mod 2 pct.,
+p.66: som forudsættes nået i 2026. Valutakurser forudsættes konstante fra niveauet i august 2024. Oliepri-
+p.66: sen forudsættes at have et årsniveau på ca. 82 dollar pr. tønde i 2024 og ca. 75 dollar pr. tønde i 2025.
+p.66: pct.point til væksten i 2024 og ca. ½ pct.point i 2025 målt ved de etårige finanseffekter. Forudsæt-
+p.67: det offentlige forbrug fra Opdateret 2030-forløb: Grundlag for udgiftslofter for 2028. For perio-
+p.67: •  |  De nominelle investeringer følger i 2024 og 2025 skønnet fra Økonomisk Redegørelse, au-
+p.67: gust 2024. Fra 2026 og frem forudsættes investeringerne at udgøre en omtrent konstant an-
+p.67: •  |  EU-bidrag og subsidier følger Opdateret 2030-forløb: Grundlag for udgiftslofter for 2028 frem
+p.68: 2000  |  2005  |  2010  |  2015  |  2020  |  2025  |  2030
+p.69: TABEL II.4  |  OFFENTLIGE INDTÆGTER OG UDGIFTER
+p.69: Det store overskud i 2023 reduceres frem mod 2030 til ¼ pct. af BNP.
+p.69: 2023  |  2024  |  2025  |  2030
+p.69: Personskatter mv.a)  |  23,4  |  23,4  |  22,9  |  22,4
+p.69: Aktieskat  |  1,9  |  1,6  |  1,4  |  1,4
+p.69: Selskabsskat  |  3,7  |  3,6  |  3,7  |  3,3
+p.69: Nordsøbeskatning  |  0,1  |  0,1  |  0,1  |  0,2
+p.69: Pensionafkastbeskatning  |  0,5  |  0,7  |  0,7  |  1,1
+p.69: Afgifter b)  |  13,8  |  13,7  |  13,6  |  13,9
+p.69: Øvrige indtægter c)  |  4,3  |  4,2  |  4,1  |  4,3
+p.69: Indtægter i altd)  |  47,6  |  47,2  |  46,5  |  46,6
+p.69: Offentligt forbruge)  |  22,7  |  23,3  |  23,3  |  24,6
+p.69: 3,2  |  3,3  |  3,4  |  3,4
+p.69: Indkomstoverførsler  |  14,3  |  14,1  |  13,9  |  14,7
+p.69: Øvrige udgifter g)  |  5,1  |  5,0  |  4,7  |  4,3
+p.69: Udgifter i altd)  |  45,2  |  45,7  |  45,2  |  47,0
+p.69: Primær saldo  |  2,5  |  1,5  |  1,2  |  -0,4
+p.69: Nettorenteindtægter  |  0,8  |  0,9  |  0,7  |  0,6
+p.69: Offentlig saldo  |  3,3  |  2,4  |  2,0  |  0,3
+p.69: Strukturel saldoh)  |  1,9  |  1,4  |  0,9  |  0,3
+p.69: Off. forbrug ekskl. afskrivninger  |  0,2  |  3,8  |  2,3  |  1,0
+p.69: Off. investeringer ekskl. F&U  |  -2,6  |  2,2  |  6,2  |  0,6
+p.69: vækst fra 2025 til 2030.
+p.70: i 2030 end i 2023, og den største del af momsbetalingerne stammer
+p.70: af BNP  |  forslaget til finanslov for 2025 blev der fremsat et udgiftsloft for 2028,
+p.71: Finansloven for 2023 blev først vedtaget i marts 2023, hvorfor Øko-
+p.71: nomisk Redegørelse blev forsinket fra december 2022 til marts 2023.
+p.75: Den strukturelle  |  Fra 2013 til 2022 blev den strukturelle saldo forbedret med omkring 4
+p.75: det på den offentlige saldo fra 2022 og frem mod 2030.
+p.76: på 0,6 pct. af BNP  |  og afgifter har samlet forbedret den strukturelle saldo i 2030 med 0,6
+p.76: strukturelle saldo  |  med 0,2 pct. af BNP i 2030 som følge af inddragelse af nye oplysninger
+p.76: i 2030  |  om provenuet frem til 2023. Udbredelsen af elbiler sker hurtigere end
+p.76: provenuet fra registreringsafgift nedjusteret med 0,2 pct. af BNP, så
+p.76: opjustering af  |  2,7 pct. af BNP til 3,3 pct. af BNP. I forbindelse med denne fremskriv-
+p.76: og ny periode, …  |  beregningen tidligere har taget udgangspunkt i perioden 1996-2016.
+p.76: BNP til 3,0 pct. af BNP.
+p.77: selskabsskat i 2030 fra 3,0 til 3,3 pct. af BNP.
+p.77: TABEL II.5  |  ÆNDRING I DEN STRUKTURELLE SALDO SIDEN FORÅRET
+p.77: 2024  |  2025  |  2026  |  2027  |  2028  |  2029  |  2030
+p.77: Dansk Økonomi, efterår 2024  |  1,4  |  0,9  |  0,4  |  0,6  |  0,3  |  0,3  |  0,3
+p.77: Dansk Økonomi, forår 2024  |  0,6  |  -0,1  |  -0,5  |  -0,3  |  -0,2  |  -0,1  |  -0,1
+p.77: Forskel  |  0,8  |  1,0  |  0,9  |  0,9  |  0,6  |  0,4  |  0,3
+p.77: Skatteindtæger  |  0,6  |  0,7  |  0,7  |  0,7  |  0,6  |  0,6  |  0,6
+p.77: - PAL-indtægter  |  0,0  |  0,0  |  0,0  |  0,1  |  0,1  |  0,1  |  0,1
+p.77: - Aktiebeskatning  |  0,1  |  0,2  |  0,2  |  0,2  |  0,2  |  0,2  |  0,2
+p.77: - Strukturel selskabsskat  |  0,5  |  0,6  |  0,6  |  0,6  |  0,6  |  0,5  |  0,5
+p.77: - Strukturel registreringsafgift  |  -0,1  |  -0,1  |  -0,2  |  -0,2  |  -0,2  |  -0,2  |  -0,2
+p.77: Offentlige udgifter  |  0,1  |  0,2  |  -0,2  |  0,0  |  -0,3  |  -0,2  |  -0,2
+p.77: - Nyt udgiftsloft og demografi  |  -0,4  |  -0,4  |  -0,4
+p.77: - Lavere investeringer  |  0,0  |  -0,1  |  -0,1  |  0,0  |  0,1  |  0,1  |  0,1
+p.77: - Lavere EU-bidrag  |  0,0  |  0,1  |  -0,1  |  0,0  |  0,1  |  0,1  |  0,1
+p.77: Øvrige forhold  |  0,1  |  0,1  |  0,4  |  0,2  |  0,2  |  0,1  |  0,0
+p.77: - Lønkvote  |  0,2  |  0,0  |  0,1  |  0,1  |  0,2  |  0,2  |  0,1
+p.77: - Lavere forbrugskvote  |  -0,1  |  -0,1  |  -0,1  |  -0,1  |  -0,2  |  -0,2  |  -0,2
+p.77: - Offentlige renteudgifter  |  0,0  |  0,0  |  0,1  |  0,1  |  0,1  |  0,1  |  0,1
+p.77: - Andet  |  0,0  |  0,2  |  0,4  |  0,2  |  0,2  |  0,1  |  0,0
+p.78: 0,1 pct. af BNP i 2024 og 0,2 pct. af BNP i 2025. I forbindelse med
+p.78: saldo på 0,4 pct. af BNP i 2030. Modsat er der sket en opdatering af
+p.78: til 2030. Det nye udgiftsloft for 2028 har medført lavere udgifter end det
+p.78: lidt i 2030  |  strukturelle saldo i 2030 med knap ¼ pct. af BNP, mens øvrige forhold
+p.78: på 0,2 pct. af BNP i 2030. Finansministeriet vurderer med deres bereg-
+p.78: giftslofter for 2028, at der vil være et underskud på ½ pct. af BNP i 2030
+p.79: opgørelse  |  len mellem regeringens saldomålsætning i 2030 på -0,5 pct. af BNP,
+p.79: sidste år med udgiftsloft aktuelt 2028 og frem til 2030. Finansministeriet forudsætter en
+p.79: udgiftsvækst fra 2028 til 2030, der er højere end udviklingen i BNP.
+p.80: TABEL II.6  |  FORSKEL I OPGØRELSE AF RÅDERUM TIL
+p.80: renteindtægter kan  |  mue i 2030 til 0,6 pct. af BNP, mens Finansministeriets skøn er 0,3 pct.
+p.80: forklare 11 mia. kr.  |  af BNP. Forskellen i skønnet for nettorenteindtægterne på 0,3 pct. af
+p.81: offentlige aktiver  |  trent uændrede renter i 2030 i forhold til 2023. Finansministeriet har
+p.81: nærværende prognose på 0,1 pct.point vil således påvirke råderummet
+p.81: med usikkerhed  |  rioden 2010 til 2023. I denne periode kan disse tre skatter forklare lidt
+p.82: finanspolitik  |  tiv finanseffekt for 2025 på 0,5 pct. af BNP. Det er særligt realvæksten
+p.82: i 2024 og 2025  |  i det offentlige forbrug, der øger aktiviteten med 0,3 pct. af BNP, mens
+p.82: skattereformen fra 2023 bidrager positivt til aktiviteten i 2025, jf. tabel
+p.82: 0,4 pct. af BNP.
+p.82: Nye oplysninger om  |  Finanseffekten for 2024 er nedjusteret fra 0,8 pct. af BNP til 0,4 pct. af
+p.82: sat i 2024 og 2025. Det reducerer isoleret set finanseffekten i begge år
+p.82: pct.point i 2024 og øger den med 0,1 pct.point i 2025. De to ændringer
+p.83: TABEL II.7  |  ETÅRIG FINANSEFFEKT
+p.83: Finanspolitikken er ekspansiv i 2024 og 2025, primært afledt af vækst
+p.83: 2019-23 a)  |  2024  |  2025
+p.83: Off.forbrug  |  -0,7  |  0,4  |  0,3
+p.83: Off.inv.  |  0,1  |  0,0  |  0,1
+p.83: Indkomstoverførsler  |  0,0  |  -0,1  |  0,0
+p.83: Indkomstskatter  |  0,0  |  0,0  |  0,1
+p.83: Afgifter  |  0,2  |  -0,1  |  0,0
+p.83: Øvrige  |  0,1  |  0,1  |  0,0
+p.83: Finanseffekt i alt  |  -0,3  |  0,4  |  0,5
+p.83: a)  |  Angiver de kumulerede etårige finanseffekter fra 2019 til 2023.
+p.87: ligt omfang, jf. bl.a. Produktivitet, 2024. I de foreløbige nationalregnskabsår (pt. 2021-
+p.88: en finanspolitisk lempelse på ca. 1 pct. af BNP fra 2023 til 2025, sam-
+p.88: til 2023-niveau  |  på niveauet i 2023. Hvis der ikke tages stabiliseringspolitiske hensyn,
+p.88: forår 2007 og er siden opdateret og beskrevet i Grinderslev og Smidt (2023). Beregnin-
+p.90: frem mod 2030  |  fremskrivning. I 2030 udviser den strukturelle saldo ifølge fremskrivnin-
+p.94: Energinet (2023): Redegørelse for elforsyningssikkerhed 2023.
+p.94: Finansministeriet (2024): Opdateret 2030-forløb: Grundlag for udgifts-

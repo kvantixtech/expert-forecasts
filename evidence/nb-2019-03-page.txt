@@ -1,0 +1,9 @@
+# nb-2019-03-page
+# url: https://www.nationalbanken.dk/en/news-and-knowledge/publications-and-speeches/archive-publications/2019/outlook-for-the-danish-economy-the-danish-economy-is-heading-deeper-into-the-boom
+# http: 200  bytes: 34836  sha256: 61385a266237e331d1023d910b1c8f14da82291144ba8afde63ae21bff910a6e
+# fetched: 2026-09-29T18:18:52Z
+# html page
+
+
+# PDF and publication links on this page:
+https://www.nationalbanken.dk/en/news-and-knowledge/publications-and-speeches/archive-publications/2019/outlook-for-the-danish-economy-the-danish-economy-is-heading-deeper-into-the-boom

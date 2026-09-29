@@ -1,11 +1,11 @@
 # dor-2021-page
 # url: https://dors.dk/vismandsrapporter/dansk-oekonomi-efteraar-2021
 # http: 200  bytes: 80785  sha256: 6ddca5117968084984c8b34eb20e6922081afcb0437df7fd959999274effbc26
-# fetched: 2026-09-29T18:09:19Z
+# fetched: 2026-09-29T18:17:17Z
 # html page
 
 
-# PDF links on this page:
+# PDF and publication links on this page:
 https://dors.dk/files/media/old_files/E21_Skriftlige_indl%25C3%25A6g_fra_r%25C3%25A5dsmedlemmer.pdf
 https://dors.dk/files/media/rapporter/2021/e21/baggrundsmateriale/dansk_oekonomi_efteraar_2021_kap._iii_finanspolitisk_holdbarhed.pdf
 https://dors.dk/files/media/rapporter/2021/e21/baggrundsmateriale/dansk_oekonomi_efteraar_2021_kap_ii_baggrundsnotat_til_konjunkturvurdering.pdf
@@ -20,3 +20,13 @@ https://dors.dk/files/media/rapporter/2021/e21/endelig_rapport/e21_kap_iv_.pdf
 https://dors.dk/files/media/rapporter/2021/e21/endelig_rapport/e21_kap_v.pdf
 https://dors.dk/files/media/rapporter/2021/e21/endelig_rapport/e21_summary.pdf
 https://dors.dk/files/media/rapporter/2021/e21/presse_e21.pdf
+https://dors.dk/vismandsrapporter/dansk-oekonomi-efteraar-2021/kapitel-aktuel-oekonomisk-politik
+https://dors.dk/vismandsrapporter/dansk-oekonomi-efteraar-2021/kapitel-ii-konjunktur-offentlige-finanser
+https://dors.dk/vismandsrapporter/dansk-oekonomi-efteraar-2021/kapitel-iii-finanspolitisk-holdbarhed
+https://dors.dk/vismandsrapporter/dansk-oekonomi-efteraar-2021/kapitel-iv-helbred-aeldres-beskaeftigelse
+https://dors.dk/vismandsrapporter/dansk-oekonomi-efteraar-2021/kapitel-v-regneprincipper-konsekvensvurderinger
+https://dors.dk/vismandsrapporter/dansk-oekonomi-efteraar-2021/rapportens-hovedkonklusioner
+https://dors.dk/vismandsrapporter/dansk-oekonomi-efteraar-2021
+https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fdors.dk%2Fvismandsrapporter%2Fdansk-oekonomi-efteraar-2021&title=Dansk+%C3%98konomi%2C+efter%C3%A5r+2021&source=
+https://x.com/intent/tweet?url=https%3A%2F%2Fdors.dk%2Fvismandsrapporter%2Fdansk-oekonomi-efteraar-2021&text=Dansk+%C3%98konomi%2C+efter%C3%A5r+2021
+mailto:?subject=Dansk%20%C3%98konomi%2C%20efter%C3%A5r%202021&body=https%3A%2F%2Fdors.dk%2Fvismandsrapporter%2Fdansk-oekonomi-efteraar-2021

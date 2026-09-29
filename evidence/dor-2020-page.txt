@@ -1,11 +1,11 @@
 # dor-2020-page
 # url: https://dors.dk/vismandsrapporter/dansk-oekonomi-efteraar-2020
 # http: 200  bytes: 85948  sha256: ae7ae0d7a7fb614b520e52b62ccb38513217e52feae652c306bc8994b95b1199
-# fetched: 2026-09-29T18:09:18Z
+# fetched: 2026-09-29T18:17:15Z
 # html page
 
 
-# PDF links on this page:
+# PDF and publication links on this page:
 https://dors.dk/files/media/old_files/E20_Skriftlige_indl%25C3%25A6g_fra_r%25C3%25A5dsmedlemmer_ver1.pdf
 https://dors.dk/files/media/rapporter/2020/e20/danish_economy_autumn_2020_epidemiology_and_economics.pdf
 https://dors.dk/files/media/rapporter/2020/e20/diskussionsopl%25C3%25A6g/kap._ii_baggrundsnotat_konjunkturvurdering.pdf
@@ -21,3 +21,14 @@ https://dors.dk/files/media/rapporter/2020/e20/endelig_rapport/e20_kap.iv_konjun
 https://dors.dk/files/media/rapporter/2020/e20/endelig_rapport/e20_kap.v_epidemiologi_oekonomi.pdf
 https://dors.dk/files/media/rapporter/2020/e20/endelig_rapport/e20_rapportens_hovedkonklusioner.pdf
 https://dors.dk/files/media/rapporter/2020/e20/english_summary/e20_summary_and_recommendations.pdf
+https://dors.dk/oevrige-publikationer/kronikker-artikler/corona-krisen-oekonomiske-indsigter-udsigter
+https://dors.dk/vismandsrapporter/dansk-oekonomi-efteraar-2020/kapitel-aktuel-oekonomisk-politik
+https://dors.dk/vismandsrapporter/dansk-oekonomi-efteraar-2020/kapitel-ii-konjunktur-offentlige-finanser
+https://dors.dk/vismandsrapporter/dansk-oekonomi-efteraar-2020/kapitel-iii-finanspolitisk-holdbarhed
+https://dors.dk/vismandsrapporter/dansk-oekonomi-efteraar-2020/kapitel-iv-konjunkturudsving-finanspolitik
+https://dors.dk/vismandsrapporter/dansk-oekonomi-efteraar-2020/kapitel-v-epidemiologi-oekonomi
+https://dors.dk/vismandsrapporter/dansk-oekonomi-efteraar-2020/rapportens-hovedkonklusioner
+https://dors.dk/vismandsrapporter/dansk-oekonomi-efteraar-2020
+https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fdors.dk%2Fvismandsrapporter%2Fdansk-oekonomi-efteraar-2020&title=Dansk+%C3%98konomi%2C+efter%C3%A5r+2020&source=
+https://x.com/intent/tweet?url=https%3A%2F%2Fdors.dk%2Fvismandsrapporter%2Fdansk-oekonomi-efteraar-2020&text=Dansk+%C3%98konomi%2C+efter%C3%A5r+2020
+mailto:?subject=Dansk%20%C3%98konomi%2C%20efter%C3%A5r%202020&body=https%3A%2F%2Fdors.dk%2Fvismandsrapporter%2Fdansk-oekonomi-efteraar-2020

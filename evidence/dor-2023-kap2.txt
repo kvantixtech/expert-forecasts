@@ -1,6 +1,193 @@
 # dor-2023-kap2
 # url: https://dors.dk/files/media/E23_Kap.II_.pdf
-# http: 000  bytes: 0  sha256: 
-# fetched: 2026-09-29T18:12:41Z
-# FAILED: curl: (92) HTTP/2 stream 1 was not closed cleanly: PROTOCOL_ERROR (err 1)
+# http: 200  bytes: 3226132  sha256: 9c2cc2d2233cf02827b4fe82561fbc676918da5f75917cabadfc38189aa24ea2
+# fetched: 2026-09-29T18:18:28Z
+# pages: 83  (lines below are quotes; p.N = PDF page)
 
+p.3: år. Til gengæld har der gennem 2022 og i første del af 2023 været
+p.4: år løfter dog den samlede BNP-vækst i 2023 til ca. 1¾ pct., og i 2024
+p.4: TABEL II.1  |  HOVEDTAL I PROGNOSEN
+p.4: 2022  |  2023  |  2024  |  2025  |  2030
+p.4: BNP (realvækst i pct.)  |  2,7  |  1,7  |  1,3  |  0,6  |  1,1
+p.4: Beskæftigelsesgap (pct.)  |  2,9  |  3,0  |  2,2  |  1,3  |  0,0
+p.4: Inflation (pct.)  |  7,5  |  3,8  |  2,6  |  1,7  |  1,4
+p.4: Timeløn (pct.)  |  3,5  |  4,5  |  5,9  |  4,6  |  3,3
+p.4: Offentlig saldo (pct. af BNP)  |  3,4  |  1,8  |  1,1  |  1,1  |  -0,2
+p.4: Strukturel offentlig saldo (pct. af BNP)  |  1,5  |  0,8  |  0,8  |  0,5  |  -0,2
+p.4: ECB's indlånsrente (pct.)  |  0,1  |  3,3  |  3,9  |  3,0  |  2,0
+p.4: BNP, inflation og timeløn vises den gennemsnitlige årlige vækst fra 2025 til 2030.
+p.6: figur II.2. Inflationen i euroområdet og USA er faldet til 5,3 pct. hen-
+p.6: holdsvis 3,7 pct. i august 2023. Euroområdets inflation dækker dog
+p.6: 9,6 pct. i Slovakiet i august. Forskellene i inflation kan i høj grad tilskri-
+p.6: Prisfaldet på energi i slutningen af 2022 og første del af 2023 skal ses
+p.6: mere begrænset udbud fra OPEC+ landene, jf. ECB (2023). I 2024
+p.6: falde nævneværdigt i 2024, jf. ECB (2023). De globale fødevarepriser
+p.7: (“shelter”) i kerneinflationen, er det underliggende prispres i USA på 3,1 pct. mod en
+p.7: normalt opgjort kerneinflation på 4,3 pct. i august ifølge opgørelsen fra Federal Reserve
+p.8: kan fortsat være høj  |  opjustering af den forventede inflation i både 2023 og 2024 hos flere
+p.8: målsætning på 2 pct. fra tredje kvartal 2025, jf. ECB (2023). Inflations-
+p.8: som i perioden forud for den høje inflation i 2022 og 2023, jf. bag-
+p.9: har været mere  |  igennem 2023, end de var i specielt 2022, jf. figur II.4. Dette er på trods
+p.9: Centralbanker har  |  Centralbankernes rentestigninger i løbet af 2022 og 2023 har i et hi-
+p.13: i euroområdet med  |  på ca. 2 pct.point i 2023 og 1½ pct.point i 2024, jf. Lane (2023).5 Dette
+p.18: byrå (september 2023). Frem mod 2030 antages det beregningsteknisk, at BNP gradvist tilpasses
+p.18: af de seneste Consensus-skøn fra september 2023 at blive knap 5 pct. i 2023 og knap 4 pct. i 2024.
+p.18: For olieprisen forudsættes et årsniveau på godt 80 dollars pr. tønde i både 2023 og 2024. Skønnene
+p.18: Stats- og realkreditobligationerne forudsættes at falde i løbet af 2023 og 2024 i takt med, at marke-
+p.19: TABEL A  |  PROGNOSE FOR UDLANDSVÆKST OG RENTER
+p.19: 2022  |  2023  |  2024  |  2025  |  2030
+p.19: Realvækst i aftagerlande  |  3,0  |  0,9  |  1,5  |  2,3  |  1,7
+p.19: ECB's udlånsrente  |  0,1  |  3,3  |  3,9  |  3,0  |  2,0
+p.19: Tysk tiårig statsobligation  |  1,2  |  2,4  |  2,4  |  2,4  |  2,5
+p.19: Dansk tiårig statsobligation  |  1,4  |  2,7  |  2,6  |  2,6  |  2,6
+p.19: Dansk 30-årig realkreditrente  |  3,8  |  4,9  |  4,9  |  4,5  |  4,4
+p.19: a)  |  2030-søjlen angiver den gennemsnitlige årlige vækstrate fra 2025 til 2030 for BNP, mens de øvrige tal
+p.25: fremgang i branchen igennem 2022 og første halvdel af 2023 betyder
+p.28: i år og ca. 1¼ pct.  |  mere afdæmpet tempo i resten af 2023 og i 2024. Medicinalindustriens
+p.29: TABEL II.2  |  HOVEDTAL I FREMSKRIVNINGEN
+p.29: 2022  |  2022  |  2023  |  2024  |  2025  |  2030
+p.29: Privat forbrug  |  1.225  |  -1,4  |  0,0  |  1,2  |  2,4  |  3,4
+p.29: Offentligt forbrug  |  617  |  -2,8  |  2,0  |  2,2  |  1,5  |  1,2
+p.29: Offentlige investeringer  |  89  |  0,3  |  3,7  |  0,9  |  2,6  |  1,4
+p.29: Boliginvesteringer  |  148  |  -8,5  |  -13,0  |  -2,0  |  1,7  |  3,7
+p.29: Erhvervsinvesteringer  |  379  |  9,4  |  -4,1  |  -2,4  |  -0,6  |  1,1
+p.29: Lagerændringer  |  61  |  0,4  |  -1,6  |  0,0  |  0,0  |  0,0
+p.29: Indenlandsk efterspørgsel i alt  |  2.517  |  -0,3  |  -2,6  |  0,7  |  1,7  |  2,4
+p.29: Eksport  |  1.983  |  10,8  |  9,6  |  3,1  |  1,9  |  1,8
+p.29: Import  |  1.668  |  6,5  |  4,6  |  2,6  |  3,9  |  4,0
+p.29: Bruttonationalprodukt  |  2.832  |  2,7  |  1,7  |  1,3  |  0,6  |  1,1
+p.29: BVT, private byerhverv  |  1.564  |  5,7  |  4,0  |  0,8  |  0,6  |  1,0
+p.29: Beskæftigelsesgap  |  2,9  |  3,0  |  2,2  |  1,3  |  0,0
+p.29: Forbrugerpriser  |  7,5  |  3,8  |  2,6  |  1,7  |  1,4
+p.29: Timelønsomkostninger  |  3,5  |  4,5  |  5,9  |  4,6  |  3,3
+p.29: Kontantpris på enfamiliehuse  |  0,5  |  -2,5  |  1,0  |  3,8  |  4,7
+p.29: Timeproduktivitet, private byerhverv  |  0,4  |  3,0  |  2,2  |  2,2  |  1,4
+p.29: 30-årig dansk realkreditrente  |  3,8  |  4,9  |  4,9  |  4,5  |  4,4
+p.29: Betalingsbalancen  |  13,5  |  12,3  |  13,4  |  12,6  |  7,4
+p.29: de øvrige poster vises den gennemsnitlige årlige vækst fra 2025 til 2030.
+p.30: regnskabet for andet kvartal 2023 fra d. 31. august 2023, samt diverse indikatorer, der rækker ind i
+p.30: gerlande bliver knap 1 pct. i 2023 og ca. 1½ pct. i 2024. Desuden lægges det til grund, at den
+p.30: ultimo 2023, hvorefter den antages at falde gradvist frem mod 2030 til godt 4¼ pct. Valutakurser
+p.30: på godt 80 dollar i 2023 og 2024. Forudsætningerne om international økonomi er nærmere beskre-
+p.30: politik, som den er præsenteret i forslag til finanslov for 2024 og udgiftslofter for 2024-27. For de
+p.31: malisering af lagrene fra 2022 til 2023.
+p.32: betalingsbalancen …  |  overskuddet rekordhøjt og udgjorde 13,5 pct. af BNP. Det overstiger
+p.32: pct. af BNP i 2022. I starten af 2023 er bidraget reduceret, og det for-
+p.33: mindre end 1 pct. af BNP i 2005 til omkring 4 pct. af BNP i årene 2015-
+p.33: det private forbrug  |  i første halvår af 2023. I den resterende del af 2023 forventes fortsat
+p.33: den resterende del af 2023 og i 2024. Samlet skønnes derfor nulvækst
+p.34: Eksternt prispres  |  Den høje inflation i 2021 og 2022 var i høj grad forårsaget af eksterne
+p.34: set, at nettoprisinflationen aftog til 2,8 pct. i august 2023, jf. figur II.18.
+p.34: godt 4 pct. i 2023. Den lavere inflation i andet halvår 2023 kan især
+p.35: 4 pct. i 2023 og ca. 2 pct. i 2024 og 2025.
+p.36: at aftage, men  |  2023 for derefter at stabilisere sig omkring 2¼ pct. i 2024 og ca. 2 pct.
+p.36: forblive høj i 2023-24  |  i 2025. Aftalen om midlertidig suspendering af elafgiften betyder imid-
+p.36: første halvår af 2023 end stigningen i nettopriserne, og omvendt i 2024.
+p.36: tes at blive ca. 3¾ pct. i 2023, ca. 2½ pct. i 2024 og knap 2 pct. i 2025.
+p.36: Til sammenligning forventer ECB en inflation i euroområdet på 5,6 pct.
+p.36: i 2023, 3,2 pct. i 2024 og 2,1 pct. i 2025.18 Det tyder på, at inflations-
+p.36: ligpriser gennem 2022 og de første måneder af 2023, jf. figur II.19.
+p.37: observation er august 2023. De grå linjer angiver i begge figurer forventede årsniveauer i 2023-24.
+p.37: gennemsnit i 2023 end sidste år. I 2024 forventes kun svag vækst i
+p.38: historiske trend  |  den reale boligpris til at falde ca. 12 pct. fra 2021 til 2023, og den reale
+p.39: nominelle priser på ca. 4½ pct. fra 2025 til 2030, hvilket er af omtrent
+p.39: 1955-2022.
+p.40: 2023. Seneste observation for “Faktisk” er andet kvartal 2023. “Impli-
+p.57: •  |  De nominelle offentlige investeringer følger i 2023 og 2024 skønnet fra Økonomisk Redegø-
+p.57: relse, august 2023. Fra 2025 og frem forudsættes investeringer at udgøre en omtrent konstant
+p.57: terne, og frem mod 2030 ventes overskuddet i 2022 at blive vendt til et
+p.57: lavt niveau i 2022  |  lativt konstant fra år til år, men i 2022 steg inflationen uventet meget,
+p.58: i 2030, hvilket skyldes, at udgifterne stiger hurtigere end indtægterne frem mod 2030.
+p.58: 2000  |  2005  |  2010  |  2015  |  2020  |  2025  |  2030  |  2000  |  2005  |  2010  |  2015  |  2020  |  2025  |  2030
+p.58: BNP fra 2022 til 2030. Det opvejes delvist af, at husholdningernes ren-
+p.59: tieindkomstskatter forværrer saldoen med 1 pct. af BNP fra 2022 til 2030.
+p.59: udgiftslofter og  |  3½ pct. af BNP fra 2022 til 2030. De netop fremsatte udgiftslofter for
+p.59: offentlige lønninger  |  perioden 2024 til 2027 medfører en højere realvækst i det offentlige
+p.60: TABEL II.3  |  OFFENTLIGE INDTÆGTER OG UDGIFTER
+p.60: 2022  |  2023  |  2024  |  2025  |  2030
+p.60: Personskatter mv.  |  22,2  |  23,1  |  22,8  |  23,0  |  23,1
+p.60: Aktieskat  |  1,8  |  1,5  |  1,2  |  1,2  |  1,2
+p.60: Selskabsskat  |  3,1  |  2,7  |  2,6  |  2,7  |  2,7
+p.60: Nordsøbeskatning  |  0,1  |  0,0  |  0,1  |  0,2  |  0,4
+p.60: Pensionafkastbeskatning  |  0,4  |  0,4  |  0,6  |  0,9  |  1,0
+p.60: Afgifter  |  14,3  |  14,5  |  14,4  |  14,5  |  15,2
+p.60: Øvrige indtægter  |  4,4  |  4,0  |  3,9  |  4,1  |  4,4
+p.60: Indtægter i alt  |  46,3  |  46,2  |  45,7  |  46,5  |  47,8
+p.60: Offentligt forbrug  |  21,8  |  22,8  |  23,3  |  23,9  |  25,2
+p.60: Offentlige investeringer  |  3,1  |  3,4  |  3,4  |  3,4  |  3,5
+p.60: Indkomstoverførsler  |  13,7  |  14,3  |  14,3  |  14,6  |  15,6
+p.60: Øvrige udgifter  |  4,6  |  4,6  |  4,4  |  4,2  |  4,3
+p.60: Udgifter i alt  |  43,2  |  45,1  |  45,3  |  46,2  |  48,6
+p.60: Primær saldo  |  3,1  |  1,1  |  0,3  |  0,4  |  -0,7
+p.60: Nettorenteindtægter  |  0,3  |  0,8  |  0,8  |  0,7  |  0,5
+p.60: Offentlig saldo  |  3,4  |  1,8  |  1,1  |  1,1  |  -0,2
+p.60: Strukturel saldo  |  1,5  |  0,8  |  0,8  |  0,5  |  -0,2
+p.60: Off. forbrug ekskl. afskrivninger  |  -2,6  |  1,5  |  2,1  |  1,3  |  1,1
+p.60: Off. investeringer ekskl. F&U  |  -1,7  |  4,0  |  0,4  |  2,8  |  1,7
+p.60: fra 2025 til 2030.
+p.61: Når der korrigeres for Ukrainefonden i 2023 reduceres realvæksten til 0,4 pct.
+p.61: Ukrainefonden har omtrent samme størrelsesorden i 2023 og 2024, hvorfor realvæksten skønnes
+p.61: til 2,1 pct. i 2024 både med og uden Ukrainefonden. Fra 2024 til 2025 reduceres Ukrainefonden, og
+p.61: realvæksten korrigeret for Ukrainefonden kan opgøres til 2,3 pct. Den markante opjustering i væk-
+p.64: 2014  |  2016  |  2018  |  2020  |  2022  |  2024  |  2026  |  2028  |  2030
+p.64: strukturel saldo  |  af BNP. Det vendes frem mod 2030 til et underskud på 0,2 pct. af BNP,
+p.64: med 2,8 pct. af strukturelt BNP i perioden. Hertil kommer, at det nye
+p.64: pct. af BNP fra 2022 frem mod 2030. Udover finanspolitikken forværrer
+p.65: beskæftigelse og  |  0,5 pct. af BNP i perioden. Samtidig bliver den strukturelle saldo for-
+p.65: ca. ½ pct. af BNP, …  |  2023 og 2024. De foreslåede udgiftslofter for 2024-27 indebærer en
+p.65: saldo med ca. 0,5 pct. af BNP i 2030 i forhold til vurderingen i Dansk
+p.65: renteindtægter afledt  |  justeret med 0,2 pct. af BNP. De offentlige nettorenteindtægter er også
+p.65: saldo frem mod 2030 med ca. 0,2 pct. af BNP. I modsat retning træk-
+p.66: TABEL II.4  |  ÆNDRING I STRUKTUREL SALDO I FORHOLD TIL DANSK ØKONOMI,
+p.66: 2023  |  2024  |  2025  |  2026  |  2027  |  2030
+p.66: Dansk Økonomi, efterår 2023  |  0,8  |  0,8  |  0,5  |  -0,1  |  0,0  |  -0,2
+p.66: Dansk Økonomi, forår 2023  |  0,9  |  1,0  |  0,3  |  0,1  |  0,2  |  0,1
+p.66: Forskel  |  -0,1  |  -0,2  |  0,1  |  -0,2  |  -0,2  |  -0,3
+p.66: Offentlige udgifter  |  -0,3  |  -0,4  |  -0,3  |  -0,4  |  -0,5  |  -0,5
+p.66: - Udvidelse af Ukrainefond  |  -0,3  |  -0,4  |  0,0  |  0,0  |  0,0
+p.66: - Nye udgiftslofter i øvrigt  |  0,0  |  -0,3  |  -0,4  |  -0,5  |  -0,5
+p.66: Finansielle forhold  |  0,5  |  0,5  |  0,6  |  0,6  |  0,5  |  0,4
+p.66: - Rentefradrag  |  -0,1  |  -0,1  |  0,0  |  0,0  |  -0,1  |  -0,1
+p.66: - Aktiebeskatning  |  0,2  |  0,1  |  0,2  |  0,1  |  0,1  |  0,1
+p.66: - PAL-indtægter  |  0,2  |  0,2  |  0,2  |  0,2  |  0,2  |  0,2
+p.66: - Offentlige renteindtægter  |  0,2  |  0,2  |  0,3  |  0,3  |  0,3  |  0,2
+p.66: Lavere forbrugskvote  |  0,0  |  -0,1  |  -0,1  |  -0,1  |  -0,1  |  -0,2
+p.66: Andet  |  -0,3  |  -0,2  |  -0,1  |  -0,2  |  -0,1  |  0,0
+p.67: beregningsteknisk  |  sætning i 2030 på -0,5 pct. af BNP, og den saldo, der vil opstå i en
+p.67: frem mod 2030  |  skrivningen af realøkonomien og de offentlige finanser til 2030. Der er
+p.68: strukturelle saldo i deres fremskrivning svækkes fra et overskud på 0,4 pct. af BNP i 2024 til et
+p.68: underskud på 0,5 pct. af BNP i 2030.
+p.69: Finansministeriets  |  gen i det offentlige forbrug fra 2024 til 2030 i 2024-priser, hvilket svarer
+p.69: saldo i 2030 på -0,2 pct. af BNP, og regeringens målsætning om en
+p.69: strukturel saldo på -0,5 pct. af BNP, som giver mulighed for en større
+p.70: TABEL II.5  |  RÅDERUM FREM MOD 2030
+p.71: Det er dog ikke i 2030-planforløb: Grundlag for udgiftslofter 2027 anført, hvor stor en
+p.73: presset med ca. 0,2 pct.point i 2024 set i forhold til 2023.
+p.74: TABEL II.6  |  FINANSEFFEKT
+p.74: 2019-22  |  2022-23  |  2023-24
+p.74: Off.forbrug  |  -0,3  |  -0,3  |  0,2
+p.74: Off.inv.  |  0,2  |  0,0  |  0,0
+p.74: Indkomstoverførsler  |  0,0  |  0,0  |  -0,1
+p.74: Indkomstskatter  |  0,0  |  0,0  |  0,0
+p.74: Afgifter  |  0,0  |  0,1  |  -0,1
+p.74: Øvrige  |  0,1  |  0,1  |  0,1
+p.74: Finanseffekt i alt  |  0,1  |  -0,2  |  0,2
+p.74: a)  |  Finanseffekt i 2022 set i forhold til 2019, dvs. før covid-19.
+p.74: i 2030 skyldes  |  forår 2023, og der ventes nu et underskud på ca. 0,2 pct. af BNP i
+p.75: stant fra 2024 til 2030.
+p.75: tuel positiv realvækst i det offentlige forbrug frem mod 2030.25 En for-
+p.77: forår 2007 samt i Grinderslev og Smidt (2023) tilsiger en opstramning
+p.77: vurderes at være  |  indebære et løft i BNP på ca. 0,1 pct. i 2024 i forhold til 2019. Den
+p.77: lempelig  |  strukturelle saldo vurderes at være lidt forværret fra 2019 til 2024,
+p.77: soner fra 2019 til 2024. Finanspolitikken har dermed været lempelig i
+p.77: for 2024 bør  |  ger som nævnt, at finanspolitikken i 2024 burde bidrage til at reducere
+p.78: Danmarks Statistik (2023): BNP-fremgang på 0,3 pct. i andet kvartal
+p.78: 2023. Nyt fra Danmarks Statistik (300). August 2023.
+p.79: 2023. September 2023.
+p.79: European Banking Authority, EBA (2023): 2023 EU-wide stress test.
+p.79: Finansministeriet (2023): 2030-planforløb: Grundlagt for udgiftslofter
+p.79: 2027. August 2023.
+p.79: 2024-2033. Juni 2023.
+p.79: Grinderslev, D. og J. Smidt (2023): SMEC 2023. Udkommer november
+p.80: OECD (2023): Economic Outlook. Interim Report. September 2023.
+p.80: Økonomiministeriet (2023): Økonomisk Redegørelse, August 2023.

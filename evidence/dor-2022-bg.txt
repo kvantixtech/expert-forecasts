@@ -1,6 +1,141 @@
 # dor-2022-bg
 # url: https://dors.dk/files/media/rapporter/2022/e22/baggrundsmateriale/e22_kap._ii_konjunktur_baggrundsnotat_konjunkturvurdering_ny.pdf
-# http: 000  bytes: 0  sha256: 
-# fetched: 2026-09-29T18:12:41Z
-# FAILED: curl: (92) HTTP/2 stream 1 was not closed cleanly: PROTOCOL_ERROR (err 1)
+# http: 200  bytes: 147586  sha256: 91977a4a288c778737f92a8e31db8cedf98757839aa7226dc6b3461ef3f05b11
+# fetched: 2026-09-29T18:18:24Z
+# pages: 16  (lines below are quotes; p.N = PDF page)
 
+p.1: Tabel 1 Hovedtal i fremskrivningen i Dansk Økonomi, forår 2022 og efterår 2022
+p.1: Forår 2022  |  Efterår 2022
+p.1: 2021  |  2022  |  2023  |  2030a)  |  2021  |  2022  |  2023  |  2024  |  2030a)
+p.1: Privat forbrug  |  4,2  |  2,1  |  1,6  |  2,2  |  4,2  |  -1,1  |  -0,3  |  2,5  |  3,0
+p.1: Offentligt forbrug  |  3,7  |  1,0  |  0,4  |  1,0  |  4,2  |  0,7  |  -0,7  |  1,6  |  1,1
+p.1: Offentlige investeringer  |  4,3  |  -3,9  |  7,0  |  1,4  |  0,4  |  -2,6  |  2,2  |  3,4  |  2,0
+p.1: Boliginvesteringer  |  6,1  |  0,6  |  -1,0  |  0,1  |  9,9  |  4,5 -10,0 -10,8  |  2,0
+p.1: Erhvervsinvesteringer  |  5,8  |  1,6  |  -2,8  |  2,2  |  6,3  |  1,9  |  -4,3  |  -5,6  |  2,8
+p.1: Lagerændringer  |  0,3  |  0,0  |  -0,2  |  0,0  |  0,0  |  0,8  |  -0,4  |  0,0  |  0,0
+p.1: Indl. efterspørgsel i alt  |  4,7  |  1,5  |  0,4  |  1,7  |  4,6  |  0,9  |  -2,0  |  0,3  |  2,3
+p.1: Eksport  |  7,8  |  5,8  |  2,5  |  1,9  |  8,0  |  3,4  |  1,4  |  4,7  |  2,7
+p.1: Import  |  8,2  |  2,5  |  2,5  |  2,4  |  8,0  |  1,2  |  -1,1  |  4,7  |  3,9
+p.1: Bruttonationalprodukt  |  4,7  |  3,5  |  0,6  |  1,4  |  4,9  |  2,3  |  -0,2  |  0,6  |  1,6
+p.1: Output gap  |  1,1  |  1,1  |  0,0  |  0,0  |  1,2  |  0,0  |  -1,7  |  -2,2  |  0,0
+p.1: Beskæftigelsesgap  |  1,6  |  3,6  |  1,8  |  0,0  |  0,8  |  3,3  |  0,6  |  -1,0  |  0,0
+p.1: Forbrugerpriser  |  2,1  |  4,9  |  2,5  |  1,9  |  2,1  |  8,1  |  5,1  |  0,8  |  1,5
+p.1: Kontantpris på boliger  |  10,6  |  4,5  |  -0,8  |  3,0  |  10,6  |  2,0  |  -6,0  |  -2,4  |  5,8
+p.1: Timelønomkostninger  |  2,6  |  3,6  |  4,6  |  3,4  |  2,6  |  3,8  |  5,2  |  4,5  |  3,4
+p.1: Realvækst i aftagerlande  |  5,2  |  3,2  |  2,6  |  1,7  |  5,1  |  2,5  |  0,8  |  1,8  |  2,0
+p.1: 10-årig obligationsrente  |  0,0  |  1,1  |  1,5  |  1,1  |  0,0  |  1,5  |  2,5  |  2,0  |  1,1
+p.1: Timeprod., priv. byerhv.  |  1,4  |  -0,5  |  2,3  |  1,5  |  1,3  |  -1,6  |  3,5  |  2,7  |  1,4
+p.1: Betalingsbalance  |  8,3  |  9,5  |  8,9  |  7,9  |  8,8  |  10,0  |  11,0  |  11,3  |  7,4
+p.1: Offentlig saldo  |  2,3  |  0,6  |  -0,3  |  -0,2  |  3,6  |  0,4  |  -0,1  |  -0,2  |  -0,2
+p.1: og rente. For de øvrige poster vises den gennemsnitlige årlige vækst fra 2023 til 2030 for
+p.1: Dansk Økonomi, forår 2022 hhv. væksten fra 2024 til 2030 for Dansk Økonomi, efterår 2022.
+p.2: På den baggrund er udviklingen i både beskæftigelsen og BNP i 2022 og 2023
+p.2: Væksten i BNP er nedjusteret omtrent 1¼ henholdsvis ¾ pct.point i 2022 og 2023. I
+p.2: 2022 udviklede sig mere negativt end forudsat i forårsprognosen. Fra fjerde kvartal 2021
+p.2: udgangen af 2023 skønnes at være på omtrent samme niveau som i fjerde kvartal 2021.
+p.2: hvilket kun er sket tre gange siden år 2000 (2008 og 2009 på grund af finanskrisen samt
+p.2: nedjusteret omtrent 3 henholdsvis 2 pct.point i 2022 og 2023. Det afspejler både, at det
+p.2: resten af 2022 end ventet i forårsprognosen. I 2023 nedjusteres bolig- og
+p.2: sammenholdes med et forventet fald på omtrent 50.000 fra forårsprognosen. Det
+p.3: pct.point i 2023 til ca. 5 pct. Derved forventes inflationen også i 2023 at overstige det
+p.3: 2022 til 2023. Dette er en nedjustering på mere end 5 pct.point sammenlignet med
+p.3: Consensus (september 2022) og for Polen EU-Kommissionen (juli 2022). Den
+p.4: nedjusteret ca. ¾ pct.point i 2022 og ca. 1¾ pct.point i 2023. Det skal ses i lyset af, at
+p.5: 2016  |  2017  |  2018  |  2019  |  2020  |  2021  |  2022  |  2023  |  2024  |  2005  |  2008  |  2011  |  2014  |  2017  |  2020  |  2023  |  2026  |  2029
+p.5: 2016  |  2017  |  2018  |  2019  |  2020  |  2021  |  2022  |  2023  |  2024  |  0
+p.5: 2018  |  2019  |  2020  |  2021  |  2022
+p.6: 1980  |  1990  |  2000  |  2010  |  2020  |  2030  |  1980  |  1990  |  2000  |  2010  |  2020  |  2030
+p.6: 1995  |  2000  |  2005  |  2010  |  2015  |  2020  |  2025  |  2030
+p.9: 1955  |  1965  |  1975  |  1985  |  1995  |  2005  |  2015  |  2025  |  1980  |  1990  |  2000  |  2010  |  2020  |  2030
+p.9: perioden 1955-2020.
+p.10: 1990 1995 2000  |  2005 2010 2015  |  2020 2025 2030  |  1990  |  1995  |  2000  |  2005  |  2010  |  2015  |  2020  |  2025 2030
+p.12: Tabel 1 Hovedposter på forsyningsbalancen
+p.12: 2021  |  2021  |  2022  |  2023  |  2024  |  2030
+p.12: Privat forbrug  |  1.142  |  4,2  |  -1,1  |  -0,3  |  2,5  |  3,0
+p.12: Offentligt forbrug  |  608  |  4,2  |  0,7  |  -0,7  |  1,6  |  1,1
+p.12: Offentlige investeringer  |  85  |  0,4  |  -2,6  |  2,2  |  3,4  |  2,0
+p.12: Boliginvesteringer  |  151  |  9,9  |  4,5  |  -10,0  |  -10,8  |  2,0
+p.12: Erhvervsinvesteringer  |  330  |  6,3  |  1,9  |  -4,3  |  -5,6  |  2,8
+p.12: Lagerændringer  |  9  |  0,0  |  0,8  |  -0,4  |  0,0  |  0,0
+p.12: Indenlandsk efterspørgsel i alt  |  2.325  |  4,6  |  0,9  |  -2,0  |  0,3  |  2,3
+p.12: Eksport  |  1.494  |  8,0  |  3,4  |  1,4  |  4,7  |  2,7
+p.12: Samlet efterspørgsel  |  3.819  |  5,9  |  1,9  |  -0,5  |  2,1  |  2,5
+p.12: Import  |  1.315  |  8,0  |  1,2  |  -1,1  |  4,7  |  3,9
+p.12: Bruttonationalprodukt  |  2.504  |  4,9  |  2,3  |  -0,2  |  0,6  |  1,6
+p.12: Bruttoværditilvækst  |  2.176  |  5,1  |  2,7  |  0,0  |  0,7  |  1,5
+p.12: heraf private byerhverv  |  1.416  |  6,0  |  3,1  |  0,5  |  0,0  |  1,8
+p.12: Anm.:  |  Kolonnen længst til højre viser gennemsnittet fra 2024 til 2030.
+p.12: Tabel 2 Hovedposter på forsyningsbalancen, vækstbidrag
+p.12: 2021  |  2021  |  2022  |  2023  |  2024  |  2030
+p.12: Privat forbrug  |  1.142  |  1,9  |  -0,5  |  -0,1  |  1,2  |  1,4
+p.12: Offentligt forbrug  |  608  |  1,0  |  0,2  |  -0,2  |  0,4  |  0,3
+p.12: Offentlige investeringer  |  85  |  0,0  |  -0,1  |  0,1  |  0,1  |  0,1
+p.12: Boliginvesteringer  |  151  |  0,6  |  0,3  |  -0,6  |  -0,6  |  0,1
+p.12: Erhvervsinvesteringer  |  330  |  0,8  |  0,2  |  -0,6  |  -0,7  |  0,3
+p.12: Lagerændringer  |  9  |  0,0  |  0,8  |  -0,4  |  0,0  |  0,0
+p.12: Indenlandsk efterspørgsel i alt  |  2.325  |  4,3  |  0,9  |  -1,8  |  0,3  |  2,2
+p.12: Eksport  |  1.494  |  4,4  |  2,0  |  1,0  |  3,1  |  1,7
+p.12: Samlet efterspørgsel  |  3.819  |  8,7  |  2,9  |  -0,9  |  3,4  |  3,9
+p.12: Import  |  1.315  |  -3,9  |  -0,6  |  0,7  |  -2,7  |  -2,3
+p.12: Bruttonationalprodukt  |  2.504  |  4,9  |  2,3  |  -0,2  |  0,6  |  1,6
+p.12: Anm.:  |  Kolonnen længst til højre viser gennemsnittet fra 2024 til 2030.
+p.13: Tabel 3 Lønkonkurrenceevne
+p.13: 2021  |  2022  |  2023  |  2024  |  2030
+p.13: 1. Stigning i timelønomkostninger, udland  |  2,3  |  4,1  |  3,8  |  3,4  |  2,7
+p.13: 2. Stigning i timelønsomkostninger, Danmark  |  2,6  |  3,8  |  5,2  |  4,5  |  3,2
+p.13: 3. Ændring i relativ lønudvikling (=1-2)  |  0,2  |  -0,3  |  1,4  |  1,1  |  0,5
+p.13: 4. Ændring i effektiv kronekurs  |  0,0  |  -2,4  |  -0,6  |  0,0  |  0,0
+p.13: 5. Ændring i lønkonkurrenceevne (=3+4)  |  0,2  |  -2,8  |  0,8  |  1,1  |  0,5
+p.13: 6. Ændring i dansk produktivitet  |  2,6  |  -1,0  |  1,8  |  2,2  |  1,3
+p.13: 7. Ændring i udenlandsk produktivitet  |  3,6  |  2,0  |  0,6  |  2,1  |  1,1
+p.13: 8. Ændring i relativ produktivitet (=6-7)  |  -0,9  |  -3,0  |  1,3  |  0,1  |  0,2
+p.13: 9. Ændring i relative enhedslønomkostninger (=5-8)  |  1,2  |  0,2  |  -0,5  |  1,0  |  0,3
+p.13: private forbrug. Kolonnen længst til højre viser gennemsnittet fra 2024 til 2030.
+p.13: Tabel 4 Betalingsbalancens løbende poster og udlandsgæld
+p.13: 2021  |  2022  |  2023  |  2024  |  2030
+p.13: Udlandsformue, ultimo  |  1.888  |  2.161  |  2.463  |  2.785  |  -
+p.13: Løbende poster i alt  |  8,8  |  10,0  |  11,0  |  11,3  |  7,4
+p.13: Udlandsformue, ultimo  |  75,4  |  79,7  |  89,3  |  98,0  |  126,0
+p.14: Tabel 5 Vækstbidrag til BVT
+p.14: 2019  |  2019-22  |  2022-25  |  2025-30
+p.14: Landbrug  |  29  |  0,0  |  0,1  |  0,0
+p.14: Nordsø  |  19  |  -0,1  |  0,1  |  0,0
+p.14: Energiforsyning  |  30  |  0,0  |  0,0  |  0,0
+p.14: Boligbenyttelse  |  160  |  0,1  |  0,2  |  0,1
+p.14: Søfart  |  35  |  -0,1  |  -0,1  |  0,0
+p.14: Offentlig  |  393  |  0,2  |  0,1  |  0,1
+p.14: Private byerhverv  |  1.345  |  1,5  |  0,4  |  1,2
+p.14: Bruttoværditilvækst  |  2.012  |  1,7  |  0,7  |  1,5
+p.14: Anm.:  |  Kolonnerne viser gennemsnittet for 2019-2022, 2022-25 og 2025-30.
+p.14: Tabel 6 Dekomponering af vækst i strukturel BNP
+p.14: 2019  |  2019-22  |  2022-25  |  2025-30
+p.14: Bruttonationalprodukt  |  2.108  |  1,9  |  1,3  |  1,3
+p.14: Bruttoværditilvækst  |  1.812  |  1,9  |  1,2  |  1,3
+p.14: Timeproduktivitet  |  441  |  1,3  |  1,0  |  1,0
+p.14: heraf øvrige erhverv  |  475  |  0,3  |  0,4  |  0,4
+p.14: heraf private byerhverv  |  424  |  1,8  |  1,2  |  1,4
+p.14: heraf TFP  |  51  |  1,9  |  0,3  |  1,0
+p.14: heraf KL-forhold  |  705  |  0,7  |  0,2  |  1,0
+p.14: Gns. arbejdstid  |  1.428  |  -1,6  |  0,0  |  1,0
+p.14: Anm.:  |  Kolonnerne viser gennemsnittet for 2019-2022, 2022-25 og 2025-30. Tabellen viser niveauet og
+p.15: Tabel 7 Sammenligning med regeringen
+p.15: 2022  |  2023  |  2022  |  2023
+p.15: BNP  |  2,3  |  -0,2  |  2,8  |  0,8
+p.15: Privat forbrug  |  -1,1  |  -0,3  |  0,5  |  1,1
+p.15: Eksport  |  3,4  |  1,4  |  3,6  |  2,3
+p.15: Import  |  1,2  |  -1,1  |  2,0  |  1,4
+p.15: Investeringer  |  1,9  |  -5,0  |  3,7  |  -0,9
+p.15: Boligpriser  |  2,0  |  -6,0  |  3,1  |  -4,8
+p.15: Kilde:  |  Finansministeriet (2022): Økonomisk Redegørelse, august 2022 og egne beregninger.
+p.15: Tabel 8 Renteprognose
+p.15: 2021  |  2022  |  2023  |  2024  |  2030
+p.15: ECB  |  -0,5  |  0,2  |  2,4  |  2,1  |  0,5
+p.15: Dansk statsobligation  |  0,0  |  1,5  |  2,5  |  2,0  |  1,1
+p.15: Tysk statsobligation  |  -0,3  |  1,2  |  2,1  |  1,8  |  1,0
+p.15: Dansk realkreditrente  |  1,5  |  4,0  |  5,3  |  4,5  |  2,9
+p.15: ECB  |  -0,5  |  2,0  |  2,3  |  2,0
+p.15: Dansk statsobligation  |  -0,1  |  2,7  |  2,3  |  1,8  |  -
+p.15: Tysk statsobligation  |  -0,3  |  2,4  |  2,0  |  1,6  |  -
+p.15: Dansk realkreditrente  |  1,7  |  5,7  |  5,1  |  4,0  |  -
+p.15: Tabel 9 Internationale skøn
+p.15: Anm:  |  Kolonnen yderst til højre viser den gennemsnitlige realvækst i aftagerlande fra 2024 til 2030 samt

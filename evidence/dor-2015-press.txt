@@ -1,6 +1,12 @@
 # dor-2015-press
 # url: https://dors.dk/files/media/rapporter/2015/E15/e15_pressemeddelelse.pdf
-# http: 000  bytes: 0  sha256: 
-# fetched: 2026-09-29T18:12:35Z
-# FAILED: curl: (92) HTTP/2 stream 1 was not closed cleanly: PROTOCOL_ERROR (err 1)
+# http: 200  bytes: 122862  sha256: 6c1bb5774dead3bb4d0ba05fac19b005b03574f8d810955f57c586d681fb31ed
+# fetched: 2026-09-29T18:17:58Z
+# pages: 5  (lines below are quotes; p.N = PDF page)
 
+p.1: og 2¼ pct. i hhv. 2016 og 2017. Dette vurderes at ville trække en større og næsten
+p.1: i beskæftigelsen på knap 100.000 personer henover årene 2015 til 2017. Ser vi frem til
+p.2: og 0,5 pct. af BNP i perioden 2015-2020. Dermed vurderes den strukturelle saldo i alle
+p.2: 0,9 pct. af BNP, og at underskuddet derefter gradvist vil aftage frem mod balance i 2020.
+p.2: underskud i såvel 2015 som 2016, som er lidt større end EU’s grænse på 3 pct. af BNP. De
+p.3: Tilbagetrækningsaftalen fra 2011 samt Dagpengereformen fra 2010.”

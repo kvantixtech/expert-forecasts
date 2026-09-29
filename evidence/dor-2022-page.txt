@@ -1,11 +1,11 @@
 # dor-2022-page
 # url: https://dors.dk/vismandsrapporter/dansk-oekonomi-efteraar-2022
 # http: 200  bytes: 80380  sha256: 6dfc74bc6122eb2eec4ef270429605bccb96b314f3a2d83f7395a58babff6b1b
-# fetched: 2026-09-29T18:09:22Z
+# fetched: 2026-09-29T18:17:20Z
 # html page
 
 
-# PDF links on this page:
+# PDF and publication links on this page:
 https://dors.dk/files/media/Rettelse_L%C3%A6rerbidrag_maj2023.pdf
 https://dors.dk/files/media/old_files/E22_Skriftlige_indl%25C3%25A6g_fra_r%25C3%25A5dsmedlemmer.pdf
 https://dors.dk/files/media/rapporter/2022/e22/baggrundsmateriale/E22_Kap.%20IV_L%C3%A6rerbidrag%2C%20baggrundsnotat%20om%20international%20sammenligning_Rev2023.pdf
@@ -21,3 +21,13 @@ https://dors.dk/files/media/rapporter/2022/e22/endelig_rapport/WEB_E22_Revideret
 https://dors.dk/files/media/rapporter/2022/e22/endelig_rapport/e22_kap._i.pdf
 https://dors.dk/files/media/rapporter/2022/e22/endelig_rapport/e22_kap._ii.pdf
 https://dors.dk/files/media/rapporter/2022/e22/endelig_rapport/e22_kap._iii.pdf
+https://dors.dk/oevrige-publikationer/kronikker-artikler/dansk-oekonomi-udsigter-2023
+https://dors.dk/vismandsrapporter/dansk-oekonomi-efteraar-2022/kapitel-aktuel-oekonomisk-politik
+https://dors.dk/vismandsrapporter/dansk-oekonomi-efteraar-2022/kapitel-ii-konjunktur-offentlige-finanser
+https://dors.dk/vismandsrapporter/dansk-oekonomi-efteraar-2022/kapitel-iii-finanspolitisk-holdbarhed
+https://dors.dk/vismandsrapporter/dansk-oekonomi-efteraar-2022/kapitel-iv-laererbidrag-folkeskolen
+https://dors.dk/vismandsrapporter/dansk-oekonomi-efteraar-2022/rapportens-hovedkonklusioner
+https://dors.dk/vismandsrapporter/dansk-oekonomi-efteraar-2022
+https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fdors.dk%2Fvismandsrapporter%2Fdansk-oekonomi-efteraar-2022&title=Dansk+%C3%98konomi%2C+efter%C3%A5r+2022&source=
+https://x.com/intent/tweet?url=https%3A%2F%2Fdors.dk%2Fvismandsrapporter%2Fdansk-oekonomi-efteraar-2022&text=Dansk+%C3%98konomi%2C+efter%C3%A5r+2022
+mailto:?subject=Dansk%20%C3%98konomi%2C%20efter%C3%A5r%202022&body=https%3A%2F%2Fdors.dk%2Fvismandsrapporter%2Fdansk-oekonomi-efteraar-2022

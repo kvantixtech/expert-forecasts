@@ -1,6 +1,170 @@
 # dor-2021-bg
 # url: https://dors.dk/files/media/rapporter/2021/e21/baggrundsmateriale/dansk_oekonomi_efteraar_2021_kap_ii_baggrundsnotat_til_konjunkturvurdering.pdf
-# http: 000  bytes: 0  sha256: 
-# fetched: 2026-09-29T18:12:40Z
-# FAILED: curl: (92) HTTP/2 stream 1 was not closed cleanly: PROTOCOL_ERROR (err 1)
+# http: 200  bytes: 358472  sha256: 4816f481b5958a66be0a46dde7cd55711f8566fefb68767da38951e9020aafdb
+# fetched: 2026-09-29T18:18:22Z
+# pages: 32  (lines below are quotes; p.N = PDF page)
 
+p.1: 2021 og Dansk Økonomi, efterår 2021 med fokus på årene frem til 2022. Afsnit 2
+p.2: opjusteret i forhold til prognosen i Dansk Økonomi, forår 2021, jf. tabel 1.1.
+p.2: Tabel 1.1 Hovedtal i fremskrivningen i Danmark Økonomi, forår 2021 og efterår 2021
+p.2: Forår 2021  |  Efterår 2021
+p.2: 2020 2021 2022 2019-22  |  2020 2021 2022 2019-22a)
+p.2: Privat forbrug  |  -1,9  |  2,6  |  5,3  |  1,9  |  -1,3  |  2,2  |  5,9  |  2,2
+p.2: Offentligt forbrug  |  -0,1  |  3,9  |  0,2  |  1,3  |  -1,7  |  5,1  |  -0,9  |  0,8
+p.2: Offentlige investeringer  |  8,3  |  1,9  |  3,5  |  4,6  |  9,8  |  3,5  |  -1,8  |  3,8
+p.2: Boliginvesteringer  |  6,9  |  7,5  |  1,0  |  5,1  |  10,1  |  16,0  |  2,3  |  9,3
+p.2: Erhvervsinvesteringer  |  -1,2  |  1,7  |  0,7  |  0,4  |  2,1  |  4,8  |  1,0  |  2,6
+p.2: Lagerændringer  |  -0,2  |  0,0  |  0,2  |  0,2  |  -0,1  |  -0,4  |  0,5  |  0,0
+p.2: Indl. efterspørgsel i alt  |  -0,7  |  3,1  |  3,1  |  1,8  |  0,0  |  3,8  |  3,4  |  2,4
+p.2: Eksport  |  -7,7  |  4,1  |  6,2  |  0,7  |  -7,0  |  3,6  |  4,3  |  0,2
+p.2: Import  |  -4,8  |  4,6  |  4,2  |  1,3  |  -4,1  |  3,2  |  3,9  |  1,0
+p.2: Bruttonationalprodukt  |  -2,7  |  2,9  |  4,3  |  1,5  |  -2,1  |  3,9  |  3,6  |  1,8
+p.2: Aftagerlande  |  -4,2  |  4,6  |  3,9  |  1,4  |  -4,1  |  4,9  |  4,4  |  1,6
+p.2: Forbrugerpriser  |  0,3  |  1,4  |  1,0  |  0,9  |  0,5  |  1,5  |  1,4  |  1,1
+p.2: Timelønomkostninger  |  2,2  |  2,3  |  2,7  |  2,4  |  2,2  |  2,6  |  2,9  |  2,6
+p.2: Kontantpris på boliger  |  4,4  |  13,8  |  4,5  |  7,5  |  4,5  |  11,2  |  2,6  |  6,1
+p.2: Timeprod., priv. byerhv.  |  0,7  |  0,3  |  2,0  |  1,0  |  1,5  |  1,3  |  1,4  |  1,4
+p.2: 10-årig statsobligationsrente  |  -0,4  |  0,0  |  0,2  |  0,2  |  -0,4 -0,1  |  0,1  |  0,1
+p.2: 2019 til 2022. For nettoledighed, beskæftigelsesgap og rente vises niveauet i 2022. I
+p.3: udvikling i 2021 opjusteret med omkring 30.000 personer i forhold til forårsprognosen, jf.
+p.3: 2005  |  2009  |  2013  |  2017  |  2021  |  2025
+p.3: en højere årsvækst i 2021. Omvendt er vækstskønnet for 2022 nedjusteret ca. ¾
+p.5: 2.1 BNP
+p.5: Strukturelt BNP stiger i gennemsnit ca. 1½ pct. årligt i perioden fra 2019 til 2030. Den
+p.5: stiger mest, jf. tabel 2.1. I forhold til de seneste 20 år er der udsigt til lidt højere strukturel
+p.5: Tabel 2.1 Dekomponering af væksten i strukturelt BNP
+p.5: 2000-19  |  2019-30  |  2019-22  |  2022-25  |  2025-30
+p.5: BNP  |  1,4  |  1,6  |  1,9  |  1,5  |  1,4
+p.5: Arbejdsstyrke  |  0,4  |  0,4  |  0,6  |  0,4  |  0,2
+p.5: Ledighed  |  0,1  |  0,0  |  0,0  |  0,0  |  0,0
+p.5: Arbejdstid  |  -0,3  |  0,0  |  -0,1  |  0,0  |  0,1
+p.5: Timeproduktivitet  |  1,1  |  1,1  |  1,3  |  1,1  |  1,1
+p.5: heraf private byerhverv  |  1,0  |  1,0  |  1,1  |  0,9  |  0,9
+p.5: Afgifter  |  0,0  |  0,0  |  0,0  |  0,0  |  0,0
+p.5: første søjler er de seneste 20 historiske år fra 2000 til 2019 hhv. den mellemfristede fremskrivning
+p.5: fra 2019 til 2030 (der ses forhold til 2019, som er seneste historiske år ikke påvirket af corona).
+p.5: Den mellemfristede periode er opdelt i tre delperioder: Den første fra 2019 til 2022 er påvirket af
+p.5: corona, den anden fra 2022 til 2025 (2025 var slutår for den mellemfristede fremskrivning i Dansk
+p.5: Økonomi, forår 2021), og den tredje fra 2025 til 2030 (forlængelsen af den mellemfristede
+p.5: 2019 til 2030, hvoraf ca. 30.000 kommer mellem 2025 og 2030. Befolkningen øges med
+p.6: indfaset i 2023 henholdsvis 2022, hvorfor den strukturelle ledighed reduceres til 3,1 pct.
+p.6: arbejdsstyrken. Den strukturelle arbejdstid er omtrent ens i 2019 og 2030.
+p.6: Den strukturelle arbejdsstyrke øges fra 2019 til 2030, hvorved den strukturelle ledighed målt i personer kun er 1.000
+p.6: personer lavere i 2030 i forhold til 2019 trods nedsættelse af den strukturelle ledighedsrate.
+p.7: 2025 i forhold til vurderingen i Dansk Økonomi, forår 2021, jf. figur 2.1. Det skyldes
+p.7: Figur 2.1 Strukturelt BNP  |  Figur 2.2 Strukturel arbejdstid
+p.7: 1.900  |  2000  |  2005  |  2010  |  2015  |  2020  |  2025  |  2030
+p.7: 2015  |  2017  |  2019  |  2021  |  2023  |  2025  |  F21  |  Strukturel, F21
+p.12: august 2021), medførte dette, at de reale boligpriser i andet kvartal 2021 var omtrent
+p.14: 1996  |  1999  |  2002  |  2005  |  2008  |  2011  |  2014  |  2017  |  2020  |  1996  |  1999  |  2002  |  2005  |  2008  |  2011  |  2014  |  2017  |  2020
+p.18: udgøre 1,5 pct. i 2021, hvilket er et fald på 0,2 pct.point i forhold til 2020. De implicitte
+p.21: 1980  |  1990  |  2000  |  2010  |  2020  |  2030  |  1980  |  1990  |  2000  |  2010  |  2020  |  2030
+p.21: 1995  |  2000  |  2005  |  2010  |  2015  |  2020  |  2025  |  2030
+p.24: 1955  |  1965  |  1975  |  1985  |  1995  |  2005  |  2015  |  2025  |  1980  |  1990  |  2000  |  2010  |  2020  |  2030
+p.24: perioden 1955-2020.
+p.25: 1990 1995  |  2000  |  2005  |  2010  |  2015  |  2020  |  2025  |  2030 17  |  -6
+p.25: 1990  |  1995  |  2000  |  2005  |  2010  |  2015  |  2020  |  2025 2030
+p.27: Tabel 1 Skøn for dansk økonomi
+p.27: Forår 2021  |  Efterår 2021
+p.27: Bruttonationalprodukt  |  1,4  |  1,5
+p.27: Forbrugerpriser  |  1,0  |  1,4
+p.27: Realvækst i aftagerlande  |  1,7  |  1,6
+p.27: Anm.:  |  Søjlerne angiver den gennemsnitlige årlige vækst fra 2019 til 2025. For output gap, nettoledighed,
+p.28: Tabel 2 Hovedposter på forsyningsbalancen
+p.28: 2019  |  2020  |  2021  |  2022  |  2022-25  |  2025-30
+p.28: Privat forbrug  |  1.080  |  -1,3  |  2,2  |  5,9  |  2,5  |  1,7
+p.28: Offentligt forbrug  |  558  |  -1,7  |  5,1  |  -0,9  |  0,8  |  1,1
+p.28: Offentlige investeringer  |  75  |  9,8  |  3,5  |  -1,8  |  2,4  |  1,7
+p.28: Boliginvesteringer  |  116  |  10,1  |  16,0  |  2,3  |  -5,2  |  0,9
+p.28: Erhvervsinvesteringer  |  302  |  2,1  |  4,8  |  1,0  |  -1,5  |  2,7
+p.28: Lagerændringer  |  15  |  -0,1  |  -0,4  |  0,5  |  0,0  |  0,0
+p.28: Indenlandsk efterspørgsel i alt  |  2.147  |  0,0  |  3,8  |  3,4  |  1,1  |  1,6
+p.28: Eksport  |  1.368  |  -7,0  |  3,6  |  4,3  |  2,8  |  2,2
+p.28: Samlet efterspørgsel  |  3.514  |  -2,7  |  3,7  |  3,7  |  1,7  |  1,9
+p.28: Import  |  1.196  |  -4,1  |  3,2  |  3,9  |  2,9  |  2,7
+p.28: Bruttonationalprodukt  |  2.318  |  -2,1  |  3,9  |  3,6  |  1,1  |  1,4
+p.28: Bruttoværditilvækst  |  2.019  |  -2,4  |  3,9  |  3,5  |  1,2  |  1,4
+p.28: heraf private byerhverv  |  1.360  |  -2,0  |  5,3  |  3,9  |  0,9  |  1,6
+p.28: Anm.:  |  De to kolonner længst til højre viser gennemsnittet fra 2022-25 hhv. 2025-30.
+p.28: Tabel 3 Hovedposter på forsyningsbalancen, vækstbidrag
+p.28: 2019  |  2020  |  2021  |  2022  |  2022-25  |  2025-30
+p.28: Privat forbrug  |  1.080  |  -0,6  |  1,0  |  2,7  |  1,2  |  0,8
+p.28: Offentligt forbrug  |  558  |  -0,4  |  1,3  |  -0,2  |  0,2  |  0,3
+p.28: Offentlige investeringer  |  75  |  0,3  |  0,1  |  -0,1  |  0,1  |  0,1
+p.28: Boliginvesteringer  |  116  |  0,5  |  0,9  |  0,1  |  -0,3  |  0,0
+p.28: Erhvervsinvesteringer  |  302  |  0,3  |  0,6  |  0,1  |  -0,2  |  0,3
+p.28: Lagerændringer  |  15  |  -0,1  |  -0,4  |  0,5  |  0,0  |  0,0
+p.28: Indenlandsk efterspørgsel i alt  |  2.147  |  0,0  |  3,5  |  3,2  |  1,0  |  1,5
+p.28: Eksport  |  1.368  |  -4,1  |  2,0  |  2,5  |  1,6  |  1,3
+p.28: Samlet efterspørgsel  |  3.514  |  -4,2  |  5,5  |  5,7  |  2,6  |  2,9
+p.28: Import  |  1.196  |  2,1  |  -1,6  |  -2,0  |  -1,5  |  -1,5
+p.28: Bruttonationalprodukt  |  2.318  |  -2,1  |  3,9  |  3,6  |  1,1  |  1,4
+p.28: Anm.:  |  De to kolonner længst til højre viser gennemsnittet fra 2022-25 hhv. 2025-30.
+p.29: Tabel 4 Lønkonkurrenceevne
+p.29: 2019-22  |  2022-25  |  2025-30
+p.29: 1. Stigning i timelønomkostninger, udland  |  2,1  |  2,8  |  3,0
+p.29: 2. Stigning i timelønsomkostninger, Danmark  |  2,6  |  2,9  |  3,1
+p.29: 3. Ændring i relativ lønudvikling (=1-2)  |  0,5  |  0,1  |  0,2
+p.29: 4. Ændring i effektiv kronekurs  |  0,3  |  0,0  |  0,0
+p.29: 5. Ændring i lønkonkurrenceevne (=3+4)  |  0,8  |  0,1  |  0,2
+p.29: 6. Ændring i dansk produktivitet  |  0,8  |  1,4  |  1,2
+p.29: 7. Ændring i udenlandsk produktivitet  |  1,4  |  0,8  |  1,4
+p.29: 8. Ændring i relativ produktivitet (=6-7)  |  -0,6  |  0,5  |  -0,2
+p.29: 9. Ændring i relative enhedslønomkostninger (=5-8)  |  1,3  |  -0,4  |  0,3
+p.29: Tabel 5 Betalingsbalancens løbende poster og udlandsgæld
+p.29: 2019  |  2020  |  2021  |  2022  |  2022-25  |  2025-30
+p.29: Udlandsformue, ultimo  |  1.795  |  1.595  |  1.803  |  2.004  |  2.409  |  3.294
+p.29: Løbende poster i alt  |  8,8  |  8,2  |  8,5  |  7,8  |  7,6  |  7,6
+p.29: Udlandsformue, ultimo  |  77,4  |  68,5  |  73,6  |  78,4  |  89,1  |  107,2
+p.29: længst til højre viser gennemsnittet fra 2022-25 hhv. 2025-30.
+p.30: Tabel 6 Vækstbidrag til BVT
+p.30: 2019  |  2019-22  |  2022-25  |  2025-30
+p.30: Landbrug  |  28  |  0,1  |  0,0  |  0,0
+p.30: Nordsø  |  19  |  -0,1  |  0,1  |  0,0
+p.30: Energiforsyning  |  26  |  0,0  |  0,0  |  0,0
+p.30: Boligbenyttelse  |  158  |  0,1  |  0,1  |  0,1
+p.30: Søfart  |  33  |  -0,1  |  0,1  |  0,0
+p.30: Offentlig  |  395  |  0,0  |  0,1  |  0,1
+p.30: Private byerhverv  |  1.360  |  1,6  |  0,6  |  1,0
+p.30: Bruttoværditilvækst  |  2.019  |  1,7  |  1,2  |  1,4
+p.30: Anm.:  |  De tre kolonner længst til højre viser gennemsnittet fra 2019-22, 2022-25 hhv. 2025-30.
+p.30: Tabel 7 Vækst i underkomponenter af strukturelt BNP
+p.30: 2019  |  2019-22  |  2022-25  |  2025-30
+p.30: Bruttonationalprodukt  |  2.108  |  1,9  |  1,5  |  1,4
+p.30: Bruttoværditilvækst  |  1.814  |  1,8  |  1,5  |  1,4
+p.30: Timeproduktivitet  |  440  |  1,3  |  1,1  |  1,1
+p.30: heraf øvrige erhverv  |  478  |  0,7  |  0,8  |  0,6
+p.30: heraf private byerhverv  |  422  |  1,5  |  1,2  |  1,4
+p.30: heraf TFP  |  51  |  0,9  |  1,1  |  1,0
+p.30: heraf K/L-forhold  |  706  |  1,7  |  0,3  |  1,0
+p.30: Gns. arbejdstid  |  1.430  |  -0,9  |  0,0  |  1,0
+p.30: Anm.:  |  De tre kolonner længst til højre viser gennemsnittet fra 2019-22, 2022-25 hhv. 2025-30. Tabellen
+p.31: Tabel 8 Renter
+p.31: 2019  |  2020  |  2021 2022  |  2025  |  2030
+p.31: ECB  |  -0,4  |  -0,5  |  -0,5  |  -0,5  |  -0,1  |  0,5
+p.31: Dansk statsobligation  |  -0,2  |  -0,4  |  -0,1  |  0,1  |  0,6  |  1,1
+p.31: Tysk statsobligation  |  -0,2  |  -0,5  |  -0,3  |  -0,1  |  0,4  |  1,0
+p.31: Dansk realkreditrente  |  1,6  |  1,1  |  1,3  |  1,5  |  2,2  |  2,9
+p.31: ECB  |  -0,5  |  -0,5  |  -0,5  |  -0,5
+p.31: Dansk statsobligation  |  -0,2  |  -0,5  |  0,0  |  0,2  |  0,7  |  -
+p.31: Tysk statsobligation  |  -0,3  |  -0,6  |  -0,3  |  0,0  |  0,5  |  -
+p.31: Dansk realkreditrente  |  1,3  |  0,9  |  1,4  |  1,6  |  2,3  |  -
+p.31: Tabel 9 Internationale skøn
+p.31: 2020  |  2021  |  2022  |  2022-25 2025-30
+p.31: Tyskland  |  -4,9  |  2,9  |  4,6  |  -  |  -
+p.31: USA  |  -3,4  |  6,0  |  4,3  |  -  |  -
+p.31: Storbritannien  |  -9,8  |  6,7  |  5,3  |  -  |  -
+p.31: Sverige  |  -2,9  |  4,2  |  3,7  |  -  |  -
+p.31: Realvækst i aftagerlande  |  -4,1  |  4,9  |  4,4  |  1,6  |  1,7
+p.31: Anm.:  |  De to kolonner længst til højre viser for realvæksten den gennemsnitlige vækst fra 2022 til 2025
+p.31: hhv. 2025 til 2030. For olieprisen vises niveauet i 2025 hhv. 2030. Skønnene for udenlandsk løn,
+p.31: tabel 4.
+p.31: Tabel 10 Sammenligning med regeringen
+p.31: 2019-22 2022-25 2025-30  |  2019-22 2022-25 2025-30
+p.31: BNP  |  1,8  |  1,1  |  1,4  |  1,0  |  1,6  |  1,4
+p.31: Privat forbrug  |  2,2  |  2,5  |  1,7  |  1,6  |  2,3  |  2,1
+p.31: Eksport  |  0,2  |  2,8  |  2,2  |  0,8  |  2,2  |  1,7
+p.31: Import  |  1,0  |  2,9  |  2,7  |  1,8  |  3,2  |  2,2
+p.31: Investeringer  |  4,4  |  -1,9  |  2,1  |  2,5  |  2,9  |  1,1
+p.31: Boligpriser  |  6,1  |  0,3  |  2,7  |  6,0  |  2,3  |  2,4
+p.31: Kilde:  |  Finansministeriet (2021): Danmarks Konvergensprogram 2021 og egne beregninger.

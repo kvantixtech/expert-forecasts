@@ -1,12 +1,12 @@
 # dor-2017-page
 # url: https://dors.dk/vismandsrapporter/dansk-oekonomi-efteraar-2017
 # http: 200  bytes: 80084  sha256: 596c646b9941d598a647314cba71c560283fa0b300fd009ea3622622526ae457
-# fetched: 2026-09-29T18:09:15Z
+# fetched: 2026-09-29T18:17:08Z
 # html page
 
 Der er udsigt til underskud på den strukturelle offentlige saldo på 0,6 pct. af BNP i 2018. Dermed er der udsigt til at underskudsgrænsen i budgetloven på ½ pct. af BNP overskrides. Trods dette vurderes det, at de offentlige finanser grundlæggende er sunde.
 
-# PDF links on this page:
+# PDF and publication links on this page:
 https://dors.dk/files/media/old_files/E17_SKRIFTLIGE_KOMMENTARER.pdf
 https://dors.dk/files/media/rapporter/2017/E17/e17.pdf
 https://dors.dk/files/media/rapporter/2017/E17/english/e17_english_summary.pdf
@@ -17,3 +17,12 @@ https://dors.dk/files/media/rapporter/2017/E17/kap_ii/e17_kap_ii_landvarigt_offe
 https://dors.dk/files/media/rapporter/2017/E17/kap_iii/e17_kap_iii_baggrundsnotat_analyse_af_baumols_syge.pdf
 https://dors.dk/files/media/rapporter/2017/E17/kap_iii/e17_kap_iii_brancheforskydninger_og_vaekstudsigter.pdf
 https://dors.dk/files/media/rapporter/2017/E17/resume/e17_resume.pdf
+https://dors.dk/oevrige-publikationer/kronikker-artikler/dansk-oekonomi-fin-form-ikke-akut-tegn-paa-overophedning
+https://dors.dk/oevrige-publikationer/kronikker-artikler/vismaendene-tre-stoerste-udfordringer-dansk-oekonomi
+https://dors.dk/vismandsrapporter/dansk-oekonomi-efteraar-2017/kapitel-ii-langvarigt-offentligt-forsoergede
+https://dors.dk/vismandsrapporter/dansk-oekonomi-efteraar-2017/kapitel-iii-brancheforskydninger-vaekstudsigter
+https://dors.dk/vismandsrapporter/dansk-oekonomi-efteraar-2017/kapitel-konjunkturvurdering-offentlige-finanser
+https://dors.dk/vismandsrapporter/dansk-oekonomi-efteraar-2017
+https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fdors.dk%2Fvismandsrapporter%2Fdansk-oekonomi-efteraar-2017&title=Dansk+%C3%98konomi%2C+efter%C3%A5r+2017&source=
+https://x.com/intent/tweet?url=https%3A%2F%2Fdors.dk%2Fvismandsrapporter%2Fdansk-oekonomi-efteraar-2017&text=Dansk+%C3%98konomi%2C+efter%C3%A5r+2017
+mailto:?subject=Dansk%20%C3%98konomi%2C%20efter%C3%A5r%202017&body=https%3A%2F%2Fdors.dk%2Fvismandsrapporter%2Fdansk-oekonomi-efteraar-2017

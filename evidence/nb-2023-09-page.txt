@@ -1,7 +1,7 @@
 # nb-2023-09-page
 # url: https://www.nationalbanken.dk/en/news-and-knowledge/publications-and-speeches/analysis/2023/persistently-high-inflationary-pressures-call-for-tight-economic-policy
 # http: 200  bytes: 245394  sha256: 80df3cfd834ea99e05933a2bc75731b08401e7d5545fd8e5fdc53a2dd8880526
-# fetched: 2026-09-29T18:12:19Z
+# fetched: 2026-09-29T18:16:59Z
 # html page
 
 In the coming year, growth is still expected to be below its potential, while the interest rate hikes of recent years work their way through the Danish and international economy. Subsequently, growth is likely to be more in line with its potential. The slowdown in growth is expected to cause employment to fall by 40,000 from the end of 2023 towards the end of 2025. Higher wage growth is assumed to increase inflationary pressures from domestic sources, keeping core inflation about 4per cent in the coming year.
@@ -32,4 +32,4 @@ The ECB expresses wage estimates as compensation per employee. For Denmark, in t
 See Statistics Denmark, BNP-fremgang på 0,3 pct. i andet kvartal 2023 (GDP growth of 0.3 per cent in the second quarter of 2023 (in Danish only)),
 The Ministry of Finance estimates that extraordinary disbursement of overpaid housing tax amounts to 0.2 and 0.3 per cent of GDP in 2023 and 2024. See appendix, table 8.4, in Ministry of Economic Affairs,
 
-# PDF links on this page:
+# PDF and publication links on this page:

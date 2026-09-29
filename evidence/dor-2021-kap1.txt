@@ -1,6 +1,9 @@
 # dor-2021-kap1
 # url: https://dors.dk/files/media/rapporter/2021/e21/endelig_rapport/e21_kap_i.pdf
-# http: 000  bytes: 0  sha256: 
-# fetched: 2026-09-29T18:12:39Z
-# FAILED: curl: (92) HTTP/2 stream 1 was not closed cleanly: PROTOCOL_ERROR (err 1)
+# http: 200  bytes: 463656  sha256: 4428ff65cf872dbaa0e34d80ed64203a58dc760f3a81d4a326875dba07d776b2
+# fetched: 2026-09-29T18:18:19Z
+# pages: 25  (lines below are quotes; p.N = PDF page)
 
+p.5: fra 2019 til 2021 taler isoleret set for, at finanspolitikken bør være
+p.5: strammere i 2022 end i 2019, jf. kapitel II. Vurderet alene ud fra den
+p.13: (2011), Manova (2013), Feenstra mfl. (2014) og Antras og Foley

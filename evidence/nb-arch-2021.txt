@@ -1,8 +1,8 @@
 # nb-arch-2021
 # url: https://www.nationalbanken.dk/en/news-and-knowledge/publications-and-speeches/archive-publications/2021
 # http: 200  bytes: 60842  sha256: 7337ea428a47f568fa6e9656132e774d296e660f00d88132524ae9e463537510
-# fetched: 2026-09-29T18:12:46Z
+# fetched: 2026-09-29T18:18:45Z
 # html page
 
 
-# PDF links on this page:
+# PDF and publication links on this page:
