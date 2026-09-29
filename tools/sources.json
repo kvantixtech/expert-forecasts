@@ -429,6 +429,139 @@
    "id": "or-2015-08-sm",
    "kind": "pdf",
    "url": "https://www.sm.dk/media/7593/oekonomisk-redegoerelse-maj-2015.pdf"
+  },
+  {
+   "id": "dst-first-2016",
+   "kind": "pdf",
+   "url": "https://www.dst.dk/Site/Dst/Udgivelser/nyt/GetPdf.aspx?cid=23059",
+   "dump_pages": [
+    1
+   ]
+  },
+  {
+   "id": "dst-first-2017",
+   "kind": "pdf",
+   "url": "https://www.dst.dk/Site/Dst/Udgivelser/nyt/GetPdf.aspx?cid=24562",
+   "dump_pages": [
+    1
+   ]
+  },
+  {
+   "id": "dst-first-2018",
+   "kind": "pdf",
+   "url": "https://www.dst.dk/Site/Dst/Udgivelser/nyt/GetPdf.aspx?cid=27841",
+   "dump_pages": [
+    1
+   ]
+  },
+  {
+   "id": "dst-first-2019",
+   "kind": "pdf",
+   "url": "https://www.dst.dk/Site/Dst/Udgivelser/nyt/GetPdf.aspx?cid=29946",
+   "dump_pages": [
+    1
+   ]
+  },
+  {
+   "id": "dst-first-2021",
+   "kind": "pdf",
+   "url": "https://www.dst.dk/Site/Dst/Udgivelser/nyt/GetPdf.aspx?cid=36037",
+   "dump_pages": [
+    1
+   ]
+  },
+  {
+   "id": "dst-first-2022",
+   "kind": "pdf",
+   "url": "https://www.dst.dk/Site/Dst/Udgivelser/nyt/GetPdf.aspx?cid=40702",
+   "dump_pages": [
+    1
+   ]
+  },
+  {
+   "id": "dst-first-2023a",
+   "kind": "pdf",
+   "url": "https://www.dst.dk/Site/Dst/Udgivelser/nyt/GetPdf.aspx?cid=46520",
+   "dump_pages": [
+    1
+   ]
+  },
+  {
+   "id": "dst-first-2023b",
+   "kind": "pdf",
+   "url": "https://www.dst.dk/Site/Dst/Udgivelser/nyt/GetPdf.aspx?cid=46521",
+   "dump_pages": [
+    1
+   ]
+  },
+  {
+   "id": "dst-first-2024",
+   "kind": "pdf",
+   "url": "https://www.dst.dk/Site/Dst/Udgivelser/nyt/GetPdf.aspx?cid=48827",
+   "dump_pages": [
+    1
+   ]
+  },
+  {
+   "id": "dst-first-2025",
+   "kind": "pdf",
+   "url": "https://www.dst.dk/Site/Dst/Udgivelser/nyt/GetPdf.aspx?cid=52201",
+   "dump_pages": [
+    1
+   ]
+  },
+  {
+   "id": "dst-first-2020-c31838",
+   "kind": "pdf",
+   "url": "https://www.dst.dk/Site/Dst/Udgivelser/nyt/GetPdf.aspx?cid=31838",
+   "dump_pages": [
+    1
+   ]
+  },
+  {
+   "id": "dst-first-2020-c31839",
+   "kind": "pdf",
+   "url": "https://www.dst.dk/Site/Dst/Udgivelser/nyt/GetPdf.aspx?cid=31839",
+   "dump_pages": [
+    1
+   ]
+  },
+  {
+   "id": "dst-first-2020-c31840",
+   "kind": "pdf",
+   "url": "https://www.dst.dk/Site/Dst/Udgivelser/nyt/GetPdf.aspx?cid=31840",
+   "dump_pages": [
+    1
+   ]
+  },
+  {
+   "id": "dst-first-2020-c31841",
+   "kind": "pdf",
+   "url": "https://www.dst.dk/Site/Dst/Udgivelser/nyt/GetPdf.aspx?cid=31841",
+   "dump_pages": [
+    1
+   ]
+  },
+  {
+   "id": "dst-first-2020-c31842",
+   "kind": "pdf",
+   "url": "https://www.dst.dk/Site/Dst/Udgivelser/nyt/GetPdf.aspx?cid=31842",
+   "dump_pages": [
+    1
+   ]
+  },
+  {
+   "id": "dst-first-2020-c31843",
+   "kind": "pdf",
+   "url": "https://www.dst.dk/Site/Dst/Udgivelser/nyt/GetPdf.aspx?cid=31843",
+   "dump_pages": [
+    1
+   ]
+  },
+  {
+   "id": "dst-nyt-series",
+   "kind": "page",
+   "url": "https://www.dst.dk/da/Statistik/udgivelser/nyt?series=2742"
   }
  ],
  "statbank": [
