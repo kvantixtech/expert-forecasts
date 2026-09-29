@@ -1,7 +1,7 @@
 # dor-2016-page
 # url: https://dors.dk/vismandsrapporter/dansk-oekonomi-efteraar-2016
 # http: 200  bytes: 83867  sha256: ae393753b8f908035ebe3ed3c12a0276065d3836cbdba43934661a5dfe2e0d8c
-# fetched: 2026-09-29T18:33:05Z
+# fetched: 2026-09-29T18:46:49Z
 # html page
 
 

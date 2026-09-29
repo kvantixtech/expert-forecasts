@@ -1,0 +1,51 @@
+# dst-first-2020-c31839
+# url: https://www.dst.dk/Site/Dst/Udgivelser/nyt/GetPdf.aspx?cid=31839
+# http: 200  bytes: 338837  sha256: e282b0a210ebecfd9adf872aa2fbf9067af32c9319d7515e2e56b6486c5af556
+# fetched: 2026-09-29T18:49:53Z
+# pages: 3  (lines below are quotes; p.N = PDF page)
+
+p.2: Næste offentliggørelse: Arbejdskraftundersøgelsen 2. kvt. 2021 udkommer 9. september 2021.
+
+# --- full text of p.1 (table layout, for column headers and notes) ---
+p.1|                                                                                                                            Arbejdskraftundersøgelsen
+p.1|                                                                                                                                           1. kvt. 2021
+p.1|                                                                                                                                             Arbejde, løn og indkomst
+p.1| 16. juni 2021                 Nr. 228
+p.1|                                         Beskæftigelsen faldt i første kvartal
+p.1|                                         Beskæftigelsen faldt fra fjerde kvartal 2020 til første kvartal 2021. Faldet var på 0,8
+p.1|                                         procentpoint, hvormed beskæftigelsesfrekvensen for de 15-64-årige i første kvartal
+p.1|                                         var på 73,8 pct., når der er taget højde for sæsonmønstre. Det viser opgørelsen fra
+p.1|                                         den interviewbaserede arbejdskraftundersøgelse. Den faldende beskæftigelse i
+p.1|                                         første kvartal skal ses i lyset af COVID-19 og vinterens nedlukning. Faldet
+p.1|                                         harmonerer med de tilsvarende registerbaserede opgørelser, se Nyt fra Danmarks
+p.1|                                         Statistik 2021:225.
+p.1|                                         Beskæftigelsesfrekvens, 15-64-årige, sæsonkorrigerede tal
+p.1|                                                  Pct.
+p.1|                                          75,5
+p.1|                                          75,0
+p.1|                                          74,5
+p.1|                                          74,0
+p.1|                                          73,5
+p.1|                                                   1. kvt. 2. kvt. 3. kvt. 4. kvt. 1. kvt. 2. kvt. 3. kvt. 4. kvt. 1. kvt. 2. kvt. 3. kvt. 4. kvt. 1. kvt. 2. kvt. 3. kvt. 4. kvt.
+p.1|                                                              2018                             2019                           2020                            2021
+p.1|                                         Kilde: www.statistikbanken.dk/aku101k
+p.1|                                         Rekordhøj andel med regelmæssigt hjemmearbejde
+p.1|                                         Andelen af de beskæftigede, der arbejdede regelmæssigt hjemmefra, var i første
+p.1|                                         kvartal 2021 på 28 pct. og dermed rekordhøj. Det er 2 procentpoint højere end i
+p.1|                                         andet kvartal 2020, dvs. under den første store nedlukning, hvor det hidtil største
+p.1|                                         omfang af regelmæssigt hjemmearbejde blev registreret.
+p.1|                                         Andel af beskæftigede, der arbejdede hjemme regelmæssigt, 15-64-årige
+p.1|                                                 Pct.
+p.1|                                          30
+p.1|                                          25
+p.1|                                          20
+p.1|                                          15
+p.1|                                          10
+p.1| Nyt fra Danmarks Statistik
+p.1| udkommer dagligt kl. 8.00                 5
+p.1| Link til denne udgivelse:
+p.1| www.dst.dk/nyt/31839                      0
+p.1|                                                 1. kvt. 2. kvt. 3. kvt. 4. kvt. 1. kvt. 2. kvt. 3. kvt. 4. kvt. 1. kvt. 2. kvt. 3. kvt. 4. kvt. 1. kvt. 2. kvt. 3. kvt. 4. kvt.
+p.1| © Danmarks Statistik 2021                                   2018                             2019                            2020                              2021
+p.1| ISSN 1601 1015                          Kilde: Særkørsel baseret på www.statistikbanken.dk/aku280a
+p.1|          Følg os på Twitter

@@ -1,7 +1,7 @@
 # dor-2016
 # url: https://dors.dk/files/media/rapporter/2016/E16/e16.pdf
 # http: 200  bytes: 2087722  sha256: e08d19b6e03e1039bc4235f1c2444a6289ccef154cabd3c9a5be231992b4cf7b
-# fetched: 2026-09-29T18:33:27Z
+# fetched: 2026-09-29T18:47:09Z
 # pages: 342  (lines below are quotes; p.N = PDF page)
 
 p.5: Tabel A  |  Hovedtal i prognosen

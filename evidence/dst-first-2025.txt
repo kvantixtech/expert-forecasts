@@ -1,0 +1,156 @@
+# dst-first-2025
+# url: https://www.dst.dk/Site/Dst/Udgivelser/nyt/GetPdf.aspx?cid=52201
+# http: 200  bytes: 526124  sha256: bd14307fce18ecc7e1ab885681556d49df90ddcfb4801fa1f00894be346ef2b1
+# fetched: 2026-09-29T18:49:48Z
+# pages: 6  (lines below are quotes; p.N = PDF page)
+
+p.1: 3. kvt. 2025 - 4. kvt. 2025  |  3. kvt. 2025 - 4. kvt. 2025
+p.1: BNP-vækst på 2,9 pct. i 2025
+p.1: Bruttonationalproduktet (BNP) steg med 2,9 pct. for året 2025. I fjerde kvartal vok-
+p.1: sede BNP med 0,2 pct., når der korrigeres for prisudvikling og sæsonbevægelser.
+p.1: 2018 2018 2019 2019 2020 2020 2021 2021 2022 2022 2023 2023 2024 2024 2025 2025
+p.1: udviklingen i 2025. I 2025 voksede den samlede danske økonomi målt ved BVT med
+p.2: 2018 2019 2020 2021 2022 2023* 2024* 2025* 2018 2019 2020 2021 2022 2023* 2024* 2025*
+p.2: Anm: Usikkerheden på BNP-væksten kan generelt vurderes til ± 0,5 procentpoint, baseret på hidtidige erfaringer.
+p.3: Bruttonationalprodukt (BNP)  |  808,6  |  3,0  |  2,9  |  1,3  |  2,3  |  0,2
+p.3: Import af varer og tjenester  |  462,4  |  -4,0  |  -0,6  |  2,7  |  -0,1  |  -0,4
+p.3: Import af varer  |  248,7  |  2,4  |  3,4  |  2,7  |  -0,7  |  0,8
+p.3: Import af tjenester  |  213,7  |  -10,9  |  -5,2  |  2,6  |  0,5  |  -1,9
+p.3: Forsyning i alt  |  1271  |  0,3  |  1,5  |  1,8  |  1,4  |  0,0
+p.3: Eksport af varer og tjenester  |  557,3  |  3,6  |  3,2  |  4,1  |  3,6  |  -0,5
+p.3: Eksport af varer  |  330,2  |  4,1  |  6,8  |  5,4  |  4,0  |  -1,1
+p.3: Eksport af tjenester  |  227  |  3,1  |  -1,6  |  2,4  |  3,1  |  0,5
+p.3: Privatforbrug  |  353,3  |  1,9  |  2,0  |  0,1  |  0,6  |  0,2
+p.3: Husholdningernes forbrugsudgifter  |  342  |  1,9  |  2,0  |  0,1  |  0,6  |  0,2
+p.3: Køb af køretøjer  |  17,4  |  9,5  |  18,3  |  10,1  |  1,6  |  -4,6
+p.3: Andre varer  |  135,7  |  1,8  |  0,1  |  -0,9  |  0,7  |  1,1
+p.3: Tjenester i alt inkl. turisme  |  188,9  |  1,3  |  2,1  |  0,0  |  0,4  |  0,0
+p.3: Tjenester i alt  |  193,2  |  1,6  |  2,2  |  0,7  |  0,7  |  -0,1
+p.3: Turistindtægter (-)  |  -16,8  |  2,5  |  3,1  |  9,1  |  2,4  |  -2,3
+p.3: Turistudgifter (+)  |  12,6  |  -0,1  |  1,4  |  2,5  |  0,5  |  -1,6
+p.3: NPISH forbrugsudgifter2  |  11,3  |  1,3  |  1,7  |  0,4  |  0,3  |  0,0
+p.3: Offentlige forbrugsudgifter  |  193,3  |  5,3  |  0,7  |  0,4  |  1,2  |  5,6
+p.3: Faste bruttoinvesteringer  |  180,8  |  -11,5  |  -3,7  |  -0,2  |  1,2  |  -2,7
+p.3: Boliger  |  36,1  |  1,8  |  0,7  |  -1,5  |  2,0  |  -3,1
+p.3: Andet byggeri og anlæg  |  50,4  |  3,2  |  -0,1  |  2,2  |  1,8  |  0,4
+p.3: Maskiner, transportmidler mv.  |  42,5  |  -6,7  |  -3,9  |  2,0  |  -3,1  |  5,1
+p.3: Intellektuelle rettigheder  |  51,8  |  -31,9  |  -9,4  |  -3,1  |  3,7  |  -11,4
+p.3: Lagerforøgelser mv.3  |  -13,6  |  -1,8  |  0,0  |  -0,7  |  -1,1  |  -0,7
+p.3: Endelig indenlandsk anvendelse  |  713,8  |  -1,9  |  0,2  |  -0,7  |  -0,4  |  0,0
+p.3: Endelig anvendelse i alt4  |  1271  |  0,5  |  1,5  |  1,4  |  1,4  |  -0,2
+p.3: BNP på 0,7, 1,1 og 0,7 procentpoint i hhv. anden, tredje og fjerde kvartal, og omvendt
+p.4: daterede kilder. Dette har medført, at BNP-væksten er revideret op med hhv. 0,2,
+p.4: oner i de ikke-sæsonkorrigerede tal før 2025. De nye tal for 2025 kan dog give ny
+p.4: af nationalregnskabet for hele året 2025. Den endelige opgørelse af 2025 vil foreligge
+p.5: Næste offentliggørelse: Nationalregnskab, 4. kvt. 2025 revideret udkommer 31. marts 2026.
+
+# --- full text of p.1 (table layout, for column headers and notes) ---
+p.1|                                                                                                                                                    Nationalregnskab
+p.1|                                                                                                                                                          4. kvt. 2025
+p.1|                                                                                                                                                                           Økonomi
+p.1|    20. februar 2026          Nr. 38
+p.1|                                        BNP                                                                       Beskæftigelse
+p.1|                                        Sæsonkorrigeret                                                           Sæsonkorrigeret
+p.1|                                        +0,2 %                                                                    +0,3 %
+p.1|                                        3. kvt. 2025 - 4. kvt. 2025                                               3. kvt. 2025 - 4. kvt. 2025
+p.1|                                        www.statistikbanken.dk/nkn1                                               www.statistikbanken.dk/nkn1
+p.1|                                       BNP-vækst på 2,9 pct. i 2025
+p.1|                                       Bruttonationalproduktet (BNP) steg med 2,9 pct. for året 2025. I fjerde kvartal vok-
+p.1|                                       sede BNP med 0,2 pct., når der korrigeres for prisudvikling og sæsonbevægelser.
+p.1|                                       Dette viser den første beregning af nationalregnskabet for fjerde kvartal 2025. Når
+p.1|                                       der ses bort fra medicinalindustrien, har der derimod været en fremgang i dansk
+p.1|                                       økonomi på 1,2 pct. i både tredje og fjerde kvartal målt ved bruttoværditilvækst
+p.1|                                       (BVT). Det offentlige forbrug gik markant frem i fjerde kvartal med en vækst på 5,6
+p.1|                                       pct. Stigningen skyldes primært en kraftig vækst i det offentliges køb af varer og tje-
+p.1|                                       nesteydelser, især inden for forsvaret. Denne første og foreløbige opgørelse af natio-
+p.1|                                       nalregnskabet for fjerde kvartal 2025 er behæftet med større usikkerhed end nor-
+p.1|                                       malt, hvilket i høj grad skyldes, at den kraftige vækst i det offentlige forbrug er svær
+p.1|                                       at balancere med data for den øvrige økonomi. Den øgede usikkerhed vedrører dog
+p.1|                                       ikke selve væksten i det offentlige forbrug, som er baseret på foreløbige regnskabs-
+p.1|                                       oplysninger. Læs mere om usikkerhed ved denne opgørelse af nationalregnskabet og
+p.1|                                       revisioner siden seneste offentliggørelse under Særlige forhold.
+p.1|                                       Dansk økonomi med og uden medicinalindustri, kædede værdier, sæsonkorrigeret
+p.1|                                                   Indeks 2019=100                                    BNP                BVT i alt               BVT ekskl. medicinalindustri
+p.1|                                           120
+p.1|                                           115
+p.1|                                           110
+p.1|                                           105
+p.1|                                           100
+p.1|                                            95
+p.1|                                            90
+p.1|                                                 1. kvt. 3. kvt. 1. kvt. 3. kvt. 1. kvt. 3. kvt. 1. kvt. 3. kvt. 1. kvt. 3. kvt. 1. kvt. 3. kvt. 1. kvt. 3. kvt. 1. kvt. 3. kvt.
+p.1|                                                 2018 2018 2019 2019 2020 2020 2021 2021 2022 2022 2023 2023 2024 2024 2025 2025
+p.1|                                       Anm: BVT (bruttoværditilvækst) er lig BNP ekskl. produktskatter, netto.
+p.1|                                       *foreløbige tal.
+p.1|                                       Kilde: Danmarks Statistik (Særberegning af BVT ekskl. medicinalindustri er behæftet med øget usikkerhed)
+p.1|                                       Medicinalindustrien har fortsat stor betydning for økonomien
+p.1|                                       Medicinalindustrien har fortsat stor betydning for dansk økonomi, hvilket også ses i
+p.1|                                       udviklingen i 2025. I 2025 voksede den samlede danske økonomi målt ved BVT med
+p.1| Nyt fra Danmarks Statistik
+p.1| udkommer dagligt kl. 8.00             3,2 pct. i forhold til året før. Uden medicinalindustriens bidrag ville BVT være steget
+p.1|                                       med 1,7 pct., mens medicinalindustrien bidrog med 1,4 procentpoint til BVT-væk-
+p.1| Link til denne udgivelse:             sten.
+p.1| www.dst.dk/nyt/52201
+p.1| © Danmarks Statistik 2026             I de seneste kvartaler har udsving i medicinalindustrien samtidig haft stor betydning
+p.1| ISSN 1601 1015
+p.1|                                       for udviklingen i den samlede vækst. I fjerde kvartal 2025 steg BVT i alt 0,1 pct.,
+p.1|                                       mens BVT ekskl. medicinalindustrien steg 1,2 pct. Medicinalindustriens bidrag til
+
+# --- full text of p.3 (table layout, for column headers and notes) ---
+p.3| Danmarks nationalregnskab
+p.3|                                                                                      2025
+p.3|                                                   4. kvt. 4. kvt.    1.-4. kvt.     2. kvt.      3. kvt.                4. kvt.
+p.3|                                                 Løbende                    Sæsonkorrigeret realvækst
+p.3|                                                    priser
+p.3|                                                               Årlig vækst1               Kvartalsvis vækst
+p.3|                                                    mia. kr.                                   pct.
+p.3| Bruttonationalprodukt (BNP)                         808,6       3,0            2,9            1,3           2,3            0,2
+p.3| Import af varer og tjenester                        462,4      -4,0           -0,6            2,7          -0,1           -0,4
+p.3|   Import af varer                                   248,7       2,4            3,4            2,7          -0,7            0,8
+p.3|   Import af tjenester                               213,7     -10,9           -5,2            2,6           0,5           -1,9
+p.3| Forsyning i alt                                     1271        0,3            1,5            1,8           1,4            0,0
+p.3| Eksport af varer og tjenester                       557,3       3,6            3,2            4,1           3,6           -0,5
+p.3|  Eksport af varer                                   330,2       4,1            6,8            5,4           4,0           -1,1
+p.3|  Eksport af tjenester                                227        3,1           -1,6            2,4           3,1            0,5
+p.3| Privatforbrug                                       353,3       1,9           2,0            0,1            0,6            0,2
+p.3|  Husholdningernes forbrugsudgifter                   342        1,9           2,0            0,1            0,6            0,2
+p.3|     Køb af køretøjer                                 17,4       9,5          18,3           10,1            1,6           -4,6
+p.3|     Andre varer                                     135,7       1,8           0,1           -0,9            0,7            1,1
+p.3|     Tjenester i alt inkl. turisme                   188,9       1,3           2,1            0,0            0,4            0,0
+p.3|       Tjenester i alt                               193,2       1,6           2,2            0,7            0,7           -0,1
+p.3|       Turistindtægter (-)                           -16,8       2,5           3,1            9,1            2,4           -2,3
+p.3|       Turistudgifter (+)                             12,6      -0,1           1,4            2,5            0,5           -1,6
+p.3|  NPISH forbrugsudgifter2                             11,3       1,3           1,7            0,4            0,3            0,0
+p.3| Offentlige forbrugsudgifter                         193,3       5,3            0,7            0,4           1,2            5,6
+p.3| Faste bruttoinvesteringer                           180,8     -11,5           -3,7           -0,2           1,2           -2,7
+p.3|  Boliger                                             36,1       1,8            0,7           -1,5           2,0           -3,1
+p.3|  Andet byggeri og anlæg                              50,4       3,2           -0,1            2,2           1,8            0,4
+p.3|  Maskiner, transportmidler mv.                       42,5      -6,7           -3,9            2,0          -3,1            5,1
+p.3|  Intellektuelle rettigheder                          51,8     -31,9           -9,4           -3,1           3,7          -11,4
+p.3| Lagerforøgelser mv.3                                -13,6      -1,8            0,0           -0,7          -1,1           -0,7
+p.3| Endelig indenlandsk anvendelse                      713,8      -1,9            0,2           -0,7          -0,4            0,0
+p.3| Endelig anvendelse i alt4                           1271        0,5            1,5            1,4           1,4           -0,2
+p.3| Samlede præsterede timer i alt (mio.)             1138,4        1,0            1,0            0,2           0,3            0,1
+p.3| Beskæftigelse5 i alt (1.000 personer)               3277        1,2            1,2            0,2           0,3            0,3
+p.3| Anm.: Sæsonkorrigeret realvækst i endelig anvendelse i alt kan afvige fra forsyning i alt pga. indirekte sæsonkorrektion, hvor
+p.3| komponenterne under hhv. anvendelse og forsyning sæsonkorrigeres og ligges sammen til disse størrelser.
+p.3| 1 Vækst i forhold til tilsvarende periode året før.
+p.3| 2 Nonprofit-institutioner rettet mod husholdninger.
+p.3| 3 Bidrag ift. BNP (kan ikke fortolkes som effekt på BNP-væksten).
+p.3| 4 Beskæftigelse i nationalregnskabet inkluderer personer, som er midlertidigt fraværende fra arbejde pga. fx orlov, strejke mv.
+p.3| Kilde: www.statistikbanken.dk/nkn1
+p.3| Markante udsving i lagre skal fortolkes med påpasselighed
+p.3| Der har været store udsving i lagerændringerne i 2025. Udsvingene betyder, at de
+p.3| mekanisk beregnede vækstbidrag giver et negativt vækstbidrag fra lagerforøgelser til
+p.3| BNP på 0,7, 1,1 og 0,7 procentpoint i hhv. anden, tredje og fjerde kvartal, og omvendt
+p.3| et positivt vækstbidrag på 1,7 procentpoint i første kvartal. Disse vækstbidrag skal
+p.3| dog fortolkes med stor påpasselighed, bl.a. fordi sæsonkorrektion af lagrene er be-
+p.3| hæftet med betydelig usikkerhed. Vækstbidragene kan derudover ikke bruges til at
+p.3| udregne alternative skøn for BNP-væksten ekskl. lageropbygning ved at fratrække
+p.3| disse vækstbidrag fra BNP-væksten. Dette skyldes bl.a., at forskellige typer af lagre
+p.3| har en forskellig importandel. Når der f.eks. importeres råvarer, der lægges på lager
+p.3| til senere forarbejdning i industrien, påvirker det ikke den danske BNP-vækst. Til-
+p.3| svarende for handelsvarer, hvor placering af importerede varer på et engroshandel-
+p.3| slager til senere salg heller ikke påvirker dansk BNP-vækst. Til opgørelse af lagerop-
+p.3| bygningen i nationalregnskabet benyttes oplysninger om lagre fra Industriens pro-
+p.3| duktion og omsætning samt Engroshandlens lagre.

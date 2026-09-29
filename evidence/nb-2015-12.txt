@@ -1,7 +1,7 @@
 # nb-2015-12
 # url: https://www.nationalbanken.dk/media/rmimcval/monetary-review-4th-quarter-2015.pdf
 # http: 200  bytes: 1894543  sha256: e70456a5aa0cbbb535a73f3af5019df1c96a99fe41ee4c844b4e759150d211e4
-# fetched: 2026-09-29T18:35:12Z
+# fetched: 2026-09-29T18:48:49Z
 # pages: 79  (lines below are quotes; p.N = PDF page)
 
 p.7: fiscal policy is no longer dampening activity in the  |  growth in real GDP is forecast at 1.4 per cent this

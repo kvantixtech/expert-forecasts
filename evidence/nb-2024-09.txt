@@ -1,7 +1,7 @@
 # nb-2024-09
 # url: https://www.nationalbanken.dk/media/4uudvvk5/the-outlook-is-for-a-stable-price-development-in-the-danish-economy.pdf
 # http: 200  bytes: 1323945  sha256: 771a48300b38b87d6014bf3cb299ded3a718210f01caacea4af266daa3780675
-# fetched: 2026-09-29T18:33:00Z
+# fetched: 2026-09-29T18:46:44Z
 # pages: 60  (lines below are quotes; p.N = PDF page)
 
 p.5: TABLE 1

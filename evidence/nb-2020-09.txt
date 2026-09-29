@@ -1,7 +1,7 @@
 # nb-2020-09
 # url: https://www.nationalbanken.dk/media/fhdaeaep/analyse-nr-18-udsigt-til-moderat-lavkonjunktur-det-naeste-aars-tid.pdf
 # http: 200  bytes: 508270  sha256: 8b5ddcd92401642a844a3382ef1229bdb8ecf70a935e0015cdefe55423046926
-# fetched: 2026-09-29T18:35:21Z
+# fetched: 2026-09-29T18:48:57Z
 # pages: 30  (lines below are quotes; p.N = PDF page)
 
 p.2: På boligmarkedet er omsæt­  |  BNP ventes at falde med 3,6 pct.  |  Risikobilledet er især præget af

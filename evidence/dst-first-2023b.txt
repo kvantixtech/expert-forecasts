@@ -1,0 +1,155 @@
+# dst-first-2023b
+# url: https://www.dst.dk/Site/Dst/Udgivelser/nyt/GetPdf.aspx?cid=46521
+# http: 200  bytes: 537879  sha256: b7477cd68be79878c0939058ec85c86f8672da731be3f64938d7ae68aecaa1de
+# fetched: 2026-09-29T18:49:42Z
+# pages: 6  (lines below are quotes; p.N = PDF page)
+
+p.1: 3. kvt. 2023 - 4. kvt. 2023  |  3. kvt. 2023 - 4. kvt. 2023
+p.1: Høj vækst i BNP på 2,6 pct. i fjerde kvartal
+p.1: Bruttonationalproduktet (BNP) voksede med 2,6 pct. i fjerde kvartal 2023, når der
+p.1: marginalt med 0,1 pct. BNP-væksten i fjerde kvartal er revideret op med 0,6 procent-
+p.1: skelligartede prisudsving i 2022 og 2023 på en række centrale produkter, i særlig
+p.1: 2018  |  2019  |  2020*  |  2021*  |  2022*  |  2023*
+p.1: Anm: Usikkerheden på BNP-væksten kan generelt vurderes til ± 0,5 procentpoint baseret på hidtidige erfaringer.
+p.2: 2018  |  2019  |  2020  |  2021*  |  2022*  |  2023*  |  2018  |  2019  |  2000  |  2021*  |  2022*  |  2023*
+p.2: og maskiner, som faldt med hhv. 10,2 pct., 7,3 pct. og 10,2, pct., hvorimod der har
+p.2: 2024 ligge 1,9 pct. over BNP for 2023. Dette scenarie er illustreret ved den orange
+p.2: ind i 2022 på 2,8 pct. skabte en årsvækst på 2,7 pct. i 2022, selvom BNP i fjerde
+p.2: kvartal 2022 kun lå 0,5 pct. over BNP i fjerde kvartal 2021. Figuren illustrerer med
+p.2: fjerde kvartal 2023 til fjerde kvartal 2024 vil tilvejebringe en årlig vækst på 3,2 pct.
+p.3: 2021  |  2022  |  2023  |  2024
+p.4: Bruttonationalprodukt (BNP)  |  721,8  |  3,5  |  1,9  |  -0,8  |  0,4  |  2,6
+p.4: Import af varer og tjenester  |  437,6  |  14,4  |  8,6  |  5,0  |  7,1  |  2,5
+p.4: Import af varer  |  245,7  |  13,1  |  2,7  |  6,1  |  7,5  |  1,1
+p.4: Import af tjenester  |  191,9  |  16,5  |  17,1  |  3,6  |  6,6  |  4,3
+p.4: Forsyning i alt  |  1.159,3  |  7,6  |  4,4  |  1,3  |  2,9  |  2,6
+p.4: Eksport af varer og tjenester  |  504,8  |  23,0  |  13,4  |  4,0  |  5,4  |  7,5
+p.4: Eksport af varer  |  302,3  |  14,5  |  10,4  |  3,1  |  3,1  |  6,1
+p.4: Eksport af tjenester  |  202,6  |  33,7  |  16,9  |  5,0  |  7,9  |  8,9
+p.4: Privatforbrug  |  337,4  |  3,5  |  1,0  |  0,9  |  0,1  |  2,0
+p.4: Husholdningernes forbrugsudgifter  |  327,3  |  3,5  |  1,0  |  0,9  |  0,0  |  2,0
+p.4: Køb af køretøjer  |  16,6  |  34,8  |  27,3  |  4,2  |  -2,7  |  20,7
+p.4: Andre varer  |  139,4  |  1,6  |  -3,0  |  0,1  |  0,0  |  2,3
+p.4: Tjenester i alt inkl. turisme  |  171,2  |  2,8  |  2,5  |  1,3  |  0,3  |  0,3
+p.4: Tjenester i alt  |  175,2  |  2,0  |  1,8  |  0,5  |  0,0  |  0,4
+p.4: Turistindtægter (-)  |  -14,8  |  0,9  |  7,5  |  -2,6  |  -4,4  |  1,2
+p.4: Turistudgifter (+)  |  10,9  |  11,2  |  21,2  |  6,7  |  -1,4  |  0,3
+p.4: NPISH forbrugsudgifter2  |  10,1  |  2,7  |  2,7  |  -0,1  |  1,5  |  0,6
+p.4: Offentlige forbrugsudgifter  |  164,8  |  0,9  |  0,0  |  0,3  |  -0,4  |  0,0
+p.4: Faste bruttoinvesteringer  |  157,3  |  -16,6  |  -5,0  |  1,2  |  3,1  |  -6,8
+p.4: Boliger  |  37,6  |  -5,3  |  -10,2  |  -3,1  |  -0,5  |  1,0
+p.4: Andet byggeri og anlæg  |  42,7  |  -2,8  |  3,0  |  -2,4  |  -0,5  |  -0,8
+p.4: Maskiner, transportmidler mv.  |  33,3  |  -16,2  |  -4,9  |  11,5  |  -3,5  |  -13,0
+p.4: Intellektuelle rettigheder  |  43,7  |  -31,9  |  -7,3  |  -0,1  |  15,8  |  -12,6
+p.4: Lagerforøgelser mv.3  |  -5,0  |  -1,7  |  -1,8  |  -0,2  |  -0,9  |  -0,4
+p.4: Endelig indenlandsk anvendelse  |  654,5  |  -4,3  |  -2,8  |  0,6  |  -0,3  |  -1,1
+p.4: Endelig anvendelse i alt4  |  1.159,3  |  7,7  |  4,4  |  2,2  |  2,3  |  3,0
+p.5: forbrug i produktion og bruttoværditilvækst for årene 2021 til 2023. Disse tal for
+p.5: Næste offentliggørelse: Nationalregnskab, 1. kvt 2024 udkommer 21. maj 2024.
+
+# --- full text of p.1 (table layout, for column headers and notes) ---
+p.1|                                                                                                                                    Nationalregnskab
+p.1|                                                                                                                                          4. kvt. 2023
+p.1|                                                                                                                                                    Økonomi
+p.1|   27. marts 2024             Nr. 90
+p.1|                                        BNP                                                           Beskæftigelse
+p.1|                                        Sæsonkorrigeret                                               Sæsonkorrigeret
+p.1|                                        2,6 %                                                         0,0 %
+p.1|                                        3. kvt. 2023 - 4. kvt. 2023                                   3. kvt. 2023 - 4. kvt. 2023
+p.1|                                        www.statistikbanken.dk/nkn1                                   www.statistikbanken.dk/nkn1
+p.1|                                       Høj vækst i BNP på 2,6 pct. i fjerde kvartal
+p.1|                                       Bruttonationalproduktet (BNP) voksede med 2,6 pct. i fjerde kvartal 2023, når der
+p.1|                                       korrigeres for prisudvikling og sæsonbevægelser. Industri, handel og transport mv.
+p.1|                                       samt forsyningsvirksomhed bidrager betydeligt til væksten i BNP i fjerde kvartal. Be-
+p.1|                                       skæftigelsen er uændret i fjerde kvartal, samtidig med at de præsterede timer steg
+p.1|                                       marginalt med 0,1 pct. BNP-væksten i fjerde kvartal er revideret op med 0,6 procent-
+p.1|                                       point fra seneste beregning. Det skal bemærkes, at sæsonkorrektionen har bidraget
+p.1|                                       med en stor del af revisionen. Årsvæksten for 2023 er således stort set uændret, idet
+p.1|                                       den er revideret 0,1 procentpoint op til 1,9 pct. Denne nationalregnskabsopgørelse
+p.1|                                       er behæftet med større usikkerhed end normalt på grund af de store og samtidig for-
+p.1|                                       skelligartede prisudsving i 2022 og 2023 på en række centrale produkter, i særlig
+p.1|                                       grad energi og søtransport. Det er derfor vanskeligere end vanligt at opstille et robust
+p.1|                                       helhedsbillede af økonomien. Læs mere om usikkerhed og revisioner i afsnittet Sær-
+p.1|                                       lige forhold ved denne offentliggørelse.
+p.1|                                       Nationalregnskabets hovedstørrelser, kædede værdier, sæsonkorrigeret
+p.1|                                               Indeks, 1. kvt. 2018 = 100
+p.1|                                        115
+p.1|                                                                                                                                                 BNP
+p.1|                                        110                                                                                                      Beskæftigelse
+p.1|                                                                                                                                                 Præsterede
+p.1|                                        105                                                                                                      timer
+p.1|                                        100
+p.1|                                         95
+p.1|                                         90
+p.1|                                                    2018              2019      2020*           2021*          2022*           2023*
+p.1|                                       Anm: Usikkerheden på BNP-væksten kan generelt vurderes til ± 0,5 procentpoint baseret på hidtidige erfaringer.
+p.1|                                       Kilde: www.statistikbanken.dk/nkn1
+p.1|                                       Udenrigshandlen og særligt eksporten voksede i 4. kvartal
+p.1|                                       I fjerde kvartal steg den samlede import med 2,5 pct., mens den samlede eksport steg
+p.1|                                       med 7,5 pct. Importen af varer er steget med 1,1 pct. i fjerde kvartal mens importen
+p.1|                                       af tjenester er steget med 4,3 pct. Stigningen i importen af tjenester i fjerde kvartal
+p.1|                                       kommer på bagkant af importen af et stort patent i tredje kvartal på 6,6 milliarder.
+p.1| Nyt fra Danmarks Statistik            Udelader man importen af patentet stiger tjenesteimporten med næsten 9 pct. i kvar-
+p.1| udkommer dagligt kl. 8.00             talet. Eksporten af varer er steget med 6,1 pct., mens det for tjenester er steget med
+p.1| Link til denne udgivelse:             8,9 pct. Importen er dermed steget de seneste 3 kvartaler og med 8,6 pct. for hele
+p.1| www.dst.dk/nyt/46521                  2023, mens eksporten er steget igennem alle årets fire kvartaler og når op på en årlig
+p.1| © Danmarks Statistik 2024             vækst på 13,4 pct.
+p.1| ISSN 1601 1015
+
+# --- full text of p.4 (table layout, for column headers and notes) ---
+p.4| Danmarks nationalregnskab
+p.4|                                                                                       2023
+p.4|                                                         4. kvt. 4. kvt.    1.-4. kvt.     2. kvt.      3. kvt.           4. kvt.
+p.4|                                                       Løbende                    Sæsonkorrigeret realvækst
+p.4|                                                          priser
+p.4|                                                                     Årlig vækst1               Kvartalsvis vækst
+p.4|                                                         mia. kr.                                pct.
+p.4| Bruttonationalprodukt (BNP)                              721,8      3,5         1,9           -0,8            0,4            2,6
+p.4| Import af varer og tjenester                             437,6     14,4         8,6            5,0            7,1            2,5
+p.4|   Import af varer                                        245,7     13,1         2,7            6,1            7,5            1,1
+p.4|   Import af tjenester                                    191,9     16,5        17,1            3,6            6,6            4,3
+p.4| Forsyning i alt                                        1.159,3      7,6         4,4            1,3            2,9            2,6
+p.4| Eksport af varer og tjenester                            504,8     23,0        13,4            4,0            5,4            7,5
+p.4|  Eksport af varer                                        302,3     14,5        10,4            3,1            3,1            6,1
+p.4|  Eksport af tjenester                                    202,6     33,7        16,9            5,0            7,9            8,9
+p.4| Privatforbrug                                            337,4      3,5         1,0            0,9            0,1           2,0
+p.4|  Husholdningernes forbrugsudgifter                       327,3      3,5         1,0            0,9            0,0           2,0
+p.4|     Køb af køretøjer                                      16,6     34,8        27,3            4,2           -2,7          20,7
+p.4|     Andre varer                                          139,4      1,6        -3,0            0,1            0,0           2,3
+p.4|     Tjenester i alt inkl. turisme                        171,2      2,8         2,5            1,3            0,3           0,3
+p.4|       Tjenester i alt                                    175,2      2,0         1,8            0,5            0,0           0,4
+p.4|       Turistindtægter (-)                                -14,8      0,9         7,5           -2,6           -4,4           1,2
+p.4|       Turistudgifter (+)                                  10,9     11,2        21,2            6,7           -1,4           0,3
+p.4|  NPISH forbrugsudgifter2                                  10,1      2,7         2,7           -0,1            1,5           0,6
+p.4| Offentlige forbrugsudgifter                              164,8       0,9        0,0            0,3          -0,4            0,0
+p.4| Faste bruttoinvesteringer                                157,3     -16,6       -5,0            1,2           3,1           -6,8
+p.4|  Boliger                                                  37,6      -5,3      -10,2           -3,1          -0,5            1,0
+p.4|  Andet byggeri og anlæg                                   42,7      -2,8        3,0           -2,4          -0,5           -0,8
+p.4|  Maskiner, transportmidler mv.                            33,3     -16,2       -4,9           11,5          -3,5          -13,0
+p.4|  Intellektuelle rettigheder                               43,7     -31,9       -7,3           -0,1          15,8          -12,6
+p.4| Lagerforøgelser mv.3                                      -5,0      -1,7       -1,8           -0,2          -0,9           -0,4
+p.4| Endelig indenlandsk anvendelse                           654,5      -4,3       -2,8            0,6           -0,3           -1,1
+p.4| Endelig anvendelse i alt4                              1.159,3      7,7         4,4            2,2            2,3            3,0
+p.4| Samlede præsterede timer i alt (mio.)                  1.131,9      0,5         0,5            1,4            0,0            0,1
+p.4| Beskæftigelse5 i alt (1.000 personer)                  3.227,2      0,9         1,5            0,1            0,1            0,0
+p.4| 1 Vækst i forhold til tilsvarende periode året før.
+p.4| 2 Nonprofit-institutioner rettet mod husholdninger.
+p.4| 3 Bidrag til BNP-væksten.
+p.4| 4 Sæsonkorrigeret realvækst i endelig anvendelse i alt kan afvige fra forsyning i alt pga. indirekte sæsonkorrektion – se mere
+p.4|   om metode og resultater i notatet Det sæsonkorrigerede BNP.
+p.4| 5 Beskæftigelse i nationalregnskabet inkluderer personer, som er midlertidigt fraværende fra arbejde pga. fx orlov, strejke mv.
+p.4| Kilde: www.statistikbanken.dk/nkn1
+p.4| Særlige forhold ved denne offentliggørelse
+p.4| Revideret offentliggørelse af nationalregnskabet for fjerde kvartal 2023
+p.4| Dette er den anden offentliggørelse af nationalregnskabet for fjerde kvartal 2023. I
+p.4| forhold til den seneste offentliggørelse, Nationalregnskab 4. kvt. 2023, er væksten
+p.4| revideret op med 0,6 procentpoint i fjerde kvartal. Bidragene til opjusteringen for-
+p.4| deler sig således at 0,4 procentpoint, af opjusteringen skyldes sæsonkorrektion,
+p.4| mens 0,2 procentpoint skyldes genberegning med nye kilder. De nye kilder tæller
+p.4| især nye oplysninger for 2023 vedrørende industriens salg af varer, firmaernes køb
+p.4| og salg samt betalingsbalance og udenrigshandel, samt at nye tal for finansielle bran-
+p.4| cher. Der er ikke foretaget revisioner i de ikke-sæsonkorrigerede tal fra før 2023. De
+p.4| nye tal for 2023 kan dog give ny information til vurderingen af sæsonmønstret og
+p.4| fører til revisioner i de sæsonkorrigerede tal, som revideres tilbage til 2020. Læs
+p.4| mere om revisioner i BNP-væksten i notatet Revisioner af det kvartalsvise national-
+p.4| regnskab (pdf).

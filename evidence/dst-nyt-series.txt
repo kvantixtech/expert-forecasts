@@ -1,0 +1,40 @@
+# dst-nyt-series
+# url: https://www.dst.dk/da/Statistik/udgivelser/nyt?series=2742
+# http: 200  bytes: 46617  sha256: a7581a11d8078d7a38f526556372e5558510d16bbe6dc83b636990a413d0e5ab
+# fetched: 2026-09-29T18:50:04Z
+# html page
+
+Bruttonationalproduktet (BNP) steg med 0,3 pct. i andet kvartal 2026, når der korrigeres for prisudvikling og sæsonbevægelser. Væksten i andet kvartal var funderet over f ...
+Fremgang i BNP på 1,5 pct. i første kvartal
+Bruttonationalproduktet (BNP) steg med 1,5 pct. i første kvartal 2026, når der korrigeres for prisudvikling og sæsonbevægelser.
+Stor fremgang i BNP på 1,9 pct. i første kvartal
+Bruttonationalproduktet (BNP) steg med 1,9 pct. i første kvartal 2026, når der korrigeres for prisudvikling og sæsonbevægelser. Stigningen i første kvartal skyldes en sto ...
+BNP-vækst på 2,9 pct. i 2025
+Bruttonationalproduktet (BNP) steg med 0,2 pct. i fjerde kvartal 2025, når der korrigeres for prisudvikling og sæsonbevægelser.
+BNP-vækst på 2,9 pct. i 2025
+Bruttonationalproduktet (BNP) steg med 2,9 pct. for året 2025. I fjerde kvartal voksede BNP med 0,2 pct., når der korrigeres for prisudvikling og sæsonbevægelser. Dette v ...
+Danmarks bruttonationalprodukt (BNP) steg med 2,2 pct. i tredje kvartal 2025, når der korrigeres for prisudvikling og sæsonbevægelser.
+Danmarks bruttonationalprodukt (BNP) steg med 2,3 pct. i tredje kvartal 2025, når der korrigeres for prisudvikling og sæsonbevægelser.
+Bruttonationalproduktet (BNP) steg med 1,0 pct. i andet kvartal 2025, når der korrigeres for prisudvikling og sæsonbevægelser.
+Bruttonationalproduktet (BNP) steg med 1,3 pct. i andet kvartal 2025, når der korrigeres for prisudvikling og sæsonbevægelser. Stigningen i andet kvartal er især drevet a ...
+Bruttonationalproduktet (BNP) faldt med 1,3 pct. i første kvartal 2025, når der korrigeres for prisudvikling og sæsonbevægelser. Derved er væksten revideret ned med 0,8 p ...
+Tilbagegang i BNP på 0,5 pct. i første kvartal
+Bruttonationalproduktet (BNP) faldt med 0,5 pct. i første kvartal 2025, når der korrigeres for prisudvikling og sæsonbevægelser. Faldet i første kvartal skyldes især tilb ...
+Høj vækst i BNP på 1,8 pct. i fjerde kvartal
+Bruttonationalproduktet (BNP) voksede med 1,8 pct. i fjerde kvartal 2024, når der korrigeres for prisudvikling og sæsonbevægelser. BNP-væksten er dermed revideret op med ...
+Bruttonationalproduktet (BNP) steg med 3,6 pct. for året 2024. I fjerde kvartal voksede BNP med 1,6 pct., når der korrigeres for prisudvikling og sæsonbevægelser.
+Bruttonationalproduktet (BNP) steg med 0,9 pct. i tredje kvartal 2024, når der korrigeres for prisudvikling og sæsonbevægelser. Kvartalsvæksten er hermed revideret ned me ...
+Bruttonationalproduktet (BNP) steg med 1,2 pct. i tredje kvartal 2024, når der korrigeres for prisudvikling og sæsonbevægelser. Væksten i dansk økonomi var primært drevet ...
+BNP vokser 1,1 pct. i andet kvartal 2024
+Bruttonationalproduktet (BNP) voksede med 1,1 pct. i andet kvartal 2024, når der korrigeres for prisudvikling og sæsonbevægelser.
+BNP-fremgang på 0,6 pct. i andet kvartal 2024
+Bruttonationalproduktet (BNP) steg med 0,6 pct. i andet kvartal 2024, når der korrigeres for prisudvikling og sæsonbevægelser. Kvartalsvæksten i BNP var drevet af fremgan ...
+BNP-nedgang på 1,4 pct. i første kvartal 2024
+Bruttonationalproduktet (BNP) faldt med 1,4 pct. i første kvartal 2024, når der korrigeres for prisudvikling og sæsonbevægelser.
+Tilbagegang i BNP på 1,8 pct. i første kvartal
+Bruttonationalproduktet (BNP) faldt med 1,8 pct. i første kvartal 2024, når der korrigeres for prisudvikling og sæsonbevægelser. Faldet i første kvartal skyldes helt over ...
+Høj vækst i BNP på 2,6 pct. i fjerde kvartal
+Bruttonationalproduktet (BNP) voksede med 2,6 pct. i fjerde kvartal 2023, når der korrigeres for prisudvikling og sæsonbevægelser.
+
+# PDF and publication links on this page:
+https://www.dst.dk/da/Statistik/temaer/overblik-dansk-oekonomi

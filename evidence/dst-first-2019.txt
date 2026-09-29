@@ -1,0 +1,149 @@
+# dst-first-2019
+# url: https://www.dst.dk/Site/Dst/Udgivelser/nyt/GetPdf.aspx?cid=29946
+# http: 200  bytes: 429945  sha256: 96c89ce7ad0aa862f3ebc66c67da7a74d5a599aa76c2068f7e8605508fef2d32
+# fetched: 2026-09-29T18:49:31Z
+# pages: 5  (lines below are quotes; p.N = PDF page)
+
+p.1: BNP-vækst på 0,2 pct. i fjerde kvartal 2019
+p.1: Bruttonationalproduktet (BNP) steg med 0,2 pct. i fjerde kvartal 2019, når der kor-
+p.1: oppe af fremgang i privatforbruget. Kvartalsvæksten i BNP ligger 0,1 procentpoint
+p.1: under BNP-indikatorens bud. Samlet bød 2019 på en årsvækst i BNP på 2,2 pct. og
+p.1: 2013  |  2014  |  2015  |  2016  |  2017  |  2018  |  2019
+p.1: Anm.: Usikkerheden på BNP-væksten kan generelt vurderes til ± 0,5 procentpoint, baseret på hidtidige erfaringer.
+p.1: Den danske BNP-vækst lå lidt over væksten i EU på 0,1 pct. i fjerde kvartal, mens
+p.1: væksten i USA var 0,5 pct. For hele året 2019 lå fremgangen i den danske BNP-
+p.1: fjerde kvartal, mens væksten var 0,6 pct. for hele året. Se mere om realvæksten i
+p.2: som blev offentliggjort sammen med BNP-indikatoren. Beskæftigelsen steg med 1,2
+p.2: Bruttonationalprodukt (BNP)  |  599,6  |  1,8  |  2,2  |  1,1  |  0,5  |  0,2
+p.2: Import af varer og tjenester  |  292,4  |  1,6  |  0,2  |  0,7  |  0,3  |  0,1
+p.2: Import af varer  |  171,8  |  0,3  |  0,7  |  -1,0  |  1,3  |  -1,6
+p.2: Import af tjenester  |  120,6  |  3,6  |  -0,6  |  3,6  |  -1,3  |  2,8
+p.2: Forsyning i alt  |  892,0  |  1,7  |  1,6  |  1,0  |  0,4  |  0,1
+p.2: Eksport af varer og tjenester  |  335,5  |  1,3  |  1,9  |  4,3  |  1,0  |  -0,5
+p.2: Eksport af varer  |  205,9  |  3,0  |  6,5  |  4,6  |  1,1  |  -0,8
+p.2: Eksport af tjenester  |  129,6  |  -1,2  |  -5,1  |  4,0  |  1,0  |  0,1
+p.2: Privatforbrug  |  281,0  |  2,9  |  1,9  |  0,6  |  0,4  |  1,3
+p.2: Husholdningernes forbrugsudgifter  |  273,0  |  3,0  |  1,9  |  0,6  |  0,4  |  1,3
+p.2: Køb af køretøjer  |  9,8  |  10,0  |  2,4  |  -15,2  |  9,2  |  1,6
+p.2: Andre varer  |  114,2  |  1,7  |  0,8  |  0,5  |  0,1  |  1,3
+p.2: Tjenester i alt inkl. turisme  |  149,0  |  3,6  |  2,7  |  1,9  |  0,1  |  1,3
+p.2: Tjenester i alt  |  151,5  |  3,6  |  2,6  |  1,2  |  0,2  |  1,6
+p.2: Turistindtægter (-)  |  -12,9  |  4,7  |  2,0  |  -0,8  |  -0,2  |  -2,0
+p.2: Turistudgifter (+)  |  10,3  |  5,0  |  3,2  |  9,3  |  -1,5  |  -1,1
+p.2: NPISH forbrugsudgifter2  |  8,0  |  0,2  |  0,9  |  0,0  |  -0,3  |  0,2
+p.2: Offentlige forbrugsudgifter  |  145,3  |  1,4  |  0,6  |  0,2  |  0,2  |  0,9
+p.2: Bruttoinvesteringer  |  130,2  |  0,6  |  1,2  |  -3,9  |  -1,8  |  -1,8
+p.2: Faste bruttoinvesteringer  |  136,4  |  6,2  |  2,9  |  -1,0  |  -0,1  |  0,5
+p.2: Boliger  |  31,7  |  3,3  |  8,0  |  2,4  |  -4,8  |  2,3
+p.2: Andet byggeri og anlæg  |  35,0  |  2,0  |  7,6  |  1,4  |  3,0  |  -5,0
+p.2: Maskiner, transportmidler mv.  |  35,3  |  12,9  |  -5,7  |  -6,5  |  0,9  |  4,4
+p.2: Intellektuelle rettigheder  |  34,4  |  6,5  |  3,6  |  -0,7  |  0,1  |  0,5
+p.2: Lagerforøgelser mv.3  |  -6,2  |  -1,4  |  -0,4  |  -0,7  |  -0,4  |  -0,5
+p.2: Lagerforøgelser3  |  -6,9  |  -1,4  |  -0,3  |  -0,7  |  -0,4  |  -0,5
+p.3: nationalregnskabet for året 2019. Den endelige opgørelse af 2019 vil foreligge juni
+p.3: omkostningerne korrigeret for løn- og prisudvikling, viser en realvækst på 0,0 pct. i
+p.4: Næste offentliggørelse: Kvartalsvist nationalregnskab 4. kvt 2019 revideret udkommer 31. marts 2020.
+
+# --- full text of p.1 (table layout, for column headers and notes) ---
+p.1|                                                                                                                                   Nationalregnskab
+p.1|                                                                                                                                         4. kvt. 2019
+p.1|                                                                                                              Nationalregnskab og offentlige finanser
+p.1| 28. februar 2020              Nr. 75
+p.1|                                        BNP-vækst på 0,2 pct. i fjerde kvartal 2019
+p.1|                                        Bruttonationalproduktet (BNP) steg med 0,2 pct. i fjerde kvartal 2019, når der kor-
+p.1|                                        rigeres for prisudvikling og sæsonudsving. Det viser den første beregning af det
+p.1|                                        kvartalsvise nationalregnskab for fjerde kvartal. Kvartalsvæksten holdtes særligt
+p.1|                                        oppe af fremgang i privatforbruget. Kvartalsvæksten i BNP ligger 0,1 procentpoint
+p.1|                                        under BNP-indikatorens bud. Samlet bød 2019 på en årsvækst i BNP på 2,2 pct. og
+p.1|                                        væksten var især trukket af en høj nettoeksport. Beskæftigelsen steg med 0,2 pct. i
+p.1|                                        fjerde kvartal og er dermed steget med 1,2 pct. i 2019.
+p.1|                                        BNP i Danmark, EU og USA, kædede værdier, sæsonkorrigeret
+p.1|                                               Indeks 1. kvt. 2013 = 100
+p.1|                                        120
+p.1|                                                                                                                                                           USA
+p.1|                                        115                                                                                                                DK
+p.1|                                                                                                                                                           EU
+p.1|                                        110
+p.1|                                        105
+p.1|                                        100
+p.1|                                         95
+p.1|                                                    2013             2014            2015             2016            2017             2018            2019
+p.1|                                        Anm.: Usikkerheden på BNP-væksten kan generelt vurderes til ± 0,5 procentpoint, baseret på hidtidige erfaringer.
+p.1|                                        Kilde: www.statistikbanken.dk/nkn1, Bureau of Economic Analysis og Eurostat, pr. 28. februar 2019.
+p.1|                                        Afdæmpet kvartalsvækst i EU
+p.1|                                        Den danske BNP-vækst lå lidt over væksten i EU på 0,1 pct. i fjerde kvartal, mens
+p.1|                                        væksten i USA var 0,5 pct. For hele året 2019 lå fremgangen i den danske BNP-
+p.1|                                        vækst lidt under væksten USA på 2,3 pct., mens den for EU's vedkommende var 1,4
+p.1|                                        pct.
+p.1|                                        Højt privatforbrug bidrager til fremgangen i fjerde kvartal
+p.1|                                        Med en vækst på 1,3 pct. i årets sidste kvartal bidrager privatforbruget særligt til
+p.1|                                        BNP-væksten. Her var der generel fremgang i forbruget af både varer og tjenester. I
+p.1|                                        2019 voksede privatforbruget med 1,9 pct. Det offentlige forbrug steg med 0,9 pct. i
+p.1|                                        fjerde kvartal, mens væksten var 0,6 pct. for hele året. Se mere om realvæksten i
+p.1|                                        det offentlige forbrug under Særlige forhold.
+p.1|                                        Fald i eksporten i fjerde kvartal
+p.1|                                        Den samlede eksport faldt med 0,5 pct. i fjerde kvartal. Der var et fald i vareek-
+p.1|                                        sporten på 0,8 pct. Eksporten af tjenester steg med 0,1 pct. Der var ligeledes en lille
+p.1| Nyt fra Danmarks Statistik             fremgang i importen på 0,1 pct. Importen af varer faldt med 1,6 pct., mens impor-
+p.1| udkommer dagligt kl. 8.00              ten af tjenester steg med 2,8 pct. Nettoeksporten var høj for hele året, idet den
+p.1| Link til denne udgivelse:              samlede eksport og import steg med hhv. 1,9 pct. og 0,2 pct.
+p.1| www.dst.dk/nyt/29946
+p.1|                                        Fremgang i investeringerne
+p.1| © Danmarks Statistik 2020
+p.1| ISSN 1601 1015                         De faste bruttoinvesteringer steg med 0,5 pct. i fjerde kvartal. Investeringsfrem-
+p.1|                                        gangen var drevet af vækst i investeringer i boligbyggeri og maskiner. Omvendt var
+p.1|          Følg os på Twitter
+
+# --- full text of p.2 (table layout, for column headers and notes) ---
+p.2| der nedgang at spore i anlægsinvesteringerne. I 2019 steg de faste bruttoinveste-
+p.2| ringer samlet med 2,9 pct.
+p.2| Stigning i beskæftigelse og fald i timer
+p.2| Beskæftigelsen steg med 0,2 pct., og i samme periode faldt de præsterede timer med
+p.2| 0,5 pct. Beskæftigelsen er dermed uændret i forhold til beskæftigelsesindikatoren,
+p.2| som blev offentliggjort sammen med BNP-indikatoren. Beskæftigelsen steg med 1,2
+p.2| pct. i 2019, og de præsterede timer steg med 1,1 pct.
+p.2| Danmarks nationalregnskab
+p.2|                                                                                       2019
+p.2|                                                         4. kvt. 4. kvt.    1.-4. kvt.     2. kvt.      3. kvt.           4. kvt.
+p.2|                                                       Løbende                    Sæsonkorrigeret realvækst
+p.2|                                                          priser
+p.2|                                                                     Årlig vækst1               Kvartalsvis vækst
+p.2|                                                         mia. kr.                                pct.
+p.2| Bruttonationalprodukt (BNP)                              599,6      1,8         2,2            1,1           0,5            0,2
+p.2| Import af varer og tjenester                             292,4      1,6         0,2            0,7            0,3           0,1
+p.2|   Import af varer                                        171,8      0,3         0,7           -1,0            1,3          -1,6
+p.2|   Import af tjenester                                    120,6      3,6        -0,6            3,6           -1,3           2,8
+p.2| Forsyning i alt                                          892,0      1,7         1,6            1,0           0,4            0,1
+p.2| Eksport af varer og tjenester                            335,5      1,3         1,9            4,3           1,0           -0,5
+p.2|  Eksport af varer                                        205,9      3,0         6,5            4,6           1,1           -0,8
+p.2|  Eksport af tjenester                                    129,6     -1,2        -5,1            4,0           1,0            0,1
+p.2| Privatforbrug                                            281,0      2,9         1,9            0,6            0,4           1,3
+p.2|  Husholdningernes forbrugsudgifter                       273,0      3,0         1,9            0,6            0,4           1,3
+p.2|     Køb af køretøjer                                       9,8     10,0         2,4          -15,2            9,2           1,6
+p.2|     Andre varer                                          114,2      1,7         0,8            0,5            0,1           1,3
+p.2|     Tjenester i alt inkl. turisme                        149,0      3,6         2,7            1,9            0,1           1,3
+p.2|       Tjenester i alt                                    151,5      3,6         2,6            1,2            0,2           1,6
+p.2|       Turistindtægter (-)                                -12,9      4,7         2,0           -0,8           -0,2          -2,0
+p.2|       Turistudgifter (+)                                  10,3      5,0         3,2            9,3           -1,5          -1,1
+p.2|  NPISH forbrugsudgifter2                                   8,0      0,2         0,9            0,0           -0,3           0,2
+p.2| Offentlige forbrugsudgifter                              145,3      1,4         0,6            0,2           0,2            0,9
+p.2| Bruttoinvesteringer                                      130,2      0,6         1,2           -3,9           -1,8          -1,8
+p.2|  Faste bruttoinvesteringer                               136,4      6,2         2,9           -1,0           -0,1           0,5
+p.2|    Boliger                                                31,7      3,3         8,0            2,4           -4,8           2,3
+p.2|    Andet byggeri og anlæg                                 35,0      2,0         7,6            1,4            3,0          -5,0
+p.2|    Maskiner, transportmidler mv.                          35,3     12,9        -5,7           -6,5            0,9           4,4
+p.2|    Intellektuelle rettigheder                             34,4      6,5         3,6           -0,7            0,1           0,5
+p.2|  Lagerforøgelser mv.3                                     -6,2     -1,4        -0,4           -0,7           -0,4          -0,5
+p.2|    Lagerforøgelser3                                       -6,9     -1,4        -0,3           -0,7           -0,4          -0,5
+p.2|    Nettoansk. af værdigenstande3                           0,7      0,0         0,0            0,0            0,0           0,0
+p.2| Endelig indenlandsk anvendelse                           556,5      2,0         1,4           -0,6           -0,2           0,5
+p.2| Endelig anvendelse i alt4                                892,0      1,7         1,6            1,2           0,3            0,1
+p.2| Samlede præsterede timer i alt (mio.)                    1052       0,3         1,1            0,1           0,4           -0,5
+p.2| Beskæftigelse5 i alt (1.000 personer)                    3017       1,0         1,2            0,2           0,2            0,2
+p.2| 1 Vækst i forhold til tilsvarende periode året før.
+p.2| 2 Nonprofit-institutioner rettet mod husholdninger.
+p.2| 3 Bidrag til BNP-væksten.
+p.2| 4 Sæsonkorrigeret realvækst i endelig anvendelse i alt kan afvige fra forsyning i alt pga. indirekte sæsonkorrektion – se mere
+p.2| om metode og resultater i notatet Det sæsonkorrigerede BNP.
+p.2| 5 Beskæftigelse i nationalregnskabet inkluderer personer, som er midlertidigt fraværende fra arbejde pga. fx orlov, strejke mv.
+p.2| Kilde: www.statistikbanken.dk/nkn1.

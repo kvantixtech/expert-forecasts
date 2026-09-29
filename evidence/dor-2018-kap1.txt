@@ -1,7 +1,7 @@
 # dor-2018-kap1
 # url: https://dors.dk/files/media/rapporter/2018/E18/kapitel_1/e18_kap_i_konjunktur_og_offentlige_finanser.pdf
 # http: 200  bytes: 1040726  sha256: f76d921b04f3cdd87ba815fb9f465add3b8be4fc1ab4692b28c5a3b1413cf57e
-# fetched: 2026-09-29T18:34:07Z
+# fetched: 2026-09-29T18:47:46Z
 # pages: 75  (lines below are quotes; p.N = PDF page)
 
 p.5: TABEL I.1  |  HOVEDTAL I PROGNOSEN

@@ -1,7 +1,7 @@
 # nb-2023-09
 # url: https://www.nationalbanken.dk/media/qgkddum4/persistently-high-inflationary-pressures-call-for-tight-economic-policy.pdf
 # http: 200  bytes: 1683481  sha256: fb23730157f906672aa6ac09c85dbd4db2f3dd404205322208aaa013a660de5a
-# fetched: 2026-09-29T18:35:32Z
+# fetched: 2026-09-29T18:49:08Z
 # pages: 77  (lines below are quotes; p.N = PDF page)
 
 p.3: Real growth relative to the previous year, per cent  |  2022  |  2023  |  2024  |  2025

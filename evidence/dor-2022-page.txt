@@ -1,7 +1,7 @@
 # dor-2022-page
 # url: https://dors.dk/vismandsrapporter/dansk-oekonomi-efteraar-2022
 # http: 200  bytes: 80380  sha256: 6dfc74bc6122eb2eec4ef270429605bccb96b314f3a2d83f7395a58babff6b1b
-# fetched: 2026-09-29T18:33:19Z
+# fetched: 2026-09-29T18:47:01Z
 # html page
 
 

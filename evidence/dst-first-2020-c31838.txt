@@ -1,0 +1,52 @@
+# dst-first-2020-c31838
+# url: https://www.dst.dk/Site/Dst/Udgivelser/nyt/GetPdf.aspx?cid=31838
+# http: 200  bytes: 318669  sha256: 2fb7eaec37353ca8c84ae8c5f1a5a5d3024702eb8506220eb2f97ff3a1e93847
+# fetched: 2026-09-29T18:49:50Z
+# pages: 3  (lines below are quotes; p.N = PDF page)
+
+p.2: Næste offentliggørelse: Arbejdskraftundersøgelsen 1. kvt. 2021 udkommer 19. maj 2021.
+
+# --- full text of p.1 (table layout, for column headers and notes) ---
+p.1|                                                                                                                    Arbejdskraftundersøgelsen
+p.1|                                                                                                                                   4. kvt. 2020
+p.1|                                                                                                                         Arbejde, indkomst og formue
+p.1| 17. februar 2021                    Nr. 49
+p.1|                                              Stigning i antallet af selvstændige uden ansatte
+p.1|                                              Antallet af selvstændige var 9.000 højere i fjerde kvartal 2020 end i samme kvartal
+p.1|                                              året før. Stigningen er sket over en 1-årsperiode, hvor arbejdsmarkedet har været
+p.1|                                              påvirket af COVID-19, med et faldende antal lønmodtagere til følge. Stigningen i
+p.1|                                              antallet af selvstændige er udelukkende sket for solo-selvstændige, der er steget
+p.1|                                              med 12.000, mens antallet af selvstændige med ansatte er faldet med 3.000 perso-
+p.1|                                              ner. Det viser opgørelserne på baggrund af Danmarks Statistiks interviewbaserede
+p.1|                                              arbejdskraftundersøgelse.
+p.1|                                              Udvikling i antal selvstændige fra 4. kvt. 2019 til 4.kvt. 2020, 15-64-årige
+p.1|                                                   Tusinde
+p.1|                                              12
+p.1|                                              10
+p.1|                                               8
+p.1|                                               6
+p.1|                                               4
+p.1|                                               2
+p.1|                                               0
+p.1|                                              -2
+p.1|                                              -4
+p.1|                                                                Uden ansatte                          Med ansatte                Selvstændige i alt
+p.1|                                              Kilde: særkørsel baseret på www.statistikbanken.dk/aku210k
+p.1|                                              Flere nystartede selvstændige i 2020
+p.1|                                              I fjerde kvartal 2020 var 27.000 personer nystartede selvstændige, hvilket svarer til
+p.1|                                              12 pct. af samtlige selvstændige. Det samme gjaldt kun for 18.000 eller 9 pct. i fjer-
+p.1|                                              de kvartal 2019. Til sammenligning faldt andelen af lønmodtagere, der var tiltrådt
+p.1|                                              et nyt job inden for de seneste 12 måneder, fra 23 pct. til 21 pct.
+p.1|                                              Beskæftigelsen fortsatte i fjerde kvartal stigningen fra tredje kvartal
+p.1|                                              Set på de sæsonkorrigerede tal, viser arbejdskraftundersøgelsen, at den samlede
+p.1|                                              beskæftigelse i form af både lønmodtagere og selvstændige steg med 23.000 perso-
+p.1|                                              ner i fjerde kvartal. Dermed fortsatte den stigning, der sås i tredje kvartal efter fal-
+p.1|                                              dene i første og specielt andet kvartal. Sammenlagt var der i fjerde kvartal 2020
+p.1|                                              dog 32.000 færre beskæftigede sammenlignet med situationen et år tidligere.
+p.1| Nyt fra Danmarks Statistik
+p.1| udkommer dagligt kl. 8.00
+p.1| Link til denne udgivelse:
+p.1| www.dst.dk/nytudg/31838
+p.1| © Danmarks Statistik 2020
+p.1| ISSN 1601 1015
+p.1|      Følg statistikken på Twitter

@@ -1,0 +1,150 @@
+# dst-first-2016
+# url: https://www.dst.dk/Site/Dst/Udgivelser/nyt/GetPdf.aspx?cid=23059
+# http: 200  bytes: 418610  sha256: b4a75a5db650a6330fc9c8d73a8ee2dc194faa5bc51c8936c4da106c11487a4e
+# fetched: 2026-09-29T18:49:23Z
+# pages: 5  (lines below are quotes; p.N = PDF page)
+
+p.1: Bruttonationalproduktet (BNP) steg 0,2 pct. i fjerde kvartal, når der korrigeres for
+p.1: væksten 0,2 procentpoint lavere end BNP-indikatoren viste. Baseret på hidtidige
+p.1: erfaringer kan usikkerheden på BNP-væksten generelt vurderes til ± 0,5 procentpoint.
+p.1: 2013  |  2014  |  2015  |  2016
+p.1: I fjerde kvartal voksede BNP med 0,5 pct. i både EU og USA. Væksten på 0,2 pct. i
+p.1: BNP steget med 1,9 pct., og vækstforløbet gennem 2016 ligger dermed på niveau
+p.1: udkommer dagligt kl. 9.00  |  privatforbruget med 1,0 pct. For året 2016 steg privatforbruget samlet med 2,1 pct.
+p.2: Bruttonationalprodukt (BNP)  |  534,3  |  1,9  |  1,1  |  0,3  |  0,7  |  0,2
+p.2: Import af varer og tjenester  |  250,8  |  5,8  |  2,4  |  0,3  |  1,9  |  3,7
+p.2: Import af varer  |  159,2  |  5,3  |  1,9  |  -0,6  |  3,0  |  3,9
+p.2: Import af tjenester  |  91,6  |  6,8  |  3,2  |  1,7  |  0,2  |  3,3
+p.2: Forsyning i alt  |  785,1  |  3,2  |  1,5  |  0,3  |  1,1  |  1,3
+p.2: Eksport af varer og tjenester  |  288,0  |  5,8  |  1,4  |  1,1  |  0,9  |  4,1
+p.2: Eksport af varer  |  183,9  |  5,0  |  1,1  |  0,1  |  0,4  |  4,5
+p.2: Eksport af tjenester  |  104,1  |  6,9  |  1,9  |  2,8  |  1,7  |  3,5
+p.2: Privatforbrug  |  257,3  |  2,4  |  2,1  |  0,1  |  -0,1  |  1,5
+p.2: Husholdningernes forbrugsudgifter  |  249,5  |  2,5  |  2,1  |  0,0  |  -0,1  |  1,5
+p.2: Køb af køretøjer  |  8,7  |  2,3  |  4,6  |  3,8  |  -3,2  |  0,7
+p.2: Andre varer  |  105,1  |  2,0  |  1,6  |  -0,9  |  -1,0  |  2,3
+p.2: Tjenester i alt inkl. turisme  |  135,7  |  2,8  |  2,3  |  0,5  |  0,7  |  0,9
+p.2: Tjenester i alt  |  136,1  |  2,5  |  2,1  |  0,5  |  0,9  |  0,6
+p.2: Turistindtægter (-)  |  -10,3  |  3,4  |  2,6  |  0,4  |  -5,9  |  2,5
+p.2: Turistudgifter (+)  |  9,8  |  6,8  |  4,7  |  -0,8  |  4,2  |  1,3
+p.2: NPISH forbrugsudgifter2  |  7,8  |  1,8  |  1,5  |  0,6  |  0,0  |  1,0
+p.2: Offentlige forbrugsudgifter  |  134,7  |  -0,4  |  -0,2  |  0,8  |  -0,7  |  -1,1
+p.2: Bruttoinvesteringer  |  105,1  |  3,1  |  3,0  |  -1,0  |  4,4  |  -0,8
+p.2: Faste bruttoinvesteringer  |  110,6  |  5,6  |  4,7  |  0,3  |  1,2  |  1,4
+p.2: Boliger  |  23,5  |  6,3  |  11,0  |  2,4  |  -2,7  |  0,1
+p.2: Andet byggeri og anlæg  |  25,2  |  2,0  |  3,3  |  -1,3  |  1,0  |  -1,0
+p.2: Maskiner, transportmidler mv.  |  33,9  |  11,5  |  3,6  |  0,4  |  5,5  |  3,8
+p.2: Intellektuelle rettigheder  |  28,0  |  1,3  |  2,1  |  -0,1  |  0,0  |  1,8
+p.2: Lagerforøgelser mv.3  |  -5,5  |  -0,4  |  -0,3  |  -0,3  |  0,6  |  -0,4
+p.2: Lagerforøgelser3  |  -6,3  |  -0,4  |  -0,3  |  -0,3  |  0,6  |  -0,4
+p.3: 2013, hvor påsken ligger i første kvartal som i 2016, gælder det dog, at begge år har
+p.4: Næste offentliggørelse: Kvartalsvist nationalregnskab 4. kvt 2016, revideret udkommer 31. marts 2017.
+
+# --- full text of p.1 (table layout, for column headers and notes) ---
+p.1|                                                                                                              Kvartalsvist nationalregnskab
+p.1|                                                                                                                                 4. kvt. 2016
+p.1|                                                                                                               Nationalregnskab og offentlige finanser
+p.1| 28. februar 2017              Nr. 84
+p.1|                                        Privatforbrug sikrer fortsat vækst
+p.1|                                        Bruttonationalproduktet (BNP) steg 0,2 pct. i fjerde kvartal, når der korrigeres for
+p.1|                                        prisudvikling og sæsonbevægelser. Det viser første beregning af det kvartalsvise
+p.1|                                        nationalregnskab for fjerde kvartal. Væksten bliver især trukket af stor fremgang i
+p.1|                                        privatforbruget. Samlet bidrager udenrigshandlen også positivt til væksten, hvilket
+p.1|                                        dækker over store stigninger i både import og eksport. Også faste bruttoinveste-
+p.1|                                        ringer bidrager positivt, mens offentligt forbrug og lagerændringer trækker væk-
+p.1|                                        sten ned. Opgørelsen af væksten viser 1,1 pct. for året 2016. I fjerde kvartal ligger
+p.1|                                        væksten 0,2 procentpoint lavere end BNP-indikatoren viste. Baseret på hidtidige
+p.1|                                        erfaringer kan usikkerheden på BNP-væksten generelt vurderes til ± 0,5 procentpoint.
+p.1|                                        BNP-vækst ift. samme kvartal forrige år i Danmark, EU og USA, kædede værdier, sæsonkorrigeret
+p.1|                                              Indeks 1. kvt. 2013 = 100
+p.1|                                        110
+p.1|                                                                                                                                                USA
+p.1|                                                                                                                                                EU
+p.1|                                                                                                                                            Danmark
+p.1|                                        105
+p.1|                                        100
+p.1|                                         95
+p.1|                                                         2013                           2014                         2015                2016
+p.1|                                        Kilde: Danmarks Statistik, Bureau of Economic Analysis og Eurostat, pr. 23. februar.
+p.1|                                        Lavere vækst end i EU og USA
+p.1|                                        I fjerde kvartal voksede BNP med 0,5 pct. i både EU og USA. Væksten på 0,2 pct. i
+p.1|                                        Danmark var således lavere. Ligeledes var væksten på 1,1 pct. for hele 2016 lavere end
+p.1|                                        i EU og USA, der voksede med hhv. 1,9 pct. og 1,6 pct. Den svage årsvækst i 2016
+p.1|                                        skal dog ses i lyset af tilbagegang i andet halvår 2015, og dækker således over en
+p.1|                                        stabil fremgang gennem alle fire kvartaler i 2016. Siden samme kvartal sidste år er
+p.1|                                        BNP steget med 1,9 pct., og vækstforløbet gennem 2016 ligger dermed på niveau
+p.1|                                        med EU og USA.
+p.1|                                        Godt gang i privatforbruget
+p.1|                                        Der var godt gang i privatforbruget, som i fjerde kvartal steg 1,5 pct. Fremgangen var
+p.1|                                        særlig stor i forbruget af andre varer, mens også forbruget af tjenester og køb af
+p.1|                                        køretøjer voksede. Andre varer var dog særligt påvirket af forbruget af el og brænd-
+p.1|                                        sel, som steg pænt efter en varm september. Det viser sig også i en stigning i produk-
+p.1| Nyt fra Danmarks Statistik
+p.1|                                        tion og værditilvækst inden for forsyningsvirksomhed. Fraregnet el og brændsel steg
+p.1| udkommer dagligt kl. 9.00              privatforbruget med 1,0 pct. For året 2016 steg privatforbruget samlet med 2,1 pct.
+p.1|                                        Der var omvendt tilbagegang i det offentlige forbrug, som faldt 1,1 pct. i fjerde kvar-
+p.1| Link til denne udgivelse:
+p.1| www.dst.dk/nyt/23059                   tal, og for 2016 samlet var der et fald på 0,2 pct. Sidstnævnte er påvirket af en revide-
+p.1|                                        ring af væksten i tredje kvartal, se evt. mere under Særlige forhold ved denne offent-
+p.1| © Danmarks Statistik 2017              liggørelse.
+p.1| ISSN 1601 1015
+p.1|          Følg os på Twitter
+
+# --- full text of p.2 (table layout, for column headers and notes) ---
+p.2| Boliginvesteringer drev fremgang i investeringer for 2016
+p.2| I fjerde kvartal steg de faste bruttoinvesteringer med 1,4 pct. Der var især fremgang
+p.2| for investeringer i maskiner, transportmidler mv., men også investeringer i intel-
+p.2| lektuelle rettigheder bidrog til denne udvikling. Modsat var der tilbagegang inden
+p.2| for byggeriet. For 2016 samlet steg de faste bruttoinvesteringer med 4,7 pct. Stor
+p.2| fremgang i boliginvesteringerne i starten af året sikrer en vækst på 11,0 pct. for
+p.2| året, og bidrager dermed stærkt til denne udvikling. Også de øvrige investerings-
+p.2| kategorier voksede for året samlet.
+p.2| Danmarks nationalregnskab
+p.2|                                                                                       2016
+p.2|                                                         4. kvt. 4. kvt.    1.-4. kvt.     2. kvt.      3. kvt.           4. kvt.
+p.2|                                                       Løbende                    Sæsonkorrigeret realvækst
+p.2|                                                          priser
+p.2|                                                                     Årlig vækst1               Kvartalsvis vækst
+p.2|                                                         mia. kr.                               pct.
+p.2| Bruttonationalprodukt (BNP)                              534,3      1,9         1,1            0,3           0,7            0,2
+p.2| Import af varer og tjenester                             250,8      5,8         2,4            0,3           1,9            3,7
+p.2|   Import af varer                                        159,2      5,3         1,9           -0,6           3,0            3,9
+p.2|   Import af tjenester                                     91,6      6,8         3,2            1,7           0,2            3,3
+p.2| Forsyning i alt                                          785,1      3,2         1,5            0,3           1,1            1,3
+p.2| Eksport af varer og tjenester                            288,0      5,8         1,4            1,1           0,9            4,1
+p.2|  Eksport af varer                                        183,9      5,0         1,1            0,1           0,4            4,5
+p.2|  Eksport af tjenester                                    104,1      6,9         1,9            2,8           1,7            3,5
+p.2| Privatforbrug                                            257,3      2,4         2,1            0,1           -0,1           1,5
+p.2|  Husholdningernes forbrugsudgifter                       249,5      2,5         2,1            0,0           -0,1           1,5
+p.2|     Køb af køretøjer                                       8,7      2,3         4,6            3,8           -3,2           0,7
+p.2|     Andre varer                                          105,1      2,0         1,6           -0,9           -1,0           2,3
+p.2|     Tjenester i alt inkl. turisme                        135,7      2,8         2,3            0,5            0,7           0,9
+p.2|       Tjenester i alt                                    136,1      2,5         2,1            0,5            0,9           0,6
+p.2|       Turistindtægter (-)                                -10,3      3,4         2,6            0,4           -5,9           2,5
+p.2|       Turistudgifter (+)                                   9,8      6,8         4,7           -0,8            4,2           1,3
+p.2|  NPISH forbrugsudgifter2                                   7,8      1,8         1,5            0,6            0,0           1,0
+p.2| Offentlige forbrugsudgifter                              134,7     -0,4        -0,2            0,8           -0,7          -1,1
+p.2| Bruttoinvesteringer                                      105,1      3,1         3,0           -1,0            4,4          -0,8
+p.2|  Faste bruttoinvesteringer                               110,6      5,6         4,7            0,3            1,2           1,4
+p.2|    Boliger                                                23,5      6,3        11,0            2,4           -2,7           0,1
+p.2|    Andet byggeri og anlæg                                 25,2      2,0         3,3           -1,3            1,0          -1,0
+p.2|    Maskiner, transportmidler mv.                          33,9     11,5         3,6            0,4            5,5           3,8
+p.2|    Intellektuelle rettigheder                             28,0      1,3         2,1           -0,1            0,0           1,8
+p.2|  Lagerforøgelser mv.3                                     -5,5     -0,4        -0,3           -0,3            0,6          -0,4
+p.2|    Lagerforøgelser3                                       -6,3     -0,4        -0,3           -0,3            0,6          -0,4
+p.2|    Nettoansk. af værdigenstande3                           0,8      0,0         0,0            0,0            0,0           0,0
+p.2| Endelig indenlandsk anvendelse                           497,1      1,8         1,6            0,0           0,7            0,3
+p.2| Endelig anvendelse i alt4                                785,1      3,3         1,5            0,4           0,7            1,7
+p.2| Samlede præsterede timer i alt (mio.)                    1 028      0,8         1,6            0,6           0,0            0,1
+p.2| Beskæftigelse5 i alt (1.000 personer)                    2 902      1,7         1,7            0,4           0,4            0,4
+p.2| 1 Vækst i forhold til tilsvarende periode året før.
+p.2| 2 Nonprofit-institutioner rettet mod husholdninger.
+p.2| 3 Bidrag til BNP-væksten.
+p.2| 4 Sæsonkorrigeret realvækst i endelig anvendelse i alt kan afvige fra forsyning i alt pga. indirekte sæsonkorrektion – se mere
+p.2| om metode og resultater i notatet Det sæsonkorrigerede BNP.
+p.2| 5 Beskæftigelse i nationalregnskabet inkluderer personer, som er midlertidigt fraværende fra arbejde pga. fx orlov, strejke mv.
+p.2| Kilde: www.statistikbanken.dk/nkn1.
+p.2| Søtransport viser fremgang i fjerde kvartal
+p.2| Eksporten steg 4,1 pct., mens importen voksede 3,7 pct. i fjerde kvartal. Vækstrater
+p.2| af denne størrelsesorden gjaldt for udenrigshandel med både varer og tjenester. For
+p.2| eksporten af tjenester er væksten især drevet af søtransport. Sammen med bunk-

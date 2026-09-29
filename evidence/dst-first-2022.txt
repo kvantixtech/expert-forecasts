@@ -1,0 +1,154 @@
+# dst-first-2022
+# url: https://www.dst.dk/Site/Dst/Udgivelser/nyt/GetPdf.aspx?cid=40702
+# http: 200  bytes: 611464  sha256: f6b0b5954afd834bdba6dbcb05e01e5faee7f7706c98d3b7cd69b0ff12fabdb0
+# fetched: 2026-09-29T18:49:37Z
+# pages: 6  (lines below are quotes; p.N = PDF page)
+
+p.1: 3. kvt. 2022 - 4. kvt. 2022  |  3. kvt. 2022 - 4. kvt. 2022
+p.1: Bruttonationalproduktet (BNP) steg med 0,9 pct. i fjerde kvartal 2022, når der kor-
+p.1: 2017  |  2018  |  2019  |  2020  |  2021  |  2022
+p.1: Anm.: Usikkerheden på BNP-væksten kan generelt vurderes til ± 0,5 procentpoint, baseret på hidtidige erfaringer. Pga. COVID-
+p.1: 19 er usikkerheden formentlig større i 2020, 2021 og 2022. Se mere under Særlige forhold.
+p.2: den største stigning i BNP var i Irland med en vækst på 3,5 pct. Rumænien fulgte
+p.2: tilbagegang med fald i BNP på hhv. 0,2 pct. og 0,6 pct. På trods af relativt beskedne
+p.2: 2021 til 2022 for flere lande stadig var præget af genopretning af det tabte fra CO-
+p.2: samlet var der i året 2022 en fremgang i BNP på 3,6 pct. USA havde i 2022 en frem-
+p.2: gang i BNP på 2,1 pct.
+p.3: Bruttonationalprodukt (BNP)  |  727,4  |  1,5  |  3,6  |  1,3  |  0,0  |  0,9
+p.3: Import af varer og tjenester  |  422,4  |  0,9  |  3,8  |  2,3  |  -0,5  |  0,7
+p.3: Import af varer  |  239,1  |  -10,2  |  -2,3  |  3,1  |  -2,0  |  -6,6
+p.3: Import af tjenester  |  183,4  |  18,5  |  13,8  |  1,0  |  1,7  |  11,1
+p.3: Forsyning i alt  |  1149,8  |  1,3  |  3,7  |  1,7  |  -0,2  |  0,8
+p.3: Eksport af varer og tjenester  |  475,2  |  4,4  |  7,9  |  2,5  |  2,3  |  -1,8
+p.3: Eksport af varer  |  271,9  |  4,7  |  5,4  |  0,9  |  3,4  |  0,6
+p.3: Eksport af tjenester  |  203,3  |  4,0  |  11,5  |  4,8  |  0,9  |  -5,1
+p.3: Privatforbrug  |  320,0  |  -5,0  |  -2,5  |  -0,3  |  -0,7  |  -0,4
+p.3: Husholdningernes forbrugsudgifter  |  311,0  |  -5,3  |  -2,6  |  -0,3  |  -0,8  |  -0,5
+p.3: Køb af køretøjer  |  12,7  |  -14,2  |  -18,1  |  -0,8  |  2,9  |  -0,6
+p.3: Andre varer  |  139,2  |  -7,2  |  -5,3  |  -0,8  |  -1,2  |  -1,6
+p.3: Tjenester i alt inkl. turisme  |  159,2  |  -3,1  |  0,9  |  0,1  |  -0,7  |  0,4
+p.3: Tjenester i alt  |  163,6  |  -0,7  |  5,3  |  1,3  |  -0,5  |  -0,8
+p.3: Turistindtægter (-)  |  13,5  |  19,1  |  97,5  |  16,4  |  0,9  |  -5,6
+p.3: Turistudgifter (+)  |  9,0  |  -11,9  |  12,9  |  4,6  |  -2,1  |  9,7
+p.3: NPISH forbrugsudgifter2  |  9,0  |  2,6  |  1,1  |  0,4  |  1,2  |  0,3
+p.3: Offentlige forbrugsudgifter  |  164,1  |  -6,5  |  -2,8  |  -1,3  |  -1,8  |  -0,1
+p.3: Bruttoinvesteringer  |  190,5  |  15,1  |  12,0  |  11,9  |  -8,0  |  11,7
+p.3: Faste bruttoinvesteringer  |  190,0  |  16,1  |  8,4  |  0,3  |  1,6  |  11,6
+p.3: Boliger  |  45,1  |  4,9  |  7,8  |  0,1  |  1,1  |  -2,0
+p.3: Andet byggeri og anlæg  |  42,8  |  7,7  |  7,3  |  2,4  |  4,9  |  0,3
+p.3: Maskiner, transportmidler mv.  |  39,2  |  -5,9  |  -4,8  |  -2,3  |  -0,2  |  -3,2
+p.3: Intellektuelle rettigheder  |  62,8  |  57,2  |  23,8  |  0,9  |  0,9  |  50,4
+p.3: Lagerforøgelser mv.3  |  0,5  |  -0,2  |  0,9  |  2,7  |  -2,4  |  0,1
+p.3: Endelig indenlandsk anvendelse  |  674,6  |  -0,4  |  1,0  |  2,6  |  -3,0  |  2,9
+p.4: daterede kilder. Dette har medført, at BNP-væksten er revideret ned med hhv. 0,2
+p.4: af nationalregnskabet for hele året 2022. Den endelige opgørelse af 2022 vil foreligge
+p.5: kvt. 2022 revideret, der offentliggøres 31. marts 2023, vil der blive anvendt en ver-
+p.5: Næste offentliggørelse: Nationalregnskab, 4. kvt 2022 revideret udkommer 31. marts 2023.
+
+# --- full text of p.1 (table layout, for column headers and notes) ---
+p.1|                                                                                                                                     Nationalregnskab
+p.1|                                                                                                                                           4. kvt. 2022
+p.1|                                                                                                                                                      Økonomi
+p.1|   28. februar 2023            Nr. 65
+p.1|                                         BNP                                                           Beskæftigelse
+p.1|                                         Sæsonkorrigeret                                               Sæsonkorrigeret
+p.1|                                         +0,9 %                                                        +0,4 %
+p.1|                                         3. kvt. 2022 - 4. kvt. 2022                                   3. kvt. 2022 - 4. kvt. 2022
+p.1|                                         www.statistikbanken.dk/nkn1                                   www.statistikbanken.dk/nkn1
+p.1|                                        2022 gav pæn vækst i både BNP og beskæftigelse
+p.1|                                        Bruttonationalproduktet (BNP) steg med 0,9 pct. i fjerde kvartal 2022, når der kor-
+p.1|                                        rigeres for prisudvikling og sæsonbevægelser. Væksten i fjerde kvartal var især dre-
+p.1|                                        vet af fremgang i medicinalindustrien. Den samlede efterspørgsel var samtidig sær-
+p.1|                                        ligt påvirket af stigning i de faste bruttoinvesteringer. Med denne første beregning af
+p.1|                                        nationalregnskabet for fjerde kvartal kan BNP-væksten for hele året 2022 beregnes
+p.1|                                        til 3,6 pct. Beskæftigelsen steg med 0,4 pct. i fjerde kvartal og voksede samlet set
+p.1|                                        med 3,9 pct. i 2022. De præsterede timer viste samme positive mønster med en frem-
+p.1|                                        gang på 0,2 pct. i fjerde kvartal og en årsvækst på 4,5 pct. Både beskæftigelsen og de
+p.1|                                        præsterede timer har dermed fulgt hinanden og været stigende siden første kvartal
+p.1|                                        2021. Læs mere om usikkerhed ved denne opgørelse af nationalregnskabet og revi-
+p.1|                                        sioner siden seneste offentliggørelse under Særlige forhold.
+p.1|                                        BNP og beskæftigelse
+p.1|                                               Indeks, 1. kvt. 2017 = 100
+p.1|                                        115
+p.1|                                                                                                                                                    BNP
+p.1|                                        110                                                                                                         Beskæftigelse
+p.1|                                                                                                                                                    Præsterede
+p.1|                                        105                                                                                                         timer
+p.1|                                        100
+p.1|                                          95
+p.1|                                          90
+p.1|                                                     2017              2018        2019            2020           2021               2022
+p.1|                                        Anm.: Usikkerheden på BNP-væksten kan generelt vurderes til ± 0,5 procentpoint, baseret på hidtidige erfaringer. Pga. COVID-
+p.1|                                        19 er usikkerheden formentlig større i 2020, 2021 og 2022. Se mere under Særlige forhold.
+p.1|                                        Kilde: www.statistikbanken.dk/nkn1
+p.1|                                        Fortsat fald i husholdningernes forbrug i fjerde kvartal
+p.1|                                        I årets sidste kvartal faldt husholdningernes forbrug med 0,5 pct. Dermed har der
+p.1|                                        været tilbagegang i alle kvartaler i 2022. Faldet i fjerde kvartal var bredt fordelt på
+p.1|                                        både varer og tjenester, hvor især forbrug af boligudstyr mv. trak ned, da det faldt
+p.1|                                        med 4,8 pct. Omvendt var drikkevarer og tobak den forbrugsgruppe med højest
+p.1| Nyt fra Danmarks Statistik             vækst med en stigning på 2,3 pct. Ser man på året 2022 samlet, er husholdningernes
+p.1| udkommer dagligt kl. 8.00              forbrug faldet med 2,6 pct. Denne tilbagegang i forbruget skal ses i lyset af de sti-
+p.1| Link til denne udgivelse:              gende priser i samfundet gennem 2022 – samlet steg de 7,6 pct. Husholdningerne
+p.1| www.dst.dk/nyt/40702                   har dermed haft højere udgifter til forbrug men har fået færre varer og tjenesteydel-
+p.1| © Danmarks Statistik 2023
+p.1|                                        ser for pengene. Navnlig købet af køretøjer gik tilbage i året 2022 og faldt med 18,1
+p.1| ISSN 1601 1015                         pct.
+p.1|          Følg os på Twitter
+
+# --- full text of p.3 (table layout, for column headers and notes) ---
+p.3| Historisk fremgang på arbejdsmarkedet i 2022
+p.3| På arbejdsmarkedet var der i løbet af 2022 positive takter med fremgang gennem
+p.3| alle årets kvartaler i både beskæftigelsen og de præstede timer. Med fremgang i be-
+p.3| skæftigelsen i fjerde kvartal på 0,4 pct. – svarende til 12.600 personer, blev der der-
+p.3| med tale om en historisk fremgang på 3,9 pct. for året 2022 samlet. Denne stigning
+p.3| svarer til 117.800 personer. Den historiske fremgang i 2022 i beskæftigelsen, kom-
+p.3| mer ydermere efter, at der også i 2021 var tale om en historisk vækst. Der var ligele-
+p.3| des en historiske stigning for de præsterede timer i 2022 for andet år i træk, da de
+p.3| steg med 4,5 pct. Traditionelt set er fjerde kvartal en periode, hvor aflønningerne til
+p.3| ansatte stiger især på baggrund af udbetaling af bonusser i mange brancher. Dette
+p.3| udmærker sig mere end normalt i fjerde kvartal 2022 inden for råstofindvending og
+p.3| forsyningsvirksomhed, da begge disse brancher har haft gunstige indtjeningsvilkår i
+p.3| 2022 med høje energipriser.
+p.3| Danmarks nationalregnskab
+p.3|                                                                                       2022
+p.3|                                                         4. kvt. 4. kvt.    1.-4. kvt.     2. kvt.      3. kvt.            4. kvt.
+p.3|                                                       Løbende                    Sæsonkorrigeret realvækst
+p.3|                                                          priser
+p.3|                                                                     Årlig vækst1               Kvartalsvis vækst
+p.3|                                                         mia. kr.                                pct.
+p.3| Bruttonationalprodukt (BNP)                              727,4      1,5         3,6            1,3            0,0            0,9
+p.3| Import af varer og tjenester                             422,4       0,9        3,8            2,3           -0,5           0,7
+p.3|   Import af varer                                        239,1     -10,2       -2,3            3,1           -2,0          -6,6
+p.3|   Import af tjenester                                    183,4      18,5       13,8            1,0            1,7          11,1
+p.3| Forsyning i alt                                        1149,8       1,3         3,7            1,7           -0,2            0,8
+p.3| Eksport af varer og tjenester                            475,2      4,4         7,9            2,5            2,3           -1,8
+p.3|  Eksport af varer                                        271,9      4,7         5,4            0,9            3,4            0,6
+p.3|  Eksport af tjenester                                    203,3      4,0        11,5            4,8            0,9           -5,1
+p.3| Privatforbrug                                            320,0      -5,0       -2,5           -0,3           -0,7           -0,4
+p.3|  Husholdningernes forbrugsudgifter                       311,0      -5,3       -2,6           -0,3           -0,8           -0,5
+p.3|     Køb af køretøjer                                      12,7     -14,2      -18,1           -0,8            2,9           -0,6
+p.3|     Andre varer                                          139,2      -7,2       -5,3           -0,8           -1,2           -1,6
+p.3|     Tjenester i alt inkl. turisme                        159,2      -3,1        0,9            0,1           -0,7            0,4
+p.3|       Tjenester i alt                                    163,6      -0,7        5,3            1,3           -0,5           -0,8
+p.3|       Turistindtægter (-)                                 13,5      19,1       97,5           16,4            0,9           -5,6
+p.3|       Turistudgifter (+)                                   9,0     -11,9       12,9            4,6           -2,1            9,7
+p.3|  NPISH forbrugsudgifter2                                   9,0       2,6        1,1            0,4            1,2            0,3
+p.3| Offentlige forbrugsudgifter                              164,1      -6,5       -2,8           -1,3           -1,8           -0,1
+p.3| Bruttoinvesteringer                                      190,5     15,1        12,0           11,9           -8,0          11,7
+p.3|  Faste bruttoinvesteringer                               190,0     16,1         8,4            0,3            1,6          11,6
+p.3|    Boliger                                                45,1      4,9         7,8            0,1            1,1          -2,0
+p.3|    Andet byggeri og anlæg                                 42,8      7,7         7,3            2,4            4,9           0,3
+p.3|    Maskiner, transportmidler mv.                          39,2     -5,9        -4,8           -2,3           -0,2          -3,2
+p.3|    Intellektuelle rettigheder                             62,8     57,2        23,8            0,9            0,9          50,4
+p.3|  Lagerforøgelser mv.3                                      0,5     -0,2         0,9            2,7           -2,4           0,1
+p.3| Endelig indenlandsk anvendelse                           674,6      -0,4        1,0            2,6           -3,0            2,9
+p.3| Endelig anvendelse i alt4                              1149,8       1,6         3,7            2,6           -0,9            1,0
+p.3| Samlede præsterede timer i alt (mio.)                    1110       2,3         4,5            0,8            0,4            0,2
+p.3| Beskæftigelse5 i alt (1.000 personer)                    3194       2,2         3,9            0,4            0,4            0,4
+p.3| 1 Vækst i forhold til tilsvarende periode året før.
+p.3| 2 Nonprofit-institutioner rettet mod husholdninger.
+p.3| 3 Bidrag til BNP-væksten.
+p.3| 4 Sæsonkorrigeret realvækst i endelig anvendelse i alt kan afvige fra forsyning i alt pga. indirekte sæsonkorrektion – se mere
+p.3|   om metode og resultater i notatet Det sæsonkorrigerede BNP.
+p.3| 5 Beskæftigelse i nationalregnskabet inkluderer personer, som er midlertidigt fraværende fra arbejde pga. fx orlov, strejke mv.
+p.3| Kilde: www.statistikbanken.dk/nkn1

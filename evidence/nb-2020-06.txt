@@ -1,7 +1,7 @@
 # nb-2020-06
 # url: https://www.nationalbanken.dk/media/lbmic2pw/analyse-nr-12-udsigt-til-gradvis-genopretning-af-oekonomien.pdf
 # http: 200  bytes: 610259  sha256: 3f3346a256941f9ba5272fb49ba41dc1db9d7316d2f0fead4342f906fa1c0ad4
-# fetched: 2026-09-29T18:35:24Z
+# fetched: 2026-09-29T18:49:00Z
 # pages: 30  (lines below are quotes; p.N = PDF page)
 
 p.1: ligere lempelser i 2021 og 2022. Lempelserne

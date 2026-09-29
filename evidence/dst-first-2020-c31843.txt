@@ -1,0 +1,155 @@
+# dst-first-2020-c31843
+# url: https://www.dst.dk/Site/Dst/Udgivelser/nyt/GetPdf.aspx?cid=31843
+# http: 200  bytes: 471171  sha256: f50b22d5613413eb1947ff7a8f22b4514f1620d9d233ff8c0392b2c9fd9686cb
+# fetched: 2026-09-29T18:50:02Z
+# pages: 6  (lines below are quotes; p.N = PDF page)
+
+p.1: for året 2020 fra -0,4 pct. til -0,1 pct. I tabellen er tal for offentlige forbrugsudgif-
+p.1: 3. kvt. 2020 - 4. kvt. 2020  |  3. kvt. 2020 - 4. kvt. 2020
+p.1: Bruttonationalproduktet (BNP) steg med 0,6 pct. i fjerde kvartal 2020, når der
+p.1: mindre end ved offentliggørelsen af BNP-indikatoren. Beskæftigelsen steg med 0,4
+p.1: 2013  |  2014  |  2015  |  2016  |  2017  |  2018  |  2019  |  2020
+p.1: Anm.: Usikkerheden på den danske BNP-vækst kan generelt vurderes til ± 0,5 procentpoint, baseret på hidtidige erfaringer.
+p.1: udkommer dagligt kl. 8.00  |  BNP faldt i EU som helhed med 0,4 pct. i fjerde kvartal, mens det amerikanske steg
+p.1: med 1,0 pct. For hele året 2020 faldt BNP i EU og USA med hhv. 6,4 pct. og 3,5 pct.
+p.1: www.dst.dk/nyt/31843  |  Faldet i dansk BNP på 3,3 pct. for året 2020 vidner dermed om, at dansk økonomi
+p.2: mens det for året 2020 faldt med 0,1 pct. Se mere om beregning af realvækst i det
+p.3: Bruttonationalprodukt (BNP)  |  596,9  |  -2,6  |  -3,3  |  -6,8  |  5,2  |  0,6
+p.3: Import af varer og tjenester  |  285,3  |  -4,8  |  -5,6  |  -10,0  |  5,8  |  1,8
+p.3: Import af varer  |  175,1  |  1,1  |  -2,4  |  -6,9  |  5,9  |  3,4
+p.3: Import af tjenester  |  110,2  |  -13,2  |  -10,2  |  -14,6  |  5,7  |  -0,7
+p.3: Forsyning i alt  |  882,2  |  -3,4  |  -4,1  |  -7,9  |  5,4  |  1,0
+p.3: Eksport af varer og tjenester  |  316,0  |  -9,1  |  -8,5  |  -11,7  |  6,3  |  -0,6
+p.3: Eksport af varer  |  197,8  |  -2,0  |  -2,6  |  -8,2  |  4,9  |  1,5
+p.3: Eksport af tjenester  |  118,2  |  -19,5  |  -17,2  |  -17,1  |  8,7  |  -4,1
+p.3: Privatforbrug  |  276,2  |  -2,4  |  -3,1  |  -4,6  |  4,0  |  1,2
+p.3: Husholdningernes forbrugsudgifter  |  268,1  |  -2,4  |  -3,0  |  -4,6  |  4,1  |  1,1
+p.3: Køb af køretøjer  |  12,5  |  15,2  |  -2,4  |  -23,6  |  55,3  |  4,4
+p.3: Andre varer  |  123,1  |  6,1  |  2,4  |  1,7  |  2,4  |  3,5
+p.3: Tjenester i alt inkl. turisme  |  132,6  |  -10,1  |  -7,2  |  -8,0  |  2,5  |  -1,2
+p.3: Tjenester i alt  |  134,9  |  -10,5  |  -8,7  |  -11,0  |  3,2  |  1,1
+p.3: Turistindtægter (-)  |  5,0  |  -51,0  |  -53,1  |  -80,0  |  116,4  |  31,5
+p.3: Turistudgifter (+)  |  2,7  |  -61,9  |  -50,5  |  -64,7  |  66,6  |  -22,9
+p.3: NPISH forbrugsudgifter2  |  8,1  |  -2,3  |  -5,0  |  -4,9  |  0,9  |  4,1
+p.3: Offentlige forbrugsudgifter  |  155,7  |  3,3  |  -0,1  |  -1,9  |  0,9  |  5,9
+p.3: Bruttoinvesteringer  |  134,4  |  1,9  |  1,2  |  -8,4  |  7,4  |  -2,7
+p.3: Faste bruttoinvesteringer  |  141,4  |  3,1  |  1,7  |  -4,5  |  3,5  |  0,9
+p.3: Boliger  |  32,0  |  7,0  |  5,4  |  -0,6  |  1,4  |  -0,4
+p.3: Andet byggeri og anlæg  |  38,5  |  12,6  |  7,4  |  2,1  |  1,5  |  0,7
+p.3: Maskiner, transportmidler mv.  |  36,5  |  -2,7  |  -7,9  |  -14,4  |  10,6  |  5,9
+p.3: Intellektuelle rettigheder  |  34,5  |  -3,0  |  3,5  |  -4,5  |  1,0  |  -2,6
+p.3: Lagerforøgelser mv.3  |  -7,0  |  -0,4  |  -0,1  |  -1,0  |  0,9  |  -0,9
+p.3: Lagerforøgelser3  |  -7,6  |  -0,4  |  -0,1  |  -1,0  |  0,9  |  -0,9
+p.3: skab 3. kvt. 2020 revideret, er BNP-væksten revideret op med 0,2 procentpoint i
+p.4: af nationalregnskabet for hele året 2020. Den endelige opgørelse af 2020 vil fore-
+p.5: Næste offentliggørelse: Nationalregnskab, 4. kvt 2020 revideret udkommer 31. marts 2021.
+
+# --- full text of p.1 (table layout, for column headers and notes) ---
+p.1|                                                                                                                                     Nationalregnskab
+p.1|                                                                                                                                           4. kvt. 2020
+p.1|                                                                                                              Nationalregnskab og offentlige finanser
+p.1| 26. februar 2021              Nr. 63
+p.1| Rettet 5. marts 2021 kl. 8.00
+p.1|                                        Der er konstateret en fejl i de offentlige kollektive forbrugsudgifter for tredje kvar-
+p.1|                                        tal 2020. Fejlen har ikke effekt på BNP. Rettelsen af tredje kvartal betyder også, at
+p.1|                                        væksten i det offentlige forbrug i fjerde kvartal er ændret fra 6,8. pct. til 5,9 pct. og
+p.1|                                        for året 2020 fra -0,4 pct. til -0,1 pct. I tabellen er tal for offentlige forbrugsudgif-
+p.1|                                        ter, bruttoinvesteringer, lagerforøgelser mv. samt indenlandsk anvendelse revide-
+p.1|                                        ret. Reviderede tal er markeret med rød.”
+p.1|                                        BNP                                                            Beskæftigelse
+p.1|                                        Sæsonkorrigeret                                                Sæsonkorrigeret
+p.1|                                        +0,6 %                                                         +0,4 %
+p.1|                                        3. kvt. 2020 - 4. kvt. 2020                                    3. kvt. 2020 - 4. kvt. 2020
+p.1|                                        www.statistikbanken.dk/nkn1                                    www.statistikbanken.dk/nkn1
+p.1|                                        Moderat BNP-vækst i fjerde kvartal
+p.1|                                        Bruttonationalproduktet (BNP) steg med 0,6 pct. i fjerde kvartal 2020, når der
+p.1|                                        korrigeres for prisudvikling og sæsonbevægelser. Det viser den første beregning af
+p.1|                                        det kvartalsvise nationalregnskab for fjerde kvartal. Kvartalsvæksten svarer til væk-
+p.1|                                        sten i BNP-indikatoren. Et tidligt skøn for BNP-væksten for hele året 2020 giver et
+p.1|                                        fald på 3,3 pct. De reviderede tal i denne offentliggørelse viser en lidt mindre ned-
+p.1|                                        gang under krisen i første og andet kvartal. Derfor er faldet i BNP for hele året
+p.1|                                        mindre end ved offentliggørelsen af BNP-indikatoren. Beskæftigelsen steg med 0,4
+p.1|                                        pct. i fjerde kvartal, men faldt med 0,7 pct. for hele året 2020. Opgørelsen af natio-
+p.1|                                        nalregnskabet er mere usikker end normalt pga. de særlige omstændigheder om-
+p.1|                                        kring COVID-19-pandemien.
+p.1|                                        BNP i Danmark, EU og USA, kædede værdier, sæsonkorrigeret
+p.1|                                               Indeks 1. kvt. 2013 = 100
+p.1|                                        120
+p.1|                                                                                                                                       Danmark
+p.1|                                        115
+p.1|                                                                                                                        USA
+p.1|                                                                                                                             EU
+p.1|                                        110
+p.1|                                        105
+p.1|                                        100
+p.1|                                         95
+p.1|                                                   2013           2014          2015          2016           2017            2018         2019         2020
+p.1|                                        Anm.: Usikkerheden på den danske BNP-vækst kan generelt vurderes til ± 0,5 procentpoint, baseret på hidtidige erfaringer.
+p.1|                                        Kilde: www.statistikbanken.dk/nkn1
+p.1| Nyt fra Danmarks Statistik             COVID-19 og international økonomi
+p.1| udkommer dagligt kl. 8.00              BNP faldt i EU som helhed med 0,4 pct. i fjerde kvartal, mens det amerikanske steg
+p.1| Link til denne udgivelse:
+p.1|                                        med 1,0 pct. For hele året 2020 faldt BNP i EU og USA med hhv. 6,4 pct. og 3,5 pct.
+p.1| www.dst.dk/nyt/31843                   Faldet i dansk BNP på 3,3 pct. for året 2020 vidner dermed om, at dansk økonomi
+p.1|                                        har været mindre påvirket af COVID-19-følgerne end resten af det europæiske fast-
+p.1| © Danmarks Statistik 2021
+p.1| ISSN 1601 1015                         land.
+p.1|          Følg os på Twitter
+
+# --- full text of p.3 (table layout, for column headers and notes) ---
+p.3| Danmarks nationalregnskab
+p.3|                                                                                       2020
+p.3|                                                         4. kvt. 4. kvt.    1.-4. kvt.     2. kvt.      3. kvt.           4. kvt.
+p.3|                                                       Løbende                    Sæsonkorrigeret realvækst
+p.3|                                                          priser
+p.3|                                                                     Årlig vækst1               Kvartalsvis vækst
+p.3|                                                         mia. kr.                               pct.
+p.3| Bruttonationalprodukt (BNP)                              596,9      -2,6       -3,3           -6,8           5,2            0,6
+p.3| Import af varer og tjenester                             285,3      -4,8       -5,6          -10,0           5,8            1,8
+p.3|   Import af varer                                        175,1       1,1       -2,4           -6,9           5,9            3,4
+p.3|   Import af tjenester                                    110,2     -13,2      -10,2          -14,6           5,7           -0,7
+p.3| Forsyning i alt                                          882,2      -3,4       -4,1           -7,9           5,4            1,0
+p.3| Eksport af varer og tjenester                            316,0      -9,1       -8,5          -11,7           6,3           -0,6
+p.3|  Eksport af varer                                        197,8      -2,0       -2,6           -8,2           4,9            1,5
+p.3|  Eksport af tjenester                                    118,2     -19,5      -17,2          -17,1           8,7           -4,1
+p.3| Privatforbrug                                            276,2      -2,4       -3,1           -4,6           4,0            1,2
+p.3|  Husholdningernes forbrugsudgifter                       268,1      -2,4       -3,0           -4,6           4,1            1,1
+p.3|     Køb af køretøjer                                      12,5      15,2       -2,4          -23,6          55,3            4,4
+p.3|     Andre varer                                          123,1       6,1        2,4            1,7           2,4            3,5
+p.3|     Tjenester i alt inkl. turisme                        132,6     -10,1       -7,2           -8,0           2,5           -1,2
+p.3|       Tjenester i alt                                    134,9     -10,5       -8,7          -11,0           3,2            1,1
+p.3|       Turistindtægter (-)                                  5,0     -51,0      -53,1          -80,0         116,4           31,5
+p.3|       Turistudgifter (+)                                   2,7     -61,9      -50,5          -64,7          66,6          -22,9
+p.3|  NPISH forbrugsudgifter2                                   8,1      -2,3       -5,0           -4,9           0,9            4,1
+p.3| Offentlige forbrugsudgifter                              155,7      3,3        -0,1           -1,9           0,9            5,9
+p.3| Bruttoinvesteringer                                      134,4      1,9         1,2           -8,4           7,4           -2,7
+p.3|  Faste bruttoinvesteringer                               141,4      3,1         1,7           -4,5           3,5            0,9
+p.3|    Boliger                                                32,0      7,0         5,4           -0,6           1,4           -0,4
+p.3|    Andet byggeri og anlæg                                 38,5     12,6         7,4            2,1           1,5            0,7
+p.3|    Maskiner, transportmidler mv.                          36,5     -2,7        -7,9          -14,4          10,6            5,9
+p.3|    Intellektuelle rettigheder                             34,5     -3,0         3,5           -4,5           1,0           -2,6
+p.3|  Lagerforøgelser mv.3                                     -7,0     -0,4        -0,1           -1,0           0,9           -0,9
+p.3|    Lagerforøgelser3                                       -7,6     -0,4        -0,1           -1,0           0,9           -0,9
+p.3|    Nettoansk. af værdigenstande3                           0,7      0,0         0,0            0,0           0,0            0,0
+p.3| Endelig indenlandsk anvendelse                           566,3      0,1        -1,3           -4,9           4,0            1,4
+p.3| Endelig anvendelse i alt4                                882,2      -3,5       -4,1           -7,5           4,8            0,7
+p.3| Samlede præsterede timer i alt (mio.)
+p.3| Beskæftigelse5 i alt (1.000 personer)                    3 004      -0,6       -0,7           -2,2           1,3            0,4
+p.3| 1 Vækst i forhold til tilsvarende periode året før.
+p.3| 2 Nonprofit-institutioner rettet mod husholdninger.
+p.3| 3 Bidrag til BNP-væksten.
+p.3| 4 Sæsonkorrigeret realvækst i endelig anvendelse i alt kan afvige fra forsyning i alt pga. indirekte sæsonkorrektion – se mere
+p.3|   om metode og resultater i notatet Det sæsonkorrigerede BNP.
+p.3| 5 Beskæftigelse i nationalregnskabet inkluderer personer, som er midlertidigt fraværende fra arbejde pga. fx orlov, strejke mv.
+p.3| Kilde: www.statistikbanken.dk/nkn1.
+p.3| Særlige forhold ved denne offentliggørelse
+p.3| Første offentliggørelse af nationalregnskabet for fjerde kvartal 2020
+p.3| Dette er den første offentliggørelse af nationalregnskabet for fjerde kvartal 2020.
+p.3| For første, andet og tredje kvartal 2020 er nationalregnskabet genberegnet med de
+p.3| mest opdaterede kilder. I forhold til den seneste offentliggørelse, Nationalregn-
+p.3| skab 3. kvt. 2020 revideret, er BNP-væksten revideret op med 0,2 procentpoint i
+p.3| første kvartal, revideret op med 0,3 procentpoint i andet kvartal og uændret i tredje
+p.3| kvartal. Revisionerne skyldes primært nye oplysninger for 2020 vedrørende beta-
+p.3| lingsbalance og udenrigshandel, industriens salg af varer, offentlig forvaltning og
+p.3| service, produktion i bygge og anlæg, samt firmaernes køb og salg. De nye tal kan
+p.3| desuden give ny information til vurderingen af sæsonmønstret og vil normalt føre

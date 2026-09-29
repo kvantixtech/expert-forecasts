@@ -1,7 +1,7 @@
 # dor-2015-press
 # url: https://dors.dk/files/media/rapporter/2015/E15/e15_pressemeddelelse.pdf
 # http: 200  bytes: 122862  sha256: 6c1bb5774dead3bb4d0ba05fac19b005b03574f8d810955f57c586d681fb31ed
-# fetched: 2026-09-29T18:33:57Z
+# fetched: 2026-09-29T18:47:37Z
 # pages: 5  (lines below are quotes; p.N = PDF page)
 
 p.1: og 2¼ pct. i hhv. 2016 og 2017. Dette vurderes at ville trække en større og næsten

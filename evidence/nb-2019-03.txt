@@ -1,7 +1,7 @@
 # nb-2019-03
 # url: https://www.nationalbanken.dk/media/r54pgrin/analysis-no-7-outlook-for-the-danish-economy-march-2019.pdf
 # http: 200  bytes: 463671  sha256: 0022b5f1fe6bf725186727c58094354de19da8db6de3df0f213ef391d5283c16
-# fetched: 2026-09-29T18:35:15Z
+# fetched: 2026-09-29T18:48:52Z
 # pages: 24  (lines below are quotes; p.N = PDF page)
 
 p.1: but with labour  |  in 2019 and 2020.  |  is in sync with

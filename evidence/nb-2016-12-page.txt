@@ -1,0 +1,10 @@
+# nb-2016-12-page
+# url: http://www.nationalbanken.dk/en/publications/Pages/2016/12/Monetary-Review-4th-Quarter-2016.aspx
+# http: 200  bytes: 30817  sha256: 4932d6f8796145d4637556becf045034b5b06eccee3ee41443ceef80bd4648e7
+# fetched: 2026-09-29T18:50:07Z
+# html page
+
+
+# PDF and publication links on this page:
+http://www.nationalbanken.dk/media/2g5o32nk/monetary-review-4th-quarter-2016.pdf
+https://www.nationalbanken.dk/en/news-and-knowledge/publications-and-speeches/archive-publications/2017/monetary-review-4th-quarter-2016
