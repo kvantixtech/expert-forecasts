@@ -1,7 +1,7 @@
 # dor-2017-kap1
 # url: https://dors.dk/files/media/rapporter/2017/E17/kap_i/e17_kap_i_konjunktur_og_offentlige_finanser.pdf
 # http: 200  bytes: 779229  sha256: 56e7a510f61ba85c8af3fea6175cb8acac21e7713250fbe4ed7d13065a159b14
-# fetched: 2026-09-29T18:18:05Z
+# fetched: 2026-09-29T18:24:04Z
 # pages: 99  (lines below are quotes; p.N = PDF page)
 
 p.1: BNP-vækst på ca. 0,7 pct. I år og næste år ventes BNP at
@@ -207,3 +207,81 @@ p.89: brydes i 2018  |  2018. I henhold til budgetloven må underskuddet for den
 p.89: efter strukturel  |  rer en forværring fra en vurdering på 0,2 pct. af BNP i for-
 p.89: saldo giver  |  året til det nuværende skøn på 0,6 pct. af BNP. Forværrin-
 p.91: forbrug, …  |  brug på 0,5 pct. i 2018 og omkring 0,3 pct. i 2019-25. For
+
+# --- full text of p.5 (table layout, for column headers and notes) ---
+p.5|                                                                  I.2 Dansk økonomi frem til 2025
+p.5| Tabel I.1       Hovedtal i konjunkturvurderingen
+p.5|                                                                                                        a)
+p.5|                                           2016        2017 2018 2019 2025
+p.5|                                         Mia. kr.        ----- Realvækst, pct. -----
+p.5|  Privat forbrug                              981         2,3     2,4     2,4      2,5
+p.5|  Offentligt forbrug                          526         0,8     0,9     1,2      0,9
+p.5|  Offentlige investeringer                     73         0,7    -1,7     3,5      2,1
+p.5|  Boliginvesteringer                           92         5,0     3,8     3,9      1,8
+p.5|  Erhvervsinvesteringer                       249         2,1     7,0     5,4      5,2
+p.5|  Lagerændringer                                 6        0,1     0,1     0,1      0,0
+p.5|  Indenlandsk efterspørgsel i alt          1.926          2,0     2,6     2,7      2,4
+p.5|  Eksport                                  1.102          4,3     3,5     3,4      4,6
+p.5|  Import                                      963         4,0     4,3     5,0      5,3
+p.5|  Bruttonationalprodukt                    2.065          2,3     2,3     2,0      2,1
+p.5|  BVT i private byerhverv                  1.202          2,8     3,1     2,5      2,4
+p.5|                                         ----------- Ændring i 1.000 pers. ----------
+p.5|  Strukturel arbejdsstyrke                     25          25      21      23       13
+p.5|  Arbejdsstyrke                                32          43      34      22       10
+p.5|  Privat beskæftigelse                         51          44      37      22        5
+p.5|  Offentlig beskæftigelse                       -9         -1       2       2        5
+p.5|                                         ----------------- 1.000 pers. ----------------
+p.5|  Nettoledighed                                92          91      86      83       87
+p.5|                                        ---------------------- Pct. --------------------
+p.5|  Forbrugerpriser                              0,5        1,0     2,0     1,6      1,7
+p.5|  Timelønsomkostninger                         2,2        2,1     2,9     3,2      3,4
+p.5|  Kontantpris på enfamiliehuse                 3,9        3,4     3,2     2,5      2,1
+p.5|  Timeproduktivitet i private byerhverv      -0,1         1,2     1,0     1,0      2,0
+p.5|  Output gap                                 -0,7         0,0     0,6     0,6      0,0
+p.5|                                         ----------------- Pct. af BNP --------------
+p.5|  Betalingsbalance                             7,9        9,1     8,2     6,9      4,6
+p.5|  Offentlig saldo                            -0,6        -0,9    -0,1     0,0      0,8
+p.5| a)       2025-søjlen angiver den gennemsnitlige årlige vækst fra 2019 til 2025. For nettoledighed,
+p.5|          output gap, betalingsbalance og offentlig saldo er dog angivet niveauet i 2025.
+p.5| Anm.:    Lagerændringer angiver vækstbidraget til BNP. Output gap angiver den procentvise afvigelse
+p.5|          fra det strukturelle niveau. Forbrugerpriserne er udtrykt ved deflatoren for det private forbrug.
+p.5| Kilde:   Danmarks Statistik, ADAM’s databank og egne beregninger.
+p.5|                                                                                                        17
+
+# --- full text of p.6 (table layout, for column headers and notes) ---
+p.6| Konjunktur og offentlige finanser. Dansk Økonomi, efterår 2017
+p.6|  Boks I.1     Centrale forudsætninger for prognosen
+p.6|  Prognosen bygger på en række forudsætninger om udviklingen i udlandet, renterne
+p.6|  og finanspolitikken. De væsentligste forudsætninger præsenteres i denne boks. Dis-
+p.6|  se er uddybet i Baggrundsnotat til konjunkturvurdering, Dansk Økonomi, efterår
+p.6|  2017, der findes på De Økonomiske Råds hjemmeside. Prognosen bygger på offent-
+p.6|  liggørelsen af de foreløbige nationalregnskabstal for 2. kvartal 2017.
+p.6|  Udland og finansielle forhold
+p.6|  Der forventes fremgang på de danske eksportmarkeder på ca. 2½ pct. i 2017 fald-
+p.6|  ende til knap 2¼ pct. i 2018 og 2019, jf. afsnit I.3.
+p.6|  Det forudsættes, at Den Europæiske Centralbank udfaser deres obligations-
+p.6|  opkøbsprogram i 2018, men ikke ændrer udlånsrenten før 1. kvartal 2019. De dan-
+p.6|  ske statsobligationsrenter ventes at nå et årsgennemsnit på godt ½ pct. i 2017, stig-
+p.6|  ende til godt ¾ pct. i 2018 og ca. 3½ pct. i 2025, jf. afsnit I.3. Valutakurser forud-
+p.6|  sættes konstante fra niveauet i august 2017. Olieprisen forventes at få et årsniveau
+p.6|  på 50 dollar pr. tønde i 2017. I de følgende år forudsættes olieprisen at stige jævnt
+p.6|  mod et niveau på ca. 109 dollar pr. tønde i 2025.
+p.6|  Finanspolitiske forudsætninger
+p.6|  Prognosen lægger den vedtagne finanspolitik til grund. Det forudsættes, at de of-
+p.6|  fentlige udgifter følger udgiftslofterne frem til 2021. Efter 2021 antages det reale
+p.6|  offentlige forbrug at følge demografi- og velstandsudviklingen. Derudover er
+p.6|  konsekvenser af finanslovsforslaget for 2018 indarbejdet, men aftalen Omlægning
+p.6|  af bilafgifterne fra september er ikke nået indarbejdet. De finanspolitiske forud-
+p.6|  sætninger er nærmere beskrevet i afsnit I.5. Den forudsatte udvikling medfører en
+p.6|  svagt kontraktiv finanspolitik i 2017-21, hvorefter finanspolitikken ventes at være
+p.6|  omtrent neutral for BNP-væksten. Det indebærer et negativt vækstbidrag på godt
+p.6|  ¼ pct.point i 2017, knap ½ pct.point i 2018 og knap ¼ pct.point i 2019.
+p.6|  Strukturelle niveauer
+p.6|  De strukturelle niveauer er omtrent uændrede i forhold til vurderingen i Dansk
+p.6|  Økonomi, forår 2017. Det indebærer, at strukturelt BNP ventes at stige med godt
+p.6|  2 pct. årligt i perioden 2017-25, hvilket er ca. ½ pct.point højere end i perioden
+p.6|  1990-2016. Dette skyldes blandt andet, at væksten i den strukturelle timeproduk-
+p.6|  tivitet ventes at blive godt 1¼ pct. årligt i perioden 2017-25. Væksten i den struk-
+p.6|  turelle beskæftigelse ventes at blive ca. 17.000 personer om året, hvilket primært
+p.6|  skyldes tilbagetrækningsreformerne.
+p.6| 18

@@ -1,9 +1,10 @@
 # nb-2019-09-page
 # url: https://www.nationalbanken.dk/da/viden-og-nyheder/publikationer-og-taler/arkiv-publikationer/2019/udsigter-for-dansk-oekonomi-lidt-lavere-vaekst-i-de-kommende-aar
 # http: 200  bytes: 37401  sha256: a37cae7058c877bf78dc686cb2572044780118cffa1e1405ac04c4d54c74a5d8
-# fetched: 2026-09-29T18:16:48Z
+# fetched: 2026-09-29T18:22:36Z
 # html page
 
 
 # PDF and publication links on this page:
+https://www.nationalbanken.dk/media/sx2jonig/analyse-nr-20-udsigter-for-dansk-oekonomi-september-2019.pdf
 https://www.nationalbanken.dk/da/viden-og-nyheder/publikationer-og-taler/arkiv-publikationer/2019/udsigter-for-dansk-oekonomi-lidt-lavere-vaekst-i-de-kommende-aar

@@ -1,7 +1,7 @@
 # or-2016-05
 # url: https://legacy.altinget.dk/misc/oekonomisk%20redegoerelse_maj%202016.pdf
 # http: 200  bytes: 2666300  sha256: a2e7305c4c5d36b7813d2b35961d630294fef5cc2ec1e6f56205cfb9782b9357
-# fetched: 2026-09-29T18:18:49Z
+# fetched: 2026-09-29T18:24:55Z
 # pages: 193  (lines below are quotes; p.N = PDF page)
 
 p.7: 1.2 Prognosen i hovedtræk ........................................................................................  |  10
@@ -804,3 +804,150 @@ p.171: EU28  |  -3,8  |  -2,7  |  -1,8  |  -1,7  |  -1,6  |  -1,7  |  -1,7
 p.171: Euroområdet  |  -3,6  |  -2,1  |  -1,4  |  -1,0  |  -1,0  |  -1,3  |  -1,4
 p.171: Tyskland  |  -1,4  |  -0,4  |  0,1  |  0,7  |  0,8  |  0,4  |  0,4
 p.171: Frankrig  |  -5,0  |  -4,1  |  -3,4  |  -2,7  |  -2,4  |  -2,4  |  -2,7
+
+# --- full text of p.38 (table layout, for column headers and notes) ---
+p.38|      Kapitel 1                                                                      Sammenfatning
+p.38|      1.6 Bilagstabel
+p.38|        Tabel 1.5
+p.38|        Sammenligning med vurderingen i december af skønnene for 2016 og 2017 på udvalgte
+p.38|        områder
+p.38|                                                            2016                 2017
+p.38|                                                     Dec.          Maj       Dec.           Maj
+p.38|        Realvækst, pct.
+p.38|        Privat forbrug                                1,7          1,5        1,8           1,7
+p.38|        Samlet offentlig efterspørgsel               -0,2          0,4        0,0           0,0
+p.38|        - heraf offentligt forbrug                    0,8          1,0        0,0           0,0
+p.38|        - heraf offentlige investeringer             -6,9          -3,7       -0,1          0,2
+p.38|        Boliginvesteringer                            5,0          2,0        5,0           6,0
+p.38|        Faste erhvervsinvesteringer                   4,7          4,0        7,1           5,6
+p.38|        I alt endelig indenlandsk efterspørgsel       1,6          1,5        2,0           1,7
+p.38|        Lagerinvesteringer (vækstbidrag)              0,3          0,1        0,2           0,0
+p.38|        I alt indenlandsk efterspørgsel               1,9          1,6        2,2           1,7
+p.38|        Eksport                                       4,3          1,5        4,7           4,4
+p.38|        - heraf industrieksport                       5,3          4,0        5,3           4,2
+p.38|        Samlet efterspørgsel                          2,8          1,6        3,1           2,7
+p.38|        Import                                        4,6          2,5        5,6           4,6
+p.38|        - heraf vareimport                            4,7          3,6        5,5           4,7
+p.38|        BNP                                           1,9          1,1        2,0           1,7
+p.38|        Bruttoværditilvækst                           1,9          1,1        2,0           1,8
+p.38|        - heraf i private byerhverv                   2,4          1,6        2,6           2,4
+p.38|        Ændring i 1.000 personer
+p.38|        Arbejdsstyrke, i alt                          24            16         22           21
+p.38|        Beskæftigelse, i alt                          29            27         27           25
+p.38|        - heraf i den private sektor                  27            26         28           26
+p.38|        - heraf i offentlig forvaltning og service     2             1         -1            -1
+p.38|        Bruttoledighed                                 -6          -12         -5            -5
+p.38|        Nettoledighed                                  -6          -13         -4            -5
+p.38| 36   Økonomisk Redegørelse · Maj 2016
+
+# --- full text of p.39 (table layout, for column headers and notes) ---
+p.39| Kapitel 1                                                                                       Sammenfatning
+p.39|   Tabel 1.5 (fortsat)
+p.39|   Sammenligning med vurderingen i december af skønnene for 2016 og 2017 på udvalgte
+p.39|   områder
+p.39|                                                              2016                        2017
+p.39|                                                      Dec.            Maj            Dec.            Maj
+p.39|   Stigning, pct.
+p.39|   Eksportpriser, varer                                1,5            -1,3             2,0            2,2
+p.39|   Importpriser, do.                                   0,6            -1,8             1,9            1,9
+p.39|   Bytteforhold, do.                                   0,9            0,5              0,1            0,3
+p.39|   Huspriser (enfamiliehuse)                           4,0            4,0              4,0            4,0
+p.39|   Forbrugerprisindeks                                 1,1            0,6              1,7            1,5
+p.39|   Timeløn i privat sektor
+p.39|   (DA’s StrukturStatistik)                            2,3            2,1              2,6            2,5
+p.39|   Real disponibel indkomst, privat sektor             4,9            3,0              1,8            2,9
+p.39|                                               1)
+p.39|   Real disponibel indkomst, husholdninger             1,6            2,0              1,3            0,6
+p.39|   Timeproduktiviteten i private byerhverv             0,9            0,2              1,1            0,9
+p.39|   Pct. p.a.
+p.39|   Rente, 1-årigt flekslån                             0,0            -0,2             0,2           -0,1
+p.39|   Rente, 10-årig statsobligation                      1,1            0,6              1,3            0,8
+p.39|   Rente, 30-årig realkreditobligation                 3,1            2,8              3,2            2,9
+p.39|   De centrale balancestørrelser
+p.39|   Betalingsbalancesaldo (mia. kr.)                    179            151             181            159
+p.39|   Offentlig saldo (mia. kr.)                         -56,6          -40,8           -41,7          -38,2
+p.39|   Bruttoledighed (årsgns., 1.000 personer)            118            112             113            107
+p.39|   Bruttoledighed (i pct. af arbejdsstyrken)           4,0            3,8              3,8            3,6
+p.39|   Nettoledighed (årsgns., 1.000 personer)              98             90              94             85
+p.39|   Nettoledighed (i pct. af arbejdsstyrken)            3,3            3,1              3,2            2,9
+p.39|   Eksterne forudsætninger
+p.39|   Handelsvægtet BNP-vækst i udlandet, pct.            2,3            2,2              2,4            2,2
+p.39|   Eksportmarkedsvækst (industrivarer), pct.           5,8            5,5              6,1            5,7
+p.39|   Dollarkurs (kr. pr. dollar)                         7,0            6,6              7,0            6,6
+p.39|   Oliepris, dollar pr. tønde                         49,5           43,1             57,7           52,7
+p.39|   Oliepris, kroner pr. tønde                          344            284             401            345
+p.39|   1)     Den korrigerede indkomst, jf. afsnit 4.1.
+p.39|   Kilde: Danmarks Statistik og egne beregninger.
+p.39|                                                                             Økonomisk Redegørelse · Maj 2016    37
+
+# --- full text of p.19 (table layout, for column headers and notes) ---
+p.19| Kapitel 1                                                                               Sammenfatning
+p.19|   Tabel 1.1
+p.19|   Udvalgte nøgletal
+p.19|                                                               2014    2015       2016        2017
+p.19|   Realvækst, pct.
+p.19|   Privat forbrug                                               0,5     2,1        1,5         1,7
+p.19|   Offentligt forbrug                                           0,2     0,6        1,0         0,0
+p.19|   Offentlige investeringer                                     7,4    -1,0       -3,7         0,2
+p.19|   Boliginvesteringer                                           3,1    -0,5        2,0         6,0
+p.19|   Erhvervsinvesteringer                                        1,8     2,5        4,0         5,6
+p.19|   Lagerændringer (vækstbidrag)                                 0,3    -0,3        0,1         0,0
+p.19|   Eksport af varer og tjenester                                3,1    -1,0        1,5         4,4
+p.19|   Import af varer og tjenester                                 3,3    -1,4        2,5         4,6
+p.19|   BNP                                                          1,3     1,2        1,1         1,7
+p.19|   Niveau, pct. af BNP
+p.19|   Faktisk offentlig saldo                                      1,5    -2,1       -2,0        -1,8
+p.19|   Strukturel offentlig saldo                                  -1,0    -0,6       -0,4        -0,4
+p.19|   Betalingsbalancen                                            7,7     7,0        7,5         7,6
+p.19|   Outputgab                                                   -1,7    -1,4       -1,2        -0,7
+p.19|   Niveau, 1.000 personer
+p.19|   Bruttoledighed (årsgennemsnit)                              134     124         112        107
+p.19|   Beskæftigelse (inkl. orlov), i alt                         2.765   2.796      2.823      2.848
+p.19|   Arbejdsstyrke, i alt                                       2.888   2.912      2.928      2.949
+p.19|   Stigning, pct.
+p.19|   Huspriser (enfamiliehuse)                                    3,4     6,1        4,0         4,0
+p.19|   Forbrugerprisindeks                                          0,6     0,5        0,6         1,5
+p.19|   Timefortjeneste i privat sektor (DA’s StrukturStatistik)     1,2     1,9        2,1         2,5
+p.19|                                                                       Økonomisk Redegørelse · Maj 2016   17
+
+# --- full text of p.20 (table layout, for column headers and notes) ---
+p.20|      Kapitel 1                                                                                        Sammenfatning
+p.20|      1.3 Finanspolitikken og de offentlige finanser
+p.20|      Med finansloven for 2016 blev de offentlige finanser styrket, og der blev skabt afstand til
+p.20|      budgetlovens grænse for strukturelle underskud, jf. tabel 1.2. Det er afstemt med, at økono-
+p.20|      mien er inde i et moderat, men robust opsving, hvor fremgangen navnlig er tydelig på ar-
+p.20|      bejdsmarkedet. En gradvis normalisering af finanspolitikken fra et lempeligt udgangspunkt er
+p.20|      et vigtigt element i at understøtte et holdbart opsving.
+p.20|      Rammerne for den offentlige økonomi vil være stramme i de kommende år, hvor færre ind-
+p.20|      tægter fra Nordsøen har reduceret råderummet i finanspolitikken. Samtidig øger flygtninge-
+p.20|      tilstrømningen udgiftspresset inden for råderummet, og de offentlige investeringer skal tilpas-
+p.20|      ses efter historisk høje niveauer under den økonomiske krise. Trods tilpasninger vil udgifts-
+p.20|      niveauerne imidlertid fortsat være højere end i årene før finanskrisen.
+p.20|      Regeringen offentliggør til sommer en plan for dansk økonomi frem mod 2025. I den forbin-
+p.20|      delse opstilles der mål og ambitioner for at adressere de udfordringer, som dansk økonomi
+p.20|      står over for. Det gælder både udfordringer med at styrke grundlaget for økonomisk vækst,
+p.20|      øge deltagelsen på arbejdsmarkedet og håndtere presset på de offentlige finanser i de kom-
+p.20|      mende år. I forbindelse med 2025-planen fremlægges et udspil til anden fase af den Jobre-
+p.20|      form, som blev igangsat i 2015 med sigte på at øge den økonomiske tilskyndelse til at arbej-
+p.20|      de.
+p.20|        Tabel 1.2
+p.20|        Centrale skøn vedr. tilrettelæggelsen af finanspolitikken
+p.20|                                                                         2015               2016              2017
+p.20|        Strukturel saldo, pct. af strukturelt BNP                         -0,6               -0,4              -0,4
+p.20|        Faktisk saldo, pct. af BNP                                        -2,1               -2,0              -1,8
+p.20|        Offentlig forbrugsvækst, pct.                                      0,6                1,0               0,0
+p.20|        Etårig finanseffekt, pct. af BNP1)                                -0,1               -0,1              -0,2
+p.20|        Outputgab, pct.2)                                                 -1,4               -1,2              -0,7
+p.20|                                             2)
+p.20|        Bruttoledighedsgab, 1.000 personer                                  25                16                    10
+p.20|        Beskæftigelsesgab, 1.000 personer2)                                -52               -40                -30
+p.20|        1)     Beregnet mål for, hvordan ændringer i finanspolitikken fra et år til det næste påvirker den økono-
+p.20|               miske aktivitet.
+p.20|        2)     Beregnet mål for, hvor langt produktion, ledighed og beskæftigelse er fra at være i ligevægt.
+p.20|        Kilde: Danmarks Statistik og egne beregninger.
+p.20|      Udsigt til offentlige underskud på den rigtige side af EU’s grænse
+p.20|      Ifølge foreløbige regnskabstal fra Danmark Statistik udgjorde underskuddet på den faktiske
+p.20|      offentlige saldo 2,1 pct. af BNP i 2015. I 2016 og 2017 skønnes et omtrent tilsvarende under-
+p.20|      skud på henholdsvis 2,0 og 1,8 pct. af BNP. I prognoseperioden ventes underskuddene på
+p.20|      den faktiske offentlige saldo således at holde sig inden for rammerne af Stabilitets- og
+p.20| 18   Økonomisk Redegørelse · Maj 2016

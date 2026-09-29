@@ -1,7 +1,7 @@
 # nb-2017-03
 # url: https://www.nationalbanken.dk/media/otbgtlbo/analysis-outlook-for-the-danish-economy-march-2017.pdf
 # http: 200  bytes: 839248  sha256: f9ba0f6ff1211afbc348275c44c42fc5d1c0a640dabe527b6ac82497f52f1745
-# fetched: 2026-09-29T18:16:41Z
+# fetched: 2026-09-29T18:22:28Z
 # pages: 20  (lines below are quotes; p.N = PDF page)
 
 p.1: 2017-19  |  increase by the end of 2019  |  has scope for such increase

@@ -1,7 +1,7 @@
 # dor-2016-kap1
 # url: https://dors.dk/files/media/rapporter/2016/E16/kap_i/e16_kap_i.pdf
 # http: 200  bytes: 734276  sha256: e383be69eec627f458dc71dcdbb573b87c797508aeac24d45ba6b60c258221e7
-# fetched: 2026-09-29T18:18:01Z
+# fetched: 2026-09-29T18:24:00Z
 # pages: 67  (lines below are quotes; p.N = PDF page)
 
 p.2: Tabel I.1  |  Hovedtal i prognosen

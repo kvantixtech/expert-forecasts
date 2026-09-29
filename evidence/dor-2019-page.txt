@@ -1,7 +1,7 @@
 # dor-2019-page
 # url: https://dors.dk/vismandsrapporter/dansk-oekonomi-efteraar-2019
 # http: 200  bytes: 83940  sha256: 1eadd3053307c75eed36915f1493b4f6dc2094ca39e656d3dc6a71fd3c305cf5
-# fetched: 2026-09-29T18:17:13Z
+# fetched: 2026-09-29T18:23:04Z
 # html page
 
 
@@ -20,6 +20,20 @@ https://dors.dk/files/media/rapporter/2019/e19/kapitel_2/e19_kapitel_ii_baggrund
 https://dors.dk/files/media/rapporter/2019/e19/kapitel_2/e19_kapitel_ii_baggrundsnotat_til_finanspolitisk_holdbarhed.pdf
 https://dors.dk/files/media/rapporter/2019/e19/kapitel_3/e19_kap._iii_samlet_baggrundsnotat.pdf
 https://dors.dk/files/media/rapporter/2019/e19/presse_e19.pdf
+https://dors.dk/media/old_files/E19_skriftelige_indlaeg_fra_det_oekonomiske_raads_medlemmer_0.pdf
+https://dors.dk/media/rapporter/2019/e19/endelig_rapport/dansk_okonomi_efteraar_2019_web.pdf
+https://dors.dk/media/rapporter/2019/e19/endelig_rapport/e19_english_summary.pdf
+https://dors.dk/media/rapporter/2019/e19/endelig_rapport/e19_kapitel_i_konjunktur_og_offentlige_finanser.pdf
+https://dors.dk/media/rapporter/2019/e19/endelig_rapport/e19_kapitel_ii_finanspolitisk_holdbarhed.pdf
+https://dors.dk/media/rapporter/2019/e19/endelig_rapport/e19_kapitel_iii_budgetloven_og_finanspolitiske_rammer.pdf
+https://dors.dk/media/rapporter/2019/e19/endelig_rapport/e19_kapitel_iv_omkostninger_ved_konjunkturudsving.pdf
+https://dors.dk/media/rapporter/2019/e19/endelig_rapport/e19_sammenfatning_og_anbefalinger_.pdf
+https://dors.dk/media/rapporter/2019/e19/kapitel_1/e19_kapitel_i_baggrundsnotat_om_offentlige_finanser.pdf
+https://dors.dk/media/rapporter/2019/e19/kapitel_1/e19_kapitel_i_baggrundsnotat_til_konjunkturvurderingen_.pdf
+https://dors.dk/media/rapporter/2019/e19/kapitel_2/e19_kapitel_ii_baggrundsnotat_de_fremtidige_sundhedsudgifter.pdf
+https://dors.dk/media/rapporter/2019/e19/kapitel_2/e19_kapitel_ii_baggrundsnotat_til_finanspolitisk_holdbarhed.pdf
+https://dors.dk/media/rapporter/2019/e19/kapitel_3/e19_kap._iii_samlet_baggrundsnotat.pdf
+https://dors.dk/media/rapporter/2019/e19/presse_e19.pdf
 https://dors.dk/oevrige-publikationer/prognoseopdatering/corona-scenarier-dansk-oekonomi-offentlige-finanser
 https://dors.dk/vismandsrapporter/dansk-oekonomi-efteraar-2019/kapitel-ii-finanspolitisk-holdbarhed
 https://dors.dk/vismandsrapporter/dansk-oekonomi-efteraar-2019/kapitel-iii-budgetloven-finanspolitiske-rammer

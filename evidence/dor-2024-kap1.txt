@@ -1,7 +1,7 @@
 # dor-2024-kap1
 # url: https://dors.dk/files/media/E24_KapI.pdf
 # http: 200  bytes: 423778  sha256: fe9a02b78fdd8324db2e5114cba7254de74bf62a6d964bd550e45b2ba9c20efd
-# fetched: 2026-09-29T18:18:31Z
+# fetched: 2026-09-29T18:24:34Z
 # pages: 21  (lines below are quotes; p.N = PDF page)
 
 p.3: for 2025 er lempeligt  |  tursituationen, jf. afsnit II.6, hvorfor 2023 kan benyttes som udgangs-

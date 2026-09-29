@@ -1,7 +1,7 @@
 # dor-2022
 # url: https://dors.dk/files/media/rapporter/2022/e22/endelig_rapport/WEB_E22_Revideret%20maj%202023_med%20links.pdf
 # http: 200  bytes: 10365716  sha256: e706fec51eb318be89c17616dd71b91bb69cd43ae53f5239a417842d881d3ca0
-# fetched: 2026-09-29T18:17:44Z
+# fetched: 2026-09-29T18:23:39Z
 # pages: 337  (lines below are quotes; p.N = PDF page)
 
 p.8: inflation ikke bare i 2022, men også i 2023, og at der er

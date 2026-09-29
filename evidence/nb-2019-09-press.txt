@@ -1,7 +1,7 @@
 # nb-2019-09-press
 # url: https://www.nationalbanken.dk/en/news-and-knowledge/press/archive/2019/the-danish-economy-is-headed-for-slightly-slower-growth-in-the-coming-years-18-09-2019
 # http: 200  bytes: 30894  sha256: 6d6e1b6052f443bfcea953aac856fd0d9b5ddb8358a5f97263d4d67ef6b41f4b
-# fetched: 2026-09-29T18:18:40Z
+# fetched: 2026-09-29T18:24:44Z
 # html page
 
 ​The Danish economy has shown solid growth for a number of years, and that continued in the 1st half of 2019. This is Danmarks Nationalbank's conclusion in a new outlook for the Danish economy, forecasting an increase in the gross domestic product, GDP, of 1.8 per cent this year. Over the next two years, GDP is expected to rise by 1.5 per cent per year.

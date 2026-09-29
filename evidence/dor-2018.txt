@@ -1,7 +1,7 @@
 # dor-2018
 # url: https://dors.dk/files/media/rapporter/2018/E18/e18_dansk_oekonomi_efteraar_2018.pdf
 # http: 200  bytes: 3140596  sha256: b4eaa553b549d64f0bf55041e4368040a8c31bb88d218d3304e22dc665d320e6
-# fetched: 2026-09-29T18:17:33Z
+# fetched: 2026-09-29T18:23:27Z
 # pages: 299  (lines below are quotes; p.N = PDF page)
 
 p.10: omkring 30.000 personer, jf. tabel A. Relativ høj vækst i efterspørg-

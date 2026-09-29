@@ -1,7 +1,7 @@
 # dor-2021-kap1
 # url: https://dors.dk/files/media/rapporter/2021/e21/endelig_rapport/e21_kap_i.pdf
 # http: 200  bytes: 463656  sha256: 4428ff65cf872dbaa0e34d80ed64203a58dc760f3a81d4a326875dba07d776b2
-# fetched: 2026-09-29T18:18:19Z
+# fetched: 2026-09-29T18:24:21Z
 # pages: 25  (lines below are quotes; p.N = PDF page)
 
 p.5: fra 2019 til 2021 taler isoleret set for, at finanspolitikken bør være

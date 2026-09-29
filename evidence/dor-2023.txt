@@ -1,7 +1,7 @@
 # dor-2023
 # url: https://dors.dk/files/media/Dansk_oekonomi_efteraar_2023.pdf
 # http: 200  bytes: 8737260  sha256: e5c8b04b247c0bfc6ae2850d68191139eac1409aca0975a4cbf1601459675dd2
-# fetched: 2026-09-29T18:17:49Z
+# fetched: 2026-09-29T18:23:46Z
 # pages: 389  (lines below are quotes; p.N = PDF page)
 
 p.14: fra 2019 til 2024, og finanspolitikken burde derfor – alt andet lige –
@@ -345,3 +345,84 @@ p.376: just under 2 percent of GDP. The sustainability indicator is 0.3 percent
 p.377: 2020  |  2030  |  2040  |  2050  |  2060  |  2070  |  2080  |  2090  |  2100
 p.377: balance (relative to the 2022 projection) in the period after 2040.
 p.377: assumes far greater  |  sumes a sustainability indicator of 1.5 percent of GDP. There is thus
+
+# --- full text of p.56 (table layout, for column headers and notes) ---
+p.56| Konjunktur og offentlige finanser - Indledning II.1
+p.56|                                       skønnes at drive BNP-væksten i perioden, mens der har været en kon-
+p.56|                                       junkturafdæmpning i den resterende del af økonomien, jf. højre del af
+p.56|                                       figur II.1. En betydelig del af medicinalproduktionen eksporteres, og
+p.56|                                       eksporten er derfor også steget markant.
+p.56| Udsigt til lavere                     Det skønnes, at der er udsigt til en mere generel vækstafmatning i den
+p.56| vækst i Danmark                       internationale økonomi de kommende år, primært som konsekvens af
+p.56| og udlandet de                        gennemslaget af et fortsat højt renteniveau. De samlede vækstudsigter
+p.56| kommende år                           for international økonomi er omtrent som forudsat i Dansk Økonomi,
+p.56|                                       forår 2023. Den afdæmpede internationale aktivitet forringer afsæt-
+p.56|                                       ningsmulighederne for danske virksomheder, og sammen med de fort-
+p.56|                                       sat høje renter ventes det at medføre omtrent stilstand i økonomien
+p.56|                                       ekskl. medicinalindustrien i 2023-24. Høj vækst i medicinalindustrien i
+p.56|                                       år løfter dog den samlede BNP-vækst i 2023 til ca. 1¾ pct., og i 2024
+p.56|                                       ventes BNP at stige ca. 1¼ pct., jf. tabel II.1. Væksten i 2023-24 er
+p.56|                                       højere end i Dansk Økonomi, forår 2023, hovedsageligt som følge af
+p.56|                                       den markante fremgang i medicinalindustrien.
+p.56|      TABEL II.1          HOVEDTAL I PROGNOSEN
+p.56|      BNP ventes at stige ca. 1¾ pct. i år og ca.1¼ pct. næste år. I år drives væksten særligt af medici-
+p.56|      nalindustrien. Inflationen skønnes at aftage, men kommer først under 2 pct. i 2025.
+p.56|                                                                                                                     a)
+p.56|                                                           2022         2023         2024     2025          2030
+p.56|      BNP (realvækst i pct.)                                 2,7          1,7          1,3      0,6            1,1
+p.56|      Beskæftigelsesgap (pct.)                               2,9          3,0          2,2      1,3            0,0
+p.56|      Inflation (pct.)                                       7,5          3,8          2,6      1,7            1,4
+p.56|      Timeløn (pct.)                                         3,5          4,5          5,9      4,6            3,3
+p.56|      Offentlig saldo (pct. af BNP)                          3,4          1,8          1,1      1,1           -0,2
+p.56|      Strukturel offentlig saldo (pct. af BNP)               1,5          0,8          0,8      0,5           -0,2
+p.56|      ECB's indlånsrente (pct.)                              0,1          3,3          3,9      3,0            2,0
+p.56|      a)        Sidste søjle viser niveauet i 2030 for beskæftigelsesgap, offentlig og strukturel saldo samt rente. For
+p.56|                BNP, inflation og timeløn vises den gennemsnitlige årlige vækst fra 2025 til 2030.
+p.56|      Anm.:     Inflationen er udtrykt ved væksten i deflatoren for det private forbrug.
+p.56|      Kilde:    Danmarks Statistik, ADAM’s databank, Macrobond og egne beregninger.
+p.56| Beskæftigelsen                        De danske virksomheder har det seneste år fastholdt et højt antal med-
+p.56| ventes at falde                       arbejdere trods afmatning i produktionen, og beskæftigelsen er endda
+p.56|                                       fortsat med at vokse. Omtrent halvdelen af beskæftigelsesstigningen
+p.56|                                       skyldes personer med udenlandsk statsborgerskab. En analyse i ka-
+p.56|                                       pitlet viser, at en stigende andel af denne beskæftigelsesfremgang er
+p.56| 48            Dansk Økonomi, efterår 2023
+
+# --- full text of p.81 (table layout, for column headers and notes) ---
+p.81|                                     Konjunktur og offentlige finanser - Aktuelle udsigter for dansk økonomi II.3
+p.81| TABEL II.2         HOVEDTAL I FREMSKRIVNINGEN
+p.81|                                                                                                                   a)
+p.81|                                                  2022        2022      2023      2024       2025         2030
+p.81|                                               Mia. kr.    ----------------- Realvækst, pct. ------------------
+p.81| Privat forbrug                                  1.225         -1,4       0,0        1,2       2,4          3,4
+p.81| Offentligt forbrug                                 617        -2,8       2,0        2,2       1,5          1,2
+p.81| Offentlige investeringer                            89         0,3       3,7        0,9       2,6          1,4
+p.81| Boliginvesteringer                                 148        -8,5     -13,0       -2,0       1,7          3,7
+p.81| Erhvervsinvesteringer                              379         9,4      -4,1       -2,4      -0,6          1,1
+p.81| Lagerændringer                                      61         0,4      -1,6        0,0       0,0          0,0
+p.81| Indenlandsk efterspørgsel i alt                 2.517         -0,3      -2,6        0,7       1,7          2,4
+p.81| Eksport                                         1.983        10,8        9,6        3,1       1,9          1,8
+p.81| Import                                          1.668          6,5       4,6        2,6       3,9          4,0
+p.81| Bruttonationalprodukt                           2.832          2,7       1,7        1,3       0,6          1,1
+p.81| BVT, private byerhverv                          1.564          5,7       4,0        0,8       0,6          1,0
+p.81|                                           1.000 pers.     -------------- Ændring i 1.000 pers. --------------
+p.81| Strukturel arbejdsstyrke                        3.071           30        32          4          0            4
+p.81| Arbejdsstyrke                                   3.124           84        45        -13       -23            -2
+p.81| Beskæftigelse                                   3.059         112         37        -20       -27            -4
+p.81|                                                           ---------------------- 1.000 pers. -------------------
+p.81| Bruttoledighed                                                  76        84         93      102           119
+p.81|                                                          --------------------------- Pct. -------------------------
+p.81| Beskæftigelsesgap                                              2,9       3,0        2,2       1,3          0,0
+p.81| Forbrugerpriser                                                7,5       3,8        2,6       1,7          1,4
+p.81| Timelønsomkostninger                                           3,5       4,5        5,9       4,6          3,3
+p.81| Kontantpris på enfamiliehuse                                   0,5      -2,5        1,0       3,8          4,7
+p.81| Timeproduktivitet, private byerhverv                           0,4       3,0        2,2       2,2          1,4
+p.81| 30-årig dansk realkreditrente                                  3,8       4,9        4,9       4,5          4,4
+p.81|                                                           --------------------- Pct. af BNP -------------------
+p.81| Betalingsbalancen                                            13,5       12,3      13,4       12,6          7,4
+p.81| a)       Den sidste søjle viser niveauet i 2030 for ledighed, beskæftigelsesgap, rente og betalingsbalance. For
+p.81|          de øvrige poster vises den gennemsnitlige årlige vækst fra 2025 til 2030.
+p.81| Anm.:    Beskæftigelsesgap angiver afvigelsen fra den strukturelle beskæftigelse i pct. Forbrugerpriserne er ud-
+p.81|          trykt ved deflatoren for det private forbrug. Lagerinvesteringer angiver vækstbidraget til BNP. Renten er
+p.81|          angivet som årsgennemsnit.
+p.81| Kilde:   Danmarks Statistik, ADAM’s databank, Macrobond og egne beregninger.
+p.81|                                                                           Dansk Økonomi, efterår 2023                  73

@@ -1,7 +1,7 @@
 # dor-2015-kap1
 # url: https://dors.dk/files/media/rapporter/2015/E15/kap_i/e15_kap_i_konjunkturvurdering.pdf
 # http: 200  bytes: 1230021  sha256: 66a88c1b499b74f50a0699b436a77e59379671f8102d083c92185f1680cbdfb6
-# fetched: 2026-09-29T18:17:56Z
+# fetched: 2026-09-29T18:23:54Z
 # pages: 103  (lines below are quotes; p.N = PDF page)
 
 p.1: 2015  |  personer siden midten af 2013. De positive tendenser i
@@ -189,3 +189,44 @@ p.92: ca. ¾ pct.point i 2017 og godt ½ pct.point i 2018. En grad-
 p.93: for underskud  |  offentlige saldo i 2015 og 2016 ligger lidt over 3 pct. af
 p.93: pct. i 2020 og ¾ pct. i 2025. Den seneste langsigtede frem-
 p.95: holdningerne. For 2016 og 2017 er der indgået en politisk
+
+# --- full text of p.3 (table layout, for column headers and notes) ---
+p.3|                                                                                      I.1 Indledning
+p.3| Tabel I.1      Hovedtal i prognosen
+p.3|                                                                                                     a)
+p.3|                                                       2014 2015 2016 2017 2025
+p.3| BNP (realvækst i pct.)                                   1,1  1,6  2,1  2,3  2,1
+p.3| BVT i priv. byerhverv (realvækst i pct.)                 2,1  2,2  2,7  2,7  2,5
+p.3| Output gap (pct. af strukturelt BNP)                    -4,4 -3,8 -2,9 -2,1  0,0
+p.3| Beskæftigelsesændring (1.000 pers.)                      25   26   33   35   23
+p.3| Inflation (pct.)                                         0,7  1,0  1,6  1,8  1,8
+p.3| Timeløn (pct.)                                           1,3  1,9  2,4  2,7  3,1
+p.3| Offentlig saldo (pct. af BNP)                            1,8 -3,2 -3,2 -2,0  0,8
+p.3| Strukturel offentlig saldo (pct. af BNP)                 0,6  0,3  0,2  0,3  0,8
+p.3| BNP i aftagerlande (realvækst i pct.)                    2,1  2,0  2,4  2,7  2,3
+p.3| a)       Den sidste søjle viser den gennemsnitlige årlige vækst fra 2017 til 2025. For output gap og
+p.3|          offentlig saldo vises dog niveauet i 2025, og for beskæftigelsen vises den gennemsnitlige år-
+p.3|          lige ændring fra 2017 til 2025. Den strukturelle offentlige saldo er beregnet efter budgetlo-
+p.3|          vens metode.
+p.3| Kilde:   Danmarks Statistik, ADAM’s databank, Macrobond og egne beregninger.
+p.3| Offentligt                  I prognosen udgør underskuddet på den offentlige saldo ca.
+p.3| underskud lidt              3,2 pct. af BNP i både 2015 og 2016. Dermed forventes
+p.3| over 3 pct. af              underskuddet at ligge lidt over EU’s underskudsgrænse på 3
+p.3| BNP                         pct. af BNP i to år i træk. I 2017 ventes underskuddet at
+p.3|                             komme under 3 pct.-grænsen, og de offentlige finanser vur-
+p.3|                             deres at være sunde på mellemlang og lang sigt. På den
+p.3|                             baggrund vurderes underskuddene på kort sigt ikke at være
+p.3|                             et alvorligt problem for de offentlige finanser, og det vurde-
+p.3|                             res at være mest sandsynligt, at Danmark ikke kommer i
+p.3|                             EU’s procedure for uforholdsmæssigt store underskud, jf.
+p.3|                             kapitel II.
+p.3| Lidt svagere                Vurderingen af vækstudsigterne for dansk økonomi er ned-
+p.3| vækstudsigter               justeret lidt i forhold til Dansk Økonomi, forår 2015. Skøn-
+p.3| end i foråret               net for væksten i BNP er således reduceret med omtrent ¼
+p.3|                             pct.point i både 2015 og 2016. Nedjusteringen i 2015 skyl-
+p.3|                             des, at fremgangen i første halvår har været lidt svagere end
+p.3|                             ventet i foråret, særligt fordi erhvervsinvesteringerne har
+p.3|                             udviklet sig svagt.
+p.3| Fremskrivning               Dansk Økonomi, forår 2015 indeholdt en fremskrivning af
+p.3| til 2025                    dansk økonomi til 2020. I dette kapitel præsenteres en frem-
+p.3|                                                                                                     17

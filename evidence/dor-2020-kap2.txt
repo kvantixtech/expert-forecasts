@@ -1,7 +1,7 @@
 # dor-2020-kap2
 # url: https://dors.dk/files/media/rapporter/2020/e20/endelig_rapport/e20_kap.ii_konjunktur_og_offentlige_finanser.pdf
 # http: 200  bytes: 4563937  sha256: c0ce3be23d2c61b6004f2104e3318e3604e44980d4b0aa26b788c0c117657d04
-# fetched: 2026-09-29T18:18:16Z
+# fetched: 2026-09-29T18:24:17Z
 # pages: 95  (lines below are quotes; p.N = PDF page)
 
 p.3: de kommende år  |  ventes, at BNP i 2021 er tilbage på samme niveau som i 2019. Det er
@@ -182,3 +182,80 @@ p.87: forværres  |  nem 2021 og 2022. En afgørende forudsætning for denne udv
 p.87: at være tilbage på  |  lerede i 2021 kan være oppe på samme niveau som i 2019. Denne
 p.88: i 2021 kan overskride  |  værring af den strukturelle saldo på omkring 1 pct.point fra 2019 til
 p.88: budgetlovens grænse  |  2021. Den strukturelle saldo skønnes i 2021 at udvise et underskud på
+
+# --- full text of p.4 (table layout, for column headers and notes) ---
+p.4| Konjunktur og offentlige finanser - Indledning II.1
+p.4|      TABEL II.1          HOVEDTAL I PROGNOSEN
+p.4|                                                                           2019        2020       2021         2025 a)
+p.4|      BNP (realvækst i pct.)                                                 2,8        -3,6        3,8          2,3
+p.4|      Beskæftigelsesgap (pct.)                                               0,5        -1,5       -1,4            0
+p.4|      Nettoledighed (udgang af året)                                          88        130         117           84
+p.4|      Offentlig saldo (pct. af BNP)                                          3,8        -4,1       -2,2          -0,4
+p.4|      Strukturel offentlig saldo (pct. af BNP)                               0,4        -2,3       -0,7          -0,4
+p.4|      BNP i aftagerlande (realvækst i pct.)                                  1,8        -5,1        4,7          2,5
+p.4|      a)        Den sidste søjle viser niveauet i 2025 for beskæftigelsesgap, nettoledighed, faktisk offentlig saldo og
+p.4|                strukturel saldo. For BNP i Danmark og udlandet vises den gennemsnitlige årlige vækst fra 2021 til 2025.
+p.4|      Anm.:     Den strukturelle saldo er beregnet efter budgetlovens metode.
+p.4|      Kilde:    Danmarks Statistik, ADAM’s databank og egne beregninger.
+p.4| … og myndigheder                     Myndighederne forudsættes samtidig at være blevet bedre til at hånd-
+p.4| og befolkningens                     tere de udbrud, der opstår, ved brug af målrettede tiltag snarere end
+p.4| adfærd                               landsdækkende nedlukninger, som vi så i foråret. Det lægges til grund,
+p.4|                                      at der i varierende omfang vil være restriktioner, som hovedsageligt vil
+p.4|                                      påvirke aktiviteten i de brancher, der kræver tæt kontakt mellem
+p.4|                                      mange mennesker eller aktivitet på tværs af grænser, men at der ikke
+p.4|                                      bliver indført omfattende, landsdækkende nedlukninger. Den forud-
+p.4|                                      satte udvikling i smitten og håndteringen heraf antages at bidrage til,
+p.4|                                      at der ikke sker en markant forværring af forbruger- og erhvervstilliden.
+p.4| Usikkerhed om                        Usikkerheden om udviklingen i smittebilledet medfører en tilsvarende
+p.4| smitteudvikling                      usikkerhed om den økonomiske udvikling. Udvikler smitteudbredelsen
+p.4| giver usikkerhed om                  sig i ugunstig retning, eller lykkes det ikke at udvikle en effektiv be-
+p.4| økonomisk udvikling                  handling eller vaccine, vil det forventeligt påvirke økonomien markant.
+p.4|                                      Det kan ske både som følge af adfærdsændringer, der fører til lavere
+p.4|                                      forbrug og investeringer samt forandringer i forbrugs- og investerings-
+p.4|                                      mønstrene, og som følge af, at der kan blive indført mere udbredte
+p.4|                                      nedlukninger, sådan som vi så det i foråret.
+p.4| Pessimistisk                         I tillæg til prognosens hovedscenarie er der derfor udarbejdet et pessi-
+p.4| scenarie afspejler                   mistisk scenarie, hvor udlandsvæksten og forbrugs- og investeringsly-
+p.4| risikoen for negative                sten er betragteligt lavere end i hovedscenariet. I dette scenarie vokser
+p.4| adfærdseffekter                      dansk økonomi ca. 2¾ pct.point mindre i 2020-21 end i hovedscena-
+p.4|                                      riet, og i 2022 er BNP ca. 3 pct. lavere. I forhold til hovedscenariet sker
+p.4|                                      genopretningen af dansk økonomi dermed i et langsommere tempo.
+p.4| 42            Dansk Økonomi, efterår 2020
+
+# --- full text of p.13 (table layout, for column headers and notes) ---
+p.13|                                          Konjunktur og offentlige finanser - Dansk økonomi frem mod 2025 II.2
+p.13| TABEL II.2         HOVEDTAL FOR KONJUNKTURVURDERINGEN
+p.13|                                                              2019          2019       2020       2021        2025 a)
+p.13|                                                            Mia. kr.    ------------- Realvækst, pct. -------------
+p.13| Privat forbrug                                              1.076            1,4       -3,6        3,7         3,7
+p.13| Offentligt forbrug                                            557            1,2        2,1        2,0         0,7
+p.13| Offentlige investeringer                                        77           0,3        7,5        3,4         1,0
+p.13| Boliginvesteringer                                            115            6,2        3,4        3,1         0,7
+p.13| Erhvervsinvesteringer                                         321            2,3       -6,4        3,8         0,6
+p.13| Lagerændringer                                                  18          -0,3        0,1       -0,3        -0,1
+p.13| Indenlandsk efterspørgsel i alt                             2.163            1,3       -1,6        2,9         2,2
+p.13| Eksport                                                     1.362            5,0      -12,4        9,0         5,5
+p.13| Import                                                      1.190            2,4      -10,1        7,7         5,6
+p.13| Bruttonationalprodukt                                       2.335            2,8       -3,6        3,8         2,3
+p.13|                                                         ------------------- Ændring i 1.000 pers. ---------------
+p.13| Strukturel arbejdsstyrke                                        23            23          6         13          15
+p.13| Arbejdsstyrke                                                   35            35         -8         13          17
+p.13| Privat beskæftigelse                                            31            31        -52          8          20
+p.13| Offentlig beskæftigelse                                          5             5          3          8           6
+p.13|                                                         -------------------------- 1.000 pers. --------------------
+p.13| Nettoledighed                                                   86            86        124        121          84
+p.13| Beskæftigelsesgap                                               13            13        -43        -41           0
+p.13|                                                          ------------------------------ Pct. -------------------------
+p.13| Forbrugerpriser                                                0,8           0,8        0,4        1,3         1,2
+p.13| Timelønsomkostninger                                           2,5           2,5        2,0        1,9         2,7
+p.13| Kontantpris på enfamiliehuse                                   3,0           3,0        3,0        3,0         1,6
+p.13| Mandeproduktivitet, hele økonomien                             1,6           1,6       -2,0        3,3         1,4
+p.13|                                                          -------------------------- Pct. af BNP --------------------
+p.13| Offentlig saldo                                                3,8           3,8       -4,1       -2,2        -0,4
+p.13| ØMU-gæld                                                      33,0          33,0       45,9       44,4        53,0
+p.13| a)       2025-søjlen angiver den gennemsnitlige årlige vækst fra 2021 til 2025. For nettoledighed, beskæftigel-
+p.13|          sesgap, offentlig saldo og ØMU-gæld er angivet niveauet i 2025.
+p.13| Anm.:    Lagerændringer angiver vækstbidraget til BNP. Beskæftigelsesgap angiver afvigelsen fra den struktu-
+p.13|          relle beskæftigelse målt i personer. Forbrugerpriserne er udtrykt ved deflatoren for det private forbrug.
+p.13| Kilde:   Danmarks Statistik, ADAM’s databank og egne beregninger.
+p.13|                                                                           Dansk Økonomi, efterår 2020                51
