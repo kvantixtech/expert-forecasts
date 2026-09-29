@@ -64,7 +64,10 @@
   {
    "id": "or-2023-12",
    "kind": "pdf",
-   "url": "https://oem.dk/media/gp2h10nx/oekonomisk-redegoerelse-december-2023-20231212-a.pdf"
+   "url": "https://oem.dk/media/gp2h10nx/oekonomisk-redegoerelse-december-2023-20231212-a.pdf",
+   "dump_pages": [
+    216
+   ]
   },
   {
    "id": "or-2024-12",
@@ -79,12 +82,18 @@
   {
    "id": "nb-2017-03",
    "kind": "pdf",
-   "url": "https://www.nationalbanken.dk/media/otbgtlbo/analysis-outlook-for-the-danish-economy-march-2017.pdf"
+   "url": "https://www.nationalbanken.dk/media/otbgtlbo/analysis-outlook-for-the-danish-economy-march-2017.pdf",
+   "dump_pages": [
+    19
+   ]
   },
   {
    "id": "nb-2018-03",
    "kind": "pdf",
-   "url": "https://www.nationalbanken.dk/media/a5fl4m0b/analyse-moderat-hoejkonjunktur-i-de-kommende-aar.pdf"
+   "url": "https://www.nationalbanken.dk/media/a5fl4m0b/analyse-moderat-hoejkonjunktur-i-de-kommende-aar.pdf",
+   "dump_pages": [
+    19
+   ]
   },
   {
    "id": "nb-2018-09-press",
@@ -268,7 +277,10 @@
   {
    "id": "dor-2022-bg",
    "kind": "pdf",
-   "url": "https://dors.dk/files/media/rapporter/2022/e22/baggrundsmateriale/e22_kap._ii_konjunktur_baggrundsnotat_konjunkturvurdering_ny.pdf"
+   "url": "https://dors.dk/files/media/rapporter/2022/e22/baggrundsmateriale/e22_kap._ii_konjunktur_baggrundsnotat_konjunkturvurdering_ny.pdf",
+   "dump_pages": [
+    1
+   ]
   },
   {
    "id": "dor-2023-kap2",
@@ -368,27 +380,42 @@
   {
    "id": "nb-2015-12",
    "kind": "pdf",
-   "url": "https://www.nationalbanken.dk/media/rmimcval/monetary-review-4th-quarter-2015.pdf"
+   "url": "https://www.nationalbanken.dk/media/rmimcval/monetary-review-4th-quarter-2015.pdf",
+   "dump_pages": [
+    32
+   ]
   },
   {
    "id": "nb-2019-03",
    "kind": "pdf",
-   "url": "https://www.nationalbanken.dk/media/r54pgrin/analysis-no-7-outlook-for-the-danish-economy-march-2019.pdf"
+   "url": "https://www.nationalbanken.dk/media/r54pgrin/analysis-no-7-outlook-for-the-danish-economy-march-2019.pdf",
+   "dump_pages": [
+    22
+   ]
   },
   {
    "id": "nb-2019-09",
    "kind": "pdf",
-   "url": "https://www.nationalbanken.dk/media/n2war15y/analysis-no-20-outlook-for-the-danish-economy-september-2019.pdf"
+   "url": "https://www.nationalbanken.dk/media/n2war15y/analysis-no-20-outlook-for-the-danish-economy-september-2019.pdf",
+   "dump_pages": [
+    27
+   ]
   },
   {
    "id": "nb-2020-09",
    "kind": "pdf",
-   "url": "https://www.nationalbanken.dk/media/fhdaeaep/analyse-nr-18-udsigt-til-moderat-lavkonjunktur-det-naeste-aars-tid.pdf"
+   "url": "https://www.nationalbanken.dk/media/fhdaeaep/analyse-nr-18-udsigt-til-moderat-lavkonjunktur-det-naeste-aars-tid.pdf",
+   "dump_pages": [
+    28
+   ]
   },
   {
    "id": "nb-2020-06",
    "kind": "pdf",
-   "url": "https://www.nationalbanken.dk/media/lbmic2pw/analyse-nr-12-udsigt-til-gradvis-genopretning-af-oekonomien.pdf"
+   "url": "https://www.nationalbanken.dk/media/lbmic2pw/analyse-nr-12-udsigt-til-gradvis-genopretning-af-oekonomien.pdf",
+   "dump_pages": [
+    28
+   ]
   },
   {
    "id": "nb-2020-12",
