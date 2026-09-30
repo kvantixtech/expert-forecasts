@@ -1,8 +1,8 @@
 """Temporary probe (not part of expert-forecasts): check the audit findings against the live kvantix.tech."""
 import json, os, re, ssl, socket, time, urllib.request, urllib.error
-UA = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0 Safari/537.36 kvantix-audit-probe"
+UA = "kvantixtech/site-audit check (github actions)"
 def get(url, method="GET"):
-    req = urllib.request.Request(url, method=method, headers={"User-Agent": UA, "Accept": "text/html,application/xhtml+xml,*/*"})
+    req = urllib.request.Request(url, method=method, headers={"User-Agent": UA, "Accept": "*/*"})
     try:
         with urllib.request.urlopen(req, timeout=40) as r:
             body = r.read() if method == "GET" else b""
