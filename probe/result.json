@@ -1,358 +1,77 @@
 {
- "run_utc": "2026-09-30T18:19:49Z",
+ "run_utc": "2026-09-30T18:21:36Z",
  "pages": {
   "/": {
-   "status": 200,
-   "final": "https://kvantix.tech/",
-   "error": null,
-   "cookies": [],
-   "title": "Kvantix | Independent Signal &amp; Forecast Validation",
-   "description": "Does your trading signal or forecast work? Seven statistical tests on your own data: a free Quick Check or a written verdict. Same price, whatever it says.",
-   "og:image:alt": "Algorithmic Trading Terminal",
-   "og:title": "Kvantix — does your trading signal actually work?",
-   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-   "found": {
-    "example_report": [
-     "https://kvantix.tech/wp-content/uploads/kvantix-example-report-v1.pdf",
-     "https://kvantix.tech/wp-content/uploads/kvantix-example-report-v2.pdf"
-    ],
-    "mailto_request": [
-     "mailto:validation@kvantix.tech?subject=Validation"
-    ],
-    "umami": [
-     "umami"
-    ],
-    "gtag": [
-     "googletagmanager"
-    ],
-    "horizons": [
-     "12h",
-     "15m",
-     "1d",
-     "1h",
-     "1w",
-     "4h"
-    ]
-   },
-   "security_headers": {
-    "Strict-Transport-Security": null,
-    "Content-Security-Policy": null,
-    "Content-Security-Policy-Report-Only": null,
-    "X-Frame-Options": null,
-    "X-Content-Type-Options": "nosniff",
-    "Referrer-Policy": "no-referrer-when-downgrade",
-    "Permissions-Policy": "private-state-token-redemption=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\"), private-state-token-issuance=(self \"https://www.google.com\" \"https://www.gstatic.com\" \"https://recaptcha.net\" \"https://challenges.cloudflare.com\" \"https://hcaptcha.com\")",
-    "Server": "Simply.com",
-    "X-Powered-By": null
-   }
+   "hosts": [
+    "cloud.umami.is",
+    "github.com",
+    "kvantix.tech",
+    "portal.kvantix.tech",
+    "www.googletagmanager.com",
+    "www.linkedin.com",
+    "x.com"
+   ],
+   "scripts": [
+    "//www.googletagmanager.com/gtag/js?id=G-KGXZK5RQ0T",
+    "https://kvantix.tech/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.min.js?ver=11.3.0",
+    "https://cloud.umami.is/script.js",
+    "https://kvantix.tech/wp-content/themes/extendable/assets/js/animations-interactivity.js?ver=2.1.2",
+    "https://kvantix.tech/wp-content/themes/extendable/assets/js/navigation-customization.js"
+   ],
+   "tracking_context": [
+    "\" type=\"text/xml+oembed\" href=\"https://kvantix.tech/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fkvantix.tech%2F&#038;format=xml\" />\n\t\t<!-- This site uses the Google Analytics by MonsterInsights plugin v11.3.0 - Using Analytics tracking - https://www.monsterinsights.com/ -->\n\t\t\t\t\t\t\t<script src=\"//www.googletagmanager.com/gtag/js?id=G-KGXZK5RQ0T\"  data-cfasync=\"false\" data-wpfc-render=\"false\" async></script>\n\t\t\t<script data-cfasync=\"false\" data-wpfc-render=\"false\">\n\t\t\t\tvar mi_version = '11.3.0';\n\t\t\t\tvar mi_track_user = true;\n\t\t\t\tvar mi_no_track_reason = '';\n\t\t\t\t\t\t\t\tvar MonsterInsightsDefaultLocations = {\"page_lo",
+    "pi.w.org/\" href=\"https://kvantix.tech/wp-json/\" /><link rel=\"alternate\" title=\"JSON\" type=\"application/json\" href=\"https://kvantix.tech/wp-json/wp/v2/pages/50\" /><link rel=\"EditURI\" type=\"application/rsd+xml\" title=\"RSD\" href=\"https://kvantix.tech/xmlrpc.php?rsd\" />\n<script defer src=\"https://cloud.umami.is/script.js\" data-website-id=\"8ba4ea0f-0dcb-44d7-8efb-9215dc829bcf\"></script>    <script>\r\n    /* WebMCP GLOBAL POLYFILL - RAW INJECTION */\r\n    (function() {\r\n        if (!navigator.modelContext) {\r\n            navigator.modelContext = {\r\n                version: \"1.1.4\",\r\n                islandI",
+    "ps://kvantix.tech/wp-json/\" /><link rel=\"alternate\" title=\"JSON\" type=\"application/json\" href=\"https://kvantix.tech/wp-json/wp/v2/pages/50\" /><link rel=\"EditURI\" type=\"application/rsd+xml\" title=\"RSD\" href=\"https://kvantix.tech/xmlrpc.php?rsd\" />\n<script defer src=\"https://cloud.umami.is/script.js\" data-website-id=\"8ba4ea0f-0dcb-44d7-8efb-9215dc829bcf\"></script>    <script>\r\n    /* WebMCP GLOBAL POLYFILL - RAW INJECTION */\r\n    (function() {\r\n        if (!navigator.modelContext) {\r\n            navigator.modelContext = {\r\n                version: \"1.1.4\",\r\n                islandId: \"kvantix-enclave-node\",\r\n  "
+   ],
+   "bytes": 120987
   },
   "/playground/": {
-   "status": 200,
-   "final": "https://kvantix.tech/playground/",
-   "error": null,
-   "cookies": [],
-   "title": "Data Playground: Which Weather Forecast Is Right? &#045; Kvantix",
-   "description": "Our validation method tested in public. First experiment: DMI, MET Norway, OpenWeatherMap and the pilots&#039; TAF, locked before the weather happens.",
-   "og:image:alt": "Data Playground: Which Weather Forecast Is Right?",
-   "og:title": "Data Playground: Which Weather Forecast Is Right? &#045; Kvantix",
-   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-   "found": {
-    "mailto_request": [
-     "mailto:validation@kvantix.tech?subject=Validation"
-    ],
-    "umami": [
-     "umami"
-    ],
-    "gtag": [
-     "googletagmanager"
-    ]
-   }
-  },
-  "/playground/weather/": {
-   "status": 200,
-   "final": "https://kvantix.tech/playground/weather/",
-   "error": null,
-   "cookies": [],
-   "title": "Which weather forecast is right most often? · Data Playground",
-   "description": "DMI, MET Norway, OpenWeatherMap and the pilots&#039; TAF, locked four times a day before the weather happens and scored against DMI&#039;s stations. Live status, rules and code.",
-   "og:image:alt": "Weather forecast test",
-   "og:title": "Which weather forecast is right most often? · Data Playground",
-   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-   "found": {
-    "mailto_request": [
-     "mailto:validation@kvantix.tech?subject=Validation"
-    ],
-    "umami": [
-     "umami"
-    ],
-    "gtag": [
-     "googletagmanager"
-    ]
-   }
-  },
-  "/playground/experts/": {
-   "status": 200,
-   "final": "https://kvantix.tech/playground/experts/",
-   "error": null,
-   "cookies": [],
-   "title": "Did the experts get it right? · Denmark&#039;s forecasts vs what happened",
-   "description": "Ten years of GDP and inflation forecasts from the Government, Danmarks Nationalbank and the Economic Councils, checked against what happened and against a lazy guess. Every number sourced.",
-   "og:image:alt": "Did the experts get it right?",
-   "og:title": "Did the experts get it right? · Denmark&#039;s forecasts vs what happened",
-   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-   "found": {
-    "mailto_request": [
-     "mailto:validation@kvantix.tech?subject=Validation"
-    ],
-    "umami": [
-     "umami"
-    ],
-    "gtag": [
-     "googletagmanager"
-    ]
-   }
+   "hosts": [
+    "cloud.umami.is",
+    "github.com",
+    "kvantix.tech",
+    "portal.kvantix.tech",
+    "www.googletagmanager.com",
+    "www.linkedin.com",
+    "x.com"
+   ],
+   "scripts": [
+    "//www.googletagmanager.com/gtag/js?id=G-KGXZK5RQ0T",
+    "https://kvantix.tech/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.min.js?ver=11.3.0",
+    "https://cloud.umami.is/script.js",
+    "https://kvantix.tech/wp-content/themes/extendable/assets/js/animations-interactivity.js?ver=2.1.2",
+    "https://kvantix.tech/wp-content/themes/extendable/assets/js/navigation-customization.js"
+   ],
+   "tracking_context": [
+    "xml+oembed\" href=\"https://kvantix.tech/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fkvantix.tech%2Fplayground%2F&#038;format=xml\" />\n\t\t<!-- This site uses the Google Analytics by MonsterInsights plugin v11.3.0 - Using Analytics tracking - https://www.monsterinsights.com/ -->\n\t\t\t\t\t\t\t<script src=\"//www.googletagmanager.com/gtag/js?id=G-KGXZK5RQ0T\"  data-cfasync=\"false\" data-wpfc-render=\"false\" async></script>\n\t\t\t<script data-cfasync=\"false\" data-wpfc-render=\"false\">\n\t\t\t\tvar mi_version = '11.3.0';\n\t\t\t\tvar mi_track_user = true;\n\t\t\t\tvar mi_no_track_reason = '';\n\t\t\t\t\t\t\t\tvar MonsterInsightsDefaultLocations = {\"page_lo",
+    "i.w.org/\" href=\"https://kvantix.tech/wp-json/\" /><link rel=\"alternate\" title=\"JSON\" type=\"application/json\" href=\"https://kvantix.tech/wp-json/wp/v2/pages/610\" /><link rel=\"EditURI\" type=\"application/rsd+xml\" title=\"RSD\" href=\"https://kvantix.tech/xmlrpc.php?rsd\" />\n<script defer src=\"https://cloud.umami.is/script.js\" data-website-id=\"8ba4ea0f-0dcb-44d7-8efb-9215dc829bcf\"></script>    <script>\r\n    /* WebMCP GLOBAL POLYFILL - RAW INJECTION */\r\n    (function() {\r\n        if (!navigator.modelContext) {\r\n            navigator.modelContext = {\r\n                version: \"1.1.4\",\r\n                islandI",
+    "s://kvantix.tech/wp-json/\" /><link rel=\"alternate\" title=\"JSON\" type=\"application/json\" href=\"https://kvantix.tech/wp-json/wp/v2/pages/610\" /><link rel=\"EditURI\" type=\"application/rsd+xml\" title=\"RSD\" href=\"https://kvantix.tech/xmlrpc.php?rsd\" />\n<script defer src=\"https://cloud.umami.is/script.js\" data-website-id=\"8ba4ea0f-0dcb-44d7-8efb-9215dc829bcf\"></script>    <script>\r\n    /* WebMCP GLOBAL POLYFILL - RAW INJECTION */\r\n    (function() {\r\n        if (!navigator.modelContext) {\r\n            navigator.modelContext = {\r\n                version: \"1.1.4\",\r\n                islandId: \"kvantix-enclave-node\",\r\n  "
+   ],
+   "bytes": 118450
   },
   "/playground/energy/": {
-   "status": 200,
-   "final": "https://kvantix.tech/playground/energy/",
-   "error": null,
-   "cookies": [],
-   "title": "Energy data, locked as published",
-   "description": "Energinet&#039;s CO₂ forecast every hour and every Danish grid tariff and the electricity tax every day, saved before they are overwritten and anchored on GitHub. Plus the electricity tax from 2019 to 2027.",
-   "og:image:alt": "Energy data, locked as published",
-   "og:title": "Energy data, locked as published",
-   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-   "found": {
-    "mailto_request": [
-     "mailto:validation@kvantix.tech?subject=Validation"
-    ],
-    "umami": [
-     "umami"
-    ],
-    "gtag": [
-     "googletagmanager"
-    ]
-   }
-  },
-  "/playground/luck-or-skill/": {
-   "status": 200,
-   "final": "https://kvantix.tech/playground/luck-or-skill/",
-   "error": null,
-   "cookies": [],
-   "title": "Luck or Skill? Call 20 Real Bitcoin Days",
-   "description": "Call 20 real Bitcoin days up or down, then see how often a coin does as well. Why a good score on 20 guesses proves nothing.",
-   "og:image:alt": "Luck or Skill? Call 20 Real Bitcoin Days",
-   "og:title": "Luck or Skill? Call 20 Real Bitcoin Days",
-   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-   "found": {
-    "mailto_request": [
-     "mailto:validation@kvantix.tech?subject=Validation"
-    ],
-    "umami": [
-     "umami"
-    ],
-    "gtag": [
-     "googletagmanager"
-    ]
-   }
-  },
-  "/playground/lock-your-prediction/": {
-   "status": 200,
-   "final": "https://kvantix.tech/playground/lock-your-prediction/",
-   "error": null,
-   "cookies": [],
-   "title": "Lock Your Prediction: Seal It Now, Prove It Later",
-   "description": "Seal a prediction in your browser with SHA-256 and a secret key. Publish the seal, reveal it later and let anyone check it. Nothing is stored.",
-   "og:image:alt": "Lock Your Prediction: Seal It Now, Prove It Later",
-   "og:title": "Lock Your Prediction: Seal It Now, Prove It Later",
-   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-   "found": {
-    "mailto_request": [
-     "mailto:validation@kvantix.tech?subject=Validation"
-    ],
-    "umami": [
-     "umami"
-    ],
-    "gtag": [
-     "googletagmanager"
-    ]
-   }
-  },
-  "/playground/track-record/": {
-   "status": 200,
-   "final": "https://kvantix.tech/playground/track-record/",
-   "error": null,
-   "cookies": [],
-   "title": "Is that track record luck? · Track record checker",
-   "description": "Type in any win rate you&#039;ve been shown and see how often pure luck does as well. Exact binomial maths, the take-profit trick, the best-of-many trap. Runs in your browser; nothing stored.",
-   "og:image:alt": "Track record checker",
-   "og:title": "Is that track record luck? · Track record checker",
-   "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
-   "found": {
-    "mailto_request": [
-     "mailto:validation@kvantix.tech?subject=Validation"
-    ],
-    "umami": [
-     "umami"
-    ],
-    "gtag": [
-     "googletagmanager"
-    ]
-   }
-  },
-  "/wp-content/uploads/kvantix-data-guide.html": {
-   "status": 200,
-   "final": "https://kvantix.tech/wp-content/uploads/kvantix-data-guide.html",
-   "error": null,
-   "cookies": [],
-   "title": "Data Guide · Kvantix Validation",
-   "description": "How to prepare prediction data for a Kvantix validation: the file format, how to convert call logs and trade logs, acceptance criteria and common mistakes.",
-   "og:image:alt": null,
-   "og:title": null,
-   "robots": null,
-   "found": {
-    "portal_request": [
-     "portal.kvantix.tech/request"
-    ],
-    "horizons": [
-     "15m",
-     "1d",
-     "1w",
-     "4h"
-    ]
-   }
-  }
- },
- "upload_links": {
-  "https://kvantix.tech/wp-content/uploads/2026/03/cropped-kvantix_logo-180x180.png": 200,
-  "https://kvantix.tech/wp-content/uploads/2026/03/cropped-kvantix_logo-192x192.png": 200,
-  "https://kvantix.tech/wp-content/uploads/2026/03/cropped-kvantix_logo-32x32.png": 200,
-  "https://kvantix.tech/wp-content/uploads/kvantix-data-guide.html": 200,
-  "https://kvantix.tech/wp-content/uploads/kvantix-example-report-v1.pdf": 200,
-  "https://kvantix.tech/wp-content/uploads/kvantix-example-report-v2.pdf": 200
- },
- "misc": {
-  "/sitemap_index.xml": {
-   "status": 200,
-   "final": "https://kvantix.tech/sitemap_index.xml",
-   "locs": [
-    "https://kvantix.tech/page-sitemap.xml"
-   ],
-   "head": null
-  },
-  "/page-sitemap.xml": {
-   "status": 200,
-   "final": "https://kvantix.tech/page-sitemap.xml",
-   "locs": [
-    "https://kvantix.tech/",
-    "https://kvantix.tech/playground/",
-    "https://kvantix.tech/playground/energy/",
-    "https://kvantix.tech/playground/weather/",
-    "https://kvantix.tech/playground/track-record/",
-    "https://kvantix.tech/playground/luck-or-skill/",
-    "https://kvantix.tech/playground/lock-your-prediction/",
-    "https://kvantix.tech/playground/experts/"
-   ],
-   "head": null
-  },
-  "/post-sitemap.xml": {
-   "status": 404,
-   "final": "https://kvantix.tech/post-sitemap.xml",
-   "locs": [],
-   "head": null
-  },
-  "/category-sitemap.xml": {
-   "status": 404,
-   "final": "https://kvantix.tech/category-sitemap.xml",
-   "locs": [],
-   "head": null
-  },
-  "/author-sitemap.xml": {
-   "status": 404,
-   "final": "https://kvantix.tech/author-sitemap.xml",
-   "locs": [],
-   "head": null
-  },
-  "/hello-world/": {
-   "status": 404,
-   "final": "https://kvantix.tech/hello-world/",
-   "locs": [],
-   "head": null
-  },
-  "/robots.txt": {
-   "status": 200,
-   "final": "https://kvantix.tech/robots.txt",
-   "locs": [],
-   "head": "User-agent: *\nDisallow: /wp-admin/\nAllow: /wp-admin/admin-ajax.php\n\nSitemap: https://kvantix.tech/sitemap_index.xml\n"
-  },
-  "/wp-json/wp/v2/users": {
-   "status": 401,
-   "final": "https://kvantix.tech/wp-json/wp/v2/users",
-   "locs": [],
-   "head": null
-  },
-  "/xmlrpc.php": {
-   "status": 403,
-   "final": "https://kvantix.tech/xmlrpc.php",
-   "locs": [],
-   "head": null
-  },
-  "/privacy-policy/": {
-   "status": 200,
-   "final": "https://portal.kvantix.tech/privacy",
-   "locs": [],
-   "head": null
-  },
-  "/privacy/": {
-   "status": 404,
-   "final": "https://kvantix.tech/privacy/",
-   "locs": [],
-   "head": null
-  }
- },
- "tls": {
-  "kvantix.tech": {
-   "ok": true,
-   "subjectAltName": [
-    "kvantix.tech",
-    "www.kvantix.tech"
-   ],
-   "notAfter": "Dec  1 06:03:27 2026 GMT"
-  },
-  "playground.kvantix.tech": {
-   "ok": false,
-   "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'playground.kvantix.tech'. (_ssl.c:1000)"
-  },
-  "portal.kvantix.tech": {
-   "ok": true,
-   "subjectAltName": [
-    "portal.kvantix.tech"
-   ],
-   "notAfter": "Dec 25 16:18:57 2026 GMT"
-  }
- },
- "portal": {
-  "https://portal.kvantix.tech/privacy": {
-   "status": 200,
-   "final": "https://portal.kvantix.tech/privacy",
-   "draft": true,
    "hosts": [
-    "Hetzner",
-    "Simply.com",
-    "Stripe"
-   ]
-  },
-  "https://portal.kvantix.tech/terms": {
-   "status": 200,
-   "final": "https://portal.kvantix.tech/terms",
-   "draft": true,
-   "hosts": []
-  },
-  "https://portal.kvantix.tech/request": {
-   "status": 200,
-   "final": "https://portal.kvantix.tech/request",
-   "draft": false,
-   "hosts": []
+    "cloud.umami.is",
+    "github.com",
+    "kvantix.tech",
+    "portal.kvantix.tech",
+    "www.googletagmanager.com",
+    "www.linkedin.com",
+    "x.com"
+   ],
+   "scripts": [
+    "//www.googletagmanager.com/gtag/js?id=G-KGXZK5RQ0T",
+    "https://kvantix.tech/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.min.js?ver=11.3.0",
+    "https://cloud.umami.is/script.js",
+    "https://kvantix.tech/wp-content/themes/extendable/assets/js/animations-interactivity.js?ver=2.1.2",
+    "https://kvantix.tech/wp-content/themes/extendable/assets/js/navigation-customization.js"
+   ],
+   "tracking_context": [
+    "d\" href=\"https://kvantix.tech/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fkvantix.tech%2Fplayground%2Fenergy%2F&#038;format=xml\" />\n\t\t<!-- This site uses the Google Analytics by MonsterInsights plugin v11.3.0 - Using Analytics tracking - https://www.monsterinsights.com/ -->\n\t\t\t\t\t\t\t<script src=\"//www.googletagmanager.com/gtag/js?id=G-KGXZK5RQ0T\"  data-cfasync=\"false\" data-wpfc-render=\"false\" async></script>\n\t\t\t<script data-cfasync=\"false\" data-wpfc-render=\"false\">\n\t\t\t\tvar mi_version = '11.3.0';\n\t\t\t\tvar mi_track_user = true;\n\t\t\t\tvar mi_no_track_reason = '';\n\t\t\t\t\t\t\t\tvar MonsterInsightsDefaultLocations = {\"page_lo",
+    "i.w.org/\" href=\"https://kvantix.tech/wp-json/\" /><link rel=\"alternate\" title=\"JSON\" type=\"application/json\" href=\"https://kvantix.tech/wp-json/wp/v2/pages/656\" /><link rel=\"EditURI\" type=\"application/rsd+xml\" title=\"RSD\" href=\"https://kvantix.tech/xmlrpc.php?rsd\" />\n<script defer src=\"https://cloud.umami.is/script.js\" data-website-id=\"8ba4ea0f-0dcb-44d7-8efb-9215dc829bcf\"></script>    <script>\r\n    /* WebMCP GLOBAL POLYFILL - RAW INJECTION */\r\n    (function() {\r\n        if (!navigator.modelContext) {\r\n            navigator.modelContext = {\r\n                version: \"1.1.4\",\r\n                islandI",
+    "s://kvantix.tech/wp-json/\" /><link rel=\"alternate\" title=\"JSON\" type=\"application/json\" href=\"https://kvantix.tech/wp-json/wp/v2/pages/656\" /><link rel=\"EditURI\" type=\"application/rsd+xml\" title=\"RSD\" href=\"https://kvantix.tech/xmlrpc.php?rsd\" />\n<script defer src=\"https://cloud.umami.is/script.js\" data-website-id=\"8ba4ea0f-0dcb-44d7-8efb-9215dc829bcf\"></script>    <script>\r\n    /* WebMCP GLOBAL POLYFILL - RAW INJECTION */\r\n    (function() {\r\n        if (!navigator.modelContext) {\r\n            navigator.modelContext = {\r\n                version: \"1.1.4\",\r\n                islandId: \"kvantix-enclave-node\",\r\n  "
+   ],
+   "bytes": 118344
   }
  }
 }

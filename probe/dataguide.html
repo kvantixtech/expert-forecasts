@@ -1,0 +1,282 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Data Guide · Kvantix Validation</title>
+<meta name="description" content="How to prepare prediction data for a Kvantix validation: the file format, how to convert call logs and trade logs, acceptance criteria and common mistakes.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#07080B; --bg2:#0B0D12; --panel:rgba(255,255,255,.028); --gl:rgba(255,255,255,.09); --gl2:rgba(255,255,255,.055);
+  --ink:#ECEEF2; --ink-soft:#8B909B; --ink-dim:#5A5F6B;
+  --gold:#E7B24C; --green:#3FD98F; --red:#F0604D;
+  --display:'Space Grotesk',sans-serif; --body:'Inter',sans-serif; --mono:'IBM Plex Mono',monospace;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{background:var(--bg);color:var(--ink);font-family:var(--body);font-size:16px;line-height:1.65;-webkit-font-smoothing:antialiased}
+a{color:var(--gold);text-decoration:none}
+a:hover{text-decoration:underline}
+.wrap{max-width:880px;margin:0 auto;padding:0 20px}
+
+header{position:sticky;top:0;z-index:5;background:rgba(7,8,11,.8);backdrop-filter:blur(14px);border-bottom:1px solid var(--gl2)}
+.bar{display:flex;align-items:center;justify-content:space-between;height:60px;gap:16px}
+.logo{font-family:var(--display);font-weight:700;font-size:19px;letter-spacing:.14em;color:var(--ink)}
+.logo b{color:var(--gold)}
+.logo:hover{text-decoration:none}
+.back{font-family:var(--mono);font-size:12px;letter-spacing:.06em;color:var(--ink-soft)}
+.back:hover{color:var(--ink);text-decoration:none}
+
+.hero{padding:64px 0 28px}
+.eyebrow{font-family:var(--mono);font-size:11.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--gold)}
+h1{font-family:var(--display);font-weight:600;font-size:clamp(34px,6vw,54px);line-height:1.02;letter-spacing:-.02em;margin-top:14px}
+.lead{margin-top:18px;font-size:18px;color:var(--ink-soft);max-width:680px}
+
+.toc{margin:28px 0 8px;display:flex;flex-wrap:wrap;gap:8px}
+.toc a{font-family:var(--mono);font-size:12px;color:var(--ink-soft);border:1px solid var(--gl);border-radius:999px;padding:6px 12px;background:var(--panel)}
+.toc a:hover{color:var(--ink);text-decoration:none;border-color:rgba(255,255,255,.2)}
+
+section{padding:44px 0 8px;border-top:1px solid var(--gl2);margin-top:36px}
+section:first-of-type{border-top:0;margin-top:8px}
+h2{font-family:var(--display);font-weight:600;font-size:clamp(24px,3.4vw,30px);letter-spacing:-.01em;display:flex;align-items:baseline;gap:14px}
+h2 .num{font-family:var(--mono);font-size:13px;color:var(--gold);letter-spacing:.1em}
+h3{font-family:var(--display);font-weight:600;font-size:18px;margin:26px 0 6px}
+p{margin-top:14px;max-width:720px}
+p.muted,.muted{color:var(--ink-soft)}
+b,strong{font-weight:600;color:#fff}
+code{font-family:var(--mono);font-size:.88em;background:rgba(255,255,255,.06);border:1px solid var(--gl2);border-radius:5px;padding:1px 6px}
+
+ol,ul{margin:14px 0 0 22px;max-width:720px}
+li{margin-top:7px}
+li::marker{color:var(--gold)}
+
+.tbl{margin-top:20px;overflow-x:auto;border:1px solid var(--gl);border-radius:12px;background:var(--panel)}
+table{width:100%;border-collapse:collapse;font-size:14.5px;min-width:620px}
+th,td{text-align:left;vertical-align:top;padding:12px 14px;border-bottom:1px solid var(--gl2)}
+th{font-family:var(--mono);font-size:11px;font-weight:500;letter-spacing:.12em;text-transform:uppercase;color:var(--ink-soft);background:rgba(255,255,255,.02)}
+tr:last-child td{border-bottom:0}
+td:first-child{font-weight:600;color:#fff}
+td .req{font-family:var(--mono);font-size:11px;color:var(--green)}
+td .opt{font-family:var(--mono);font-size:11px;color:var(--ink-dim)}
+
+pre{margin-top:18px;font-family:var(--mono);font-size:13px;line-height:1.7;color:#D6D9E0;background:var(--bg2);border:1px solid var(--gl);border-radius:12px;padding:16px 18px;overflow-x:auto}
+pre .h{color:var(--gold)}
+
+.note{margin-top:22px;border:1px solid var(--gl);border-left:3px solid var(--gold);border-radius:10px;padding:16px 18px;background:var(--panel)}
+.note p{margin-top:6px}
+.note p:first-child{margin-top:0}
+.note.warn{border-left-color:var(--red)}
+
+.grid2{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin-top:20px}
+.card{border:1px solid var(--gl);border-radius:12px;padding:18px;background:linear-gradient(160deg,rgba(255,255,255,.04),rgba(255,255,255,.01))}
+.card .k{font-family:var(--mono);font-size:11px;letter-spacing:.12em;color:var(--gold)}
+.card p{margin-top:8px;font-size:15px}
+@media(max-width:680px){.grid2{grid-template-columns:1fr}}
+
+.check{list-style:none;margin-left:0}
+.check li{position:relative;padding-left:30px}
+.check li::before{content:"";position:absolute;left:0;top:4px;width:16px;height:16px;border:1.5px solid var(--gold);border-radius:4px}
+
+.cta{margin:40px 0 0;display:flex;flex-wrap:wrap;gap:12px}
+.btn{font-weight:600;font-size:14px;padding:13px 22px;border-radius:9px;border:1px solid var(--gl);display:inline-flex;align-items:center;color:var(--ink)}
+.btn:hover{text-decoration:none;border-color:rgba(255,255,255,.25)}
+.btn.primary{background:var(--gold);border-color:var(--gold);color:#1A1204}
+.btn.primary:hover{background:#F0C063}
+
+footer{margin-top:72px;border-top:1px solid var(--gl2);padding:26px 0 40px;font-family:var(--mono);font-size:11.5px;color:var(--ink-dim);letter-spacing:.04em}
+footer .wrap{display:flex;flex-wrap:wrap;justify-content:space-between;gap:10px}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="wrap bar">
+    <a class="logo" href="https://kvantix.tech/">KVAN<b>TIX</b></a>
+    <a class="back" href="https://kvantix.tech/#kvx-services">← BACK TO VALIDATION</a>
+  </div>
+</header>
+
+<main class="wrap">
+
+  <div class="hero">
+    <div class="eyebrow">Signal Validation · Data guide</div>
+    <h1>How to prepare your data</h1>
+    <p class="lead">We test one thing: whether your predictions tell us anything about what happened next. This page explains what to send, how to get your data into shape, and when a dataset can be tested.</p>
+    <nav class="toc">
+      <a href="#send">01 What to send</a>
+      <a href="#format">02 File format</a>
+      <a href="#convert">03 Converting</a>
+      <a href="#criteria">04 Criteria</a>
+      <a href="#mistakes">05 Common mistakes</a>
+      <a href="#checklist">06 Checklist</a>
+    </nav>
+  </div>
+
+  <section id="send">
+    <h2><span class="num">01</span>What to send</h2>
+    <p>We need every prediction you made in the period, when you made it, and what the market did afterwards over one fixed horizon. Send us four things:</p>
+    <ol>
+      <li><b>The data file</b> — one CSV, one row per prediction (format below).</li>
+      <li><b>The claim</b> — the sentence you want tested, in your own words. For example: <em>“Our high-conviction calls outperform our low-conviction calls on 4-hour returns.”</em></li>
+      <li><b>The horizon</b> — how far ahead each prediction looks: 15m, 4h, 1d, 1w.</li>
+      <li><b>Your real trading cost</b> — round-trip, in percent, fees plus typical slippage. If you don't know it, we use 0.06%, and the report shows the result at every cost from 0 to 0.20%.</li>
+    </ol>
+    <div class="note warn">
+      <p><b>Every prediction, not a selection.</b> A file with the losers removed, or with rows added afterwards, cannot be tested — a report built on it would be wrong. Tell us how the predictions were recorded at the time. The report states what we could verify and what we could not.</p>
+    </div>
+    <p class="muted">The free <a href="https://kvantix.tech/#kvx-toolkit">Quick Check</a> runs the same seven tests, with no login, and the file is not kept. It is the fastest way to see that your file is readable before you send it.</p>
+  </section>
+
+  <section id="format">
+    <h2><span class="num">02</span>The file format</h2>
+    <p>One CSV file with a header row and one row per prediction. Three columns are required, two are optional.</p>
+    <div class="tbl"><table>
+      <thead><tr><th>Column</th><th>What it holds</th><th>Example</th></tr></thead>
+      <tbody>
+        <tr><td>timestamp <span class="req">REQUIRED</span></td><td>The moment the prediction was made, in UTC. <code>YYYY-MM-DD HH:MM</code> or Unix seconds.</td><td><code>2026-05-01 14:15</code></td></tr>
+        <tr><td>prediction <span class="req">REQUIRED</span></td><td>A number: a score, a probability, an expected return, or +1 / −1 for long / short. Higher must mean “more up”.</td><td><code>62.4</code></td></tr>
+        <tr><td>outcome <span class="req">REQUIRED</span></td><td>What happened over the horizon <b>after</b> the timestamp. For markets: the price change in percent.</td><td><code>0.31</code></td></tr>
+        <tr><td>group <span class="opt">OPTIONAL</span></td><td>Which instrument, coin or series the row belongs to. Needed when the file covers more than one.</td><td><code>BTC</code></td></tr>
+        <tr><td>price <span class="opt">OPTIONAL</span></td><td>The price at the timestamp. A regular price series lets us check that the outcome is aligned, and split results by market regime.</td><td><code>61250.5</code></td></tr>
+      </tbody>
+    </table></div>
+    <p>A minimal file:</p>
+<pre><span class="h">timestamp,group,prediction,outcome,price</span>
+2026-05-01 14:00,BTC,62.4,0.31,61250.5
+2026-05-01 14:00,ETH,48.9,-0.12,2604.1
+2026-05-01 14:15,BTC,55.0,0.08,61302.0
+2026-05-01 14:15,ETH,51.2,0.22,2601.7</pre>
+
+    <h3>Rules that matter</h3>
+    <ul>
+      <li><b>One row per group per timestamp.</b> Duplicated rows inflate the sample and make every test too generous.</li>
+      <li><b>One fixed horizon for the whole file.</b> To test 4h and 24h, send two files.</li>
+      <li><b>The outcome is the market's move, not your profit.</b> For a short call the outcome is still the price change; the negative prediction takes care of the sign.</li>
+      <li><b>The prediction is what you knew at the time.</b> Nothing recomputed later with a newer model or newer data.</li>
+      <li><b>Extra columns are fine.</b> They are ignored.</li>
+    </ul>
+
+    <div class="grid2">
+      <div class="card">
+        <div class="k">READ AS IS</div>
+        <p>Comma or semicolon separators, decimal commas, a trailing %, Excel's byte-order mark, and <code>DD-MM-YYYY</code> or <code>DD/MM/YYYY</code> dates. Common column names are recognised: <code>time</code>, <code>date</code>, <code>score</code>, <code>signal</code>, <code>forecast</code>, <code>fwd_return</code>, <code>actual</code>, <code>asset</code>, <code>symbol</code>, <code>close</code> and others.</p>
+      </div>
+      <div class="card">
+        <div class="k">CONVERT FIRST</div>
+        <p>US-style <code>MM/DD/YYYY</code> dates (they would be read day-first), time-zone offsets (convert to UTC), and thousands separators such as <code>1.234,5</code>. If your column names aren't recognised, rename them to the five above.</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="convert">
+    <h2><span class="num">03</span>Converting what you already have</h2>
+    <p>Most providers don't keep data in this shape. This is how the common formats map onto it.</p>
+    <div class="tbl"><table>
+      <thead><tr><th>You have</th><th>prediction</th><th>outcome</th><th>Notes</th></tr></thead>
+      <tbody>
+        <tr><td>Model scores</td><td>The score as it was at that moment</td><td>Price change over the horizon, in %</td><td>The reference format. Nothing to convert.</td></tr>
+        <tr><td>Directional calls (LONG / SHORT)</td><td>+1 for long, −1 for short</td><td>Price change over the horizon from the moment the call was posted</td><td>Keep entry, take-profit and stop-loss as extra columns.</td></tr>
+        <tr><td>Calls with confidence levels</td><td>Level × direction, e.g. high long = +3, low short = −1</td><td>As above</td><td>Lets us test whether your confident calls do better.</td></tr>
+        <tr><td>Probabilities</td><td>The probability, 0–1 or 0–100</td><td>Price change over the next period</td><td>Don't convert to up/down; the number carries more.</td></tr>
+        <tr><td>Trade log with profit per trade</td><td>+1 / −1 from the side</td><td><b>Not</b> the profit — the market move over a fixed horizon from entry</td><td>See below.</td></tr>
+        <tr><td>Forecasts outside markets</td><td>The forecast</td><td>The actual value, or its change</td><td>Set cost to 0. Groups can be stores, products, regions.</td></tr>
+      </tbody>
+    </table></div>
+
+    <h3>Directional calls and win rates</h3>
+    <p>A channel's “win rate” usually means “take-profit was hit before stop-loss”. That number depends as much on where the targets sit as on the call. With take-profit 1.2% away and stop-loss 4.5% away, random entries win about 79% of the time — and still lose money after fees. We therefore test direction over a fixed horizon, and report your own win-rate definition separately next to it.</p>
+    <p>If you only have the posted calls (time, coin, side), send those and say so.</p>
+
+    <h3>Trade logs</h3>
+    <p>A profit figure mixes the prediction with holding time, exits and fees, and every trade is held for a different length of time. Send entry time, instrument and side instead, so the move over a fixed horizon can be computed. If every trade was held for exactly the same period, the market move is the profit for a long and minus the profit for a short, before fees.</p>
+
+    <h3>Excel</h3>
+    <p>Save as “CSV UTF-8”: one sheet, the header in the first row, and no totals or notes below the data. European number formats are fine.</p>
+
+    <p>A call log ready to test, horizon 1 day:</p>
+<pre><span class="h">timestamp,asset,side,prediction,entry,take_profit,stop_loss,outcome</span>
+2026-03-01 21:20,XRP,SHORT,-1,0.549065,0.542476,0.573773,1.6822
+2026-03-02 00:30,LINK,LONG,1,12.773683,12.926967,12.198867,4.8185</pre>
+  </section>
+
+  <section id="criteria">
+    <h2><span class="num">04</span>When a dataset can be tested</h2>
+    <p>A file is accepted for a report when it meets every line below. It will run with less, but the report could only say “too little data to tell”.</p>
+    <div class="tbl"><table>
+      <thead><tr><th>Criterion</th><th>Minimum</th><th>Why</th></tr></thead>
+      <tbody>
+        <tr><td>Complete record</td><td>Every prediction in the period, none removed or added later</td><td>A filtered record tests the filter, not the predictions.</td></tr>
+        <tr><td>Recorded before the outcome</td><td>Some evidence the prediction existed at its timestamp</td><td>Without it, the report states that the data is self-reported.</td></tr>
+        <tr><td>Rows</td><td>30 to run at all; a few hundred independent observations to conclude</td><td>Below that, the noise floor is too wide to tell an edge from luck.</td></tr>
+        <tr><td>Period</td><td>About two months or more, including rising and falling markets</td><td>One market direction can make a long bias look like skill.</td></tr>
+        <tr><td>Distinct predictions</td><td>At least 10 different values, or clean +1 / −1</td><td>A few repeated values can't be ranked.</td></tr>
+        <tr><td>Horizon</td><td>One, stated in advance</td><td>Picking the best horizon afterwards is hidden cherry-picking.</td></tr>
+        <tr><td>Size</td><td>Quick Check: 10 MB and 100,000 rows. Report: up to 500,000 rows</td><td>For larger files, send a sample first.</td></tr>
+      </tbody>
+    </table></div>
+
+    <h3>Independent observations are fewer than rows</h3>
+    <p>A 4-hour outcome recorded every 15 minutes overlaps the next 15 rows, so 16 rows carry about one observation's worth of information. Coins that move together count as less than one each: eight major coins at the same moment are worth roughly 1.4 independent observations, not 8. The report shows the effective count and uses it in every test.</p>
+    <p>As a rule of thumb the noise floor is 2 / √(effective observations). With 400 effective observations it is 0.10; to show a correlation of 0.05 you need about 1,600.</p>
+
+    <h3>Evidence of timing, strongest first</h3>
+    <ol>
+      <li>A public record that cannot be edited: exchange copy-trading history, a hash-chained log, a Telegram channel's message sequence.</li>
+      <li>A timestamped record held by a third party: emails, a notarised hash.</li>
+      <li>Your own database export.</li>
+    </ol>
+    <p class="muted">We note in the report which kind we had.</p>
+  </section>
+
+  <section id="mistakes">
+    <h2><span class="num">05</span>Common mistakes</h2>
+    <p>The worst errors produce excellent results, so they are checked before any statistics.</p>
+    <div class="tbl"><table>
+      <thead><tr><th>Mistake</th><th>How it shows up</th><th>Fix</th></tr></thead>
+      <tbody>
+        <tr><td>Outcome is the move <em>before</em> the timestamp</td><td>Every test passes with a very strong correlation. The report's alignment check marks it as invalid when a price column is included.</td><td>Compute the outcome from the timestamp forward.</td></tr>
+        <tr><td>Predictions recomputed afterwards</td><td>A correlation above about 0.2 is flagged as unusually strong for a market. Statistics alone can't prove it.</td><td>Send what was recorded at the time.</td></tr>
+        <tr><td>Losing calls removed</td><td>Invisible in the numbers. Gaps in the timeline and missing message numbers are not.</td><td>Send the full record.</td></tr>
+        <tr><td>Duplicated rows</td><td>Flagged; the sample looks larger and every test too generous.</td><td>One row per group per timestamp.</td></tr>
+        <tr><td>Latest rows without an outcome</td><td>Dropped and counted in the report.</td><td>Fine to leave in, or cut where outcomes end.</td></tr>
+        <tr><td>Profit per trade as outcome</td><td>Results reflect targets and exits, not direction.</td><td>Use the market move over a fixed horizon.</td></tr>
+        <tr><td>Mixed horizons in one file</td><td>Results blur towards noise.</td><td>One file per horizon.</td></tr>
+        <tr><td>Local time with summer time</td><td>One-hour shifts and duplicates at the clock change.</td><td>Convert to UTC.</td></tr>
+        <tr><td>Higher prediction means “down”</td><td>The report calls the signal inverted.</td><td>Flip the sign, or tell us.</td></tr>
+      </tbody>
+    </table></div>
+  </section>
+
+  <section id="checklist">
+    <h2><span class="num">06</span>Before you send</h2>
+    <ul class="check">
+      <li>One CSV, header row first, one row per prediction</li>
+      <li>Columns timestamp, prediction and outcome — plus group and price if you have them</li>
+      <li>Timestamps in UTC, when the prediction was made</li>
+      <li>Outcome measured forward from the timestamp, over one fixed horizon</li>
+      <li>Every prediction in the period, nothing removed or added afterwards</li>
+      <li>No duplicated rows</li>
+      <li>The file runs in Quick Check without errors</li>
+      <li>Claim, horizon and round-trip cost written down</li>
+      <li>A note on how the predictions were recorded at the time</li>
+    </ul>
+    <div class="cta">
+      <a class="btn primary" href="https://portal.kvantix.tech/request">Request a report</a>
+      <a class="btn" href="https://kvantix.tech/#kvx-toolkit">Run a quick check</a>
+    </div>
+  </section>
+
+</main>
+
+<footer>
+  <div class="wrap">
+    <span>KVANTIX · CVR 46296036 · validation@kvantix.tech</span>
+    <span>Statistics, not advice.</span>
+  </div>
+</footer>
+
+</body>
+</html>
