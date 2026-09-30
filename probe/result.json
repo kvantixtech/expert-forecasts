@@ -1,666 +1,238 @@
 {
- "run_utc": "2026-09-30T16:42:34Z",
- "pricelist": {
-  "status": 200,
-  "bytes": 98508954,
-  "secs": 6.8,
-  "sha": "fd6bb88dc43ceb1dd1b961be0c53bdb75c1e88b8d6e479c149ab762788cc8743",
-  "error": null
- },
- "pricelist_second_sha_equal": true,
- "pricelist_total": 120026,
- "pricelist_columns": [
-  "ChargeOwner",
-  "GLN_Number",
-  "ChargeType",
-  "ChargeTypeCode",
-  "Note",
-  "Description",
-  "ValidFrom",
-  "ValidTo",
-  "VATClass",
-  "Price1",
-  "Price2",
-  "Price3",
-  "Price4",
-  "Price5",
-  "Price6",
-  "Price7",
-  "Price8",
-  "Price9",
-  "Price10",
-  "Price11",
-  "Price12",
-  "Price13",
-  "Price14",
-  "Price15",
-  "Price16",
-  "Price17",
-  "Price18",
-  "Price19",
-  "Price20",
-  "Price21",
-  "Price22",
-  "Price23",
-  "Price24",
-  "TransparentInvoicing",
-  "TaxIndicator",
-  "ResolutionDuration"
- ],
- "pricelist_sample": [
-  {
-   "ChargeOwner": "TREFOR El-net A/S",
-   "GLN_Number": "5790000392261",
-   "ChargeType": "D01",
-   "ChargeTypeCode": "E-40",
-   "Note": "Net egenproducentbidrag C",
-   "Description": "Egenproducentbidrag, hvor aftagepunktet typisk er i 0,4 kV-nettet",
-   "ValidFrom": "2026-07-01T00:00:00",
-   "ValidTo": "2027-01-01T00:00:00",
-   "VATClass": "D02",
-   "Price1": 4.314167,
-   "Price2": null,
-   "Price3": null,
-   "Price4": null,
-   "Price5": null,
-   "Price6": null,
-   "Price7": null,
-   "Price8": null,
-   "Price9": null,
-   "Price10": null,
-   "Price11": null,
-   "Price12": null,
-   "Price13": null,
-   "Price14": null,
-   "Price15": null,
-   "Price16": null,
-   "Price17": null,
-   "Price18": null,
-   "Price19": null,
-   "Price20": null,
-   "Price21": null,
-   "Price22": null,
-   "Price23": null,
-   "Price24": null,
-   "TransparentInvoicing": 0,
-   "TaxIndicator": 0,
-   "ResolutionDuration": "P1M"
+ "run_utc": "2026-09-30T18:17:59Z",
+ "pages": {
+  "/": {
+   "status": 454,
+   "final": "https://kvantix.tech/",
+   "error": null,
+   "cookies": [],
+   "title": null,
+   "description": null,
+   "og:image:alt": null,
+   "og:title": null,
+   "robots": null,
+   "found": {},
+   "security_headers": {
+    "Strict-Transport-Security": null,
+    "Content-Security-Policy": null,
+    "Content-Security-Policy-Report-Only": null,
+    "X-Frame-Options": null,
+    "X-Content-Type-Options": null,
+    "Referrer-Policy": null,
+    "Permissions-Policy": null,
+    "Server": "Simply.com",
+    "X-Powered-By": null
+   }
   },
-  {
-   "ChargeOwner": "TREFOR El-net A/S",
-   "GLN_Number": "5790000392261",
-   "ChargeType": "D01",
-   "ChargeTypeCode": "E-40",
-   "Note": "Net egenproducentbidrag C",
-   "Description": "Egenproducentbidrag, hvor aftagepunktet typisk er i 0,4 kV-nettet",
-   "ValidFrom": "2026-01-01T00:00:00",
-   "ValidTo": "2026-07-01T00:00:00",
-   "VATClass": "D02",
-   "Price1": 8.035833,
-   "Price2": null,
-   "Price3": null,
-   "Price4": null,
-   "Price5": null,
-   "Price6": null,
-   "Price7": null,
-   "Price8": null,
-   "Price9": null,
-   "Price10": null,
-   "Price11": null,
-   "Price12": null,
-   "Price13": null,
-   "Price14": null,
-   "Price15": null,
-   "Price16": null,
-   "Price17": null,
-   "Price18": null,
-   "Price19": null,
-   "Price20": null,
-   "Price21": null,
-   "Price22": null,
-   "Price23": null,
-   "Price24": null,
-   "TransparentInvoicing": 0,
-   "TaxIndicator": 0,
-   "ResolutionDuration": "P1M"
+  "/playground/": {
+   "status": 454,
+   "final": "https://kvantix.tech/playground/",
+   "error": null,
+   "cookies": [],
+   "title": null,
+   "description": null,
+   "og:image:alt": null,
+   "og:title": null,
+   "robots": null,
+   "found": {}
   },
-  {
-   "ChargeOwner": "TREFOR El-net A/S",
-   "GLN_Number": "5790000392261",
-   "ChargeType": "D01",
-   "ChargeTypeCode": "E-41",
-   "Note": "Net egenproducentbidrag B lav",
-   "Description": "Egenproducentbidrag, hvor aftagepunktet typisk er på 0,4 kV-siden af en 10-20/0,4 kV-transformerstation",
-   "ValidFrom": "2026-07-01T00:00:00",
-   "ValidTo": "2027-01-01T00:00:00",
-   "VATClass": "D02",
-   "Price1": 2.905,
-   "Price2": null,
-   "Price3": null,
-   "Price4": null,
-   "Price5": null,
-   "Price6": null,
-   "Price7": null,
-   "Price8": null,
-   "Price9": null,
-   "Price10": null,
-   "Price11": null,
-   "Price12": null,
-   "Price13": null,
-   "Price14": null,
-   "Price15": null,
-   "Price16": null,
-   "Price17": null,
-   "Price18": null,
-   "Price19": null,
-   "Price20": null,
-   "Price21": null,
-   "Price22": null,
-   "Price23": null,
-   "Price24": null,
-   "TransparentInvoicing": 0,
-   "TaxIndicator": 0,
-   "ResolutionDuration": "P1M"
+  "/playground/weather/": {
+   "status": 454,
+   "final": "https://kvantix.tech/playground/weather/",
+   "error": null,
+   "cookies": [],
+   "title": null,
+   "description": null,
+   "og:image:alt": null,
+   "og:title": null,
+   "robots": null,
+   "found": {}
+  },
+  "/playground/experts/": {
+   "status": 454,
+   "final": "https://kvantix.tech/playground/experts/",
+   "error": null,
+   "cookies": [],
+   "title": null,
+   "description": null,
+   "og:image:alt": null,
+   "og:title": null,
+   "robots": null,
+   "found": {}
+  },
+  "/playground/energy/": {
+   "status": 454,
+   "final": "https://kvantix.tech/playground/energy/",
+   "error": null,
+   "cookies": [],
+   "title": null,
+   "description": null,
+   "og:image:alt": null,
+   "og:title": null,
+   "robots": null,
+   "found": {}
+  },
+  "/playground/luck-or-skill/": {
+   "status": 454,
+   "final": "https://kvantix.tech/playground/luck-or-skill/",
+   "error": null,
+   "cookies": [],
+   "title": null,
+   "description": null,
+   "og:image:alt": null,
+   "og:title": null,
+   "robots": null,
+   "found": {}
+  },
+  "/playground/lock-your-prediction/": {
+   "status": 454,
+   "final": "https://kvantix.tech/playground/lock-your-prediction/",
+   "error": null,
+   "cookies": [],
+   "title": null,
+   "description": null,
+   "og:image:alt": null,
+   "og:title": null,
+   "robots": null,
+   "found": {}
+  },
+  "/playground/track-record/": {
+   "status": 454,
+   "final": "https://kvantix.tech/playground/track-record/",
+   "error": null,
+   "cookies": [],
+   "title": null,
+   "description": null,
+   "og:image:alt": null,
+   "og:title": null,
+   "robots": null,
+   "found": {}
+  },
+  "/wp-content/uploads/kvantix-data-guide.html": {
+   "status": 454,
+   "final": "https://kvantix.tech/wp-content/uploads/kvantix-data-guide.html",
+   "error": null,
+   "cookies": [],
+   "title": null,
+   "description": null,
+   "og:image:alt": null,
+   "og:title": null,
+   "robots": null,
+   "found": {}
   }
- ],
- "chargeowners": [
-  [
-   null,
-   13465
-  ],
-  [
-   "Konstant Net A/S - 151",
-   11587
-  ],
-  [
-   "Konstant Net A/S - 245",
-   9434
-  ],
-  [
-   "N1 A/S - 344",
-   8625
-  ],
-  [
-   "Vores Elnet A/S",
-   7049
-  ],
-  [
-   "N1 A/S - 131",
-   7033
-  ],
-  [
-   "Cerius A/S",
-   6876
-  ],
-  [
-   "Radius Elnet A/S",
-   5786
-  ],
-  [
-   "TREFOR El-net A/S",
-   5450
-  ],
-  [
-   "Netselskabet Elværk A/S",
-   5348
-  ],
-  [
-   "RAH Net A/S",
-   4948
-  ],
-  [
-   "Dinel A/S",
-   3467
-  ],
-  [
-   "FLOW Elnet A/S",
-   2992
-  ],
-  [
-   "Ravdex A/S",
-   2881
-  ],
-  [
-   "TREFOR El-net Øst A/S",
-   2834
-  ],
-  [
-   "Elektrus A/S",
-   2809
-  ],
-  [
-   "NOE Net A/S",
-   2070
-  ],
-  [
-   "Zeanet A/S",
-   1865
-  ],
-  [
-   "Nord Energi Net A/S",
-   1799
-  ],
-  [
-   "Elnet Midt A/S",
-   1786
-  ],
-  [
-   "Aal El-Net A M B A",
-   1674
-  ],
-  [
-   "Veksel A/S",
-   1438
-  ],
-  [
-   "Tarm Elværk Net A/S",
-   1365
-  ],
-  [
-   "N1 A/S - 016",
-   908
-  ],
-  [
-   "Hammel Elforsyning Net A/S",
-   904
-  ],
-  [
-   "L-Net A/S",
-   873
-  ],
-  [
-   "Midtfyns Elforsyning  A.m.b.A",
-   796
-  ],
-  [
-   "Hjerting Transformatorforening",
-   781
-  ],
-  [
-   "Hurup Elværk Net A/S",
-   715
-  ],
-  [
-   "Kimbrer Elnet A/S",
-   688
-  ],
-  [
-   "Sunds Net A.m.b.a",
-   660
-  ],
-  [
-   "Elinord A/S",
-   373
-  ],
-  [
-   "Forsyning Elnet A/S",
-   241
-  ],
-  [
-   "Grindsted Elnet A/S",
-   226
-  ],
-  [
-   "Ikast El Net A/S",
-   165
-  ],
-  [
-   "Læsø Elnet A/S",
-   110
-  ],
-  [
-   "Sanity",
-   5
-  ]
- ],
- "chargetypes": [
-  [
-   "D03",
-   107964
-  ],
-  [
-   "D01",
-   9105
-  ],
-  [
-   "D02",
-   2957
-  ]
- ],
- "validfrom_years": [
-  [
-   "2015",
-   120
-  ],
-  [
-   "2016",
-   814
-  ],
-  [
-   "2017",
-   2107
-  ],
-  [
-   "2018",
-   3914
-  ],
-  [
-   "2019",
-   4919
-  ],
-  [
-   "2020",
-   6893
-  ],
-  [
-   "2021",
-   15196
-  ],
-  [
-   "2022",
-   15444
-  ],
-  [
-   "2023",
-   17921
-  ],
-  [
-   "2024",
-   17291
-  ],
-  [
-   "2025",
-   15346
-  ],
-  [
-   "2026",
-   19611
-  ],
-  [
-   "2027",
-   450
-  ]
- ],
- "notes_top": [
-  [
-   "Nettarif B høj",
-   11592
-  ],
-  [
-   "Nettarif A lav",
-   11031
-  ],
-  [
-   "Nettarif A høj",
-   9393
-  ],
-  [
-   "Nettarif B lav time",
-   8991
-  ],
-  [
-   "Nettarif B lav",
-   8662
-  ],
-  [
-   "Rabat på Nettarif B lav - KONSTANT Net A/S",
-   1862
-  ],
-  [
-   "Rabat på Nettarif A lav - KONSTANT Net A/S",
-   1860
-  ],
-  [
-   "Rabat på nettarif N1 A/S",
-   1853
-  ],
-  [
-   "Nettarif B høj time",
-   1772
-  ],
-  [
-   "Nettarif B lav (fritaget for energisparebidrag)",
-   1749
-  ],
-  [
-   "Nettarif B høj samplaceret",
-   1339
-  ],
-  [
-   "Overliggende net",
-   1169
-  ],
-  [
-   "Rabat på Nettarif B høj - KONSTANT Net A/S",
-   1096
-  ],
-  [
-   "Nettarif C time",
-   1061
-  ],
-  [
-   "Nettarif A lav (DNU)",
-   1003
-  ],
-  [
-   "Rabat på Nettarif A lav (DNU) - KONSTANT Net A/S",
-   961
-  ],
-  [
-   "Nettarif B høj (fritaget for energisparebidrag)",
-   958
-  ],
-  [
-   "Rabat på Nettarif A høj - KONSTANT Net A/S",
-   947
-  ],
-  [
-   "Nettarif A høj (fritaget for energisparebidrag)",
-   923
-  ],
-  [
-   "Nettarif A lav (fritaget for energisparebidrag)",
-   853
-  ],
-  [
-   "Nettarif A lav samplaceret",
-   845
-  ],
-  [
-   "Rabat på Cerius' nettarif",
-   814
-  ],
-  [
-   "Rabat nettarif Evonet A/S, tidsdifferentieret",
-   793
-  ],
-  [
-   "Nettarif B høj særtarif",
-   782
-  ],
-  [
-   "Nettarif B lav særtarif",
-   782
-  ],
-  [
-   "Rabat på Nettarif B lav (fritaget for energisparebidrag) - KONSTANT Net A/S",
-   774
-  ],
-  [
-   "Nettarif A Høj",
-   711
-  ],
-  [
-   "Nettarif B Høj",
-   705
-  ],
-  [
-   "Nettarif A Høj produktion",
-   690
-  ],
-  [
-   "Nettarif A Lav",
-   690
-  ],
-  [
-   "Nettarif A Lav produktion",
-   690
-  ],
-  [
-   "Nettarif B Høj produktion",
-   688
-  ],
-  [
-   "Nettarif B Lav",
-   688
-  ],
-  [
-   "Nettarif B Lav produktion",
-   688
-  ],
-  [
-   "Nettarif B 20GWh",
-   688
-  ],
-  [
-   "Nettarif  B høj",
-   677
-  ],
-  [
-   "B-Lav Nettarif",
-   652
-  ],
-  [
-   "Nettarif A høj samplaceret",
-   624
-  ],
-  [
-   "Rabat på Nettarif A høj - KONSTANTNet A/S",
-   571
-  ],
-  [
-   "Nettarif B lav 20 GWh",
-   567
-  ],
-  [
-   "Nettarif A 200GWH",
-   565
-  ],
-  [
-   "Rabat nettarif Evonet A/S tidsdifferentieret",
-   522
-  ],
-  [
-   "Nettarif overordnet net - tidsdifferenceret",
-   519
-  ],
-  [
-   "Nettarif B lav time - Affald",
-   466
-  ],
-  [
-   "Net rådighedstarif C",
-   435
-  ],
-  [
-   "Nettarif A lav, tidsdifferentieret",
-   435
-  ],
-  [
-   "Nettarif B lav flex, tidsdifferentieret",
-   435
-  ],
-  [
-   "Nettarif B lav time, tidsdifferentieret",
-   435
-  ],
-  [
-   "Rabat på Nettarif A høj (fritaget for energisparebidrag) - KONSTANT Net A/S",
-   424
-  ],
-  [
-   "B-Lav Kunde tarif",
-   413
-  ],
-  [
-   "Nettarif 60 kV",
-   391
-  ],
-  [
-   "Transport - Overordnet net (time)",
-   390
-  ],
-  [
-   "Nettarif A høj, tidsdifferentieret",
-   386
-  ],
-  [
-   "Nettarif A lav forbrug elkedel, tidsdifferentieret",
-   386
-  ],
-  [
-   "Netarif B høj forbrug Elkedel, tidsdifferentieret",
-   386
-  ],
-  [
-   "Nettarif B høj, tidsdifferentieret",
-   386
-  ],
-  [
-   "Netarif B lav forbrug Elkedel, tidsdifferentieret",
-   386
-  ],
-  [
-   "Nettarif B lav time med forbrug over 20 GWh, tidsdifferentieret",
-   386
-  ],
-  [
-   "Net tarif A høj",
-   375
-  ],
-  [
-   "Nettarif B lav varmeproduktion",
-   369
-  ]
- ],
- "energinet_like": [],
- "dup_keys": 0,
- "same_records_ignoring_order": true,
- "sorted_request": {
-  "url": "https://api.energidataservice.dk/dataset/DatahubPricelist?limit=5&sort=ValidFrom+desc",
-  "status": 200,
-  "bytes": 4343,
-  "secs": 0.5,
-  "sha": "77d395712d10ea2ccddbca4f3d0362b62f9f6a2b41e327c1a599b3ea9c8947b1"
  },
- "future_rows": 4824,
- "dayahead": {
-  "status": 200,
-  "bytes": 61266,
-  "error": null
- },
- "dayahead_columns": [
-  "TimeUTC",
-  "TimeDK",
-  "PriceArea",
-  "DayAheadPriceEUR",
-  "DayAheadPriceDKK"
- ],
- "dayahead_first_last": [
-  {
-   "TimeUTC": "2026-10-01T21:45:00",
-   "TimeDK": "2026-10-01T23:45:00",
-   "PriceArea": "DK1",
-   "DayAheadPriceEUR": 171.380005,
-   "DayAheadPriceDKK": 1281.134089
+ "upload_links": {},
+ "misc": {
+  "/sitemap_index.xml": {
+   "status": 454,
+   "final": "https://kvantix.tech/sitemap_index.xml",
+   "locs": [],
+   "head": null
   },
-  {
-   "TimeUTC": "2026-09-29T16:45:00",
-   "TimeDK": "2026-09-29T18:45:00",
-   "PriceArea": "DK2",
-   "DayAheadPriceEUR": 237.970001,
-   "DayAheadPriceDKK": 1778.920945
+  "/page-sitemap.xml": {
+   "status": 454,
+   "final": "https://kvantix.tech/page-sitemap.xml",
+   "locs": [],
+   "head": null
+  },
+  "/post-sitemap.xml": {
+   "status": 454,
+   "final": "https://kvantix.tech/post-sitemap.xml",
+   "locs": [],
+   "head": null
+  },
+  "/category-sitemap.xml": {
+   "status": 454,
+   "final": "https://kvantix.tech/category-sitemap.xml",
+   "locs": [],
+   "head": null
+  },
+  "/author-sitemap.xml": {
+   "status": 454,
+   "final": "https://kvantix.tech/author-sitemap.xml",
+   "locs": [],
+   "head": null
+  },
+  "/hello-world/": {
+   "status": 454,
+   "final": "https://kvantix.tech/hello-world/",
+   "locs": [],
+   "head": null
+  },
+  "/robots.txt": {
+   "status": 454,
+   "final": "https://kvantix.tech/robots.txt",
+   "locs": [],
+   "head": ""
+  },
+  "/wp-json/wp/v2/users": {
+   "status": 454,
+   "final": "https://kvantix.tech/wp-json/wp/v2/users",
+   "locs": [],
+   "head": null
+  },
+  "/xmlrpc.php": {
+   "status": 455,
+   "final": "https://kvantix.tech/xmlrpc.php",
+   "locs": [],
+   "head": null
+  },
+  "/privacy-policy/": {
+   "status": 454,
+   "final": "https://kvantix.tech/privacy-policy/",
+   "locs": [],
+   "head": null
+  },
+  "/privacy/": {
+   "status": 454,
+   "final": "https://kvantix.tech/privacy/",
+   "locs": [],
+   "head": null
   }
- ],
- "dayahead_n": 426
+ },
+ "tls": {
+  "kvantix.tech": {
+   "ok": true,
+   "subjectAltName": [
+    "kvantix.tech",
+    "www.kvantix.tech"
+   ],
+   "notAfter": "Dec  1 06:03:27 2026 GMT"
+  },
+  "playground.kvantix.tech": {
+   "ok": false,
+   "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'playground.kvantix.tech'. (_ssl.c:1000)"
+  },
+  "portal.kvantix.tech": {
+   "ok": true,
+   "subjectAltName": [
+    "portal.kvantix.tech"
+   ],
+   "notAfter": "Dec 25 16:18:57 2026 GMT"
+  }
+ },
+ "portal": {
+  "https://portal.kvantix.tech/privacy": {
+   "status": 200,
+   "final": "https://portal.kvantix.tech/privacy",
+   "draft": true,
+   "hosts": [
+    "Hetzner",
+    "Simply.com",
+    "Stripe"
+   ]
+  },
+  "https://portal.kvantix.tech/terms": {
+   "status": 200,
+   "final": "https://portal.kvantix.tech/terms",
+   "draft": true,
+   "hosts": []
+  },
+  "https://portal.kvantix.tech/request": {
+   "status": 200,
+   "final": "https://portal.kvantix.tech/request",
+   "draft": false,
+   "hosts": []
+  }
+ }
 }
