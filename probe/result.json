@@ -1,1807 +1,666 @@
 {
- "run_utc": "2026-09-30T16:13:07Z",
- "eds_catalogue_tries": {
-  "/meta/dataset": {
-   "status": 200,
-   "type": "list",
-   "preview": "[{\"datasetId\": 90, \"datasetName\": \"AfrrActivatedAutomatic\", \"title\": \"aFRR, Activated Automatic Frequency Restoration Reserves (Discontinued, please read description)\", \"description\": \"This dataset is no longer updated after October 2nd, 2024, because of the go-live of the PICASSO platform.\\n\\nActivated aFRR, also called secondary reserve, is used to restore frequency to the normal band (49.9-50.1 Hz) after the primary regulation (FCR) has stabilised the frequency.\", \"organizationName\": \"tso-electricity\", \"lastMetadataUpdate\": \"2026-09-30T10:07:35\", \"active\": true}, {\"datasetId\": 135, \"datasetName\": \"AfrrBorderAvailableTransferCapacity\", \"title\": \"aFRR Border Available Transfer Capacity\", \"description\": \"Calculated available transfer capacity for given borders. The data here is based on EN"
-  },
-  "/meta/datasets": {
-   "status": 404,
-   "type": "NoneType",
-   "preview": "HTTP Error 404: Resource Not Found"
-  },
-  "/meta/dataset?limit=500": {
-   "status": 200,
-   "type": "list",
-   "preview": "[{\"datasetId\": 90, \"datasetName\": \"AfrrActivatedAutomatic\", \"title\": \"aFRR, Activated Automatic Frequency Restoration Reserves (Discontinued, please read description)\", \"description\": \"This dataset is no longer updated after October 2nd, 2024, because of the go-live of the PICASSO platform.\\n\\nActivated aFRR, also called secondary reserve, is used to restore frequency to the normal band (49.9-50.1 Hz) after the primary regulation (FCR) has stabilised the frequency.\", \"organizationName\": \"tso-electricity\", \"lastMetadataUpdate\": \"2026-09-30T10:07:35\", \"active\": true}, {\"datasetId\": 135, \"datasetName\": \"AfrrBorderAvailableTransferCapacity\", \"title\": \"aFRR Border Available Transfer Capacity\", \"description\": \"Calculated available transfer capacity for given borders. The data here is based on EN"
-  },
-  "/meta/organization": {
-   "status": 200,
-   "type": "list",
-   "preview": "[{\"organizationName\": \"tso-electricity\", \"title\": \"TSO Electricity\", \"noOfActiveDatasets\": 71}, {\"organizationName\": \"tso-gas\", \"title\": \"TSO Gas\", \"noOfActiveDatasets\": 15}, {\"organizationName\": \"gas-storage-denmark\", \"title\": \"Gas Storage Denmark\", \"noOfActiveDatasets\": 4}, {\"organizationName\": \"dso-electricity\", \"title\": \"DSO Electricity\", \"noOfActiveDatasets\": 10}]"
-  },
-  "/meta/organizations": {
-   "status": 404,
-   "type": "NoneType",
-   "preview": "HTTP Error 404: Resource Not Found"
-  },
-  "/dataset": {
-   "status": 404,
-   "type": "NoneType",
-   "preview": "HTTP Error 404: Resource Not Found"
-  }
- },
- "eds_names_from_catalogue": 100,
- "eds_meta": {
-  "AfrrActivatedAutomatic": {
-   "title": "aFRR, Activated Automatic Frequency Restoration Reserves (Discontinued, please read description)",
-   "organizationName": "tso-electricity",
-   "resolution": "1 hour (PT1H)",
-   "dataFrom": "2022-01-01T00:00:00",
-   "dataTo": null,
-   "active": true,
-   "updateFrequency": "N/A",
-   "lastDataUpdate": null,
-   "caution": "",
-   "description": "This dataset is no longer updated after October 2nd, 2024, because of the go-live of the PICASSO platform.\n\nActivated aFRR, also called secondary reserve, is used to restore frequency to the normal band (49.9-50.1 Hz) after the primary regulation (FCR) has stabilised the frequency."
-  },
-  "AfrrBorderAvailableTransferCapacity": {
-   "title": "aFRR Border Available Transfer Capacity",
-   "organizationName": "tso-electricity",
-   "resolution": "1 second (PT1S)",
-   "dataFrom": "2026-06-30T16:44:43",
-   "dataTo": "2026-09-30T15:05:09",
-   "active": true,
-   "updateFrequency": "PT6H",
-   "lastDataUpdate": "2026-09-30T16:45:20",
-   "caution": "",
-   "description": "Calculated available transfer capacity for given borders. The data here is based on ENTSO-E standard border definition direction - meaning East->West, North->South."
-  },
-  "AfrrEnergyActivation": {
-   "title": "aFRR Energy Activation",
-   "organizationName": "tso-electricity",
-   "resolution": "1 second (PT1S)",
-   "dataFrom": "2026-06-30T16:44:31",
-   "dataTo": "2026-09-30T15:06:10",
-   "active": true,
-   "updateFrequency": "PT6H",
-   "lastDataUpdate": "2026-09-30T16:45:30",
-   "caution": "This dataset has replaced the dataset \"aFRR, Automatic Frequency Restoration Reserve, Energy Activated\" which has been deleted on October 14, 2025.",
-   "description": "The energy volume activated by the LFC."
-  },
-  "AfrrLfcActivationLimits": {
-   "title": "aFRR LFC Activation Limits",
-   "organizationName": "tso-electricity",
-   "resolution": "1 second (PT1S)",
-   "dataFrom": "2026-06-30T16:45:01",
-   "dataTo": "2026-09-30T15:00:00",
-   "active": true,
-   "updateFrequency": "PT6H",
-   "lastDataUpdate": "2026-09-30T16:45:20",
-   "caution": "",
-   "description": "Hard limits for how much energy the LFC is allowed to activate."
-  },
-  "AfrrPicassoCorrections": {
-   "title": "aFRR Picasso Corrections",
-   "organizationName": "tso-electricity",
-   "resolution": "1 second (PT1S)",
-   "dataFrom": "2026-06-30T16:44:43",
-   "dataTo": "2026-09-30T15:06:00",
-   "active": true,
-   "updateFrequency": "PT6H",
-   "lastDataUpdate": "2026-09-30T16:45:32",
-   "caution": "",
-   "description": "Combined corrections received from PICASSO and the calculated price."
-  },
-  "AfrrReservesDK1": {
-   "title": "aFRR - DK1 Skagerak (Discontinued, please read description)",
-   "organizationName": "tso-electricity",
-   "resolution": "1 hour (PT1H)",
-   "dataFrom": "2015-01-01T00:00:00",
-   "dataTo": null,
-   "active": true,
-   "updateFrequency": "N/A",
-   "lastDataUpdate": null,
-   "caution": "",
-   "description": "This dataset is no longer updated. For data after August 2020, please find data here [aFRR, Activated Automatic Frequency Restoration Reserves](https://www.energidataservice.dk/tso-electricity/AfrrActivatedAutomatic) or [aFRR, Automatic Frequency Restoration Reserves, Nordic capacity market](https://www.energidataservice.dk/tso-electricity/AfrrReservesNordic)\n\nAutomatic Frequency Restoration Reserves (aFRR), also called secondary reserve, is an automatic 15-minute power control. It shows amounts"
-  },
-  "AfrrReservesNordic": {
-   "title": "aFRR, Automatic Frequency Restoration Reserves, Capacity Market",
-   "organizationName": "tso-electricity",
-   "resolution": "1 hour (PT1H)",
-   "dataFrom": "2022-12-08T00:00:00",
-   "dataTo": "2026-10-01T23:00:00",
-   "active": true,
-   "updateFrequency": "P1D",
-   "lastDataUpdate": "2026-09-30T07:41:30",
-   "caution": "",
-   "description": "Energinet makes daily procurement of automatic frequency restoration reserves (aFRR) on an hourly capacity market. This site provides market-related information for the balancing capacity market. Here, you can find details on requested demand, procured volumes, and reserve prices across different directions and price areas per hour. "
-  },
-  "CalorificValues": {
-   "title": "Monthly Allocated Calorific Values (Discontinued, please read description)",
-   "organizationName": "tso-gas",
-   "resolution": "1 month (P1M)",
-   "dataFrom": "2017-01-01T00:00:00",
-   "dataTo": null,
-   "active": true,
-   "updateFrequency": "N/A",
-   "lastDataUpdate": null,
-   "caution": "While the already published data will still be available, the data is no longer considered accurate or suitable for settlement purposes as previously stated. If you require data regarding the calorific value within a specific area, please use the dataset [Gas Quality and Flow for MR Stations](https://www.energidataservice.dk/tso-gas/MrStationsGasquality).\n\nKeep in mind that the resolution is hourly values and not monthly.",
-   "description": "The dataset has been decommissioned on the 1st of September 2025. \n\n---\n\nFor each meter and regulator stations connected to the transmission grid, a validation gives an allocated calorific value and normal density each month for the purpose of settlement. The values represent the gas delivered from the meter and regulator station each month."
-  },
-  "CapacityAuction": {
-   "title": "Auction of Capacities, PTR Germany (Discontinued, please read description)",
-   "organizationName": "tso-electricity",
-   "resolution": "1 hour (PT1H)",
-   "dataFrom": "2021-01-01T00:00:00",
-   "dataTo": null,
-   "active": true,
-   "updateFrequency": "N/A",
-   "lastDataUpdate": null,
-   "caution": "",
-   "description": "This dataset is no longer updated. For data after september 2022, please find data at [JAO](https://www.jao.eu/auctions#/).\n\nPhysical Transmission Rights (PTR) is explicit auction of transfer capacity on a connection between two price areas."
-  },
-  "CapacityauctionDK1": {
-   "title": "Auction of Capacities, PTR DK1-Germany (Discontinued, please read description)",
-   "organizationName": "tso-electricity",
-   "resolution": "1 hour (PT1H)",
-   "dataFrom": "1999-07-01T00:00:00",
-   "dataTo": null,
-   "active": true,
-   "updateFrequency": "N/A",
-   "lastDataUpdate": null,
-   "caution": "",
-   "description": "The dataset is no longer updated. For data after December 2021, please find data here [Auction of Capacities, PTR Germany](https://www.energidataservice.dk/tso-electricity/CapacityAuction). \n\nPhysical Transmission Rights (PTR) is explicit auction of transfer capacity on a connection between two price areas."
-  },
-  "CapacityauctionDK2": {
-   "title": "Auction of Capacities, PTR DK2-Germany (Discontinued, please read description)",
-   "organizationName": "tso-electricity",
-   "resolution": "1 hour (PT1H)",
-   "dataFrom": "2014-01-01T00:00:00",
-   "dataTo": null,
-   "active": true,
-   "updateFrequency": "N/A",
-   "lastDataUpdate": null,
-   "caution": "",
-   "description": "The dataset is no longer updated. For data after December 2021, please find data here [Auction of Capacities, PTR Germany](https://www.energidataservice.dk/tso-electricity/CapacityAuction).\n\nPhysical Transmission Rights (PTR) is explicit auction of transfer capacity on a connection between two price areas. "
-  },
-  "CapacityPerMunicipality": {
-   "title": "Capacity per Municipality",
-   "organizationName": "tso-electricity",
-   "resolution": "1 month (P1M)",
-   "dataFrom": "2016-01-01T01:00:00",
-   "dataTo": "2026-08-01T02:00:00",
-   "active": true,
-   "updateFrequency": "P1M",
-   "lastDataUpdate": "2026-09-28T08:10:02",
-   "caution": "",
-   "description": "Capacity and number of production units per municipality and type."
-  },
-  "CO2Emis": {
-   "title": "CO2 Emission",
-   "organizationName": "tso-electricity",
-   "resolution": "5 minutes (PT5M)",
-   "dataFrom": "2017-01-01T00:00:00",
-   "dataTo": null,
-   "active": true,
-   "updateFrequency": "PT5M",
-   "lastDataUpdate": null,
-   "caution": "",
-   "description": "The dataset is an updated near up-to-date history for the CO2 emission from electricity consumed in Denmark measured in g/kWh. This is initial data, for more updated emission, please see [Declaration Grid Emission](https://www.energidataservice.dk/tso-electricity/DeclarationGridEmission)."
-  },
-  "CO2EmisProg": {
-   "title": "CO2 Emission Prognosis",
-   "organizationName": "tso-electricity",
-   "resolution": "5 minutes (PT5M)",
-   "dataFrom": "2017-01-01T00:00:00",
-   "dataTo": null,
-   "active": true,
-   "updateFrequency": "PT5M",
-   "lastDataUpdate": null,
-   "caution": "",
-   "description": "The dataset is an estimated prognosis following the day-ahead market. The forecast is normally released at 15.00 for the following day, and then adjusted during the intraday trade."
-  },
-  "ConnectionPointsInGrid": {
-   "title": "Connection Points in the Electricity Grid",
-   "organizationName": "tso-electricity",
-   "resolution": "N/A",
-   "dataFrom": null,
-   "dataTo": null,
-   "active": true,
-   "updateFrequency": "P1Y",
-   "lastDataUpdate": null,
-   "caution": "",
-   "description": "Connection points in the electricity grid for voltages ranging from 50 to 400 kV.\n\nData has been updated on December 10, 2025."
-  },
-  "ConsumptionConsumerCategoryHour": {
-   "title": "Consumption per Consumer Category, Region and Hour",
-   "organizationName": "dso-electricity",
-   "resolution": "1 hour (PT1H)",
-   "dataFrom": "2021-01-01T00:00:00",
-   "dataTo": "2026-09-08T23:00:00",
-   "active": true,
-   "updateFrequency": "P1D",
-   "lastDataUpdate": "2026-09-17T08:45:09",
-   "caution": "Due to the [DataHub technical upgrade](https://energidataservice.dk/news#154) the dataset may not be updated from September 17, 2026 to January 1, 2027.",
-   "description": "Hourly consumption of business sector, public sector and private units by region.\n\nData is updated with a 9-15 day delay."
-  },
-  "ConsumptionConsumerCategoryMonth": {
-   "title": "Consumption per Consumer Category, Region and Month",
-   "organizationName": "dso-electricity",
-   "resolution": "1 month (P1M)",
-   "dataFrom": "2021-01-01T01:00:00",
-   "dataTo": "2026-08-01T02:00:00",
-   "active": true,
-   "updateFrequency": "P1M",
-   "lastDataUpdate": "2026-09-17T08:45:09",
-   "caution": "Due to the [DataHub technical upgrade](https://energidataservice.dk/news#154) the dataset may not be updated from September 17, 2026 to January 1, 2027.",
-   "description": "Monthly consumption of business sector, public sector and private units by region.\n\nThe dataset is updated between the 9th and 15th the following month."
-  },
-  "ConsumptionCoverageLocationBased": {
-   "title": "Consumption Coverage, Location Based",
-   "organizationName": "tso-electricity",
-   "resolution": "1 hour (PT1H)",
-   "dataFrom": "2013-01-01T00:00:00",
-   "dataTo": "2026-09-30T16:00:00",
-   "active": true,
-   "updateFrequency": "PT1H",
-   "lastDataUpdate": "2026-09-30T17:51:24",
-   "caution": "The dataset will change as part of the [transition to DataHub 3.0](https://www.energidataservice.dk/news#154).\\\nThe URL/endpoint will remain unchanged. However, the values will be calculated using a different method.  **Expected implementation date: October / November.** The dataset will not be updated from 17 September until the implementation date. Any resulting data gap will be backfilled after the implementation has been completed.",
-   "description": "Explanation of how consumption in DK1 and DK2 is accounted for in the location-based declaration: Import is considered equivalent to local production in this declaration. "
-  },
-  "ConsumptionCoverageNationalDecl": {
-   "title": "Consumption Coverage, Hourly National Statistics",
-   "organizationName": "tso-electricity",
-   "resolution": "1 hour (PT1H)",
-   "dataFrom": "2021-01-01T00:00:00",
-   "dataTo": "2026-09-08T08:00:00",
-   "active": true,
-   "updateFrequency": "P1D",
-   "lastDataUpdate": "2026-09-17T08:18:11",
-   "caution": "The dataset will change as part of the [transition to DataHub 3.0](https://www.energidataservice.dk/news#154).\\\nThe URL/endpoint will remain unchanged. However, the values will be calculated using a different method.  **Expected implementation date: October / November.** The dataset will not be updated from 17 September until the implementation date. Any resulting data gap will be backfilled after the implementation has been completed.",
-   "description": "This dataset calculates how the consumption is covered by production in DK and connected countries. In the National declaration, Danish production is reserved Danish consumption, and is only used as a political benchmark. "
-  },
-  "ConsumptionCoverageTransmission": {
-   "title": "Consumption Coverage, Transmission",
-   "organizationName": "tso-electricity",
-   "resolution": "1 hour (PT1H)",
-   "dataFrom": "2021-01-01T00:00:00",
-   "dataTo": "2026-09-07T23:00:00",
-   "active": true,
-   "updateFrequency": "P1D",
-   "lastDataUpdate": "2026-09-17T08:18:26",
-   "caution": "The dataset will change as part of the [transition to DataHub 3.0](https://www.energidataservice.dk/news#154).\\\nThe URL/endpoint will remain unchanged. However, the values will be calculated using a different method.  **Expected implementation date: October / November.** The dataset will not be updated from 17 September until the implementation date. Any resulting data gap will be backfilled after the implementation has been completed.",
-   "description": "Explanation of how consumption in DK1 and DK2 is accounted for in the declaration on municipality level: Import is considered equivalent to local production in this declaration. \n\n"
-  },
-  "ConsumptionDK10IndustryYear": {
-   "title": "Consumption per DK10 Industry Code, Region and Year",
-   "organizationName": "dso-electricity",
-   "resolution": "1 year (P1Y)",
-   "dataFrom": "2021-01-01T01:00:00",
-   "dataTo": "2025-01-01T01:00:00",
-   "active": true,
-   "updateFrequency": "P1Y",
-   "lastDataUpdate": "2026-09-17T08:45:09",
-   "caution": "Due to the [DataHub technical upgrade](https://energidataservice.dk/news#154) the dataset may not be updated from September 17, 2026 to January 1, 2027.",
-   "description": "Yearly consumption of industries divided by municipality code and DK10 industry code, which is based on Statistics Denmark.\n\nThe dataset is updated yearly in the first quarter of the year."
-  },
-  "ConsumptionDK3619IndustryHour": {
-   "title": "Consumption per DK36/DK19 Industry Code per Hour",
-   "organizationName": "dso-electricity",
-   "resolution": "1 hour (PT1H)",
-   "dataFrom": "2021-01-01T00:00:00",
-   "dataTo": "2026-09-08T23:00:00",
-   "active": true,
-   "updateFrequency": "P1D",
-   "lastDataUpdate": "2026-09-17T08:45:09",
-   "caution": "Due to the [DataHub technical upgrade](https://energidataservice.dk/news#154) the dataset may not be updated from September 17, 2026 to January 1, 2027.",
-   "description": "Electricity Consumption per DK36/DK19 Industry Code as specified by Statistics Denmark.\nConsumption for Industry Codes includes customers with a CVR number only.\n\nData is updated with a 9-15 day delay."
-  },
-  "ConsumptionGridAreaHour": {
-   "title": "Consumption per Grid Area",
-   "organizationName": "dso-electricity",
-   "resolution": "1 hour (PT1H)",
-   "dataFrom": "2021-01-01T01:00:00",
-   "dataTo": "2026-09-20T02:00:00",
-   "active": true,
-   "updateFrequency": "P1D",
-   "lastDataUpdate": "2026-09-30T07:14:27",
-   "caution": "The dataset has been migrated to DataHub 3.0 on 28 September, and is now updating again. [DataHub technical upgrade](https://energidataservice.dk/news#154)",
-   "description": "Hourly consumption per grid area.\n\nData is updated with a 9-15 day delay."
-  },
-  "CountertradeIntraday": {
-   "title": "Countertrade Procured in Intraday (Discontinued – see description)",
-   "organizationName": "tso-electricity",
-   "resolution": "1 hour (PT1H)",
-   "dataFrom": "2023-04-18T00:00:00",
-   "dataTo": null,
-   "active": true,
-   "updateFrequency": "N/A",
-   "lastDataUpdate": null,
-   "caution": "",
-   "description": "The dataset has been discontinued. For data published after 2025-10-14 see [Countertrade Procured in Intraday](https://www.energidataservice.dk/tso-electricity/CountertradeIntraday_v2).\n\nThe volumes published below are the new volumes. The net volumes are requested to be traded in DK1 and may differ from countertrade data that is published as Change in Cross-Border Exchange [13.1.B] on [ENTSO-E Transparency Platform](https://transparency.entsoe.eu/congestion-management/r2/countertrading/show)."
-  },
-  "CountertradeIntraday_v2": {
-   "title": "Countertrade Procured in Intraday",
-   "organizationName": "tso-electricity",
-   "resolution": "15 minutes (PT15M)",
-   "dataFrom": "2025-10-15T00:00:00",
-   "dataTo": "2026-10-01T23:45:00",
-   "active": true,
-   "updateFrequency": "P1D",
-   "lastDataUpdate": "2026-09-30T17:39:33",
-   "caution": "",
-   "description": "This dataset provides countertrade data in 15-minute resolution, and replaced the hourly dataset [Countertrade Procured in Intraday (Discontinued)](https://www.energidataservice.dk/tso-electricity/CountertradeIntraday) on 15 October, 2025.\n\n---\n\nThe volumes published below are the net volumes requested to be traded in DK1 and may differ from countertrade data published as Change in Cross-Border Exchange [13.1.B] on ENTSO-E Transparency Platform ([Transparency Platform](https://newtransparency.en"
-  },
-  "DatahubMeasuringPointStatistics": {
-   "title": "DataHub Measuring Point Statistics",
-   "organizationName": "tso-electricity",
-   "resolution": "1 month (P1M)",
-   "dataFrom": "2016-04-01T02:00:00",
-   "dataTo": "2026-08-01T02:00:00",
-   "active": true,
-   "updateFrequency": "P1M",
-   "lastDataUpdate": "2026-09-27T13:12:00",
-   "caution": "The dataset will change as part of the [transition to DataHub 3.0](https://www.energidataservice.dk/news#154).\\\nThe URL/endpoint will remain unchanged. However, values in the columns Settlement Method and Settlement Methods Description will no longer be available. Contents of the Description columns may change. **Expected implementation date: September / October.** The dataset will not be updated from 17 September until the implementation date. Any resulting data gap will be backfilled after the",
-   "description": "This extract is a raw extract that can be used for statistics in various ways."
-  },
-  "DatahubMeasuringPointStatisticsMunicipality": {
-   "title": "DataHub Measuring Point Statistics per Municipality",
-   "organizationName": "tso-electricity",
-   "resolution": "1 month (P1M)",
-   "dataFrom": "2016-04-01T02:00:00",
-   "dataTo": "2026-08-01T02:00:00",
-   "active": true,
-   "updateFrequency": "P1M",
-   "lastDataUpdate": "2026-09-27T13:11:58",
-   "caution": "The dataset will change as part of the [transition to DataHub 3.0](https://www.energidataservice.dk/news#154).\\\nThe URL/endpoint will remain unchanged. However, values in the columns Settlement Method and Settlement Methods Description will no longer be available. Contents of the Description columns may change. **Expected implementation date: September / October.** The dataset will not be updated from 17 September until the implementation date. Any resulting data gap will be backfilled after the",
-   "description": "This extract is a raw extract that can be used for statistics in various ways."
-  },
-  "DatahubPricelist": {
-   "title": "DataHub Price List (subscriptions, tariffs, and fees)",
-   "organizationName": "tso-electricity",
-   "resolution": "N/A",
-   "dataFrom": "2014-01-01T00:00:00",
-   "dataTo": null,
-   "active": true,
-   "updateFrequency": "P1D",
-   "lastDataUpdate": "2026-09-30T06:49:39",
-   "caution": "The dataset has changed as part of the [transition to DataHub 3.0](https://www.energidataservice.dk/news#154).\\\nThe URL/endpoint will remain unchanged. Contents of the ChargeOwner column may change.  **Implemented on September 21.**",
-   "description": "This dataset shows prices for the electrical power retail market in Denmark per supplier per charge type (subscriptions, tariffs, and fees). "
-  },
-  "DayAheadPrices": {
-   "title": "Day-Ahead Prices",
-   "organizationName": "tso-electricity",
-   "resolution": "15 minutes (PT15M)",
-   "dataFrom": "2025-10-01T00:00:00",
-   "dataTo": "2026-10-01T23:45:00",
-   "active": true,
-   "updateFrequency": "P1D",
-   "lastDataUpdate": "2026-09-30T13:32:27",
-   "caution": "",
-   "description": "Day-Ahead Prices for Denmark and Neighboring Countries.\n\nThis dataset provides day-ahead electricity prices for Denmark (DK1 and DK2) and neighboring countries in the Nord Pool market, including Norway, Sweden, Finland, and Germany. In the day-ahead market, participants buy and sell electricity for delivery the following day within their respective bidding zones."
-  },
-  "DeclarationGridEmission": {
-   "title": "Declaration Grid Emission",
-   "organizationName": "tso-electricity",
-   "resolution": "1 hour (PT1H)",
-   "dataFrom": "2017-01-01T01:00:00",
-   "dataTo": "2026-09-30T16:00:00",
-   "active": true,
-   "updateFrequency": "PT1H",
-   "lastDataUpdate": "2026-09-30T17:52:51",
-   "caution": "The dataset will change as part of the [transition to DataHub 3.0](https://www.energidataservice.dk/news#154).\\\nThe URL/endpoint will remain unchanged. However, the values will be calculated using a different method.  **Expected implementation date: October / November.** The dataset will not be updated from 17 September until the implementation date. Any resulting data gap will be backfilled after the implementation has been completed.",
-   "description": "Emissions per hour in the average grid mix per hour for electricity in the grid, both transmission and distribution. It excludes self consumption."
-  },
-  "DeclarationGridEmissionVer": {
-   "title": "Declaration Grid Emission Versions",
-   "organizationName": "tso-electricity",
-   "resolution": "1 hour (PT1H)",
-   "dataFrom": "2017-01-01T01:00:00",
-   "dataTo": "2026-09-28T01:00:00",
-   "active": true,
-   "updateFrequency": "P1D",
-   "lastDataUpdate": "2026-09-29T21:43:54",
-   "caution": "The dataset will change as part of the [transition to DataHub 3.0](https://www.energidataservice.dk/news#154).\\\nThe URL/endpoint will remain unchanged. However, the values will be calculated using a different method.  **Expected implementation date: October / November.** The dataset will not be updated from 17 September until the implementation date. Any resulting data gap will be backfilled after the implementation has been completed.",
-   "description": "The official environmental declaration per hour for electricity delivered to the grid, both transmission and distribution."
-  },
-  "DeclarationGridmix": {
-   "title": "Declaration Grid Mix",
-   "organizationName": "tso-electricity",
-   "resolution": "1 hour (PT1H)",
-   "dataFrom": "2017-01-01T01:00:00",
-   "dataTo": "2026-09-30T16:00:00",
-   "active": true,
-   "updateFrequency": "PT1H",
-   "lastDataUpdate": "2026-09-30T17:52:51",
-   "caution": "The dataset will change as part of the [transition to DataHub 3.0](https://www.energidataservice.dk/news#154).\\\nThe URL/endpoint will remain unchanged. However, the values will be calculated using a different method.  **Expected implementation date: October / November.** The dataset will not be updated from 17 September until the implementation date. Any resulting data gap will be backfilled after the implementation has been completed.",
-   "description": "This dataset describes how the consumption in a bidding zone (price area) is covered by production and imports, hour by hour, and per technology.\n\n\n"
-  },
-  "DeclarationGridmixVer": {
-   "title": "Declaration Grid Mix Versions",
-   "organizationName": "tso-electricity",
-   "resolution": "1 hour (PT1H)",
-   "dataFrom": "2013-03-01T00:00:00",
-   "dataTo": "2026-09-29T20:00:00",
-   "active": true,
-   "updateFrequency": "P1D",
-   "lastDataUpdate": "2026-09-29T21:47:48",
-   "caution": "The dataset will change as part of the [transition to DataHub 3.0](https://www.energidataservice.dk/news#154).\\\nThe URL/endpoint will remain unchanged. However, the values will be calculated using a different method.  **Expected implementation date: October / November.** The dataset will not be updated from 17 September until the implementation date. Any resulting data gap will be backfilled after the implementation has been completed.",
-   "description": "This data set describes how the consumption in a bidding area (price area) is covered by production and imports, hour by hour.\n\n"
-  },
-  "DeclarationImport": {
-   "title": "Declaration Import",
-   "organizationName": "tso-electricity",
-   "resolution": "1 year (P1Y)",
-   "dataFrom": "2017-01-01T00:00:00",
-   "dataTo": null,
-   "active": true,
-   "updateFrequency": "P1Y",
-   "lastDataUpdate": null,
-   "caution": "",
-   "description": "Declaration of imported electricity per production type and per country, based on Energinet's assumptions. Used for calculating the Danish location-based declarations for DK1 and DK2. "
-  },
-  "DeclarationProduction": {
-   "title": "Declaration, Production Types and Emissions per Hour",
-   "organizationName": "tso-electricity",
-   "resolution": "1 hour (PT1H)",
-   "dataFrom": "2014-12-31T01:00:00",
-   "dataTo": "2026-09-30T17:00:00",
-   "active": true,
-   "updateFrequency": "PT1H",
-   "lastDataUpdate": "2026-09-30T18:12:52",
-   "caution": "The dataset will change as part of the [transition to DataHub 3.0](https://www.energidataservice.dk/news#154).\\\nThe URL/endpoint will remain unchanged. However, the values will be calculated using a different method.  **Expected implementation date: October / November.** The dataset will not be updated from 17 September until the implementation date. Any resulting data gap will be backfilled after the implementation has been completed.",
-   "description": "Declaration of production per bidding zone (Price area) per hour.\n"
-  },
-  "DeclarationProductionVersion": {
-   "title": "Declaration, Production Types and Emissions per Hour, Versions",
-   "organizationName": "tso-electricity",
-   "resolution": "1 hour (PT1H)",
-   "dataFrom": "2014-12-31T01:00:00",
-   "dataTo": "2026-09-30T06:00:00",
-   "active": true,
-   "updateFrequency": "P1D",
-   "lastDataUpdate": "2026-09-30T07:43:09",
-   "caution": "The dataset will change as part of the [transition to DataHub 3.0](https://www.energidataservice.dk/news#154).\\\nThe URL/endpoint will remain unchanged. However, the values will be calculated using a different method.  **Expected implementation date: October / November.** The dataset will not be updated from 17 September until the implementation date. Any resulting data gap will be backfilled after the implementation has been completed.",
-   "description": "Declaration of production per bidding zone (Price area) per hour.\n\n"
-  },
-  "DeclarationTransmissionEmission": {
-   "title": "Declaration, Transmission Emissions",
-   "organizationName": "tso-electricity",
-   "resolution": "1 hour (PT1H)",
-   "dataFrom": "2017-01-01T01:00:00",
-   "dataTo": "2026-09-08T23:00:00",
-   "active": true,
-   "updateFrequency": "P1D",
-   "lastDataUpdate": "2026-09-30T17:53:02",
-   "caution": "The dataset will change as part of the [transition to DataHub 3.0](https://www.energidataservice.dk/news#154).\\\nThe URL/endpoint will remain unchanged. However, the values will be calculated using a different method.  **Expected implementation date: October / November.** The dataset will not be updated from 17 September until the implementation date. Any resulting data gap will be backfilled after the implementation has been completed.",
-   "description": "The average emissions in the transmission, excluding locally consumed renewables in the municipalities. Combined with [RE Coverage Municipality](https://www.energidataservice.dk/tso-electricity/REcoverageMunicipality) it delivers the emissions per kWh per municipality per hour."
-  },
-  "DeclarationTransmissionEmissionVer": {
-   "title": "Declaration, Transmission Emissions Versions",
-   "organizationName": "tso-electricity",
-   "resolution": "1 hour (PT1H)",
-   "dataFrom": "2017-01-01T01:00:00",
-   "dataTo": "2026-09-08T23:00:00",
-   "active": true,
-   "updateFrequency": "P1D",
-   "lastDataUpdate": "2026-09-29T21:43:50",
-   "caution": "The dataset will change as part of the [transition to DataHub 3.0](https://www.energidataservice.dk/news#154).\\\nThe URL/endpoint will remain unchanged. However, the values will be calculated using a different method.  **Expected implementation date: October / November.** The dataset will not be updated from 17 September until the implementation date. Any resulting data gap will be backfilled after the implementation has been completed.",
-   "description": "The official environmental declaration per hour for electricity delivered to the distribution grid."
-  },
-  "DeclarationTransmissionGridmix": {
-   "title": "Declaration, Transmission Grid Mix",
-   "organizationName": "tso-electricity",
-   "resolution": "1 hour (PT1H)",
-   "dataFrom": "2017-01-01T01:00:00",
-   "dataTo": "2026-09-08T23:00:00",
-   "active": true,
-   "updateFrequency": "P1D",
-   "lastDataUpdate": "2026-09-30T17:52:44",
-   "caution": "The dataset will change as part of the [transition to DataHub 3.0](https://www.energidataservice.dk/news#154).\\\nThe URL/endpoint will remain unchanged. However, the values will be calculated using a different method.  **Expected implementation date: October / November.** The dataset will not be updated from 17 September until the implementation date. Any resulting data gap will be backfilled after the implementation has been completed.",
-   "description": "This data set describes how the consumption in a bidding zone (price area) is covered by production and imports, hour by hour.\n\n"
-  },
-  "DeclarationTransmissionGridmixVer": {
-   "title": "Declaration, Transmission Grid Mix Versions",
-   "organizationName": "tso-electricity",
-   "resolution": "1 hour (PT1H)",
-   "dataFrom": "2014-12-31T01:00:00",
-   "dataTo": "2026-09-08T23:00:00",
-   "active": true,
-   "updateFrequency": "P1D",
-   "lastDataUpdate": "2026-09-29T21:47:27",
-   "caution": "The dataset will change as part of the [transition to DataHub 3.0](https://www.energidataservice.dk/news#154).\\\nThe URL/endpoint will remain unchanged. However, the values will be calculated using a different method.  **Expected implementation date: October / November.** The dataset will not be updated from 17 September until the implementation date. Any resulting data gap will be backfilled after the implementation has been completed.",
-   "description": "This data set describes how the consumption in a bidding area (price area) is covered by production and imports, hour by hour."
-  },
-  "ElectricityBalanceNonv": {
-   "title": "Electricity Balance Non-Validated (Discontinued, please read description)",
-   "organizationName": "tso-electricity",
-   "resolution": "1 hour (PT1H)",
-   "dataFrom": "2017-01-01T00:00:00",
-   "dataTo": null,
-   "active": true,
-   "updateFrequency": "N/A",
-   "lastDataUpdate": null,
-   "caution": "All values in the dataset are in 15-minute resolution since 2025-04-23 12.45 CET instead of hour resolution as required by ENTSO-E. Between 2025-04-07 23.45 CET and 2025-04-23 12.45 CET and between 2025-11-21 13.30 CET and 2025-11-26 23.00 CET values are missing sporadically in connection with the transition to 15-minute resolution. The missing data will not be added to the dataset, why data in the period must be used with caution.\n\nThis dataset will not be restored to hour resolution, as the da",
-   "description": "This dataset is replaced by the new dataset [Generation per Production Type and Exchange](https://www.energidataservice.dk/tso-electricity/GenerationProdTypeExchange) and has been discontinued on January 6, 2026. It will be deleted at a later date. Updates will be published on this page and on [NEWS](https://www.energidataservice.dk/news)."
-  },
-  "ElectricityProdex5MinRealtime": {
-   "title": "Electricity Production and Exchange 5 min Realtime",
-   "organizationName": "tso-electricity",
-   "resolution": "5 minutes (PT5M)",
-   "dataFrom": "2015-01-01T00:00:00",
-   "dataTo": null,
-   "active": true,
-   "updateFrequency": "PT5M",
-   "lastDataUpdate": null,
-   "caution": "* Erroneous values occur in the column 'Production on plants less than 100 MW' from 2026-03-30 10.00 to 10.15 CET. The values will not be corrected.\n\n* Due to technical issues the switch to Daylight Saving Time (DST) has caused erroneous values to occur between 2026-03-29 03.00 and 04.00 CET. The values will not be corrected.",
-   "description": "The electricity production and exchange in MW in 5 minutes intervals and updated every 5 minutes."
-  },
-  "ElectricitySuppliersPerGridarea": {
-   "title": "Active Electricity Suppliers per Grid Area",
-   "organizationName": "tso-electricity",
-   "resolution": "1 month (P1M)",
-   "dataFrom": "2013-03-01T01:00:00",
-   "dataTo": "2026-08-01T02:00:00",
-   "active": true,
-   "updateFrequency": "P1M",
-   "lastDataUpdate": "2026-09-15T01:25:47",
-   "caution": "",
-   "description": "This dataset shows number of active electricity suppliers per grid area and nationwide."
-  },
-  "Elspotprices": {
-   "title": "Elspot Prices (Discontinued – see description)",
-   "organizationName": "tso-electricity",
-   "resolution": "1 hour (PT1H)",
-   "dataFrom": "1999-07-01T00:00:00",
-   "dataTo": null,
-   "active": true,
-   "updateFrequency": "N/A",
-   "lastDataUpdate": null,
-   "caution": "",
-   "description": "This dataset is no longer updated. For data after 2025-09-30 see [Day-Ahead Prices](https://energidataservice.dk/tso-electricity/DayAheadPrices).\n\n---\n\nDay ahead spotprices in Denmark (DK) and neighbouring countries."
-  },
-  "EntryExitGasquality": {
-   "title": "Entry/Exit Gas Flow and Quality",
-   "organizationName": "tso-gas",
-   "resolution": "1 hour (PT1H)",
-   "dataFrom": "2013-01-27T23:00:00",
-   "dataTo": "2026-09-30T17:00:00",
-   "active": true,
-   "updateFrequency": "PT1H",
-   "lastDataUpdate": "2026-09-30T18:10:34",
-   "caution": "* On November 15th, 2024, rows containing \"North Sea\" and \"North Sea Entry\" in column “Entry/exit point” was combined into a single row for each timestamp. Data was corrected backwards.\n* Minor rounding errors have occured in the columns *’Gross Calorific Value (MJ/Nm3)’, ’Gross Calorific Value (kWh/Nm3)’, ‘Wobbe index (MJ/Nm3)’, ‘Wobbe index (kWh/Nm3)’, ‘Flow’ and ’Normal Density (kg/Nm3)’*. Data have been corrected backwards and is now correct from 2022-01-01.",
-   "description": "The dataset consists of the hourly flow and gas quality values for all entry/exit points in the Danish gas transmission system.\n\nGas quality naturally varies depending on the origin of the gas. Here is given the hourly unvalidated data for the entry/exit and central points: Nybro (Danish North Sea), Dragør Border (Sweden), Ellund (Germany), Bevtoft (biomethane plant), Ll. Torup (Storage), Stenlille (Storage), Faxe (Poland), and North Sea (Norway)). Gas delivered to Danish consumers may originate"
-  },
-  "FcrDK1": {
-   "title": "FCR, Frequency Containment Reserves, DK1",
-   "organizationName": "tso-electricity",
-   "resolution": "1 hour (PT1H)",
-   "dataFrom": "2021-01-19T00:00:00",
-   "dataTo": "2026-10-01T23:00:00",
-   "active": true,
-   "updateFrequency": "P1D",
-   "lastDataUpdate": "2026-09-30T11:05:02",
-   "caution": "",
-   "description": "Amount and prices of FCR regulation in bidding zone (Price area) DK1.\n\nFrequency Containment Reserve, FCR, also called primary reserve, must ensure that the balance between generation and demand is restored, stabilising the frequency at close to, but deviating from 50 Hz."
-  },
-  "FcrNdDK2": {
-   "title": "FCR N and D, Frequency Containment Reserves, DK2",
-   "organizationName": "tso-electricity",
-   "resolution": "1 hour (PT1H)",
-   "dataFrom": "2021-11-10T00:00:00",
-   "dataTo": "2026-10-01T23:00:00",
-   "active": true,
-   "updateFrequency": "P0.5D",
-   "lastDataUpdate": "2026-09-30T00:48:49",
-   "caution": "UTC/CET timestamps are incorrect at the end of daylight saving time 2024:\n* Correct: HourUTC 2024-10-27 00.00 = HourDK 2024-10-27 02.00 (incorrect in dataset: HourUTC 2024-10-27 01.00 = HourDK: 2024-10-27 02.00)\n* Correct: HourUTC 2024-10-27 01.00 = HourDK 2024-10-27 02.00 (incorrect in dataset: HourUTC 2024-10-27 01.01 = HourDK: 2024-10-27 02.01)\n\nMissing data:\n* Data for the timestamp 2026-03-29 21:00 Hour UTC is missing and will not be backfilled.",
-   "description": "Frequency Containment Reserve - Normal operation/-Disturbance, FCR N and D, also called primary reserve, is there to stabilize the frequency in the electricity grid in DK2 and in the rest of the Nordic synchronous area, in the event of a frequency dip/jump.\n\nEnerginet procures FCR-N, FCR-D up and FCR-D down capacity reserve in collaboration with Svenska Kraftnät in daily auctions where part of the required volume is procured two days before the day of operation, D-1 early (former D-2) and the re"
-  },
-  "FcrReservesDK1": {
-   "title": "FCR, Frequency Containment Reserves, DK1 (Discontinued, please read description)",
-   "organizationName": "tso-electricity",
-   "resolution": "1 hour (PT1H)",
-   "dataFrom": "1999-07-01T00:00:00",
-   "dataTo": null,
-   "active": true,
-   "updateFrequency": "N/A",
-   "lastDataUpdate": null,
-   "caution": "",
-   "description": "This dataset is no longer updated. For data after January 2021, please find data in either links: [Regelleistung.net - Datencenter](https://www.regelleistung.net/apps/datacenter/tenders/?productTypes=PRL&markets=BALANCING_CAPACITY,BALANCING_ENERGY&date=2022-05-09&tenderTab=PRL$CAPACITY$1) or [FCR, Frequency Containment Reserves, DK1](https://www.energidataservice.dk/tso-electricity/FcrDK1).\n\nAmount and prices of FCR regulation in bidding zone (Price area) DK1."
-  },
-  "FcrReservesDK2": {
-   "title": "FCR, Frequency Containment Reserves, DK2 (Discontinued, please read description)",
-   "organizationName": "tso-electricity",
-   "resolution": "1 hour (PT1H)",
-   "dataFrom": "2009-09-16T00:00:00",
-   "dataTo": null,
-   "active": true,
-   "updateFrequency": "N/A",
-   "lastDataUpdate": null,
-   "caution": "",
-   "description": "This dataset is no longer updated. For data after June 2023, please find data here [FCR N and D, Frequency Containment Reserves, DK2](https://www.energidataservice.dk/tso-electricity/FcrNdDK2).\n\nPrices of FCR regulation in Bidding Zone (Price area) DK2.\n"
-  },
-  "FFRdemandDK2": {
-   "title": "FFR, Fast Frequency Reserve, Demand DK2",
-   "organizationName": "tso-electricity",
-   "resolution": "1 hour (PT1H)",
-   "dataFrom": "2020-05-20T00:00:00",
-   "dataTo": "2026-10-01T23:00:00",
-   "active": true,
-   "updateFrequency": "P1D",
-   "lastDataUpdate": "2026-09-30T09:34:01",
-   "caution": "Data is missing between April 12 and April 15, 2025 and will not be added to the dataset.",
-   "description": "Total expected demand of Fast Frequency Reserve (FFR) in MWh in DK2. The demand is forecasted based on the expected level of system intertia in the Nordic synchronous area.\n"
-  },
-  "FFRDK2": {
-   "title": "FFR, Fast Frequency Reserve, DK2",
-   "organizationName": "tso-electricity",
-   "resolution": "1 hour (PT1H)",
-   "dataFrom": "2021-04-26T00:00:00",
-   "dataTo": "2026-10-01T23:00:00",
-   "active": true,
-   "updateFrequency": "P1D",
-   "lastDataUpdate": "2026-09-30T15:19:40",
-   "caution": "",
-   "description": "Fast Frequency Reserve (FFR) automatic upward regulation reserve in price area DK2. This dataset publish demand, purchase and price for each hour.\n\n"
-  },
-  "FFRpurchasedDK2": {
-   "title": "FFR, Fast Frequency Reserve, Purchased DK2 (Discontinued, please read description)",
-   "organizationName": "tso-electricity",
-   "resolution": "1 hour (PT1H)",
-   "dataFrom": "2021-04-26T00:00:00",
-   "dataTo": null,
-   "active": true,
-   "updateFrequency": "N/A",
-   "lastDataUpdate": null,
-   "caution": "Data is missing for a number of dates in this dataset.",
-   "description": "This dataset is no longer updated. It is replaced by the dataset [FFR, Fast Frequency Reserve, DK2](https://www.energidataservice.dk/tso-electricity/ffrdk2).\n\nAmount and prices of Fast Frequency Reserve (FFR) automatic upward regulation in price area DK2."
-  },
-  "FixedResidualConsumption": {
-   "title": "Fixed Residual Consumption (Discontinued, please read description)",
-   "organizationName": "tso-electricity",
-   "resolution": "1 hour (PT1H)",
-   "dataFrom": "2020-01-01T00:00:00",
-   "dataTo": null,
-   "active": true,
-   "updateFrequency": "N/A",
-   "lastDataUpdate": null,
-   "caution": "",
-   "description": "This dataset is no longer updated. \n\nThe residual consumption is calculated hour by hour. It consists of the total consumption of the individual grid areas deducted the consumption of all remote meter reading customers for the individual grid areas."
-  },
-  "Forecasts_5Min": {
-   "title": "Forecast Wind and Solar Power, 5 min",
-   "organizationName": "tso-electricity",
-   "resolution": "5 minutes (PT5M)",
-   "dataFrom": "2019-10-10T00:00:00",
-   "dataTo": null,
-   "active": true,
-   "updateFrequency": "PT5M",
-   "lastDataUpdate": null,
-   "caution": "Data from the Thor offshore wind farm is not included in this dataset.\n\nDue to a technical issue data is missing in the period April 12th-16th 2024 and will not be available.\n\nDue to a technical issue, data is missing for the period May 6–8, 2026, for the forecast type \"Offshore Wind\". This data will not be available.\n",
-   "description": "Forecast of Wind and Solar power with a resolution for 5 minutes. This forecast is base for the one hour resolution edition: [Forecast Wind and Solar power, hour resolution](https://www.energidataservice.dk/tso-electricity/Forecasts_Hour)."
-  },
-  "Forecasts_Hour": {
-   "title": "Forecast Wind and Solar Power, Hour Resolution",
-   "organizationName": "tso-electricity",
-   "resolution": "1 hour (PT1H)",
-   "dataFrom": "2019-10-31T00:00:00",
-   "dataTo": null,
-   "active": true,
-   "updateFrequency": "PT5M",
-   "lastDataUpdate": null,
-   "caution": "Data from the Thor offshore wind farm is not included in this dataset.\n\nDue to a technical issue data is missing in the period April 12th-16th 2024 and will not be available.",
-   "description": "Forecast of wind and solar power with a resolution of one hour."
-  },
-  "ForeignExchange": {
-   "title": "Foreign Exchange",
-   "organizationName": "tso-electricity",
-   "resolution": "1 hour (PT1H)",
-   "dataFrom": "2020-01-01T00:00:00",
-   "dataTo": "2026-09-21T01:00:00",
-   "active": true,
-   "updateFrequency": "P1D",
-   "lastDataUpdate": "2026-09-30T09:16:16",
-   "caution": "",
-   "description": "Exchange of energy on interconnectors."
-  },
-  "GasAccumulatedSystemBalance": {
-   "title": "Gas Accumulated System Balance",
-   "organizationName": "tso-gas",
-   "resolution": "1 hour (PT1H)",
-   "dataFrom": "2022-10-01T06:00:00",
-   "dataTo": "2026-09-30T16:00:00",
-   "active": true,
-   "updateFrequency": "PT1H",
-   "lastDataUpdate": "2026-09-30T17:21:52",
-   "caution": "",
-   "description": "The GasAccumulatedSystemBalance shows the accumulated system balance (ASB)."
-  },
-  "GasAllocation": {
-   "title": "Gas Hourly Allocation and Nomination",
-   "organizationName": "tso-gas",
-   "resolution": "1 hour (PT1H)",
-   "dataFrom": "2014-07-01T00:00:00",
-   "dataTo": null,
-   "active": true,
-   "updateFrequency": "P1D",
-   "lastDataUpdate": "2026-09-30T17:24:35",
-   "caution": " ",
-   "description": "This view shows the hourly allocation/nomination for each entry/exit point and other points in the Danish Transmission System."
-  },
-  "GasBookedByProduct": {
-   "title": "Gas Booked by Product",
-   "organizationName": "tso-gas",
-   "resolution": "1 hour (PT1H)",
-   "dataFrom": "2009-01-01T01:00:00",
-   "dataTo": "2039-09-01T02:00:00",
-   "active": true,
-   "updateFrequency": "P1D",
-   "lastDataUpdate": "2026-09-30T18:09:25",
-   "caution": "",
-   "description": "The data set contains information of the original sold capacity per product type: yearly, quarterly, monthly, daily and rest of day. "
-  },
-  "GasCapacityUsage": {
-   "title": "Gas Capacity Usage",
-   "organizationName": "tso-gas",
-   "resolution": "1 day (P1D)",
-   "dataFrom": "2006-01-01T00:00:00",
-   "dataTo": null,
-   "active": true,
-   "updateFrequency": "P1D",
-   "lastDataUpdate": "2026-09-30T18:15:14",
-   "caution": "",
-   "description": "**Update:**\nCurrently, the dataset Gas Capacity Usage is under review. The affected columns are **Available Interruptible Capacity**, **Interruptible Capacity**, and **Booked Interruptible**. Please note that Energinet does not offer Interruptible Capacity products, but only Interruptible Overnomination.\n\nGas Capacity Usage shows the capacity, available and booked capacity at each entry/exit point in the Danish gas market.\n\nThe view is updated frequently during the gas day.\n\nFor the information "
-  },
-  "GasComposition": {
-   "title": "Gas Composition and Quality for Transmission ",
-   "organizationName": "tso-gas",
-   "resolution": "1 hour (PT1H)",
-   "dataFrom": "2013-01-29T00:00:00",
-   "dataTo": "2026-09-30T17:00:00",
-   "active": true,
-   "updateFrequency": "PT1H",
-   "lastDataUpdate": "2026-09-30T18:10:31",
-   "caution": "* Due to the decommissioning of the model used for the Methane Number, no additional values will be uploaded after October 1st, 2024. However, the historical data will be preserved.\n* Since March 2024 oxygen values have been displayed erroneously. As of September 4th, 2024 the data have been corrected backwards from 2024-03-01.\n* Minor rounding errors have occured in the columns *’Gross Calorific Value (MJ/Nm3)’, ’Gross Calorific Value (kWh/Nm3)’, ‘Wobbe index (MJ/Nm3)’, ‘Wobbe index (kWh/Nm3)’,",
-   "description": "The dataset contains the hourly non-validated gas composition and other gas quality parameters for the Danish Transmission as measured at Energinet’s gas quality measuring station in Egtved."
-  },
-  "GasCompositionMonthly": {
-   "title": "Gas Composition and Quality for Transmission, Monthly",
-   "organizationName": "tso-gas",
-   "resolution": "1 month (P1M)",
-   "dataFrom": "2015-01-01T00:00:00",
-   "dataTo": null,
-   "active": true,
-   "updateFrequency": "P1M",
-   "lastDataUpdate": null,
-   "caution": "Due to the decommissioning of the model used for the Methane Number, no additional values will be uploaded after October 1st, 2024. However, the historical data will be preserved.\n",
-   "description": "Gas quality data for the Danish transmission grid that is representative for gas delivered from the transmission grid. The data are validated but the data cannot be used for billing purposes. The basis of the dataset is hourly values and the maximal and minimal value is therefore respective the maximal and minimal hourly value."
-  },
-  "GasCompositionYearly": {
-   "title": "Gas Composition and Quality for Transmission, Yearly",
-   "organizationName": "tso-gas",
-   "resolution": "1 year (P1Y)",
-   "dataFrom": "2015-01-01T00:00:00",
-   "dataTo": null,
-   "active": true,
-   "updateFrequency": "P1Y",
-   "lastDataUpdate": null,
-   "caution": "Due to the decommissioning of the model used for the Methane Number, no additional values will be uploaded after October 1st, 2024. However, the historical data will be preserved.",
-   "description": "Gas quality data for the Danish transmission grid that is representative for gas delivered from the transmission grid. The data are validated but the data cannot be used for billing purposes. The basis of the dataset is hourly values and the maximal and minimal value is therefore respective the maximal and minimal hourly value."
-  },
-  "GasDailyBalancingPrice": {
-   "title": "Gas Daily Balancing Price",
-   "organizationName": "tso-gas",
-   "resolution": "1 day (P1D)",
-   "dataFrom": "2022-10-01T02:00:00",
-   "dataTo": "2026-09-29T02:00:00",
-   "active": true,
-   "updateFrequency": "P1D",
-   "lastDataUpdate": "2026-09-30T17:45:11",
-   "caution": "The dataset seems to have missing values, but a closer look reveals that it currently is including meaningless, future prices. \nWe are investigating root cause...",
-   "description": "This views shows the prices used for the invoicing of the daily sale og purchase of balance gas after 01-10-2022.\n\nPrices will remain unvalidated until the invoicing of balancing gas. Non-valid balancing gas prices should provide Shippers with an indication on what to expect.  "
-  },
-  "Gasflow": {
-   "title": "Commercial Gas Amounts",
-   "organizationName": "tso-gas",
-   "resolution": "1 day (P1D)",
-   "dataFrom": "2014-01-01T01:00:00",
-   "dataTo": "2026-09-29T02:00:00",
-   "active": true,
-   "updateFrequency": "P1D",
-   "lastDataUpdate": "2026-09-30T11:42:51",
-   "caution": "",
-   "description": "Daily commercial gas amounts in the Danish gas market. The data is accumulated from the previous gas day."
-  },
-  "GasMonthlyNeutralPrice": {
-   "title": "Gas Monthly Neutral Price DKK/kWh",
-   "organizationName": "tso-gas",
-   "resolution": "1 hour (PT1H)",
-   "dataFrom": "2014-10-01T02:00:00",
-   "dataTo": "2026-08-01T02:00:00",
-   "active": true,
-   "updateFrequency": "P1M",
-   "lastDataUpdate": "2026-09-02T13:08:23",
-   "caution": "",
-   "description": "The monthly neutral gas price is used for saldo invoicing."
-  },
-  "GasSystemBalanceUntil20221001": {
-   "title": "Gas Daily System Commercial Balance before 01-10-2022 (Discontinued, please read description)",
-   "organizationName": "tso-gas",
-   "resolution": "1 day (P1D)",
-   "dataFrom": "2014-10-01T00:00:00",
-   "dataTo": null,
-   "active": true,
-   "updateFrequency": "N/A",
-   "lastDataUpdate": null,
-   "caution": "",
-   "description": "This dataset contains data until 01-10-2022. For data after September 2022, find data here: [Gas Daily System Commercial Balance](https://www.energidataservice.dk/tso-gas/GasSystemCommercialBalance).\n\nThe Gas Daily System Commercial Balance shows the gas balance in the Danish transmission system after each gas day according to the balance rules before the 1st of October 2022."
-  },
-  "GasSystemCommercialBalance": {
-   "title": "Gas Daily System Commercial Balance",
-   "organizationName": "tso-gas",
-   "resolution": "1 day (P1D)",
-   "dataFrom": "2022-10-01T02:00:00",
-   "dataTo": "2026-09-29T02:00:00",
-   "active": true,
-   "updateFrequency": "P1D",
-   "lastDataUpdate": "2026-09-30T11:26:05",
-   "caution": "",
-   "description": "The Gas Daily System Commercial Balance shows the gas balance in the Danish transmission system after each gas day."
-  },
-  "GenerationProdTypeExchange": {
-   "title": "Generation per Production Type and Exchange",
-   "organizationName": "tso-electricity",
-   "resolution": "1 hour (PT1H)",
-   "dataFrom": "2015-01-01T00:00:00",
-   "dataTo": "2026-09-30T16:00:00",
-   "active": true,
-   "updateFrequency": "PT1H",
-   "lastDataUpdate": "2026-09-30T17:50:11",
-   "caution": "The dataset will change as part of the [transition to DataHub 3.0](https://www.energidataservice.dk/news#154).\\\nThe URL/endpoint will remain unchanged. However, the values will be calculated using a different method.  **Expected implementation date: October / November.**",
-   "description": "Production per fuel, exchange and total consumption per bidding zone.\n\nThe dataset combines fast updated data with more correct settlement data. Only the best data is shown per time period. No filters are needed.\n\n"
-  },
-  "GridCapacityMapDSO": {
-   "title": "Grid Capacity Map DSO (Discontinued, please read description)",
-   "organizationName": "tso-electricity",
-   "resolution": "1 month (P1M)",
-   "dataFrom": "2024-07-01T00:00:00",
-   "dataTo": null,
-   "active": true,
-   "updateFrequency": "P3M",
-   "lastDataUpdate": null,
-   "caution": "",
-   "description": "The dataset will be replaced by a new dataset.\n\nThe dataset is the quarterly dataset that describes the grid capacity at the DSO level, capacity at the general level, and for wind and solar production units."
-  },
-  "GridCapacityMapDSOProductionandConsumption": {
-   "title": "Grid Capacity Map DSO - Production and Consumption",
-   "organizationName": "tso-electricity",
-   "resolution": "1 month (P1M)",
-   "dataFrom": "2026-02-01T00:00:00",
-   "dataTo": null,
-   "active": true,
-   "updateFrequency": "P3M",
-   "lastDataUpdate": null,
-   "caution": "",
-   "description": "**Replacing [GridCapacityMapDSO](https://energidataservice.dk/tso-electricity/GridCapacityMapDSO)** \n\nThe dataset is the quarterly dataset that describes the grid capacity at the DSO level, capacity at the general level, and for wind and solar production units.\n\n"
-  },
-  "GridCapacityMapTSO": {
-   "title": "Grid Capacity Map TSO (Discontinued, please read description)",
-   "organizationName": "tso-electricity",
-   "resolution": "1 month (P1M)",
-   "dataFrom": "2024-07-01T00:00:00",
-   "dataTo": null,
-   "active": true,
-   "updateFrequency": "P1M",
-   "lastDataUpdate": null,
-   "caution": "",
-   "description": "The dataset will be replaced by a new dataset.\n\nThe dataset is the monthly dataset that describes the grid capacity at the TSO level, capacity at the general level, and for wind and solar production units."
-  },
-  "GridCapacityMapTSOProductionandConsumption": {
-   "title": "Grid Capacity Map TSO - Production and Consumption",
-   "organizationName": "tso-electricity",
-   "resolution": "1 month (P1M)",
-   "dataFrom": "2026-01-01T00:00:00",
-   "dataTo": null,
-   "active": true,
-   "updateFrequency": "P1M",
-   "lastDataUpdate": null,
-   "caution": "",
-   "description": "**Replacing [GridCapacityMapTSO](https://energidataservice.dk/tso-electricity/GridCapacityMapTSO)** \n\nThe dataset is the monthly dataset that describes the grid capacity at the TSO level, capacity at the general level, and for wind and solar production and consumption units."
-  },
-  "HerfindahlHirschmanIndexHHIPerGridarea": {
-   "title": "Herfindahl - Hirschman Index (HHI) per Grid Area (will be Discontinued, please read description)",
-   "organizationName": "tso-electricity",
-   "resolution": "1 month (P1M)",
-   "dataFrom": "2018-01-01T00:00:00",
-   "dataTo": "2026-08-01T02:00:00",
-   "active": true,
-   "updateFrequency": "P1M",
-   "lastDataUpdate": "2026-09-15T09:15:43",
-   "caution": "The dataset will be discontinued on 26 October 2026. Historical data will still be available.\\\nThe index is no longer being calculated, as it has consistently remained below 1.500 on a national level since January 2023. A value below 1.500 is widely recognized as indicating a healthy level of competition.",
-   "description": "Herfindahl - Hirschman Index (HHI) is a method used to determine the market competitiveness.\n\nData is updated on the 8th the following month."
-  },
-  "ImbalancePrice": {
-   "title": "Imbalance Price",
-   "organizationName": "tso-electricity",
-   "resolution": "15 minutes (PT15M)",
-   "dataFrom": "2025-03-04T12:15:00",
-   "dataTo": "2026-09-30T17:45:00",
-   "active": true,
-   "updateFrequency": "PT15M",
-   "lastDataUpdate": "2026-09-30T18:07:47",
-   "caution": "",
-   "description": "This dataset shows all relevant information regarding the imbalance price design. The data is in 15-minute resolution and shows satisfied demand and the imbalance price and contains all the components relevant to the imbalance price, including the aFRR volumes, aFRR volume-weighted average price, and the mFRR marginal price."
-  },
-  "InertiaNordicSyncharea": {
-   "title": "Inertia, Nordic Synchronous Area",
-   "organizationName": "tso-electricity",
-   "resolution": "1 hour (PT1H)",
-   "dataFrom": "2019-10-26T05:00:00",
-   "dataTo": "2026-09-30T01:00:00",
-   "active": true,
-   "updateFrequency": "P1D",
-   "lastDataUpdate": "2026-09-30T04:43:23",
-   "caution": "",
-   "description": "The inertia reflects the rotating mass of the active production units. The unit is GWs."
-  },
-  "mFRRCapacityMarket": {
-   "title": "mFRR, manual Frequency Restoration Reserves, Capacity Market",
-   "organizationName": "tso-electricity",
-   "resolution": "1 hour (PT1H)",
-   "dataFrom": "2023-06-21T00:00:00",
-   "dataTo": "2026-10-01T23:00:00",
-   "active": true,
-   "updateFrequency": "P0.5D",
-   "lastDataUpdate": "2026-09-30T17:30:23",
-   "caution": "",
-   "description": "Energinet makes daily procurement of manuel frequency restoration reserves (mFRR), on an hourly capacity market. This site provides market-related information for the balancing capacity market, which runs every morning. Here, you can find details on requested demand, procured volumes, and reserve prices across different directions and price areas per hour. "
-  },
-  "MfrrCapacityMarketExtra": {
-   "title": "mFRR, manual Frequency Restoration Reserves, Capacity Market, Extra Auctions",
-   "organizationName": "tso-electricity",
-   "resolution": "1 hour (PT1H)",
-   "dataFrom": "2025-06-24T02:00:00",
-   "dataTo": "2026-10-02T01:00:00",
-   "active": true,
-   "updateFrequency": "P0.5D",
-   "lastDataUpdate": "2026-09-30T17:33:52",
-   "caution": "",
-   "description": "Energinet makes procurement of manuel frequency restoration reserves (mFRR) in an afternoon auction on an hourly capacity market – only if additional reserves are needed. This site provides market-related information for the balancing capacity market. Here, you can find details on requested demand, procured volumes, and reserve prices across different directions and price areas per hour. "
-  },
-  "MfrrEnergyActivationMarket": {
-   "title": "mFRR Energy Activation Market",
-   "organizationName": "tso-electricity",
-   "resolution": "15 minutes (PT15M)",
-   "dataFrom": "2025-03-04T00:00:00",
-   "dataTo": "2026-09-30T18:15:00",
-   "active": true,
-   "updateFrequency": "PT15M",
-   "lastDataUpdate": "2026-09-30T18:07:47",
-   "caution": "During the period 00:15–08:15 (Time DK) on 26 April 2026, incorrect values occur in 4 columns. Values in the “mFRR SA req (up/down)” columns should have been 0. Values in the “Total mFRR (up/down)” columns are also incorrect. The affected values cannot be corrected.",
-   "description": "The dataset consolidates prices and volumes from the mFRR Energy Activation Market and provides a comprehensive overview of the different activation types within the market.\nThe mFRR Energy Activation Market (EAM) dataset is dynamic; therefore, some data may be updated prior to and/or during the MTU as scheduled activations and direct activations occur.\nThe data provide an indication of the expected dominating direction for the MTU. However, the final calculation of satisfied demand determines t"
-  },
-  "MfrrReservesDK1": {
-   "title": "mFRR, manual Frequency Restoration Reserves, DK1 (Discontinued, please read description)",
-   "organizationName": "tso-electricity",
-   "resolution": "1 hour (PT1H)",
-   "dataFrom": "1999-07-01T00:00:00",
-   "dataTo": null,
-   "active": true,
-   "updateFrequency": "N/A",
-   "lastDataUpdate": null,
-   "caution": "",
-   "description": "This dataset is no longer updated. For data after June 2023, find data here: [mFRR, manuel Frequency Restoration Reserves, Capacity Market](https://www.energidataservice.dk/tso-electricity/mFRRCapacityMarket)\n\nAmount and prices of manual Frequency Restoration Reserves (mFRR), also called manual reserves, in bidding zone (Price area) DK1."
-  },
-  "MfrrReservesDK2": {
-   "title": "mFRR, manual Frequency Restoration Reserves, DK2 (Discontinued, please read description)",
-   "organizationName": "tso-electricity",
-   "resolution": "1 hour (PT1H)",
-   "dataFrom": "1999-07-01T00:00:00",
-   "dataTo": null,
-   "active": true,
-   "updateFrequency": "N/A",
-   "lastDataUpdate": null,
-   "caution": "",
-   "description": "This dataset is no longer updated. For data after June 2023, find data here: [mFRR, manuel Frequency Restoration Reserves, Capacity Market](https://www.energidataservice.dk/tso-electricity/mFRRCapacityMarket)\n\nAmount and prices of manual Frequency Restoration Reserves (mFRR), also called manual reserves, in bidding zone (Price area) DK2."
-  },
-  "MrStationsGasquality": {
-   "title": "Gas Quality and Flow for MR Stations",
-   "organizationName": "tso-gas",
-   "resolution": "1 hour (PT1H)",
-   "dataFrom": "2013-01-28T23:00:00",
-   "dataTo": "2026-09-30T17:00:00",
-   "active": true,
-   "updateFrequency": "PT1H",
-   "lastDataUpdate": "2026-09-30T18:10:24",
-   "caution": "Minor rounding errors have occured in the columns *’Gross Calorific Value (MJ/Nm3)’, ’Gross Calorific Value (kWh/Nm3)’, ‘Wobbe index (MJ/Nm3)’, ‘Wobbe index (kWh/Nm3)’, ‘Flow’ and ’Normal Density (kg/Nm3)’*. Data have been corrected backwards and is now correct from 2022-01-01.",
-   "description": "The dataset consists of the gas quality values: Gross Calorific Values, Wobbe Index, and Normal Density for the delivered natural gas from the transmission grid to each meter and regulator stations in Denmark. "
-  },
-  "NordpoolMarket": {
-   "title": "Nordpool Market (Discontinued, please read description)",
-   "organizationName": "tso-electricity",
-   "resolution": "1 hour (PT1H)",
-   "dataFrom": "1999-07-01T00:00:00",
-   "dataTo": null,
-   "active": true,
-   "updateFrequency": "N/A",
-   "lastDataUpdate": null,
-   "caution": "",
-   "description": "This dataset is no longer updated. For data after May 2021, find data at Nord Pool.\n\nIn NordPool Spot market players can buy and sell electricity for delivery the following day in their own area - Norway, Sweden, Finland, Denmark or Germany. "
-  },
-  "PowerSupplierChangePerGridarea": {
-   "title": "Change of Electricity Suppliers per Grid Area",
-   "organizationName": "tso-electricity",
-   "resolution": "1 month (P1M)",
-   "dataFrom": "2013-03-01T01:00:00",
-   "dataTo": "2026-08-01T02:00:00",
-   "active": true,
-   "updateFrequency": "P1M",
-   "lastDataUpdate": "2026-09-15T20:21:02",
-   "caution": "",
-   "description": "Number of changes in electricity suppliers per grid area. "
-  },
-  "PowerSystemRightNow": {
-   "title": "Power System Right Now",
-   "organizationName": "tso-electricity",
-   "resolution": "1 minute (PT1M)",
-   "dataFrom": "2018-10-31T00:00:00",
-   "dataTo": null,
-   "active": true,
-   "updateFrequency": "PT1M",
-   "lastDataUpdate": null,
-   "caution": "The following 4 columns have been deleted, as the data may be inaccurate due to new sources: \n* Imbalance DK1/DK2\n* mFRR activated DK1/DK2. See instead [Realtime Electricity Market Data](https://www.energidataservice.dk/datasets/realtime-electricity-market).\n\nErroneous values occur in the column 'Production on plants less than 100 MW' from 2026-03-30 10.00 to 10.15 CET. The values will not be corrected.\n\n",
-   "description": "Production, flow, and balance on interconnectors right now in one-minute resolution."
-  },
-  "PrivateConsumptionHeatingHour": {
-   "title": "Private Consumption per Housing and Heating Categories by Municipality and Hour",
-   "organizationName": "dso-electricity",
-   "resolution": "1 hour (PT1H)",
-   "dataFrom": "2021-01-01T00:00:00",
-   "dataTo": "2026-09-08T23:00:00",
-   "active": true,
-   "updateFrequency": "P1D",
-   "lastDataUpdate": "2026-09-21T12:57:50",
-   "caution": "Due to the [DataHub technical upgrade](https://energidataservice.dk/news#154) the dataset may not be updated from September 17, 2026 to January 1, 2027.\nThe URL/endpoint will remain unchanged. A few municipality names will be updated retrospectively to align with the names used by [Statistics Denmark](https://www.dst.dk/da/Statistik/dokumentation/Times/Moduldata-for-Befolkning-og-valg/KOM).",
-   "description": "Hourly consumption of private households by housing and heating categories by municipality.\n\nData is updated with a 9-15 day delay."
-  },
-  "PrivateConsumptionHeatingMonth": {
-   "title": "Private Consumption per Housing and Heating Categories by Municipality and Month",
-   "organizationName": "dso-electricity",
-   "resolution": "1 month (P1M)",
-   "dataFrom": "2021-01-01T00:00:00",
-   "dataTo": "2026-08-01T02:00:00",
-   "active": true,
-   "updateFrequency": "P1M",
-   "lastDataUpdate": "2026-09-21T12:40:03",
-   "caution": "Due to the [DataHub technical upgrade](https://energidataservice.dk/news#154) the dataset may not be updated from September 17, 2026 to January 1, 2027.\nThe URL/endpoint will remain unchanged. A few municipality names will be updated retrospectively to align with the names used by [Statistics Denmark](https://www.dst.dk/da/Statistik/dokumentation/Times/Moduldata-for-Befolkning-og-valg/KOM).",
-   "description": "Monthly consumption of private households by housing and heating categories by municipality.\n\nThe dataset is updated between the 9th and 15th the following month."
-  },
-  "PrivateConsumptionHeatingNationalHour": {
-   "title": "Private Consumption per Housing and Heating Categories by Hour ",
-   "organizationName": "dso-electricity",
-   "resolution": "1 hour (PT1H)",
-   "dataFrom": "2021-01-01T00:00:00",
-   "dataTo": "2026-09-08T23:00:00",
-   "active": true,
-   "updateFrequency": "P1D",
-   "lastDataUpdate": "2026-09-17T08:45:23",
-   "caution": "Due to the [DataHub technical upgrade](https://energidataservice.dk/news#154) the dataset may not be updated from September 17, 2026 to January 1, 2027.",
-   "description": "Hourly consumption of private households by housing and heating categories.\n\nData is updated with a 9-15 day delay."
-  },
-  "ProductionConsumptionSettlement": {
-   "title": "Production and Consumption - Settlement",
-   "organizationName": "tso-electricity",
-   "resolution": "1 hour (PT1H)",
-   "dataFrom": "2005-01-01T00:00:00",
-   "dataTo": "2026-09-08T08:00:00",
-   "active": true,
-   "updateFrequency": "P1D",
-   "lastDataUpdate": "2026-09-17T08:17:53",
-   "caution": "The dataset will change as part of the [transition to DataHub 3.0](https://www.energidataservice.dk/news#154).\\\nThe URL/endpoint will remain unchanged. However, the values will be calculated using a different method. Values in the \"Commercial power self-consumption\" column will be unavailable for an extended period of time.  **Expected implementation date: September 28.** The dataset will not be updated from 17 September until the implementation date. Any resulting data gap will be backfilled af",
-   "description": "Production and consumption based on settlement data from Datahub. Data from 2005, but please note additional info in comments."
-  },
-  "ProductionRegionHour": {
-   "title": "Production per Region per Hour",
-   "organizationName": "dso-electricity",
-   "resolution": "1 hour (PT1H)",
-   "dataFrom": "2021-01-01T00:00:00",
-   "dataTo": "2026-09-08T23:00:00",
-   "active": true,
-   "updateFrequency": "P1D",
-   "lastDataUpdate": "2026-09-17T06:12:39",
-   "caution": "Due to the [DataHub technical upgrade](https://energidataservice.dk/news#154) the dataset may not be updated from September 17, 2026 to January 1, 2027.",
-   "description": "Hourly electricity production per region, divided by production from water, wind, solar and thermal power plants.\n\n"
-  },
-  "ProductionRegionMonth": {
-   "title": "Production per Region per Month",
-   "organizationName": "dso-electricity",
-   "resolution": "1 month (P1M)",
-   "dataFrom": "2021-01-01T01:00:00",
-   "dataTo": "2026-08-01T02:00:00",
-   "active": true,
-   "updateFrequency": "P1M",
-   "lastDataUpdate": "2026-09-17T06:12:42",
-   "caution": "Due to the [DataHub technical upgrade](https://energidataservice.dk/news#154) the dataset may not be updated from September 17, 2026 to January 1, 2027.",
-   "description": "Monthly electricity production per region, divided by production from water, wind, solar and thermal power plants."
-  },
-  "ProductionTypesImport": {
-   "title": "Production Types Import",
-   "organizationName": "tso-electricity",
-   "resolution": "1 hour (PT1H)",
-   "dataFrom": "2021-01-01T01:00:00",
-   "dataTo": "2026-09-29T15:00:00",
-   "active": true,
-   "updateFrequency": "P1D",
-   "lastDataUpdate": "2026-09-30T10:52:25",
-   "caution": "",
-   "description": "The division on production types for import to DK1 and DK2. The data is used for declaration of consumption."
-  },
-  "RealtimeMarket": {
-   "title": "Realtime Market (Discontinued, please read description)",
-   "organizationName": "tso-electricity",
-   "resolution": "1 hour (PT1H)",
-   "dataFrom": "1999-07-01T00:00:00",
-   "dataTo": null,
-   "active": true,
-   "updateFrequency": "N/A",
-   "lastDataUpdate": null,
-   "caution": "",
-   "description": "This dataset is no longer updated. Use instead [Regulating and Balance power, overall data](https://www.energidataservice.dk/tso-electricity/RegulatingBalancePowerdata)\n\nMaintaining balance between consumption and production in the electricity system and fulfilling contracts with e.g. Sweden or Norway may require an up or down regulation of production and consumption in the Danish electricity system (east or west). For this purpose a so-called regulating power market is established as a common m"
-  },
-  "ReCoverageMunicipality": {
-   "title": "RE Coverage Municipality",
-   "organizationName": "tso-electricity",
-   "resolution": "1 hour (PT1H)",
-   "dataFrom": "2014-12-31T01:00:00",
-   "dataTo": "2026-09-08T23:00:00",
-   "active": true,
-   "updateFrequency": "P1D",
-   "lastDataUpdate": "2026-09-30T07:46:16",
-   "caution": "The dataset will change as part of the [transition to DataHub 3.0](https://www.energidataservice.dk/news#154).\\\nThe URL/endpoint will remain unchanged. However, the values will be calculated using a different method.  **Expected implementation date: October / November.** The dataset will not be updated from 17 September until the implementation date. Any resulting data gap will be backfilled after the implementation has been completed.",
-   "description": "RE (renewable energy) coverage of consumption per municipality per hour. Combined with [Declaration, Transmission Emissions](https://www.energidataservice.dk/tso-electricity/DeclarationTransmissionEmission) it delivers the emissions per kWh per municipality per hour."
-  },
-  "RegulatingBalancePowerdata": {
-   "title": "Regulating and Balance Power, Overall Data (Discontinued, please read description)",
-   "organizationName": "tso-electricity",
-   "resolution": "1 hour (PT1H)",
-   "dataFrom": "1999-07-01T00:00:00",
-   "dataTo": null,
-   "active": true,
-   "updateFrequency": "N/A",
-   "lastDataUpdate": null,
-   "caution": "DKK values for Up- and Down Regulation Balance Power Price are missing.",
-   "description": "This dataset has been Discontinued. Data is available in [Imbalance Price](https://www.energidataservice.dk/tso-electricity/ImbalancePrice) and [mFRR Energy Activation Market](https://www.energidataservice.dk/tso-electricity/MfrrEnergyActivationMarket).\n\nIn connection with the go-live of the new imbalance price design, the dataset [Imbalance Price](https://www.energidataservice.dk/tso-electricity/ImbalancePrice) was introduced, replacing [Regulating and Balance Power, Overall Data](https://www.e"
-  },
-  "StorageAvailablePct": {
-   "title": "Storage Expected Availability",
-   "organizationName": "gas-storage-denmark",
-   "resolution": "1 day (P1D)",
-   "dataFrom": "2015-05-01T02:00:00",
-   "dataTo": "2026-10-31T01:00:00",
-   "active": true,
-   "updateFrequency": "P1D",
-   "lastDataUpdate": "2026-09-30T08:05:26",
-   "caution": "",
-   "description": "The expected and actual availability of injection and withdrawal capacity shown as percentage of the total technical capacity.\n"
-  },
-  "StorageCapacity": {
-   "title": "Storage Available Capacity",
-   "organizationName": "gas-storage-denmark",
-   "resolution": "1 day (P1D)",
-   "dataFrom": "2015-01-01T01:00:00",
-   "dataTo": "2037-04-30T02:00:00",
-   "active": true,
-   "updateFrequency": "P1D",
-   "lastDataUpdate": "2026-09-22T16:10:53",
-   "caution": "",
-   "description": "Storage capacity provides information about total and reserved capacity for:\n* Volume capacity\n* Injection capacity\n* Withdrawal capacity"
-  },
-  "StorageNomination": {
-   "title": "Storage Hourly Nomination",
-   "organizationName": "gas-storage-denmark",
-   "resolution": "1 hour (PT1H)",
-   "dataFrom": "2019-07-01T06:00:00",
-   "dataTo": "2026-10-02T05:00:00",
-   "active": true,
-   "updateFrequency": "PT1H",
-   "lastDataUpdate": "2026-09-30T17:18:20",
-   "caution": "",
-   "description": "The hourly nomination provides information about the total injection and withdrawal nomination on both firm and interruptible terms for the virtual storage.\n* Injection on firm terms\n* Injection on interruptible terms\n* Withdrawal on firm firms\n* Withdrawal on interruptible terms"
-  },
-  "StorageUtilization": {
-   "title": "Storage Utilization",
-   "organizationName": "gas-storage-denmark",
-   "resolution": "1 day (P1D)",
-   "dataFrom": "2015-05-01T02:00:00",
-   "dataTo": "2026-09-29T02:00:00",
-   "active": true,
-   "updateFrequency": "P1D",
-   "lastDataUpdate": "2026-09-30T06:26:12",
-   "caution": "",
-   "description": "The expected and actual availability of injection and withdrawal capacity shown as percentage of the total technical capacity."
-  },
-  "Transmissionlines": {
-   "title": "Transmission Lines (Discontinued, please read description)",
-   "organizationName": "tso-electricity",
-   "resolution": "1 hour (PT1H)",
-   "dataFrom": "1999-07-01T00:00:00",
-   "dataTo": null,
-   "active": true,
-   "updateFrequency": "N/A",
-   "lastDataUpdate": null,
-   "caution": "In connection with the transition to Flow-based in October 2024, the method for calculating congestion income was changed. Data after October 29, 2024, has therefore been deleted to ensure correct historical data.\n\nRows for Viking Link are missing.",
-   "description": "Data on capacity, scheduled trade, actual exchange and congestion income."
-  },
-  "TransmissionLines": {
-   "title": "Transmission Lines (Discontinued, please read description)",
-   "organizationName": "tso-electricity",
-   "resolution": "1 hour (PT1H)",
-   "dataFrom": "1999-07-01T00:00:00",
-   "dataTo": null,
-   "active": true,
-   "updateFrequency": "N/A",
-   "lastDataUpdate": null,
-   "caution": "In connection with the transition to Flow-based in October 2024, the method for calculating congestion income was changed. Data after October 29, 2024, has therefore been deleted to ensure correct historical data.\n\nRows for Viking Link are missing.",
-   "description": "Data on capacity, scheduled trade, actual exchange and congestion income."
-  },
-  "CapacityAuctions": {
-   "status": 204,
-   "error": null
-  },
-  "ElspotpricesEUR": {
-   "status": 204,
-   "error": null
-  },
-  "EntryExitGasTariffs": {
-   "status": 204,
-   "error": null
-  },
-  "GasTariffs": {
-   "status": 204,
-   "error": null
-  },
-  "BiogasProduction": {
-   "status": 204,
-   "error": null
-  },
-  "GasQuality": {
-   "status": 204,
-   "error": null
-  }
- },
- "pricelist_elafgift": {
+ "run_utc": "2026-09-30T16:42:34Z",
+ "pricelist": {
   "status": 200,
-  "total": 11,
-  "records": [
-   {
-    "ChargeOwner": null,
-    "ChargeTypeCode": "EA-001",
-    "Note": "Elafgift",
-    "Description": "Elafgiften",
-    "ValidFrom": "2019-01-01T00:00:00",
-    "ValidTo": "2020-01-01T00:00:00",
-    "Price1": 0.884,
-    "Price18": null
-   },
-   {
-    "ChargeOwner": null,
-    "ChargeTypeCode": "EA-001",
-    "Note": "Elafgift",
-    "Description": "Elafgiften",
-    "ValidFrom": "2020-01-01T00:00:00",
-    "ValidTo": "2021-01-01T00:00:00",
-    "Price1": 0.892,
-    "Price18": null
-   },
-   {
-    "ChargeOwner": null,
-    "ChargeTypeCode": "EA-001",
-    "Note": "Elafgift",
-    "Description": "Elafgiften",
-    "ValidFrom": "2021-01-01T00:00:00",
-    "ValidTo": "2022-01-01T00:00:00",
-    "Price1": 0.9,
-    "Price18": null
-   },
-   {
-    "ChargeOwner": null,
-    "ChargeTypeCode": "EA-001",
-    "Note": "Elafgift",
-    "Description": "Elafgiften",
-    "ValidFrom": "2022-01-01T00:00:00",
-    "ValidTo": "2022-07-01T00:00:00",
-    "Price1": 0.903,
-    "Price18": null
-   },
-   {
-    "ChargeOwner": null,
-    "ChargeTypeCode": "EA-001",
-    "Note": "Elafgift",
-    "Description": "Elafgiften",
-    "ValidFrom": "2022-07-01T00:00:00",
-    "ValidTo": "2022-10-01T00:00:00",
-    "Price1": 0.763,
-    "Price18": null
-   },
-   {
-    "ChargeOwner": null,
-    "ChargeTypeCode": "EA-001",
-    "Note": "Elafgift",
-    "Description": "Elafgiften",
-    "ValidFrom": "2022-10-01T00:00:00",
-    "ValidTo": "2023-01-01T00:00:00",
-    "Price1": 0.723,
-    "Price18": null
-   },
-   {
-    "ChargeOwner": null,
-    "ChargeTypeCode": "EA-001",
-    "Note": "Elafgift",
-    "Description": "Elafgiften",
-    "ValidFrom": "2023-01-01T00:00:00",
-    "ValidTo": "2023-07-01T00:00:00",
-    "Price1": 0.008,
-    "Price18": null
-   },
-   {
-    "ChargeOwner": null,
-    "ChargeTypeCode": "EA-001",
-    "Note": "Elafgift",
-    "Description": "Elafgiften",
-    "ValidFrom": "2023-07-01T00:00:00",
-    "ValidTo": "2024-01-01T00:00:00",
-    "Price1": 0.697,
-    "Price18": null
-   },
-   {
-    "ChargeOwner": null,
-    "ChargeTypeCode": "EA-001",
-    "Note": "Elafgift",
-    "Description": "Elafgiften",
-    "ValidFrom": "2024-01-01T00:00:00",
-    "ValidTo": "2025-01-01T00:00:00",
-    "Price1": 0.761,
-    "Price18": null
-   },
-   {
-    "ChargeOwner": null,
-    "ChargeTypeCode": "EA-001",
-    "Note": "Elafgift",
-    "Description": "Elafgiften",
-    "ValidFrom": "2025-01-01T00:00:00",
-    "ValidTo": "2026-01-01T00:00:00",
-    "Price1": 0.72,
-    "Price18": null
-   },
-   {
-    "ChargeOwner": null,
-    "ChargeTypeCode": "EA-001",
-    "Note": "Elafgift",
-    "Description": "Elafgiften",
-    "ValidFrom": "2026-01-01T00:00:00",
-    "ValidTo": "2028-01-01T00:00:00",
-    "Price1": 0.008,
-    "Price18": null
-   }
-  ]
+  "bytes": 98508954,
+  "secs": 6.8,
+  "sha": "fd6bb88dc43ceb1dd1b961be0c53bdb75c1e88b8d6e479c149ab762788cc8743",
+  "error": null
  },
- "pricelist_energinet_charges": {
-  "status": 200,
-  "total": 0,
-  "records": []
- },
- "dst_tables_total": 2309,
- "dst_hits": [
+ "pricelist_second_sha_equal": true,
+ "pricelist_total": 120026,
+ "pricelist_columns": [
+  "ChargeOwner",
+  "GLN_Number",
+  "ChargeType",
+  "ChargeTypeCode",
+  "Note",
+  "Description",
+  "ValidFrom",
+  "ValidTo",
+  "VATClass",
+  "Price1",
+  "Price2",
+  "Price3",
+  "Price4",
+  "Price5",
+  "Price6",
+  "Price7",
+  "Price8",
+  "Price9",
+  "Price10",
+  "Price11",
+  "Price12",
+  "Price13",
+  "Price14",
+  "Price15",
+  "Price16",
+  "Price17",
+  "Price18",
+  "Price19",
+  "Price20",
+  "Price21",
+  "Price22",
+  "Price23",
+  "Price24",
+  "TransparentInvoicing",
+  "TaxIndicator",
+  "ResolutionDuration"
+ ],
+ "pricelist_sample": [
   {
-   "id": "VOFF12",
-   "text": "Versionstabel OFF12 - Offentlig forvaltning og service, skatter og afgifter",
-   "unit": "Mio. kr.",
-   "firstPeriod": "1971",
-   "latestPeriod": "2025",
-   "updated": "2026-06-03T08:00:00"
+   "ChargeOwner": "TREFOR El-net A/S",
+   "GLN_Number": "5790000392261",
+   "ChargeType": "D01",
+   "ChargeTypeCode": "E-40",
+   "Note": "Net egenproducentbidrag C",
+   "Description": "Egenproducentbidrag, hvor aftagepunktet typisk er i 0,4 kV-nettet",
+   "ValidFrom": "2026-07-01T00:00:00",
+   "ValidTo": "2027-01-01T00:00:00",
+   "VATClass": "D02",
+   "Price1": 4.314167,
+   "Price2": null,
+   "Price3": null,
+   "Price4": null,
+   "Price5": null,
+   "Price6": null,
+   "Price7": null,
+   "Price8": null,
+   "Price9": null,
+   "Price10": null,
+   "Price11": null,
+   "Price12": null,
+   "Price13": null,
+   "Price14": null,
+   "Price15": null,
+   "Price16": null,
+   "Price17": null,
+   "Price18": null,
+   "Price19": null,
+   "Price20": null,
+   "Price21": null,
+   "Price22": null,
+   "Price23": null,
+   "Price24": null,
+   "TransparentInvoicing": 0,
+   "TaxIndicator": 0,
+   "ResolutionDuration": "P1M"
   },
   {
-   "id": "OFF12",
-   "text": "Offentlig forvaltning og service, skatter og afgifter",
-   "unit": "Mio. kr.",
-   "firstPeriod": "1971",
-   "latestPeriod": "2025",
-   "updated": "2026-06-03T08:00:00"
+   "ChargeOwner": "TREFOR El-net A/S",
+   "GLN_Number": "5790000392261",
+   "ChargeType": "D01",
+   "ChargeTypeCode": "E-40",
+   "Note": "Net egenproducentbidrag C",
+   "Description": "Egenproducentbidrag, hvor aftagepunktet typisk er i 0,4 kV-nettet",
+   "ValidFrom": "2026-01-01T00:00:00",
+   "ValidTo": "2026-07-01T00:00:00",
+   "VATClass": "D02",
+   "Price1": 8.035833,
+   "Price2": null,
+   "Price3": null,
+   "Price4": null,
+   "Price5": null,
+   "Price6": null,
+   "Price7": null,
+   "Price8": null,
+   "Price9": null,
+   "Price10": null,
+   "Price11": null,
+   "Price12": null,
+   "Price13": null,
+   "Price14": null,
+   "Price15": null,
+   "Price16": null,
+   "Price17": null,
+   "Price18": null,
+   "Price19": null,
+   "Price20": null,
+   "Price21": null,
+   "Price22": null,
+   "Price23": null,
+   "Price24": null,
+   "TransparentInvoicing": 0,
+   "TaxIndicator": 0,
+   "ResolutionDuration": "P1M"
   },
   {
-   "id": "OFF12K",
-   "text": "Offentlig forvaltning og service, skatter og afgifter",
-   "unit": "Mio. kr.",
-   "firstPeriod": "1999K1",
-   "latestPeriod": "2026K2",
-   "updated": "2026-09-25T08:00:00"
-  },
-  {
-   "id": "SKAT",
-   "text": "Skatter og afgifter",
-   "unit": "1.000 kr.",
-   "firstPeriod": "1947",
-   "latestPeriod": "2025",
-   "updated": "2026-06-03T08:00:00"
-  },
-  {
-   "id": "DNFDIFLO",
-   "text": "Direkte investeringer transaktioner (strøm)",
-   "unit": "Mio. kr.",
-   "firstPeriod": "2005K1",
-   "latestPeriod": "2026K2",
-   "updated": "2026-08-14T08:00:00"
-  },
-  {
-   "id": "DNCFEM",
-   "text": "Klimarelaterede indikatorer for danske realkreditobligationer baseret på energimærker",
-   "unit": "-",
-   "firstPeriod": "2022K4",
-   "latestPeriod": "2026K2",
-   "updated": "2026-09-08T08:00:00"
-  },
-  {
-   "id": "JORD9",
-   "text": "Energiforbrug for heltidsbedrifter (gennemsnit)",
-   "unit": "Gns.",
-   "firstPeriod": "2008",
-   "latestPeriod": "2024",
-   "updated": "2025-10-01T08:00:00"
-  },
-  {
-   "id": "ENEBR",
-   "text": "Industriens energiforbrug",
-   "unit": "-",
-   "firstPeriod": "2012",
-   "latestPeriod": "2024",
-   "updated": "2025-08-26T08:00:00"
-  },
-  {
-   "id": "ENEGEO",
-   "text": "Industriens energiforbrug",
-   "unit": "1.000 GJ (gigajoule)",
-   "firstPeriod": "2012",
-   "latestPeriod": "2024",
-   "updated": "2025-08-26T08:00:00"
-  },
-  {
-   "id": "ENETYPE",
-   "text": "Industriens energiforbrug",
-   "unit": "-",
-   "firstPeriod": "2012",
-   "latestPeriod": "2024",
-   "updated": "2025-08-26T08:00:00"
-  },
-  {
-   "id": "ENERGI1",
-   "text": "Priser på elektricitet for husholdningskunder",
-   "unit": "Kr. pr. enhed",
-   "firstPeriod": "2015H1",
-   "latestPeriod": "2025H2",
-   "updated": "2026-04-08T08:00:00"
-  },
-  {
-   "id": "ENERGI2",
-   "text": "Priser på elektricitet for erhvervskunder",
-   "unit": "Kr. pr. enhed",
-   "firstPeriod": "2015H1",
-   "latestPeriod": "2025H2",
-   "updated": "2026-04-08T08:00:00"
-  },
-  {
-   "id": "ENE1HO",
-   "text": "Energiregnskab i specifikke enheder (oversigt)",
-   "unit": "-",
-   "firstPeriod": "1966",
-   "latestPeriod": "2025",
-   "updated": "2026-06-18T08:00:00"
-  },
-  {
-   "id": "ENE1HT",
-   "text": "Energiregnskab i specifikke enheder (detaljeret)",
-   "unit": "-",
-   "firstPeriod": "1966",
-   "latestPeriod": "2025",
-   "updated": "2026-06-18T08:00:00"
-  },
-  {
-   "id": "ENE1HA",
-   "text": "Energiregnskab i specifikke enheder (detaljeret)",
-   "unit": "-",
-   "firstPeriod": "1966",
-   "latestPeriod": "2025",
-   "updated": "2026-06-18T08:00:00"
-  },
-  {
-   "id": "ENE2HO",
-   "text": "Energiregnskab i GJ (oversigt)",
-   "unit": "GJ (gigajoule)",
-   "firstPeriod": "1966",
-   "latestPeriod": "2025",
-   "updated": "2026-06-18T08:00:00"
-  },
-  {
-   "id": "ENE2HT",
-   "text": "Energiregnskab i GJ (detaljeret)",
-   "unit": "GJ (gigajoule)",
-   "firstPeriod": "1966",
-   "latestPeriod": "2025",
-   "updated": "2026-06-18T08:00:00"
-  },
-  {
-   "id": "ENE2HA",
-   "text": "Energiregnskab i GJ (detaljeret)",
-   "unit": "GJ (gigajoule)",
-   "firstPeriod": "1966",
-   "latestPeriod": "2025",
-   "updated": "2026-06-18T08:00:00"
-  },
-  {
-   "id": "LABY33",
-   "text": "Nøgletalstabel for energiforbrug og -produktion",
-   "unit": "-",
-   "firstPeriod": "2020",
-   "latestPeriod": "2023",
-   "updated": "2025-11-25T08:00:00"
-  },
-  {
-   "id": "SDG07021",
-   "text": "Vedvarende energis andel af det samlede bruttoenergiforbrug",
-   "unit": "Pct.",
-   "firstPeriod": "1990",
-   "latestPeriod": "2025",
-   "updated": "2026-06-22T08:00:00"
-  },
-  {
-   "id": "ENE2MU1N",
-   "text": "Direkte og indirekte energiforbrug",
-   "unit": "-",
-   "firstPeriod": "1990",
-   "latestPeriod": "2025",
-   "updated": "2026-06-30T08:00:00"
-  },
-  {
-   "id": "ENE2MU2N",
-   "text": "Direkte og indirekte energiforbrug",
-   "unit": "-",
-   "firstPeriod": "1990",
-   "latestPeriod": "2025",
-   "updated": "2026-06-30T08:00:00"
-  },
-  {
-   "id": "ENE2MU3N",
-   "text": "Direkte og indirekte energiforbrug",
-   "unit": "GJ (gigajoule)",
-   "firstPeriod": "1990",
-   "latestPeriod": "2025",
-   "updated": "2026-06-30T08:00:00"
-  },
-  {
-   "id": "TEMA9006",
-   "text": "CO2-udledning fra familiernes energiforbrug",
-   "unit": "1.000 ton",
-   "firstPeriod": "1990",
-   "latestPeriod": "2025",
-   "updated": "2026-09-15T08:00:00"
-  },
-  {
-   "id": "TEMA9003",
-   "text": "Vedvarende energis andel af energiforbruget",
-   "unit": "Pct.",
-   "firstPeriod": "2019",
-   "latestPeriod": "2021",
-   "updated": "2023-09-14T08:00:00"
-  },
-  {
-   "id": "MREG21",
-   "text": "Grønne afgifter",
-   "unit": "Mio. kr.",
-   "firstPeriod": "1995",
-   "latestPeriod": "2025",
-   "updated": "2026-06-24T08:00:00"
-  },
-  {
-   "id": "MRS1",
-   "text": "Grønne afgifter",
-   "unit": "Mio. kr.",
-   "firstPeriod": "1995",
-   "latestPeriod": "2025",
-   "updated": "2026-06-24T08:00:00"
-  },
-  {
-   "id": "VOGRG",
-   "text": "Værdien af olie og naturgas",
-   "unit": "-",
-   "firstPeriod": "1990",
-   "latestPeriod": "2025",
-   "updated": "2025-12-09T08:00:00"
-  },
-  {
-   "id": "OLIERG",
-   "text": "Fysisk balance for oliereserverne",
-   "unit": "Mio. m3",
-   "firstPeriod": "1990",
-   "latestPeriod": "2025",
-   "updated": "2025-12-09T08:00:00"
+   "ChargeOwner": "TREFOR El-net A/S",
+   "GLN_Number": "5790000392261",
+   "ChargeType": "D01",
+   "ChargeTypeCode": "E-41",
+   "Note": "Net egenproducentbidrag B lav",
+   "Description": "Egenproducentbidrag, hvor aftagepunktet typisk er på 0,4 kV-siden af en 10-20/0,4 kV-transformerstation",
+   "ValidFrom": "2026-07-01T00:00:00",
+   "ValidTo": "2027-01-01T00:00:00",
+   "VATClass": "D02",
+   "Price1": 2.905,
+   "Price2": null,
+   "Price3": null,
+   "Price4": null,
+   "Price5": null,
+   "Price6": null,
+   "Price7": null,
+   "Price8": null,
+   "Price9": null,
+   "Price10": null,
+   "Price11": null,
+   "Price12": null,
+   "Price13": null,
+   "Price14": null,
+   "Price15": null,
+   "Price16": null,
+   "Price17": null,
+   "Price18": null,
+   "Price19": null,
+   "Price20": null,
+   "Price21": null,
+   "Price22": null,
+   "Price23": null,
+   "Price24": null,
+   "TransparentInvoicing": 0,
+   "TaxIndicator": 0,
+   "ResolutionDuration": "P1M"
   }
  ],
- "eurostat": {
-  "nrg_pc_204": {
-   "status": 200,
-   "label": "Electricity prices for household consumers - bi-annual data (from 2007 onwards)",
-   "first": "1985-S1",
-   "last": "2025-S2",
-   "n_time": 76,
-   "values": 2946
-  },
-  "nrg_pc_202": {
-   "status": 200,
-   "label": "Gas prices for household consumers - bi-annual data (from 2007 onwards)",
-   "first": "1985-S1",
-   "last": "2025-S2",
-   "n_time": 77,
-   "values": 2610
-  },
-  "nrg_pc_205": {
-   "status": 200,
-   "label": "Electricity prices for industrial consumers - bi-annual data (from 2007 onwards)",
-   "first": "1985-S1",
-   "last": "2025-S2",
-   "n_time": 76,
-   "values": 3129
-  },
-  "nrg_pc_203": {
-   "status": 200,
-   "label": "Gas prices for industrial consumers - bi-annual data (from 2007 onwards)",
-   "first": "1985-S1",
-   "last": "2025-S2",
-   "n_time": 76,
-   "values": 3966
-  },
-  "nrg_pc_204_h": {
-   "status": 200,
-   "label": "Electricity prices for domestic consumers - bi-annual data (until 2007)",
-   "first": "1985-S1",
-   "last": "2007-S2",
-   "n_time": 40,
-   "values": 1800
-  },
-  "nrg_pc_202_h": {
-   "status": 200,
-   "label": "Gas prices for domestic consumers - bi-annual data (until 2007)",
-   "first": "1985-S1",
-   "last": "2007-S2",
-   "n_time": 41,
-   "values": 1080
-  },
-  "nrg_pc_204_c": {
-   "status": 200,
-   "label": "Electricity prices components for household consumers - annual data (from 2007 onwards)",
-   "first": "2017",
-   "last": "2025",
-   "n_time": 9,
-   "values": 1620
-  }
+ "chargeowners": [
+  [
+   null,
+   13465
+  ],
+  [
+   "Konstant Net A/S - 151",
+   11587
+  ],
+  [
+   "Konstant Net A/S - 245",
+   9434
+  ],
+  [
+   "N1 A/S - 344",
+   8625
+  ],
+  [
+   "Vores Elnet A/S",
+   7049
+  ],
+  [
+   "N1 A/S - 131",
+   7033
+  ],
+  [
+   "Cerius A/S",
+   6876
+  ],
+  [
+   "Radius Elnet A/S",
+   5786
+  ],
+  [
+   "TREFOR El-net A/S",
+   5450
+  ],
+  [
+   "Netselskabet Elværk A/S",
+   5348
+  ],
+  [
+   "RAH Net A/S",
+   4948
+  ],
+  [
+   "Dinel A/S",
+   3467
+  ],
+  [
+   "FLOW Elnet A/S",
+   2992
+  ],
+  [
+   "Ravdex A/S",
+   2881
+  ],
+  [
+   "TREFOR El-net Øst A/S",
+   2834
+  ],
+  [
+   "Elektrus A/S",
+   2809
+  ],
+  [
+   "NOE Net A/S",
+   2070
+  ],
+  [
+   "Zeanet A/S",
+   1865
+  ],
+  [
+   "Nord Energi Net A/S",
+   1799
+  ],
+  [
+   "Elnet Midt A/S",
+   1786
+  ],
+  [
+   "Aal El-Net A M B A",
+   1674
+  ],
+  [
+   "Veksel A/S",
+   1438
+  ],
+  [
+   "Tarm Elværk Net A/S",
+   1365
+  ],
+  [
+   "N1 A/S - 016",
+   908
+  ],
+  [
+   "Hammel Elforsyning Net A/S",
+   904
+  ],
+  [
+   "L-Net A/S",
+   873
+  ],
+  [
+   "Midtfyns Elforsyning  A.m.b.A",
+   796
+  ],
+  [
+   "Hjerting Transformatorforening",
+   781
+  ],
+  [
+   "Hurup Elværk Net A/S",
+   715
+  ],
+  [
+   "Kimbrer Elnet A/S",
+   688
+  ],
+  [
+   "Sunds Net A.m.b.a",
+   660
+  ],
+  [
+   "Elinord A/S",
+   373
+  ],
+  [
+   "Forsyning Elnet A/S",
+   241
+  ],
+  [
+   "Grindsted Elnet A/S",
+   226
+  ],
+  [
+   "Ikast El Net A/S",
+   165
+  ],
+  [
+   "Læsø Elnet A/S",
+   110
+  ],
+  [
+   "Sanity",
+   5
+  ]
+ ],
+ "chargetypes": [
+  [
+   "D03",
+   107964
+  ],
+  [
+   "D01",
+   9105
+  ],
+  [
+   "D02",
+   2957
+  ]
+ ],
+ "validfrom_years": [
+  [
+   "2015",
+   120
+  ],
+  [
+   "2016",
+   814
+  ],
+  [
+   "2017",
+   2107
+  ],
+  [
+   "2018",
+   3914
+  ],
+  [
+   "2019",
+   4919
+  ],
+  [
+   "2020",
+   6893
+  ],
+  [
+   "2021",
+   15196
+  ],
+  [
+   "2022",
+   15444
+  ],
+  [
+   "2023",
+   17921
+  ],
+  [
+   "2024",
+   17291
+  ],
+  [
+   "2025",
+   15346
+  ],
+  [
+   "2026",
+   19611
+  ],
+  [
+   "2027",
+   450
+  ]
+ ],
+ "notes_top": [
+  [
+   "Nettarif B høj",
+   11592
+  ],
+  [
+   "Nettarif A lav",
+   11031
+  ],
+  [
+   "Nettarif A høj",
+   9393
+  ],
+  [
+   "Nettarif B lav time",
+   8991
+  ],
+  [
+   "Nettarif B lav",
+   8662
+  ],
+  [
+   "Rabat på Nettarif B lav - KONSTANT Net A/S",
+   1862
+  ],
+  [
+   "Rabat på Nettarif A lav - KONSTANT Net A/S",
+   1860
+  ],
+  [
+   "Rabat på nettarif N1 A/S",
+   1853
+  ],
+  [
+   "Nettarif B høj time",
+   1772
+  ],
+  [
+   "Nettarif B lav (fritaget for energisparebidrag)",
+   1749
+  ],
+  [
+   "Nettarif B høj samplaceret",
+   1339
+  ],
+  [
+   "Overliggende net",
+   1169
+  ],
+  [
+   "Rabat på Nettarif B høj - KONSTANT Net A/S",
+   1096
+  ],
+  [
+   "Nettarif C time",
+   1061
+  ],
+  [
+   "Nettarif A lav (DNU)",
+   1003
+  ],
+  [
+   "Rabat på Nettarif A lav (DNU) - KONSTANT Net A/S",
+   961
+  ],
+  [
+   "Nettarif B høj (fritaget for energisparebidrag)",
+   958
+  ],
+  [
+   "Rabat på Nettarif A høj - KONSTANT Net A/S",
+   947
+  ],
+  [
+   "Nettarif A høj (fritaget for energisparebidrag)",
+   923
+  ],
+  [
+   "Nettarif A lav (fritaget for energisparebidrag)",
+   853
+  ],
+  [
+   "Nettarif A lav samplaceret",
+   845
+  ],
+  [
+   "Rabat på Cerius' nettarif",
+   814
+  ],
+  [
+   "Rabat nettarif Evonet A/S, tidsdifferentieret",
+   793
+  ],
+  [
+   "Nettarif B høj særtarif",
+   782
+  ],
+  [
+   "Nettarif B lav særtarif",
+   782
+  ],
+  [
+   "Rabat på Nettarif B lav (fritaget for energisparebidrag) - KONSTANT Net A/S",
+   774
+  ],
+  [
+   "Nettarif A Høj",
+   711
+  ],
+  [
+   "Nettarif B Høj",
+   705
+  ],
+  [
+   "Nettarif A Høj produktion",
+   690
+  ],
+  [
+   "Nettarif A Lav",
+   690
+  ],
+  [
+   "Nettarif A Lav produktion",
+   690
+  ],
+  [
+   "Nettarif B Høj produktion",
+   688
+  ],
+  [
+   "Nettarif B Lav",
+   688
+  ],
+  [
+   "Nettarif B Lav produktion",
+   688
+  ],
+  [
+   "Nettarif B 20GWh",
+   688
+  ],
+  [
+   "Nettarif  B høj",
+   677
+  ],
+  [
+   "B-Lav Nettarif",
+   652
+  ],
+  [
+   "Nettarif A høj samplaceret",
+   624
+  ],
+  [
+   "Rabat på Nettarif A høj - KONSTANTNet A/S",
+   571
+  ],
+  [
+   "Nettarif B lav 20 GWh",
+   567
+  ],
+  [
+   "Nettarif A 200GWH",
+   565
+  ],
+  [
+   "Rabat nettarif Evonet A/S tidsdifferentieret",
+   522
+  ],
+  [
+   "Nettarif overordnet net - tidsdifferenceret",
+   519
+  ],
+  [
+   "Nettarif B lav time - Affald",
+   466
+  ],
+  [
+   "Net rådighedstarif C",
+   435
+  ],
+  [
+   "Nettarif A lav, tidsdifferentieret",
+   435
+  ],
+  [
+   "Nettarif B lav flex, tidsdifferentieret",
+   435
+  ],
+  [
+   "Nettarif B lav time, tidsdifferentieret",
+   435
+  ],
+  [
+   "Rabat på Nettarif A høj (fritaget for energisparebidrag) - KONSTANT Net A/S",
+   424
+  ],
+  [
+   "B-Lav Kunde tarif",
+   413
+  ],
+  [
+   "Nettarif 60 kV",
+   391
+  ],
+  [
+   "Transport - Overordnet net (time)",
+   390
+  ],
+  [
+   "Nettarif A høj, tidsdifferentieret",
+   386
+  ],
+  [
+   "Nettarif A lav forbrug elkedel, tidsdifferentieret",
+   386
+  ],
+  [
+   "Netarif B høj forbrug Elkedel, tidsdifferentieret",
+   386
+  ],
+  [
+   "Nettarif B høj, tidsdifferentieret",
+   386
+  ],
+  [
+   "Netarif B lav forbrug Elkedel, tidsdifferentieret",
+   386
+  ],
+  [
+   "Nettarif B lav time med forbrug over 20 GWh, tidsdifferentieret",
+   386
+  ],
+  [
+   "Net tarif A høj",
+   375
+  ],
+  [
+   "Nettarif B lav varmeproduktion",
+   369
+  ]
+ ],
+ "energinet_like": [],
+ "dup_keys": 0,
+ "same_records_ignoring_order": true,
+ "sorted_request": {
+  "url": "https://api.energidataservice.dk/dataset/DatahubPricelist?limit=5&sort=ValidFrom+desc",
+  "status": 200,
+  "bytes": 4343,
+  "secs": 0.5,
+  "sha": "77d395712d10ea2ccddbca4f3d0362b62f9f6a2b41e327c1a599b3ea9c8947b1"
  },
- "fred": {
-  "DCOILBRENTEU": {
-   "status": 200,
-   "header": [
-    "observation_date",
-    "DCOILBRENTEU"
-   ],
-   "first": [
-    "1987-05-20",
-    "18.63"
-   ],
-   "last": [
-    "2026-09-22",
-    "114.89"
-   ],
-   "n": 9092
-  },
-  "POILBREUSDM": {
-   "status": 200,
-   "header": [
-    "observation_date",
-    "POILBREUSDM"
-   ],
-   "first": [
-    "1992-01-01",
-    "18.15652173913043"
-   ],
-   "last": [
-    "2026-07-01",
-    "83.73409090909091"
-   ],
-   "n": 415
-  },
-  "DHHNGSP": {
-   "status": 200,
-   "header": [
-    "observation_date",
-    "DHHNGSP"
-   ],
-   "first": [
-    "1997-01-07",
-    "3.82"
-   ],
-   "last": [
-    "2026-09-22",
-    "2.90"
-   ],
-   "n": 5692
-  },
-  "PNGASEUUSDM": {
-   "status": 200,
-   "header": [
-    "observation_date",
-    "PNGASEUUSDM"
-   ],
-   "first": [
-    "1992-01-01",
-    "2.37999979654948"
-   ],
-   "last": [
-    "2026-07-01",
-    "17.93000000000000"
-   ],
-   "n": 415
-  },
-  "DCOILWTICO": {
-   "status": 200,
-   "header": [
-    "observation_date",
-    "DCOILWTICO"
-   ],
-   "first": [
-    "1986-01-02",
-    "25.56"
-   ],
-   "last": [
-    "2026-09-22",
-    "96.41"
-   ],
-   "n": 9507
-  }
+ "future_rows": 4824,
+ "dayahead": {
+  "status": 200,
+  "bytes": 61266,
+  "error": null
  },
- "other": {
-  "eia_brent_daily_xls": {
-   "status": 200,
-   "bytes": 451584,
-   "ctype": "application/vnd.ms-excel"
+ "dayahead_columns": [
+  "TimeUTC",
+  "TimeDK",
+  "PriceArea",
+  "DayAheadPriceEUR",
+  "DayAheadPriceDKK"
+ ],
+ "dayahead_first_last": [
+  {
+   "TimeUTC": "2026-10-01T21:45:00",
+   "TimeDK": "2026-10-01T23:45:00",
+   "PriceArea": "DK1",
+   "DayAheadPriceEUR": 171.380005,
+   "DayAheadPriceDKK": 1281.134089
   },
-  "eia_henryhub_daily_xls": {
-   "status": 200,
-   "bytes": 294912,
-   "ctype": "application/vnd.ms-excel"
-  },
-  "eia_api_v2_nokey": {
-   "status": 403,
-   "error": "HTTP Error 403: Forbidden"
-  },
-  "worldbank_pinksheet_monthly": {
-   "status": 200,
-   "bytes": 765246,
-   "ctype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
-  },
-  "ecb_eurdkk_first": {
-   "status": 200,
-   "bytes": 539,
-   "ctype": "text/csv",
-   "text": "KEY,FREQ,CURRENCY,CURRENCY_DENOM,EXR_TYPE,EXR_SUFFIX,TIME_PERIOD,OBS_VALUE,OBS_STATUS,OBS_CONF,OBS_PRE_BREAK,OBS_COM,TIME_FORMAT,BREAKS,COLLECTION,COMPILING_ORG,DISS_ORG,DOM_SER_IDS,PUBL_ECB,PUBL_MU,PUBL_PUBLIC,UNIT_INDEX_BASE,COMPILATION,COVERAGE,DECIMALS,NAT_TITLE,SOURCE_AGENCY,SOURCE_PUB,TITLE,TITLE_COMPL,UNIT,UNIT_MULT\r\nEXR.D.DKK.EUR.SP00.A,D,DKK,EUR,SP00,A,1999-01-04,7.4501,A,,,,P1D,,A,,,,,,,99Q1=100,,,4,,4F0,,Danish krone/Euro ECB reference exchange rate,\"ECB reference exchange rate, Danish krone/Euro, 2.15 pm (C.E.T.)\",DKK,0\r\n"
-  },
-  "ecb_eurusd_first": {
-   "status": 200,
-   "bytes": 533,
-   "ctype": "text/csv",
-   "text": "KEY,FREQ,CURRENCY,CURRENCY_DENOM,EXR_TYPE,EXR_SUFFIX,TIME_PERIOD,OBS_VALUE,OBS_STATUS,OBS_CONF,OBS_PRE_BREAK,OBS_COM,TIME_FORMAT,BREAKS,COLLECTION,COMPILING_ORG,DISS_ORG,DOM_SER_IDS,PUBL_ECB,PUBL_MU,PUBL_PUBLIC,UNIT_INDEX_BASE,COMPILATION,COVERAGE,DECIMALS,NAT_TITLE,SOURCE_AGENCY,SOURCE_PUB,TITLE,TITLE_COMPL,UNIT,UNIT_MULT\r\nEXR.D.USD.EUR.SP00.A,D,USD,EUR,SP00,A,1999-01-04,1.1789,A,,,,P1D,,A,,,,,,,99Q1=100,,,4,,4F0,,US dollar/Euro ECB reference exchange rate,\"ECB reference exchange rate, US dollar/Euro, 2.15 pm (C.E.T.)\",USD,0\r\n"
-  },
-  "entsoe_nokey": {
-   "status": 401,
-   "error": "HTTP Error 401: Unauthorized"
+  {
+   "TimeUTC": "2026-09-29T16:45:00",
+   "TimeDK": "2026-09-29T18:45:00",
+   "PriceArea": "DK2",
+   "DayAheadPriceEUR": 237.970001,
+   "DayAheadPriceDKK": 1778.920945
   }
- }
+ ],
+ "dayahead_n": 426
 }
