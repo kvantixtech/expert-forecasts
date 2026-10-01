@@ -1,59 +1,42 @@
-"""Temporary probe (not part of expert-forecasts): where can Danish wastewater discharge data be fetched without login?"""
+"""Temporary probe (not part of expert-forecasts): sample the public MIM WFS layers on wastewater and DST VANDUD."""
 import json, os, re, time, urllib.request, urllib.error, urllib.parse
 UA = "kvantixtech/data probe (github actions; validation@kvantix.tech)"
-def get(url, n=4000000, data=None, hdr=None):
+def get(url, n=30000000, data=None, hdr=None):
     h = {"User-Agent": UA, "Accept": "*/*"}; h.update(hdr or {})
     try:
-        with urllib.request.urlopen(urllib.request.Request(url, data=data, headers=h), timeout=60) as r:
-            b = r.read(n); return r.status, r.headers.get("Content-Type"), b.decode("utf-8", "replace")
+        with urllib.request.urlopen(urllib.request.Request(url, data=data, headers=h), timeout=120) as r:
+            return r.status, r.read(n).decode("utf-8", "replace")
     except urllib.error.HTTPError as e:
-        return e.code, None, (e.read(2000).decode("utf-8", "replace") if hasattr(e, "read") else "")
+        return e.code, ""
     except Exception as e:
-        return None, None, str(e)[:300]
+        return None, str(e)[:300]
+B = "https://wfs2-miljoegis.mim.dk/ows"
+s, cap = get(B + "?service=WFS&version=2.0.0&request=GetCapabilities")
+names = re.findall(r"<(?:wfs:)?Name>([^<]+)</(?:wfs:)?Name>", cap)
 out = {"run_utc": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())}
-# 1. Arealdata SPA: find its API base in the JS bundle
-s, ct, b = get("https://arealdata.miljoeportal.dk/")
-scripts = re.findall(r'src="([^"]+\.js)"', b); out["arealdata_scripts"] = scripts[:10]
-apis = set()
-for sc in scripts[:6]:
-    u = sc if sc.startswith("http") else "https://arealdata.miljoeportal.dk" + ("" if sc.startswith("/") else "/") + sc
-    s2, _, js = get(u, 8000000)
-    apis |= set(re.findall(r'https://[a-z0-9\.\-]*miljoeportal\.dk[^"\'`\s\)]*', js))
-    apis |= set(re.findall(r'https://[a-z0-9\.\-]*mim\.dk[^"\'`\s\)]*', js))
-out["arealdata_api_strings"] = sorted(apis)[:80]
-# 2. Candidate dataset metadata endpoints
-cands = ["https://arealdata-api.miljoeportal.dk/datasets/urn:dmp:ds:renseanlaeg-udledning",
-         "https://arealdata-api.miljoeportal.dk/api/datasets/urn:dmp:ds:renseanlaeg-udledning",
-         "https://arealdata.miljoeportal.dk/api/datasets/urn:dmp:ds:renseanlaeg-udledning"]
-for a in sorted(apis):
-    if "api" in a and len(cands) < 12: cands.append(a.rstrip("/") + "/datasets/urn:dmp:ds:renseanlaeg-udledning")
-out["meta_tries"] = {}
-for c in cands:
-    s, ct, b = get(c, 20000); out["meta_tries"][c] = {"status": s, "ct": ct, "body": b[:1500]}
+out["vp4_layers"] = [n for n in names if n.startswith("vp4basis2026:")]
+out["vp3gen_layers"] = [n for n in names if n.startswith("vp3gen2024:")]
+want = [n for n in names if re.search(r"punkt_(rbu|rens|ind|spredt)|rbu_saml|renseanlaeg$|theme-vp2_2016-rbu$", n)]
+out["sampled"] = {}
+for n in want[:14]:
+    q = {"service": "WFS", "version": "2.0.0", "request": "GetFeature", "typeNames": n, "count": "3", "outputFormat": "application/json"}
+    s, b = get(B + "?" + urllib.parse.urlencode(q), 3000000)
+    try:
+        j = json.loads(b); feats = j.get("features", [])
+        props = [f.get("properties") for f in feats]
+    except Exception as e:
+        props = [b[:300]]
+    s2, h = get(B + "?" + urllib.parse.urlencode({"service": "WFS", "version": "2.0.0", "request": "GetFeature", "typeNames": n, "resultType": "hits"}), 20000)
+    m = re.search(r'numberMatched="(\d+)"', h)
+    out["sampled"][n] = {"status": s, "matched": m.group(1) if m else None, "sample": props}
     time.sleep(0.5)
-# 3. MIM GeoServer: list layers that look like wastewater
-for base in ["https://wfs2-miljoegis.mim.dk/ows", "https://arealeditering-dist-geo.miljoeportal.dk/geoserver/ows"]:
-    s, ct, b = get(base + "?service=WFS&version=2.0.0&request=GetCapabilities", 30000000)
-    names = re.findall(r"<(?:wfs:)?Name>([^<]+)</(?:wfs:)?Name>", b)
-    titles = re.findall(r"<(?:wfs:)?Title>([^<]+)</(?:wfs:)?Title>", b)
-    hits = [n for n in names if re.search(r"rense|udl|overl|rbu|spild|puls|regnb|udløb|punktk|kloak", n, re.I)]
-    out.setdefault("geoserver", {})[base] = {"status": s, "n_layers": len(names), "hits": hits[:80], "sample": names[:15],
-                                            "title_hits": [t for t in titles if re.search(r"rense|udled|overl|regnb|spild|punktkild|kloak", t, re.I)][:60]}
-# 4. Datavejviser catalogue entry
-s, ct, b = get("https://datavejviser.dk/katalog/danmarks-miljoportal/2fe0a061-94e3-465c-a3ac-7171e749561a", 400000)
-txt = re.sub(r"<[^>]+>", " ", b); out["datavejviser"] = {"status": s, "urls": sorted(set(re.findall(r'https?://[^\s"\'<>]+', b)))[:60], "text": re.sub(r"\s+", " ", txt)[:2500]}
-# 5. DST tables on water and wastewater
-s, ct, b = get("https://api.statbank.dk/v1/tables", data=json.dumps({"lang": "da", "format": "JSON"}).encode(), hdr={"Content-Type": "application/json"})
-try:
-    tabs = json.loads(b); out["dst"] = [{k: t.get(k) for k in ("id", "text", "unit", "firstPeriod", "latestPeriod")} for t in tabs if re.search(r"spildevand|vand(?!r)|renseanl", t.get("text", ""), re.I)][:40]
-except Exception as e:
-    out["dst"] = str(e)
-# 6. GEUS Jupiter open access (what is downloadable)
-for u in ["https://www.geus.dk/produkter-ydelser-og-faciliteter/data-og-kort/national-boringsdatabase-jupiter/adgang-til-data/",
-          "https://data.geus.dk/geusmap/ows/25832.jsp?service=WFS&version=1.0.0&request=GetCapabilities"]:
-    s, ct, b = get(u, 3000000)
-    out.setdefault("geus", {})[u] = {"status": s, "links": sorted(set(l for l in re.findall(r'href="([^"]+)"', b) if re.search(r"download|zip|pcjupiter|wfs|api", l, re.I)))[:40],
-                                    "layers": re.findall(r"<Name>([^<]+)</Name>", b)[:60]}
+# DST VANDUD / VANDRG4
+for t in ["VANDUD", "VANDRG4"]:
+    s, b = get("https://api.statbank.dk/v1/tableinfo", data=json.dumps({"table": t, "lang": "da", "format": "JSON"}).encode(), hdr={"Content-Type": "application/json"})
+    try:
+        j = json.loads(b); out.setdefault("dst", {})[t] = {"text": j.get("text"), "unit": j.get("unit"), "vars": [{"id": v["id"], "text": v["text"], "values": [x["text"] for x in v["values"]][:25]} for v in j.get("variables", [])]}
+    except Exception as e:
+        out.setdefault("dst", {})[t] = str(e) + b[:200]
 os.makedirs("probe", exist_ok=True)
 json.dump(out, open("probe/result.json", "w"), indent=1, ensure_ascii=False)
 print("done")
