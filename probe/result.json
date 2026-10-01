@@ -1,5 +1,5 @@
 {
- "run_utc": "2026-10-01T14:27:13Z",
+ "run_utc": "2026-10-01T14:36:23Z",
  "pages": {
   "https://kvantix.tech/": {
    "status": 200,
@@ -16,7 +16,12 @@
    "google_fonts": 0,
    "binance_fetch": 0,
    "umami": 1,
-   "privacy_link": 0,
+   "privacy_link": 1,
+   "ww_card": 0,
+   "ww_js": 0,
+   "v1001": 0,
+   "analysis_finishes": 1,
+   "request_ends": 1,
    "umami_cloud_text": 0
   },
   "https://kvantix.tech/playground/": {
@@ -34,7 +39,12 @@
    "google_fonts": 0,
    "binance_fetch": 0,
    "umami": 1,
-   "privacy_link": 0,
+   "privacy_link": 1,
+   "ww_card": 1,
+   "ww_js": 0,
+   "v1001": 2,
+   "analysis_finishes": 0,
+   "request_ends": 0,
    "umami_cloud_text": 0
   },
   "https://kvantix.tech/playground/energy/": {
@@ -52,7 +62,12 @@
    "google_fonts": 0,
    "binance_fetch": 0,
    "umami": 1,
-   "privacy_link": 0,
+   "privacy_link": 1,
+   "ww_card": 0,
+   "ww_js": 0,
+   "v1001": 0,
+   "analysis_finishes": 0,
+   "request_ends": 0,
    "umami_cloud_text": 0
   },
   "https://kvantix.tech/playground/experts/": {
@@ -70,7 +85,12 @@
    "google_fonts": 0,
    "binance_fetch": 0,
    "umami": 1,
-   "privacy_link": 0,
+   "privacy_link": 1,
+   "ww_card": 0,
+   "ww_js": 0,
+   "v1001": 0,
+   "analysis_finishes": 0,
+   "request_ends": 0,
    "umami_cloud_text": 0
   },
   "https://kvantix.tech/playground/lock-your-prediction/": {
@@ -88,7 +108,12 @@
    "google_fonts": 0,
    "binance_fetch": 0,
    "umami": 1,
-   "privacy_link": 0,
+   "privacy_link": 1,
+   "ww_card": 0,
+   "ww_js": 0,
+   "v1001": 0,
+   "analysis_finishes": 0,
+   "request_ends": 0,
    "umami_cloud_text": 0
   },
   "https://kvantix.tech/playground/luck-or-skill/": {
@@ -106,7 +131,12 @@
    "google_fonts": 0,
    "binance_fetch": 0,
    "umami": 1,
-   "privacy_link": 0,
+   "privacy_link": 1,
+   "ww_card": 0,
+   "ww_js": 0,
+   "v1001": 0,
+   "analysis_finishes": 0,
+   "request_ends": 0,
    "umami_cloud_text": 0
   },
   "https://kvantix.tech/playground/track-record/": {
@@ -124,8 +154,16 @@
    "google_fonts": 0,
    "binance_fetch": 0,
    "umami": 1,
-   "privacy_link": 0,
+   "privacy_link": 1,
+   "ww_card": 0,
+   "ww_js": 0,
+   "v1001": 0,
+   "analysis_finishes": 0,
+   "request_ends": 0,
    "umami_cloud_text": 0
+  },
+  "https://kvantix.tech/playground/wastewater/": {
+   "error": "HTTP Error 404: Not Found"
   },
   "https://kvantix.tech/playground/weather/": {
    "status": 200,
@@ -142,7 +180,12 @@
    "google_fonts": 0,
    "binance_fetch": 0,
    "umami": 1,
-   "privacy_link": 0,
+   "privacy_link": 1,
+   "ww_card": 0,
+   "ww_js": 0,
+   "v1001": 0,
+   "analysis_finishes": 0,
+   "request_ends": 0,
    "umami_cloud_text": 0
   },
   "https://kvantix.tech/privacy/": {
@@ -160,7 +203,12 @@
    "google_fonts": 0,
    "binance_fetch": 0,
    "umami": 3,
-   "privacy_link": 3,
+   "privacy_link": 2,
+   "ww_card": 0,
+   "ww_js": 0,
+   "v1001": 0,
+   "analysis_finishes": 2,
+   "request_ends": 0,
    "umami_cloud_text": 1
   }
  },
@@ -172,6 +220,14 @@
   "https://kvantix.tech/privacy": [
    301,
    "https://kvantix.tech/privacy/"
+  ]
+ },
+ "assets": {
+  "https://kvantix.tech/wp-content/uploads/kvx/kvx-wastewater.js": "HTTP Error 404: Not Found",
+  "https://kvantix.tech/wp-content/uploads/kvx/kvx-energy.js": [
+   200,
+   10432,
+   false
   ]
  }
 }
