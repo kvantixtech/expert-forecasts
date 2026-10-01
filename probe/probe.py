@@ -1,4 +1,4 @@
-"""Temporary probe (not part of expert-forecasts): live-site marker scan of kvantix.tech pages (rerun)."""
+"""Temporary probe (not part of expert-forecasts): live-site marker scan of kvantix.tech pages (rerun 2)."""
 import json, os, re, time, urllib.request
 UA = "kvantixtech/site-audit check (github actions)"
 def get(u):
