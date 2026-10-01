@@ -1,5 +1,5 @@
 {
- "run_utc": "2026-10-01T16:01:13Z",
+ "run_utc": "2026-10-01T16:03:14Z",
  "pages": {
   "/": {
    "status": 200,
@@ -67,9 +67,9 @@
    "status": 200,
    "uploads_refs": 24,
    "v": [
-    "kvx-wastewater.js?v=20261001a"
+    "kvx-wastewater.js?v=20261001b"
    ],
-   "fixed_card": false
+   "fixed_card": true
   },
   "privacy/": {
    "status": 200,
@@ -265,7 +265,7 @@
    "bytes": 15210,
    "same_as_build": true
   },
-  "https://kvantix.tech/wp-content/uploads/kvx/kvx-wastewater.js?v=20261001a": {
+  "https://kvantix.tech/wp-content/uploads/kvx/kvx-wastewater.js?v=20261001b": {
    "status": 200,
    "type": "application/x-javascript",
    "bytes": 259281,
