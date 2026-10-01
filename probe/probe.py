@@ -1,4 +1,4 @@
-"""Temporary probe (not part of expert-forecasts): live-site asset check for kvantix.tech."""
+"""Temporary probe (not part of expert-forecasts): live-site asset check for kvantix.tech (rerun)."""
 import hashlib, json, os, re, time, urllib.request, urllib.parse
 UA = "kvantixtech/site-audit check (github actions)"
 LOCAL = {"kvx-experts.js": "3c17abdf4c0be89d48d1e373cb51bd3732ddbc33c3d756a6fc4af714d717338b", "kvx-energy.js": "fff47e2a43f071e362f0aa45bbb1309d5fb84c7cadbf7587fbb0e7fba9d6e388", "kvx-luck.js": "61077915a0c609a3238969e266787deb83ebd073881846d57774a6f6788fa604", "kvx-weather.js": "0fb58ff6f5cf0d9a39926fff4784fee9fd3d9a40775b9b0a71912a76811f6b17", "kvx-seal.js": "dccd34f173642d8d5cf92d68a2895f6e4ff94be9423952369311c6331b867072", "kvx-wastewater.js": "2887b63d8611e04562b9b066a67c52d392b7571422a0f1e5bfa842ea0c333afb", "kvx-track.js": "2e8b0f5d02f85331966b143cbda3c536c9edd6d96e2c85f5c11a0338bdddde64"}
