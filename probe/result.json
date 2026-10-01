@@ -1,257 +1,293 @@
 {
- "run_utc": "2026-10-01T14:41:34Z",
+ "run_utc": "2026-10-01T15:11:44Z",
  "pages": {
-  "https://kvantix.tech/": {
+  "/": {
    "status": 200,
-   "ga": 0,
-   "monsterinsights": 0,
-   "webmcp": 0,
-   "userfeedback": 0,
-   "wpconsent": 0,
-   "wpforms": 0,
-   "extendify": 0,
-   "old_landing_566": 0,
-   "mobilepay": 0,
-   "wpcode_566": 0,
-   "google_fonts": 0,
-   "binance_fetch": 0,
-   "umami": 1,
-   "privacy_link": 1,
-   "ww_card": 0,
-   "ww_js": 0,
-   "v1001": 0,
-   "analysis_finishes": 1,
-   "request_ends": 1,
-   "umami_cloud_text": 0
+   "uploads_refs": 25,
+   "v": [],
+   "fixed_card": false
   },
-  "https://kvantix.tech/playground/": {
+  "playground/": {
    "status": 200,
-   "ga": 0,
-   "monsterinsights": 0,
-   "webmcp": 0,
-   "userfeedback": 0,
-   "wpconsent": 0,
-   "wpforms": 0,
-   "extendify": 0,
-   "old_landing_566": 0,
-   "mobilepay": 0,
-   "wpcode_566": 0,
-   "google_fonts": 0,
-   "binance_fetch": 0,
-   "umami": 1,
-   "privacy_link": 1,
-   "ww_card": 1,
-   "ww_js": 0,
-   "v1001": 2,
-   "analysis_finishes": 0,
-   "request_ends": 0,
-   "umami_cloud_text": 0
+   "uploads_refs": 24,
+   "v": [
+    "kvx-weather.js?v=20261001a"
+   ],
+   "fixed_card": false
   },
-  "https://kvantix.tech/playground/energy/": {
+  "playground/energy/": {
    "status": 200,
-   "ga": 0,
-   "monsterinsights": 0,
-   "webmcp": 0,
-   "userfeedback": 0,
-   "wpconsent": 0,
-   "wpforms": 0,
-   "extendify": 0,
-   "old_landing_566": 0,
-   "mobilepay": 0,
-   "wpcode_566": 0,
-   "google_fonts": 0,
-   "binance_fetch": 0,
-   "umami": 1,
-   "privacy_link": 1,
-   "ww_card": 0,
-   "ww_js": 0,
-   "v1001": 0,
-   "analysis_finishes": 0,
-   "request_ends": 0,
-   "umami_cloud_text": 0
+   "uploads_refs": 24,
+   "v": [
+    "kvx-energy.js?v=20260930a"
+   ],
+   "fixed_card": false
   },
-  "https://kvantix.tech/playground/experts/": {
+  "playground/experts/": {
    "status": 200,
-   "ga": 0,
-   "monsterinsights": 0,
-   "webmcp": 0,
-   "userfeedback": 0,
-   "wpconsent": 0,
-   "wpforms": 0,
-   "extendify": 0,
-   "old_landing_566": 0,
-   "mobilepay": 0,
-   "wpcode_566": 0,
-   "google_fonts": 0,
-   "binance_fetch": 0,
-   "umami": 1,
-   "privacy_link": 1,
-   "ww_card": 0,
-   "ww_js": 0,
-   "v1001": 0,
-   "analysis_finishes": 0,
-   "request_ends": 0,
-   "umami_cloud_text": 0
+   "uploads_refs": 24,
+   "v": [
+    "kvx-experts.js?v=20260929c"
+   ],
+   "fixed_card": false
   },
-  "https://kvantix.tech/playground/lock-your-prediction/": {
+  "playground/lock-your-prediction/": {
    "status": 200,
-   "ga": 0,
-   "monsterinsights": 0,
-   "webmcp": 0,
-   "userfeedback": 0,
-   "wpconsent": 0,
-   "wpforms": 0,
-   "extendify": 0,
-   "old_landing_566": 0,
-   "mobilepay": 0,
-   "wpcode_566": 0,
-   "google_fonts": 0,
-   "binance_fetch": 0,
-   "umami": 1,
-   "privacy_link": 1,
-   "ww_card": 0,
-   "ww_js": 0,
-   "v1001": 0,
-   "analysis_finishes": 0,
-   "request_ends": 0,
-   "umami_cloud_text": 0
+   "uploads_refs": 24,
+   "v": [
+    "kvx-seal.js?v=20260929c"
+   ],
+   "fixed_card": false
   },
-  "https://kvantix.tech/playground/luck-or-skill/": {
+  "playground/luck-or-skill/": {
    "status": 200,
-   "ga": 0,
-   "monsterinsights": 0,
-   "webmcp": 0,
-   "userfeedback": 0,
-   "wpconsent": 0,
-   "wpforms": 0,
-   "extendify": 0,
-   "old_landing_566": 0,
-   "mobilepay": 0,
-   "wpcode_566": 0,
-   "google_fonts": 0,
-   "binance_fetch": 0,
-   "umami": 1,
-   "privacy_link": 1,
-   "ww_card": 0,
-   "ww_js": 0,
-   "v1001": 0,
-   "analysis_finishes": 0,
-   "request_ends": 0,
-   "umami_cloud_text": 0
+   "uploads_refs": 24,
+   "v": [
+    "kvx-luck.js?v=20260929c"
+   ],
+   "fixed_card": false
   },
-  "https://kvantix.tech/playground/track-record/": {
+  "playground/track-record/": {
    "status": 200,
-   "ga": 0,
-   "monsterinsights": 0,
-   "webmcp": 0,
-   "userfeedback": 0,
-   "wpconsent": 0,
-   "wpforms": 0,
-   "extendify": 0,
-   "old_landing_566": 0,
-   "mobilepay": 0,
-   "wpcode_566": 0,
-   "google_fonts": 0,
-   "binance_fetch": 0,
-   "umami": 1,
-   "privacy_link": 1,
-   "ww_card": 0,
-   "ww_js": 0,
-   "v1001": 0,
-   "analysis_finishes": 0,
-   "request_ends": 0,
-   "umami_cloud_text": 0
+   "uploads_refs": 24,
+   "v": [
+    "kvx-track.js?v=20260929c"
+   ],
+   "fixed_card": false
   },
-  "https://kvantix.tech/playground/wastewater/": {
+  "playground/weather/": {
    "status": 200,
-   "ga": 0,
-   "monsterinsights": 0,
-   "webmcp": 0,
-   "userfeedback": 0,
-   "wpconsent": 0,
-   "wpforms": 0,
-   "extendify": 0,
-   "old_landing_566": 0,
-   "mobilepay": 0,
-   "wpcode_566": 0,
-   "google_fonts": 0,
-   "binance_fetch": 0,
-   "umami": 1,
-   "privacy_link": 1,
-   "ww_card": 2,
-   "ww_js": 1,
-   "v1001": 2,
-   "analysis_finishes": 0,
-   "request_ends": 0,
-   "umami_cloud_text": 0
+   "uploads_refs": 24,
+   "v": [
+    "kvx-weather.js?v=20260929c"
+   ],
+   "fixed_card": false
   },
-  "https://kvantix.tech/playground/weather/": {
+  "playground/wastewater/": {
    "status": 200,
-   "ga": 0,
-   "monsterinsights": 0,
-   "webmcp": 0,
-   "userfeedback": 0,
-   "wpconsent": 0,
-   "wpforms": 0,
-   "extendify": 0,
-   "old_landing_566": 0,
-   "mobilepay": 0,
-   "wpcode_566": 0,
-   "google_fonts": 0,
-   "binance_fetch": 0,
-   "umami": 1,
-   "privacy_link": 1,
-   "ww_card": 0,
-   "ww_js": 0,
-   "v1001": 0,
-   "analysis_finishes": 0,
-   "request_ends": 0,
-   "umami_cloud_text": 0
+   "uploads_refs": 24,
+   "v": [
+    "kvx-wastewater.js?v=20261001a"
+   ],
+   "fixed_card": false
   },
-  "https://kvantix.tech/privacy/": {
+  "privacy/": {
    "status": 200,
-   "ga": 0,
-   "monsterinsights": 0,
-   "webmcp": 0,
-   "userfeedback": 0,
-   "wpconsent": 0,
-   "wpforms": 0,
-   "extendify": 0,
-   "old_landing_566": 0,
-   "mobilepay": 0,
-   "wpcode_566": 0,
-   "google_fonts": 0,
-   "binance_fetch": 0,
-   "umami": 3,
-   "privacy_link": 2,
-   "ww_card": 0,
-   "ww_js": 0,
-   "v1001": 0,
-   "analysis_finishes": 2,
-   "request_ends": 0,
-   "umami_cloud_text": 1
+   "uploads_refs": 24,
+   "v": [],
+   "fixed_card": false
   }
  },
- "redirects": {
-  "https://kvantix.tech/privacy-policy/": [
-   301,
-   "https://kvantix.tech/privacy/"
-  ],
-  "https://kvantix.tech/privacy": [
-   301,
-   "https://kvantix.tech/privacy/"
-  ]
- },
  "assets": {
-  "https://kvantix.tech/wp-content/uploads/kvx/kvx-wastewater.js": [
-   200,
-   255590,
-   true
-  ],
-  "https://kvantix.tech/wp-content/uploads/kvx/kvx-energy.js": [
-   200,
-   10432,
-   false
-  ]
+  "https://kvantix.tech/wp-content/uploads/2026/03/cropped-kvantix_logo-180x180.png": {
+   "status": 200,
+   "type": "image/png",
+   "bytes": 32974,
+   "same_as_build": null
+  },
+  "https://kvantix.tech/wp-content/uploads/2026/03/cropped-kvantix_logo-192x192.png": {
+   "status": 200,
+   "type": "image/png",
+   "bytes": 36403,
+   "same_as_build": null
+  },
+  "https://kvantix.tech/wp-content/uploads/2026/03/cropped-kvantix_logo-32x32.png": {
+   "status": 200,
+   "type": "image/png",
+   "bytes": 2235,
+   "same_as_build": null
+  },
+  "https://kvantix.tech/wp-content/uploads/2026/03/ext-custom-logo-1772357940221.webp": {
+   "status": 200,
+   "type": "image/webp",
+   "bytes": 4166,
+   "same_as_build": null
+  },
+  "https://kvantix.tech/wp-content/uploads/fonts/lato-latin-100-normal.woff2": {
+   "status": 200,
+   "type": "application/font-woff2",
+   "bytes": 21508,
+   "same_as_build": null
+  },
+  "https://kvantix.tech/wp-content/uploads/fonts/lato-latin-300-normal.woff2": {
+   "status": 200,
+   "type": "application/font-woff2",
+   "bytes": 23236,
+   "same_as_build": null
+  },
+  "https://kvantix.tech/wp-content/uploads/fonts/lato-latin-400-normal.woff2": {
+   "status": 200,
+   "type": "application/font-woff2",
+   "bytes": 23580,
+   "same_as_build": null
+  },
+  "https://kvantix.tech/wp-content/uploads/fonts/lato-latin-700-normal.woff2": {
+   "status": 200,
+   "type": "application/font-woff2",
+   "bytes": 23040,
+   "same_as_build": null
+  },
+  "https://kvantix.tech/wp-content/uploads/fonts/lato-latin-900-normal.woff2": {
+   "status": 200,
+   "type": "application/font-woff2",
+   "bytes": 22504,
+   "same_as_build": null
+  },
+  "https://kvantix.tech/wp-content/uploads/fonts/nunito-sans-latin-200-normal.woff2": {
+   "status": 200,
+   "type": "application/font-woff2",
+   "bytes": 13440,
+   "same_as_build": null
+  },
+  "https://kvantix.tech/wp-content/uploads/fonts/nunito-sans-latin-300-normal.woff2": {
+   "status": 200,
+   "type": "application/font-woff2",
+   "bytes": 13764,
+   "same_as_build": null
+  },
+  "https://kvantix.tech/wp-content/uploads/fonts/nunito-sans-latin-400-normal.woff2": {
+   "status": 200,
+   "type": "application/font-woff2",
+   "bytes": 13892,
+   "same_as_build": null
+  },
+  "https://kvantix.tech/wp-content/uploads/fonts/nunito-sans-latin-500-normal.woff2": {
+   "status": 200,
+   "type": "application/font-woff2",
+   "bytes": 13968,
+   "same_as_build": null
+  },
+  "https://kvantix.tech/wp-content/uploads/fonts/nunito-sans-latin-600-normal.woff2": {
+   "status": 200,
+   "type": "application/font-woff2",
+   "bytes": 14008,
+   "same_as_build": null
+  },
+  "https://kvantix.tech/wp-content/uploads/fonts/nunito-sans-latin-700-normal.woff2": {
+   "status": 200,
+   "type": "application/font-woff2",
+   "bytes": 13836,
+   "same_as_build": null
+  },
+  "https://kvantix.tech/wp-content/uploads/fonts/nunito-sans-latin-800-normal.woff2": {
+   "status": 200,
+   "type": "application/font-woff2",
+   "bytes": 13876,
+   "same_as_build": null
+  },
+  "https://kvantix.tech/wp-content/uploads/fonts/nunito-sans-latin-900-normal.woff2": {
+   "status": 200,
+   "type": "application/font-woff2",
+   "bytes": 14056,
+   "same_as_build": null
+  },
+  "https://kvantix.tech/wp-content/uploads/kvantix-data-guide.html": {
+   "status": 200,
+   "type": "text/html",
+   "bytes": 19747,
+   "same_as_build": null
+  },
+  "https://kvantix.tech/wp-content/uploads/kvantix-example-report-v1.pdf": {
+   "status": 200,
+   "type": "application/pdf",
+   "bytes": 387353,
+   "same_as_build": null
+  },
+  "https://kvantix.tech/wp-content/uploads/kvantix-example-report-v2.pdf": {
+   "status": 200,
+   "type": "application/pdf",
+   "bytes": 389840,
+   "same_as_build": null
+  },
+  "https://kvantix.tech/wp-content/uploads/kvx/ibm-plex-mono-latin-400-normal.woff2": {
+   "status": 200,
+   "type": "application/font-woff2",
+   "bytes": 14708,
+   "same_as_build": null
+  },
+  "https://kvantix.tech/wp-content/uploads/kvx/ibm-plex-mono-latin-500-normal.woff2": {
+   "status": 200,
+   "type": "application/font-woff2",
+   "bytes": 14888,
+   "same_as_build": null
+  },
+  "https://kvantix.tech/wp-content/uploads/kvx/ibm-plex-mono-latin-600-normal.woff2": {
+   "status": 200,
+   "type": "application/font-woff2",
+   "bytes": 15620,
+   "same_as_build": null
+  },
+  "https://kvantix.tech/wp-content/uploads/kvx/inter-latin-wght-normal.woff2": {
+   "status": 200,
+   "type": "application/font-woff2",
+   "bytes": 48256,
+   "same_as_build": null
+  },
+  "https://kvantix.tech/wp-content/uploads/kvx/kvantix-site.js?v=20260927a": {
+   "status": 200,
+   "type": "application/x-javascript",
+   "bytes": 37861,
+   "same_as_build": null
+  },
+  "https://kvantix.tech/wp-content/uploads/kvx/kvantix-site.js?v=20260929a": {
+   "status": 200,
+   "type": "application/x-javascript",
+   "bytes": 37861,
+   "same_as_build": null
+  },
+  "https://kvantix.tech/wp-content/uploads/kvx/kvx-energy.js?v=20260930a": {
+   "status": 200,
+   "type": "application/x-javascript",
+   "bytes": 10457,
+   "same_as_build": true
+  },
+  "https://kvantix.tech/wp-content/uploads/kvx/kvx-experts.js?v=20260929c": {
+   "status": 200,
+   "type": "application/x-javascript",
+   "bytes": 44266,
+   "same_as_build": true
+  },
+  "https://kvantix.tech/wp-content/uploads/kvx/kvx-luck.js?v=20260929c": {
+   "status": 200,
+   "type": "application/x-javascript",
+   "bytes": 14666,
+   "same_as_build": true
+  },
+  "https://kvantix.tech/wp-content/uploads/kvx/kvx-seal.js?v=20260929c": {
+   "status": 200,
+   "type": "application/x-javascript",
+   "bytes": 7896,
+   "same_as_build": true
+  },
+  "https://kvantix.tech/wp-content/uploads/kvx/kvx-track.js?v=20260929c": {
+   "status": 200,
+   "type": "application/x-javascript",
+   "bytes": 15210,
+   "same_as_build": true
+  },
+  "https://kvantix.tech/wp-content/uploads/kvx/kvx-wastewater.js?v=20261001a": {
+   "status": 200,
+   "type": "application/x-javascript",
+   "bytes": 256635,
+   "same_as_build": false
+  },
+  "https://kvantix.tech/wp-content/uploads/kvx/kvx-weather.js?v=20260929c": {
+   "status": 200,
+   "type": "application/x-javascript",
+   "bytes": 5271,
+   "same_as_build": true
+  },
+  "https://kvantix.tech/wp-content/uploads/kvx/kvx-weather.js?v=20261001a": {
+   "status": 200,
+   "type": "application/x-javascript",
+   "bytes": 5271,
+   "same_as_build": true
+  },
+  "https://kvantix.tech/wp-content/uploads/kvx/space-grotesk-latin-wght-normal.woff2": {
+   "status": 200,
+   "type": "application/font-woff2",
+   "bytes": 22288,
+   "same_as_build": null
+  }
  }
 }
