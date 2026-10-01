@@ -1,22 +1,19 @@
-"""Temporary probe (not part of expert-forecasts): does any open MIM layer split nitrogen load by source (agriculture, background, point)?"""
-import json, os, re, time, urllib.request, urllib.parse
-UA = "kvantixtech/data probe (github actions; validation@kvantix.tech)"
-B = "https://wfs2-miljoegis.mim.dk/ows"
-def get(u):
-    with urllib.request.urlopen(urllib.request.Request(u, headers={"User-Agent": UA}), timeout=180) as r: return r.read().decode("utf-8", "replace")
-cap = get(B + "?service=WFS&version=2.0.0&request=GetCapabilities")
-names = re.findall(r"<(?:wfs:)?Name>([^<]+)</(?:wfs:)?Name>", cap)
-cand = [n for n in names if re.search(r"opland|kystvand|kilde|belast|n_tab|kvaelst|tilfoer|indsats|tabel|landbrug|marin_samlet", n, re.I) and re.search(r"vp4basis2026|vp3_2endelig2025|vp3gen2024", n)]
-out = {"run_utc": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()), "candidates": cand, "samples": {}}
-for n in cand[:24]:
+"""Temporary probe (not part of expert-forecasts): fetch DCE nutrient reports and list DST agriculture nitrogen tables."""
+import json, os, re, time, urllib.request
+UA = "Mozilla/5.0 (compatible; kvantixtech data probe; validation@kvantix.tech)"
+def get(u, data=None, hdr=None):
+    h = {"User-Agent": UA}; h.update(hdr or {})
+    with urllib.request.urlopen(urllib.request.Request(u, data=data, headers=h), timeout=180) as r: return r.read()
+os.makedirs("probe/docs", exist_ok=True)
+out = {"run_utc": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()), "docs": {}}
+for name, u in [("SR681_vand_naeringsstoftransport_2024.pdf", "https://dce.au.dk/fileadmin/dce.au.dk/Udgivelser/Videnskabelige_rapporter_600-699/SR681.pdf"),
+                ("SR665_kvaelstofretention.pdf", "https://dce.au.dk/fileadmin/dce.au.dk/Udgivelser/Videnskabelige_rapporter_600-699/SR665.pdf"),
+                ("N2024_72.pdf", "https://dce.au.dk/fileadmin/dce.au.dk/Udgivelser/Notater_2024/N2024_72.pdf")]:
     try:
-        j = json.loads(get(B + "?" + urllib.parse.urlencode({"service": "WFS", "version": "2.0.0", "request": "GetFeature", "typeNames": n, "count": "2", "outputFormat": "application/json"})))
-        f = j.get("features", [])
-        out["samples"][n] = {"n_returned": len(f), "props": [x.get("properties") for x in f]}
+        b = get(u); open("probe/docs/" + name, "wb").write(b); out["docs"][name] = len(b)
     except Exception as e:
-        out["samples"][n] = {"error": str(e)[:200]}
-    time.sleep(0.4)
-os.makedirs("probe", exist_ok=True)
-for f in os.listdir("probe/data") if os.path.isdir("probe/data") else []: os.remove("probe/data/" + f)
+        out["docs"][name] = str(e)[:200]
+tabs = json.loads(get("https://api.statbank.dk/v1/tables", data=json.dumps({"lang": "da", "format": "JSON"}).encode(), hdr={"Content-Type": "application/json"}))
+out["dst"] = [{k: t.get(k) for k in ("id", "text", "unit", "firstPeriod", "latestPeriod")} for t in tabs if re.search(r"kvælstof|gødning|husdyr|næringsstof|fosfor|ammoniak|N-|udvask", t.get("text", ""), re.I)]
 json.dump(out, open("probe/result.json", "w"), indent=1, ensure_ascii=False)
 print("done")
