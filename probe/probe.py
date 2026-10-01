@@ -1,41 +1,32 @@
-"""Temporary probe (not part of expert-forecasts): live-site marker scan of kvantix.tech pages (rerun 3)."""
-import json, os, re, time, urllib.request
+"""Temporary probe (not part of expert-forecasts): live-site asset check for kvantix.tech."""
+import hashlib, json, os, re, time, urllib.request, urllib.parse
 UA = "kvantixtech/site-audit check (github actions)"
+LOCAL = {"kvx-experts.js": "3c17abdf4c0be89d48d1e373cb51bd3732ddbc33c3d756a6fc4af714d717338b", "kvx-energy.js": "fff47e2a43f071e362f0aa45bbb1309d5fb84c7cadbf7587fbb0e7fba9d6e388", "kvx-luck.js": "61077915a0c609a3238969e266787deb83ebd073881846d57774a6f6788fa604", "kvx-weather.js": "0fb58ff6f5cf0d9a39926fff4784fee9fd3d9a40775b9b0a71912a76811f6b17", "kvx-seal.js": "dccd34f173642d8d5cf92d68a2895f6e4ff94be9423952369311c6331b867072", "kvx-wastewater.js": "2887b63d8611e04562b9b066a67c52d392b7571422a0f1e5bfa842ea0c333afb", "kvx-track.js": "2e8b0f5d02f85331966b143cbda3c536c9edd6d96e2c85f5c11a0338bdddde64"}
 def get(u):
     with urllib.request.urlopen(urllib.request.Request(u, headers={"User-Agent": UA, "Cache-Control": "no-cache"}), timeout=60) as r:
-        return r.status, r.read().decode("utf-8", "replace")
-out = {"run_utc": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()), "pages": {}}
-urls = set(["https://kvantix.tech/", "https://kvantix.tech/privacy/", "https://kvantix.tech/playground/wastewater/"])
-try:
-    _, idx = get("https://kvantix.tech/sitemap_index.xml")
-    for sm in re.findall(r"<loc>([^<]+)</loc>", idx):
-        try:
-            _, s = get(sm); urls |= set(re.findall(r"<loc>([^<]+)</loc>", s))
-        except Exception as e: out.setdefault("sitemap_errors", []).append(f"{sm}: {e}")
-except Exception as e: out["sitemap_error"] = str(e)
-markers = {"ga": r"googletagmanager|gtag\(|G-KGXZK5RQ0T", "monsterinsights": r"monsterinsights", "webmcp": r"WebMCP|modelContext",
-           "userfeedback": r"userfeedback", "wpconsent": r"wpconsent", "wpforms": r"wpforms", "extendify": r"extendify",
-           "old_landing_566": r"LIVE_SIGNAL_MATRIX|Transparent<br>|ENGINE LIVE", "mobilepay": r"MobilePay", "wpcode_566": r"wpcode[^>]*566",
-           "google_fonts": r"fonts\.googleapis|fonts\.gstatic", "binance_fetch": r"api\.binance\.com", "umami": r"umami", "privacy_link": r"href=\"(?:https://kvantix\.tech)?/privacy/\"", "ww_card": r"playground/wastewater", "ww_js": r"kvx-wastewater\.js", "v1001": r"20261001a", "analysis_finishes": r"deleted when the analysis finishes", "request_ends": r"request ends", "umami_cloud_text": r"Umami Cloud"}
-for u in sorted(urls)[:80]:
+        return r.status, r.headers.get("Content-Type", ""), r.read()
+pages = ["", "playground/", "playground/energy/", "playground/experts/", "playground/lock-your-prediction/", "playground/luck-or-skill/",
+         "playground/track-record/", "playground/weather/", "playground/wastewater/", "privacy/"]
+out = {"run_utc": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()), "pages": {}, "assets": {}}
+assets = set()
+for p in pages:
+    u = "https://kvantix.tech/" + p
     try:
-        st, h = get(u)
-        out["pages"][u] = {"status": st, **{k: len(re.findall(p, h, re.I)) for k, p in markers.items()}}
+        st, ct, b = get(u); h = b.decode("utf-8", "replace")
+        refs = set(re.findall(r'(?:src|href)=["\']([^"\']+)["\']', h)) | set(re.findall(r'url\(["\']?([^"\')]+)', h))
+        refs |= set(re.findall(r'["\'](/wp-content/uploads/kvx/[^"\']+)["\']', h))
+        # kvx loader: base + file + ?v=
+        for m in re.findall(r'(kvx-[a-z]+\.js)\?v=([0-9a-z]+)', h): refs.add("/wp-content/uploads/kvx/%s?v=%s" % m)
+        mine = sorted(urllib.parse.urljoin(u, r) for r in refs if ("kvantix.tech" in urllib.parse.urljoin(u, r)) and "/wp-content/uploads/" in urllib.parse.urljoin(u, r))
+        out["pages"][p or "/"] = {"status": st, "uploads_refs": len(mine), "v": sorted(set(re.findall(r'kvx-[a-z]+\.js\?v=[0-9a-z]+', h))), "fixed_card": "kvx-ww-fixedtable" in h}
+        assets |= set(mine)
     except Exception as e:
-        out["pages"][u] = {"error": str(e)[:150]}
-os.makedirs("probe", exist_ok=True)
-import urllib.error
-class NR(urllib.request.HTTPRedirectHandler):
-    def redirect_request(self, *a, **k): return None
-op = urllib.request.build_opener(NR)
-for u in ["https://kvantix.tech/privacy-policy/", "https://kvantix.tech/privacy"]:
+        out["pages"][p or "/"] = {"error": str(e)[:150]}
+for a in sorted(assets):
     try:
-        r = op.open(urllib.request.Request(u, headers={"User-Agent": UA}), timeout=60); out.setdefault("redirects", {})[u] = [r.status, r.headers.get("Location")]
-    except urllib.error.HTTPError as e:
-        out.setdefault("redirects", {})[u] = [e.code, e.headers.get("Location")]
-for a in ["https://kvantix.tech/wp-content/uploads/kvx/kvx-wastewater.js", "https://kvantix.tech/wp-content/uploads/kvx/kvx-energy.js"]:
-    try:
-        st, h = get(a); out.setdefault("assets", {})[a] = [st, len(h), "D = {" in h or '"munis"' in h]
-    except Exception as e: out.setdefault("assets", {})[a] = str(e)[:120]
+        st, ct, b = get(a); name = os.path.basename(urllib.parse.urlparse(a).path)
+        out["assets"][a] = {"status": st, "type": ct, "bytes": len(b), "same_as_build": (hashlib.sha256(b).hexdigest() == LOCAL[name]) if name in LOCAL else None}
+    except Exception as e:
+        out["assets"][a] = {"error": str(e)[:120]}
 json.dump(out, open("probe/result.json", "w"), indent=1)
 print("done")
