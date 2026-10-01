@@ -1,46 +1,46 @@
-"""Temporary probe (not part of expert-forecasts): access check for a nitrogen-source study, round 2.
-Only checks formats, field names and sizes. No analysis."""
+"""Temporary probe (not part of expert-forecasts): access check for a nitrogen-source study, round 3.
+Only checks formats and whether access needs a login. No analysis."""
 import json, os, re, time, urllib.request, urllib.parse
 UA = "kvantixtech data access check (github actions; validation@kvantix.tech)"
 out = {"run_utc": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()), "docs": {}}
 os.makedirs("probe/docs", exist_ok=True)
 for f in os.listdir("probe/docs"): os.remove("probe/docs/" + f)
-def save(name, u, n=None, method="GET"):
+def save(name, u, n=None, accept=None):
     try:
-        req = urllib.request.Request(u, headers={"User-Agent": UA}, method=method)
-        with urllib.request.urlopen(req, timeout=180) as r:
-            b = b"" if method == "HEAD" else (r.read(n) if n else r.read())
-            info = {"url": u, "status": r.status, "type": r.headers.get("Content-Type", ""), "length": r.headers.get("Content-Length"),
-                    "disposition": r.headers.get("Content-Disposition"), "bytes": len(b)}
-        if b: open("probe/docs/" + name, "wb").write(b)
-        out["docs"][name] = info; return b
+        h = {"User-Agent": UA}
+        if accept: h["Accept"] = accept
+        with urllib.request.urlopen(urllib.request.Request(u, headers=h), timeout=180) as r:
+            b = r.read(n) if n else r.read()
+            out["docs"][name] = {"url": u, "status": r.status, "type": r.headers.get("Content-Type", ""), "final": r.geturl(), "bytes": len(b)}
+        open("probe/docs/" + name, "wb").write(b); return b
     except Exception as e:
         out["docs"][name] = {"url": u, "error": str(e)[:300]}; return b""
-def wfs(base, layer, tag, count=3):
-    q = lambda **k: base + "?" + urllib.parse.urlencode(dict(service="WFS", version="2.0.0", **k))
-    save(tag + "_describe.xml", q(request="DescribeFeatureType", typeNames=layer))
-    save(tag + "_hits.xml", q(request="GetFeature", typeNames=layer, resultType="hits"), n=4000)
-    save(tag + "_sample.json", q(request="GetFeature", typeNames=layer, count=count, outputFormat="application/json"), n=400000)
-FVM = "https://geodata.fvm.dk/geoserver/ows"
-MIM = "https://wfs2-miljoegis.mim.dk/ows"
-VG = "https://vanda-geo.miljoeportal.dk/geoserver/wfs"
-for layer, tag in [("Vandmiljoeplaner:ID15oplande_2024", "fvm_id15_2024"), ("Vandmiljoeplaner:ID15_VP3_II_2025", "fvm_id15_2025"),
-                   ("Markblokke:Markblokke_2024", "fvm_markblok_2024"), ("GB_MFO_og_groenne_krav:Arealanvendelse_2024", "fvm_arealanv_2024"),
-                   ("Jordbunds_og_terraenforhold:Kvaelstofretention", "fvm_retention")]:
-    wfs(FVM, layer, tag)
-for layer, tag in [("vp3_2endelig2025:vp3_2e2025_ov_maalestation_vandl", "mim_station_vandl"), ("vp4basis2026:vp4_ba_26_kystvand_opland_afg", "mim_kystopland"),
-                   ("novana:novana_2017_21_point", "mim_novana_point"), ("vp4basis2026:vp4_ba_26_hovedoplande", "mim_hovedopland")]:
-    wfs(MIM, layer, tag)
-caps = save("vandageo_caps.xml", VG + "?service=WFS&version=2.0.0&request=GetCapabilities")
-out["vandageo_layers"] = [n.decode() for n in re.findall(rb"<(?:wfs:)?Name>([^<]+)</", caps)][:200]
-wfs(VG, "vanda:vandkemi-vandloeb", "vg_kemi", count=5)
-save("kemi_csv_head", "https://arealdata-api.miljoeportal.dk/data/vanda-ue-27/file", method="HEAD")
-save("kemi_csv_first.bin", "https://arealdata-api.miljoeportal.dk/data/vanda-ue-27/file", n=300000)
-save("kemi_preview.json", "https://arealdata-api.miljoeportal.dk/data/urn:dmp:ds:vandkemi-vandloeb/preview")
-save("kemi_wfs_doc.md", "https://arealdata-api.miljoeportal.dk/datasets/urn:dmp:ds:vandkemi-vandloeb/geoserver-information/wfs/markdown")
-save("flow_sample.json", "https://vandah.miljoeportal.dk/api/water-flows?stationId=21006853&from=2024-01-01T00:00Z&to=2024-01-02T00:00Z&format=json")
-save("qm_sample.json", "https://vandah.miljoeportal.dk/api/quality-assurance/quality-marks?stationId=21006853&year=2024")
-g = save("geus_caps.xml", "https://data.geus.dk/geusmap/ows/25832.jsp?service=WFS&version=1.1.0&request=GetCapabilities")
-out["geus_layers_match"] = [n.decode() for n in re.findall(rb"<(?:wfs:)?Name>([^<]+)</", g) if re.search(rb"jord|landsk|geomorf|soil", n, re.I)][:80]
+V = "https://vandah.miljoeportal.dk/api"
+for name, q in [("flow_a.json", "/water-flows?stationId=21006853&from=2024-06-01T00:00Z&to=2024-06-02T00:00Z"),
+                ("flow_b.json", "/water-flows?stationId=21006853&measurementPointNumber=1&from=2024-06-01T00:00Z&to=2024-06-02T00:00Z&format=json"),
+                ("flow_c.json", "/water-flows?stationId=21006853&from=2026-09-29T00:00Z&to=2026-09-30T00:00Z&format=json"),
+                ("flow_d.json", "/measurements/results/current?stationId=21006853&examinationTypeSc=27&from=2024-06-01T00:00Z&to=2024-06-02T00:00Z&format=json"),
+                ("flow_e.json", "/water-flows?stationId=19000467&from=2020-06-01T00:00Z&to=2020-06-02T00:00Z&format=json")]:
+    save(name, V + q, n=200000, accept="application/json")
+# Kemidata (new chemistry portal): frontend -> API base, anonymous access?
+h = save("kemidata_home.html", "https://kemidata.miljoeportal.dk/")
+apis = set()
+for js in re.findall(rb'src="([^"]+\.js)"', h)[:10]:
+    b = save("kemidata_" + os.path.basename(js.decode())[:50], urllib.parse.urljoin("https://kemidata.miljoeportal.dk/", js.decode()))
+    apis |= set(re.findall(rb"https?://[A-Za-z0-9.\-]+miljoeportal\.dk[A-Za-z0-9/_\-.{}]*", b))
+    apis |= set(re.findall(rb"[\"'](/api/[A-Za-z0-9/_\-.{}]+)", b))
+out["kemidata_api_strings"] = sorted(a.decode() for a in apis)[:150]
+for name, u in [("kemidata_api_root", "https://kemidata.miljoeportal.dk/api"), ("kemidata_swagger", "https://kemidata.miljoeportal.dk/swagger/v1/swagger.json"),
+                ("kemidata_api_swagger", "https://kemidata-api.miljoeportal.dk/swagger/v1/swagger.json")]:
+    save(name, u, n=300000)
+# ODA web service description
+save("oda_services_wsdl.xml", "https://odaforalle.au.dk/Services.asmx?WSDL")
+save("oda_services.html", "https://odaforalle.au.dk/Services.asmx")
+# HIP catchments (Klimadatastyrelsen / Dataforsyningen) with and without token
+for name, u in [("hip_wms_caps.xml", "https://api.dataforsyningen.dk/wms/hip_oplande?service=WMS&request=GetCapabilities"),
+                ("hip_wfs_caps.xml", "https://api.dataforsyningen.dk/wfs/hip_oplande?service=WFS&request=GetCapabilities"),
+                ("hip_wfs_caps2.xml", "https://api.dataforsyningen.dk/hip_oplande?service=WFS&request=GetCapabilities")]:
+    b = save(name, u, n=400000)
+    out[name + "_names"] = [x.decode() for x in re.findall(rb"<(?:wfs:)?Name>([^<]+)</", b)][:60]
 json.dump(out, open("probe/result.json", "w"), indent=1, ensure_ascii=False)
 print("done")
