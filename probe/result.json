@@ -1,5 +1,5 @@
 {
- "run_utc": "2026-10-01T09:15:59Z",
+ "run_utc": "2026-10-01T13:59:21Z",
  "pages": {
   "https://kvantix.tech/": {
    "status": 200,
@@ -15,7 +15,27 @@
    "wpcode_566": 0,
    "google_fonts": 0,
    "binance_fetch": 0,
-   "umami": 1
+   "umami": 1,
+   "privacy_link": 0,
+   "umami_cloud_text": 0
+  },
+  "https://kvantix.tech/661-2/": {
+   "status": 200,
+   "ga": 0,
+   "monsterinsights": 0,
+   "webmcp": 0,
+   "userfeedback": 0,
+   "wpconsent": 0,
+   "wpforms": 0,
+   "extendify": 0,
+   "old_landing_566": 0,
+   "mobilepay": 0,
+   "wpcode_566": 0,
+   "google_fonts": 0,
+   "binance_fetch": 0,
+   "umami": 3,
+   "privacy_link": 1,
+   "umami_cloud_text": 1
   },
   "https://kvantix.tech/playground/": {
    "status": 200,
@@ -31,7 +51,9 @@
    "wpcode_566": 0,
    "google_fonts": 0,
    "binance_fetch": 0,
-   "umami": 1
+   "umami": 1,
+   "privacy_link": 0,
+   "umami_cloud_text": 0
   },
   "https://kvantix.tech/playground/energy/": {
    "status": 200,
@@ -47,7 +69,9 @@
    "wpcode_566": 0,
    "google_fonts": 0,
    "binance_fetch": 0,
-   "umami": 1
+   "umami": 1,
+   "privacy_link": 0,
+   "umami_cloud_text": 0
   },
   "https://kvantix.tech/playground/experts/": {
    "status": 200,
@@ -63,7 +87,9 @@
    "wpcode_566": 0,
    "google_fonts": 0,
    "binance_fetch": 0,
-   "umami": 1
+   "umami": 1,
+   "privacy_link": 0,
+   "umami_cloud_text": 0
   },
   "https://kvantix.tech/playground/lock-your-prediction/": {
    "status": 200,
@@ -79,7 +105,9 @@
    "wpcode_566": 0,
    "google_fonts": 0,
    "binance_fetch": 0,
-   "umami": 1
+   "umami": 1,
+   "privacy_link": 0,
+   "umami_cloud_text": 0
   },
   "https://kvantix.tech/playground/luck-or-skill/": {
    "status": 200,
@@ -95,7 +123,9 @@
    "wpcode_566": 0,
    "google_fonts": 0,
    "binance_fetch": 0,
-   "umami": 1
+   "umami": 1,
+   "privacy_link": 0,
+   "umami_cloud_text": 0
   },
   "https://kvantix.tech/playground/track-record/": {
    "status": 200,
@@ -111,7 +141,9 @@
    "wpcode_566": 0,
    "google_fonts": 0,
    "binance_fetch": 0,
-   "umami": 1
+   "umami": 1,
+   "privacy_link": 0,
+   "umami_cloud_text": 0
   },
   "https://kvantix.tech/playground/weather/": {
    "status": 200,
@@ -127,7 +159,22 @@
    "wpcode_566": 0,
    "google_fonts": 0,
    "binance_fetch": 0,
-   "umami": 1
+   "umami": 1,
+   "privacy_link": 0,
+   "umami_cloud_text": 0
+  },
+  "https://kvantix.tech/privacy/": {
+   "error": "HTTP Error 404: Not Found"
   }
+ },
+ "redirects": {
+  "https://kvantix.tech/privacy-policy/": [
+   301,
+   "https://kvantix.tech/privacy/"
+  ],
+  "https://kvantix.tech/privacy": [
+   404,
+   null
+  ]
  }
 }
