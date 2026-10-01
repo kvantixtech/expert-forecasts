@@ -1,167 +1,330 @@
 {
- "run_utc": "2026-10-01T04:46:07Z",
- "pages": {
-  "/": {
-   "status": 200,
-   "final": "https://kvantix.tech/",
-   "title": "Kvantix | Independent Signal &amp; Forecast Validation",
-   "hits": {
-    "googletagmanager": 1,
-    "monsterinsights": 5,
-    "webmcp": 4,
-    "umami": 1,
-    "privacy_link": 0,
-    "portal_request": 0,
-    "horizons_1h_12h": 0
-   }
+ "run_utc": "2026-10-01T04:47:31Z",
+ "arealdata_scripts": [
+  "/chunk-vendors.5bb736b5.js",
+  "/app.5bb736b5.js"
+ ],
+ "arealdata_api_strings": [
+  "https://miljoeportal.dk/driftsinformation",
+  "https://miljoeportal.dk/umbraco/api/Notifications/Index?systemName=Arealdata"
+ ],
+ "meta_tries": {
+  "https://arealdata-api.miljoeportal.dk/datasets/urn:dmp:ds:renseanlaeg-udledning": {
+   "status": 500,
+   "ct": null,
+   "body": "{\"statusCode\":500,\"errorName\":\"HttpRequestException\",\"message\":\"Response status code does not indicate success: 500 (Internal Server Error).\"}"
   },
-  "/playground/": {
-   "status": 200,
-   "final": "https://kvantix.tech/playground/",
-   "title": "Data Playground: Which Weather Forecast Is Right? &#045; Kvantix",
-   "hits": {
-    "googletagmanager": 1,
-    "monsterinsights": 5,
-    "webmcp": 4,
-    "umami": 1,
-    "privacy_link": 0,
-    "portal_request": 0,
-    "horizons_1h_12h": 0
-   }
-  },
-  "/playground/weather/": {
-   "status": 200,
-   "final": "https://kvantix.tech/playground/weather/",
-   "title": "Which weather forecast is right most often? · Data Playground",
-   "hits": {
-    "googletagmanager": 1,
-    "monsterinsights": 5,
-    "webmcp": 4,
-    "umami": 1,
-    "privacy_link": 0,
-    "portal_request": 0,
-    "horizons_1h_12h": 0
-   }
-  },
-  "/playground/experts/": {
-   "status": 200,
-   "final": "https://kvantix.tech/playground/experts/",
-   "title": "Did the experts get it right? · Denmark&#039;s forecasts vs what happened",
-   "hits": {
-    "googletagmanager": 1,
-    "monsterinsights": 5,
-    "webmcp": 4,
-    "umami": 1,
-    "privacy_link": 0,
-    "portal_request": 0,
-    "horizons_1h_12h": 0
-   }
-  },
-  "/playground/energy/": {
-   "status": 200,
-   "final": "https://kvantix.tech/playground/energy/",
-   "title": "Energy data, locked as published",
-   "hits": {
-    "googletagmanager": 1,
-    "monsterinsights": 5,
-    "webmcp": 4,
-    "umami": 1,
-    "privacy_link": 0,
-    "portal_request": 0,
-    "horizons_1h_12h": 0
-   }
-  },
-  "/playground/luck-or-skill/": {
-   "status": 200,
-   "final": "https://kvantix.tech/playground/luck-or-skill/",
-   "title": "Luck or Skill? Call 20 Real Bitcoin Days",
-   "hits": {
-    "googletagmanager": 1,
-    "monsterinsights": 5,
-    "webmcp": 4,
-    "umami": 1,
-    "privacy_link": 0,
-    "portal_request": 0,
-    "horizons_1h_12h": 0
-   }
-  },
-  "/playground/lock-your-prediction/": {
-   "status": 200,
-   "final": "https://kvantix.tech/playground/lock-your-prediction/",
-   "title": "Lock Your Prediction: Seal It Now, Prove It Later",
-   "hits": {
-    "googletagmanager": 1,
-    "monsterinsights": 5,
-    "webmcp": 4,
-    "umami": 1,
-    "privacy_link": 0,
-    "portal_request": 0,
-    "horizons_1h_12h": 0
-   }
-  },
-  "/playground/track-record/": {
-   "status": 200,
-   "final": "https://kvantix.tech/playground/track-record/",
-   "title": "Is that track record luck? · Track record checker",
-   "hits": {
-    "googletagmanager": 1,
-    "monsterinsights": 5,
-    "webmcp": 4,
-    "umami": 1,
-    "privacy_link": 0,
-    "portal_request": 0,
-    "horizons_1h_12h": 0
-   }
-  },
-  "/privacy/": {
+  "https://arealdata-api.miljoeportal.dk/api/datasets/urn:dmp:ds:renseanlaeg-udledning": {
    "status": 404,
-   "final": "https://kvantix.tech/privacy/",
-   "title": null,
-   "hits": {
-    "googletagmanager": 0,
-    "monsterinsights": 0,
-    "webmcp": 0,
-    "umami": 0,
-    "privacy_link": 0,
-    "portal_request": 0,
-    "horizons_1h_12h": 0
-   }
+   "ct": null,
+   "body": ""
   },
-  "/privacy-policy/": {
+  "https://arealdata.miljoeportal.dk/api/datasets/urn:dmp:ds:renseanlaeg-udledning": {
    "status": 200,
-   "final": "https://portal.kvantix.tech/privacy",
-   "title": "Privacy notice · Kvantix Validation",
-   "hits": {
-    "googletagmanager": 0,
-    "monsterinsights": 0,
-    "webmcp": 0,
-    "umami": 0,
-    "privacy_link": 0,
-    "portal_request": 0,
-    "horizons_1h_12h": 0
-   }
+   "ct": "text/html",
+   "body": "<!DOCTYPE html><html lang=\"en\"><head><meta charset=\"utf-8\"><title>Arealdata</title><meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1,shrink-to-fit=no\"><link rel=\"icon\" href=\"/favicon.ico\"><title>arealdata-frontend</title><link href=\"/ResourceData.5bb736b5.css\" rel=\"prefetch\"><link href=\"/ResourceData.5bb736b5.js\" rel=\"prefetch\"><link href=\"/chunk-0ec4e2bf.5bb736b5.css\" rel=\"prefetch\"><link href=\"/chunk-0ec4e2bf.5bb736b5.js\" rel=\"prefetch\"><link href=\"/chunk-1760b652.5bb736b5.js\" rel=\"prefetch\"><link href=\"/chunk-2a09abcf.5bb736b5.js\" rel=\"prefetch\"><link href=\"/chunk-5405c1ad.5bb736b5.js\" rel=\"prefetch\"><link href=\"/chunk-61f466ea.5bb736b5.css\" rel=\"prefetch\"><link href=\"/chunk-61f466ea.5bb736b5.js\" rel=\"prefetch\"><link href=\"/chunk-67b9e260.5bb736b5.js\" rel=\"prefetch\"><link href=\"/chunk-6a444644.5bb736b5.css\" rel=\"prefetch\"><link href=\"/chunk-6a444644.5bb736b5.js\" rel=\"prefetch\"><link href=\"/chunk-9d2361a8.5bb736b5.css\" rel=\"prefetch\"><link href=\"/chunk-9d2361a8.5bb736b5.js\" rel=\"prefetch\"><link href=\"/dataset.5bb736b5.css\" rel=\"prefetch\"><link href=\"/dataset.5bb736b5.js\" rel=\"prefetch\"><link href=\"/search.5bb736b5.css\" rel=\"prefetch\"><link href=\"/search.5bb736b5.js\" rel=\"prefetch\"><link href=\"/terms.5bb736b5.css\" rel=\"prefetch\"><link href=\"/terms.5bb736b5.js\" rel=\"prefetch\"><link href=\"/app.5bb736b5.css\" rel=\"preload\" as=\"style\"><link href=\"/app.5bb736b5.js\" rel=\"preload\" as=\"script\"><link href=\"/chunk-ven"
   },
-  "/wp-content/uploads/kvantix-data-guide.html": {
-   "status": 200,
-   "final": "https://kvantix.tech/wp-content/uploads/kvantix-data-guide.html",
-   "title": "Data Guide · Kvantix Validation",
-   "hits": {
-    "googletagmanager": 0,
-    "monsterinsights": 0,
-    "webmcp": 0,
-    "umami": 0,
-    "privacy_link": 0,
-    "portal_request": 1,
-    "horizons_1h_12h": 0
-   }
+  "https://miljoeportal.dk/umbraco/api/Notifications/Index?systemName=Arealdata/datasets/urn:dmp:ds:renseanlaeg-udledning": {
+   "status": 403,
+   "ct": null,
+   "body": "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta http-equiv=\"content-security-policy\" content=\"default-src &#39;none&#39;; script-src &#39;nonce-0xDBlaV8cLcdxW91RVb4ol&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-src-attr &#39;none&#39;; style-src &#39;unsafe-inline&#39;; img-src &#39;self&#39; https://challenges.cloudflare.com; connect-src &#39;self&#39; https://challenges.cloudflare.com; frame-src &#39;self&#39; https://challenges.cloudflare.com blob:; child-src &#39;self&#39; https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri &#39;self&#39;\"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url(\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zd"
   }
  },
- "headers": {
-  "Strict-Transport-Security": null,
-  "X-Frame-Options": null,
-  "Content-Security-Policy": null,
-  "Content-Security-Policy-Report-Only": null,
-  "Referrer-Policy": "no-referrer-when-downgrade"
+ "geoserver": {
+  "https://wfs2-miljoegis.mim.dk/ows": {
+   "status": 200,
+   "n_layers": 916,
+   "hits": [
+    "vp4basis2026:vp4_ba_26_opl_rensekl_pavirk",
+    "vp4basis2026:vp4_ba_26_punkt_rbu_saml",
+    "vp3_2endelig2025:vp3_2e2025_opl_rensekl_inds",
+    "vp3_2endelig2025:vp3_2e2025_opl_rensekl_pavirk",
+    "vp3_2endelig2025:vp3_2e2025_punkt_rbu_saml",
+    "vp2_2016:theme-vp2_2016-indsats-udlaegning_groftmateriale",
+    "vp2_2016:theme-vp2_2016-indsats-udlaegning_groftmateriale_medtrae",
+    "vp2_2016:theme-vp2_2016-renseanlaeg_indsats",
+    "vp2_2016:theme-vp2_2016-rbu_indsats",
+    "vp2_2016:theme-vp2_2016-indsats_ukloakerede_ejendomme",
+    "vp2_2016:theme-vp2_2016-rbu",
+    "vp2_2016:theme-vp2_2016-renseanlaeg",
+    "vp2_2016:theme-vp2_2016vandlob_rbu_indsats",
+    "vp2_2016:theme-vp2_2016vandlob_renseanlaeg_indsats",
+    "vp2_2016:vp2bek_2019_indsats_ukloakerede_ejendomme",
+    "vp2_2016:vp2bek_2019_indsats_rbu",
+    "vp2_2016:vp2bek_2019_vandlob_indsats_rbu",
+    "vp3basis2019:vp3_basis_2019_punkt_ferskdam_udl",
+    "vp3basis2019:vp3_basis_2019_punkt_havdam_udl",
+    "vp3basis2019:vp3_basis_2019_punkt_ind_udl",
+    "vp3basis2019:vp3_basis_2019_punkt_rbu_udl",
+    "vp3basis2019:vp3_basis_2019_punkt_rens_udl",
+    "vp3basis2019:vp3_basis_2019_punkt_spredt_udl",
+    "vp3endelig2022:vp3e2022_opl_rensekl_inds",
+    "vp3endelig2022:vp3e2022_punkt_rbu_saml",
+    "vp3endelig2022:vp3e2022_opl_rensekl_pavirk",
+    "vp3gen2024:vp3gen2024_opl_rensekl_inds",
+    "vp3gen2024:vp3gen2024_opl_rensekl_pavirk",
+    "vp3gen2024:vp3gen2024_punkt_rbu_saml",
+    "vp3hoering2021:vp3h2021_opl_rensekl_inds",
+    "vp3hoering2021:vp3h2021_opl_rensekl_pavirk",
+    "vp3hoering2021:vp3h2021_punkt_rbu_saml"
+   ],
+   "sample": [
+    "klima:artsscore_poly",
+    "klima:hh2050megethojt100aars",
+    "klima:hh2050megethojt50aars",
+    "klima:hojvandshaendelse2010100aars",
+    "klima:hojvandshaendelse201020aars",
+    "klima:hojvandshaendelse201050aars",
+    "klima:hojvandshaendelse2050hojt100aars",
+    "klima:hojvandshaendelse2050hojt50aars",
+    "klima:hojvandshaendelse2050lavt100aars",
+    "klima:hojvandshaendelse2050lavt50aars",
+    "klima:hojvandshaendelse2050megethojt100aars",
+    "klima:hojvandshaendelse2050megethojt50aars",
+    "klima:hojvandshaendelse2050middel100aars",
+    "klima:hojvandshaendelse2050middel50aars",
+    "klima:hojvandsstatistik"
+   ],
+   "title_hits": [
+    "vp2_2016_renseanlaeg_indsats",
+    "vp2_2016indsats_ukloakerede_ejendomme",
+    "vp2_2016renseanlaeg",
+    "vp2_2016vandlob_renseanlaeg_indsats",
+    "vp2bek 2019 Indsats. Ukloakerede ejendomme",
+    "vp2bek 2019 indsats regnbetingede udløb",
+    "vp3e2022_Indsats: Ukloakerede ejendomme",
+    "vp3e2022_Regnbetingede udledninger",
+    "vp3e2022_Renseanlæg",
+    "vp3e2022_Spredt bebyggelse renseklasse",
+    "vp3gen2024_opl_rensekl_inds",
+    "vp3gen2024_opl_rensekl_pavirk",
+    "vp3h2021_opl_rensekl_inds",
+    "vp3h2021_opl_rensekl_pavirk"
+   ]
+  },
+  "https://arealeditering-dist-geo.miljoeportal.dk/geoserver/ows": {
+   "status": 200,
+   "n_layers": 25,
+   "hits": [],
+   "sample": [
+    "dai:bes_sten_jorddiger_2022",
+    "dai:soe_bes_linjer",
+    "dai:aa_bes_linjer",
+    "dai:skovbyggelinjer",
+    "dai:kirkebyggelinjer",
+    "dai:fredede_omr",
+    "dai:fredede_omr_forslag",
+    "dai:bes_naturtyper",
+    "dai:bes_vandloeb",
+    "dai:fugle_bes_omr",
+    "dai:habitat_omr",
+    "dai:ramsar_omr",
+    "dai:natur_vildt_reservat",
+    "dai:omr_klassificering",
+    "dai:raastofomr"
+   ],
+   "title_hits": []
+  }
  },
- "og_image_alt": "Algorithmic Trading Terminal"
+ "datavejviser": {
+  "status": 200,
+  "urls": [
+   "http://creativecommons.org/publicdomain/zero/1.0/legalcode\\",
+   "http://ogp.me/ns#",
+   "http://publications.europa.eu/resource/authority/country/DNK\\",
+   "http://publications.europa.eu/resource/authority/data-theme",
+   "http://publications.europa.eu/resource/authority/data-theme/ENVI\\\\\\",
+   "http://publications.europa.eu/resource/authority/data-theme\\u003c/a\\u003e.",
+   "http://publications.europa.eu/resource/authority/frequency",
+   "http://publications.europa.eu/resource/authority/licence/CC0\\",
+   "http://purl.org/dc/dcam/\\",
+   "http://purl.org/dc/dcmitype/\\",
+   "http://purl.org/dc/elements/1.1/\\",
+   "http://purl.org/dc/terms/\\",
+   "http://purl.org/linked-data/cube#\\",
+   "http://purl.org/vocab/vann/\\",
+   "http://rdfs.org/ns/void#\\",
+   "http://schema.org/\\",
+   "http://usefulinc.com/ns/doap#\\",
+   "http://www.form-online.dk/",
+   "http://www.form-online.dk/\\u003c/a\\u003e)",
+   "http://www.kle-online.dk/",
+   "http://www.kle-online.dk/\\u003c/a\\u003e)",
+   "http://www.opengis.net/ont/geosparql#\\",
+   "http://www.w3.org/1999/02/22-rdf-syntax-ns#\\",
+   "http://www.w3.org/2000/01/rdf-schema#\\",
+   "http://www.w3.org/2001/XMLSchema#\\",
+   "http://www.w3.org/2002/07/owl#\\",
+   "http://www.w3.org/2004/02/skos/core#\\",
+   "http://www.w3.org/2006/time#\\",
+   "http://www.w3.org/ns/csvw#\\",
+   "http://www.w3.org/ns/dcat#",
+   "http://www.w3.org/ns/dcat#\\",
+   "http://www.w3.org/ns/dx/prof/\\",
+   "http://www.w3.org/ns/odrl/2/\\",
+   "http://www.w3.org/ns/org#\\",
+   "http://www.w3.org/ns/prov#\\",
+   "http://www.w3.org/ns/shacl#\\",
+   "http://www.w3.org/ns/sosa/\\",
+   "http://www.w3.org/ns/ssn/\\",
+   "http://xmlns.com/foaf/0.1/\\",
+   "https://arealdata.miljoeportal.dk).\\",
+   "https://arealdata.miljoeportal.dk/datasets/urn:dmp:ds:regnbetingede-udloeb-maalesteder",
+   "https://arealdata.miljoeportal.dk/datasets/urn:dmp:ds:regnbetingede-udloeb-maalesteder\\",
+   "https://brickschema.org/schema/Brick#\\",
+   "https://commission.europa.eu/business-economy-euro/economic-recovery/recovery-and-resilience-facility_da",
+   "https://commission.europa.eu/business-economy-euro/economic-recovery/recovery-and-resilience-facility_da\\",
+   "https://creativecommons.org/publicdomain/zero/1.0/",
+   "https://creativecommons.org/publicdomain/zero/1.0/\\",
+   "https://datavejviser-ckan.digst.govcloud.dk\\",
+   "https://datavejviser-snapshots.digst.govcloud.dk/logos/catalogs/catalog_dmp.png",
+   "https://datavejviser-snapshots.digst.govcloud.dk/logos/catalogs/catalog_dmp.png\\",
+   "https://datavejviser-snapshots.digst.govcloud.dk/logos/danmarks-miljoportal.png",
+   "https://datavejviser-snapshots.digst.govcloud.dk/logos/danmarks-miljoportal.png\\",
+   "https://datavejviser.dk/Datavejviser_some.jpg?width=1200&amp;height=627",
+   "https://datavejviser.dk/Datavejviser_some.jpg?width=1200\\u0026height=627\\",
+   "https://datavejviser.dk/favicon.ico",
+   "https://datavejviser.dk/favicon.ico\\",
+   "https://datavejviser.dk/katalog/danmarks-miljoeportal/2fe0a061-94e3-465c-a3ac-7171e749561a",
+   "https://datavejviser.dk/katalog/danmarks-miljoeportal/2fe0a061-94e3-465c-a3ac-7171e749561a.jsonld",
+   "https://datavejviser.dk/katalog/danmarks-miljoeportal/2fe0a061-94e3-465c-a3ac-7171e749561a.jsonld\\",
+   "https://datavejviser.dk/katalog/danmarks-miljoeportal/2fe0a061-94e3-465c-a3ac-7171e749561a.n3"
+  ],
+  "text": " Gå til sidens indhold Find Data Datavejviser Kontakt os Om os Sådan udstiller du på Datavejviser Datastandard og tekniske snitflader Vilkår for anvendelse Kontakt Kontakt os kontakt@datavejviser.dk Tilgængelighed Tilgængelighedserklæring requestAnimationFrame(function(){$RT=performance.now()}); (self.__next_f=self.__next_f||[]).push([0]) self.__next_f.push([1,\"1:\\\"$Sreact.fragment\\\"\\n2:I[79520,[\\\"/_next/static/chunks/0vlvfz3irwgqw.js\\\",\\\"/_next/static/chunks/0z9g1.5stkl99.js\\\",\\\"/_next/static/chunks/16suw5~.a61pc.js\\\",\\\"/_next/static/chunks/0.d..dtvlxhvq.js\\\",\\\"/_next/static/chunks/0_r3y9llf-1xx.js\\\",\\\"/_next/static/chunks/0muifxr6~_eqz.js\\\"],\\\"\\\"]\\n3:I[94749,[\\\"/_next/static/chunks/0vlvfz3irwgqw.js\\\",\\\"/_next/static/chunks/0z9g1.5stkl99.js\\\",\\\"/_next/static/chunks/16suw5~.a61pc.js\\\"],\\\"default\\\"]\\n4:I[36409,[\\\"/_next/static/chunks/0vlvfz3irwgqw.js\\\",\\\"/_next/static/chunks/0z9g1.5stkl99.js\\\",\\\"/_next/static/chunks/16suw5~.a61pc.js\\\"],\\\"default\\\"]\\n5:I[7414,[\\\"/_next/static/chunks/0vlvfz3irwgqw.js\\\",\\\"/_next/static/chunks/0z9g1.5stkl99.js\\\",\\\"/_next/static/chunks/16suw5~.a61pc.js\\\"],\\\"DatasetsProvider\\\"]\\n6:\\\"$Sreact.suspense\\\"\\n7:I[68269,[\\\"/_next/static/chunks/0vlvfz3irwgqw.js\\\",\\\"/_next/static/chunks/0z9g1.5stkl99.js\\\",\\\"/_next/static/chunks/16suw5~.a61pc.js\\\"],\\\"default\\\"]\\n8:I[39756,[\\\"/_next/static/chunks/0vlvfz3irwgqw.js\\\",\\\"/_next/static/chunks/0z9g1.5stkl99.js\\\",\\\"/_next/static/chunks/16suw5~.a61pc.js\\\"],\\\"default\\\"]\\n9:I[8821,[\\\"/_next/static/chunks/0vlvfz3irwgqw.js\\\",\\\"/_next/static/chunks/0z9g1.5stkl99.js\\\",\\\"/_next/static/chunks/16suw5~.a61pc.js\\\",\\\"/_next/static/chunks/0utae8-fd64hv.js\\\"],\\\"default\\\"]\\na:I[37457,[\\\"/_next/static/chunks/0vlvfz3irwgqw.js\\\",\\\"/_next/static/chunks/0z9g1.5stkl99.js\\\",\\\"/_next/static/chunks/16suw5~.a61pc.js\\\"],\\\"default\\\"]\\nb:I[6976,[\\\"/_next/static/chunks/0vlvfz3irwgqw.js\\\",\\\"/_next/static/chunks/0z9g1.5stkl99.js\\\",\\\"/_next/static/chunks/16suw5~.a61pc.js\\\",\\\"/_next/static/chunks/0vjvnyzzjsnuh.js\\\"],\\\"default\\\"]\\nc:I[5500,[\\\"/_next/static/chunks/0vlvfz3irwgqw.js\\\",\\\"/_next/static/chunks/0z9g1.5stkl99.js\\\",\\\"/_next/static/chunks/16suw5~.a61pc.js\\\",\\\"/_next/static/chunks/0.d..dtvlxhvq.js\\\",\\\"/_next/static/chunks/0_r3y9llf-1xx.js\\\",\\\"/_next/static/chunks/0muifxr6~_eqz.js\\\"],\\\"Image\\\"]\\nd:I[22016,[\\\"/_next/static/chunks/0vlvfz3irwgqw.js\\\",\\\"/_next/static/chunks/0z9g1.5stkl99.js\\\",\\\"/_next/static/chunks/16suw5~.a61pc.js\\\"],\\\"\\\"]\\n18:I[68027,[\\\"/_next/static/chunks/0vlvfz3irwgqw.js\\\",\\\"/_next/static/chunks/0z9g1.5stkl99."
+ },
+ "dst": [
+  {
+   "id": "RST3",
+   "text": "Råstoffer indvundet fra Farvande (1000 m3)",
+   "unit": "1.000 m3",
+   "firstPeriod": "1990",
+   "latestPeriod": "2025"
+  },
+  {
+   "id": "SKIB96",
+   "text": "Søulykker i dansk farvand",
+   "unit": "Antal",
+   "firstPeriod": "2014",
+   "latestPeriod": "2025"
+  },
+  {
+   "id": "VANDIND",
+   "text": "Indvinding af vand",
+   "unit": "Mio. m3",
+   "firstPeriod": "1989",
+   "latestPeriod": "2024"
+  },
+  {
+   "id": "VANDRG1",
+   "text": "Indvinding af vand (Fysiske vandregnskab)",
+   "unit": "1.000 m3",
+   "firstPeriod": "2010",
+   "latestPeriod": "2024"
+  },
+  {
+   "id": "VANDRG2",
+   "text": "Forbrug af vand (Fysiske vandregnskab)",
+   "unit": "1.000 m3",
+   "firstPeriod": "2010",
+   "latestPeriod": "2024"
+  },
+  {
+   "id": "VANDRG3",
+   "text": "Forbrug af vand (Monetært vandregnskab)",
+   "unit": "Mio. kr.",
+   "firstPeriod": "2010",
+   "latestPeriod": "2024"
+  },
+  {
+   "id": "VAN2MU1N",
+   "text": "Direkte og indirekte vandforbrug",
+   "unit": "-",
+   "firstPeriod": "2010",
+   "latestPeriod": "2024"
+  },
+  {
+   "id": "VAN2MU2N",
+   "text": "Direkte og indirekte vandforbrug",
+   "unit": "-",
+   "firstPeriod": "2010",
+   "latestPeriod": "2024"
+  },
+  {
+   "id": "VANDUD",
+   "text": "Spildevandsudledning",
+   "unit": "-",
+   "firstPeriod": "2010",
+   "latestPeriod": "2024"
+  },
+  {
+   "id": "VANDRG4",
+   "text": "Udledning af spildevand (Fysiske vandregnskab)",
+   "unit": "1.000 m3",
+   "firstPeriod": "2010",
+   "latestPeriod": "2024"
+  },
+  {
+   "id": "VANDRG5",
+   "text": "Udledning af spildevand (Monetært vandregnskab)",
+   "unit": "Mio. kr.",
+   "firstPeriod": "2010",
+   "latestPeriod": "2024"
+  },
+  {
+   "id": "VAN4MU1N",
+   "text": "Direkte og indirekte udledning af spildevand",
+   "unit": "-",
+   "firstPeriod": "2010",
+   "latestPeriod": "2024"
+  },
+  {
+   "id": "VAN4MU2N",
+   "text": "Direkte og indirekte udledning af spildevand",
+   "unit": "-",
+   "firstPeriod": "2010",
+   "latestPeriod": "2024"
+  }
+ ],
+ "geus": {
+  "https://www.geus.dk/produkter-ydelser-og-faciliteter/data-og-kort/national-boringsdatabase-jupiter/adgang-til-data/": {
+   "status": 200,
+   "links": [
+    "/produkter-ydelser-og-faciliteter/data-og-kort/danmarks-geologiportal/download-jordartskort",
+    "/produkter-ydelser-og-faciliteter/data-og-kort/national-boringsdatabase-jupiter/adgang-til-data/data-gennem-pcjupiter-og-pcjupiterxl-format"
+   ],
+   "layers": []
+  },
+  "https://data.geus.dk/geusmap/ows/25832.jsp?service=WFS&version=1.0.0&request=GetCapabilities": {
+   "status": 200,
+   "links": [],
+   "layers": [
+    "MapServer WFS",
+    "jupiter_boringer_ws",
+    "jupiter_anlaeg_ws",
+    "jupiter_bor_anl_koblet",
+    "jupiter_bor_vandfors_almen_ws",
+    "jupiter_bor_vandfors_andre_ws",
+    "jupiter_paabud_ws",
+    "mc_grp_analyse",
+    "mc_analyse",
+    "jupiter_grp_anlaegsanalyser",
+    "jupiter_anlaegsanalyser",
+    "mc_vandtype",
+    "jupiter_indvinding_ydelser",
+    "jupiter_pejlinger",
+    "jupiter_boringer_seneste_pejling",
+    "gerda_projects",
+    "sensordata",
+    "fohm_udbredelsesomraader",
+    "modeldb_outlines",
+    "rapportdb_rapporter_pg",
+    "jupiter_lithologi_over_10m_dybe",
+    "jupiter_boringer_plastisk_ler",
+    "kommunegraenser",
+    "dk_atlasblade",
+    "danske_vandforsyningsomraader_gruk",
+    "jupiter_boringer_lithologi_todo"
+   ]
+  }
+ }
 }
