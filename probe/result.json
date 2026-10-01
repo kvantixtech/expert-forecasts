@@ -1,346 +1,117 @@
 {
- "run_utc": "2026-10-01T05:58:07Z",
+ "run_utc": "2026-10-01T06:01:22Z",
  "docs": {
-  "fvm_id15_2024_describe.xml": {
-   "url": "https://geodata.fvm.dk/geoserver/ows?service=WFS&version=2.0.0&request=DescribeFeatureType&typeNames=Vandmiljoeplaner%3AID15oplande_2024",
-   "status": 200,
-   "type": "application/gml+xml; version=3.2",
-   "length": null,
-   "disposition": "inline; filename=Vandmiljoeplaner-ID15oplande_2024.xsd",
-   "bytes": 1149
-  },
-  "fvm_id15_2024_hits.xml": {
-   "url": "https://geodata.fvm.dk/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeNames=Vandmiljoeplaner%3AID15oplande_2024&resultType=hits",
-   "status": 200,
-   "type": "text/xml",
-   "length": null,
-   "disposition": "inline; filename=geoserver-GetFeature.text",
-   "bytes": 739
-  },
-  "fvm_id15_2024_sample.json": {
-   "url": "https://geodata.fvm.dk/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeNames=Vandmiljoeplaner%3AID15oplande_2024&count=3&outputFormat=application%2Fjson",
-   "status": 200,
-   "type": "application/json;charset=ISO-8859-1",
-   "length": null,
-   "disposition": "inline; filename=ID15oplande_2024.json",
-   "bytes": 35649
-  },
-  "fvm_id15_2025_describe.xml": {
-   "url": "https://geodata.fvm.dk/geoserver/ows?service=WFS&version=2.0.0&request=DescribeFeatureType&typeNames=Vandmiljoeplaner%3AID15_VP3_II_2025",
-   "status": 200,
-   "type": "application/gml+xml; version=3.2",
-   "length": null,
-   "disposition": "inline; filename=Vandmiljoeplaner-ID15_VP3_II_2025.xsd",
-   "bytes": 1149
-  },
-  "fvm_id15_2025_hits.xml": {
-   "url": "https://geodata.fvm.dk/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeNames=Vandmiljoeplaner%3AID15_VP3_II_2025&resultType=hits",
-   "status": 200,
-   "type": "text/xml",
-   "length": null,
-   "disposition": "inline; filename=geoserver-GetFeature.text",
-   "bytes": 739
-  },
-  "fvm_id15_2025_sample.json": {
-   "url": "https://geodata.fvm.dk/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeNames=Vandmiljoeplaner%3AID15_VP3_II_2025&count=3&outputFormat=application%2Fjson",
-   "status": 200,
-   "type": "application/json;charset=ISO-8859-1",
-   "length": null,
-   "disposition": "inline; filename=ID15_VP3_II_2025.json",
-   "bytes": 8511
-  },
-  "fvm_markblok_2024_describe.xml": {
-   "url": "https://geodata.fvm.dk/geoserver/ows?service=WFS&version=2.0.0&request=DescribeFeatureType&typeNames=Markblokke%3AMarkblokke_2024",
-   "status": 200,
-   "type": "application/gml+xml; version=3.2",
-   "length": null,
-   "disposition": "inline; filename=Markblokke-Markblokke_2024.xsd",
-   "bytes": 1489
-  },
-  "fvm_markblok_2024_hits.xml": {
-   "url": "https://geodata.fvm.dk/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeNames=Markblokke%3AMarkblokke_2024&resultType=hits",
-   "status": 200,
-   "type": "text/xml",
-   "length": null,
-   "disposition": "inline; filename=geoserver-GetFeature.text",
-   "bytes": 734
-  },
-  "fvm_markblok_2024_sample.json": {
-   "url": "https://geodata.fvm.dk/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeNames=Markblokke%3AMarkblokke_2024&count=3&outputFormat=application%2Fjson",
-   "status": 200,
-   "type": "application/json;charset=ISO-8859-1",
-   "length": null,
-   "disposition": "inline; filename=Markblokke_2024.json",
-   "bytes": 137472
-  },
-  "fvm_arealanv_2024_describe.xml": {
-   "url": "https://geodata.fvm.dk/geoserver/ows?service=WFS&version=2.0.0&request=DescribeFeatureType&typeNames=GB_MFO_og_groenne_krav%3AArealanvendelse_2024",
-   "status": 200,
-   "type": "application/gml+xml; version=3.2",
-   "length": null,
-   "disposition": "inline; filename=GB_MFO_og_groenne_krav-Arealanvendelse_2024.xsd",
-   "bytes": 1182
-  },
-  "fvm_arealanv_2024_hits.xml": {
-   "url": "https://geodata.fvm.dk/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeNames=GB_MFO_og_groenne_krav%3AArealanvendelse_2024&resultType=hits",
-   "status": 200,
-   "type": "text/xml",
-   "length": null,
-   "disposition": "inline; filename=geoserver-GetFeature.text",
-   "bytes": 751
-  },
-  "fvm_arealanv_2024_sample.json": {
-   "url": "https://geodata.fvm.dk/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeNames=GB_MFO_og_groenne_krav%3AArealanvendelse_2024&count=3&outputFormat=application%2Fjson",
-   "status": 200,
-   "type": "application/json;charset=ISO-8859-1",
-   "length": null,
-   "disposition": "inline; filename=Arealanvendelse_2024.json",
-   "bytes": 6901
-  },
-  "fvm_retention_describe.xml": {
-   "url": "https://geodata.fvm.dk/geoserver/ows?service=WFS&version=2.0.0&request=DescribeFeatureType&typeNames=Jordbunds_og_terraenforhold%3AKvaelstofretention",
-   "status": 200,
-   "type": "application/gml+xml; version=3.2",
-   "length": null,
-   "disposition": "inline; filename=Jordbunds_og_terraenforhold-Kvaelstofretention.xsd",
-   "bytes": 1101
-  },
-  "fvm_retention_hits.xml": {
-   "url": "https://geodata.fvm.dk/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeNames=Jordbunds_og_terraenforhold%3AKvaelstofretention&resultType=hits",
-   "status": 200,
-   "type": "text/xml",
-   "length": null,
-   "disposition": "inline; filename=geoserver-GetFeature.text",
-   "bytes": 752
-  },
-  "fvm_retention_sample.json": {
-   "url": "https://geodata.fvm.dk/geoserver/ows?service=WFS&version=2.0.0&request=GetFeature&typeNames=Jordbunds_og_terraenforhold%3AKvaelstofretention&count=3&outputFormat=application%2Fjson",
-   "status": 200,
-   "type": "application/json;charset=ISO-8859-1",
-   "length": null,
-   "disposition": "inline; filename=Kvaelstofretention.json",
-   "bytes": 14244
-  },
-  "mim_station_vandl_describe.xml": {
-   "url": "https://wfs2-miljoegis.mim.dk/ows?service=WFS&version=2.0.0&request=DescribeFeatureType&typeNames=vp3_2endelig2025%3Avp3_2e2025_ov_maalestation_vandl",
-   "status": 200,
-   "type": "application/gml+xml; version=3.2",
-   "length": "2182",
-   "disposition": "inline; filename=vp3_2endelig2025-vp3_2e2025_ov_maalestation_vandl.xsd",
-   "bytes": 2182
-  },
-  "mim_station_vandl_hits.xml": {
-   "url": "https://wfs2-miljoegis.mim.dk/ows?service=WFS&version=2.0.0&request=GetFeature&typeNames=vp3_2endelig2025%3Avp3_2e2025_ov_maalestation_vandl&resultType=hits",
-   "status": 200,
-   "type": "text/xml",
-   "length": "753",
-   "disposition": "inline; filename=geoserver-GetFeature.text",
-   "bytes": 753
-  },
-  "mim_station_vandl_sample.json": {
-   "url": "https://wfs2-miljoegis.mim.dk/ows?service=WFS&version=2.0.0&request=GetFeature&typeNames=vp3_2endelig2025%3Avp3_2e2025_ov_maalestation_vandl&count=3&outputFormat=application%2Fjson",
-   "status": 200,
-   "type": "application/json;charset=UTF-8",
-   "length": "3738",
-   "disposition": "inline; filename=vp3_2e2025_ov_maalestation_vandl.json",
-   "bytes": 3738
-  },
-  "mim_kystopland_describe.xml": {
-   "url": "https://wfs2-miljoegis.mim.dk/ows?service=WFS&version=2.0.0&request=DescribeFeatureType&typeNames=vp4basis2026%3Avp4_ba_26_kystvand_opland_afg",
-   "status": 200,
-   "type": "application/gml+xml; version=3.2",
-   "length": "2242",
-   "disposition": "inline; filename=vp4basis2026-vp4_ba_26_kystvand_opland_afg.xsd",
-   "bytes": 2242
-  },
-  "mim_kystopland_hits.xml": {
-   "url": "https://wfs2-miljoegis.mim.dk/ows?service=WFS&version=2.0.0&request=GetFeature&typeNames=vp4basis2026%3Avp4_ba_26_kystvand_opland_afg&resultType=hits",
-   "status": 200,
-   "type": "text/xml",
-   "length": "744",
-   "disposition": "inline; filename=geoserver-GetFeature.text",
-   "bytes": 744
-  },
-  "mim_kystopland_sample.json": {
-   "url": "https://wfs2-miljoegis.mim.dk/ows?service=WFS&version=2.0.0&request=GetFeature&typeNames=vp4basis2026%3Avp4_ba_26_kystvand_opland_afg&count=3&outputFormat=application%2Fjson",
-   "status": 200,
-   "type": "application/json;charset=UTF-8",
-   "length": "1156867",
-   "disposition": "inline; filename=vp4_ba_26_kystvand_opland_afg.json",
-   "bytes": 400000
-  },
-  "mim_novana_point_describe.xml": {
-   "url": "https://wfs2-miljoegis.mim.dk/ows?service=WFS&version=2.0.0&request=DescribeFeatureType&typeNames=novana%3Anovana_2017_21_point",
-   "status": 200,
-   "type": "application/gml+xml; version=3.2",
-   "length": "3121",
-   "disposition": "inline; filename=novana-novana_2017_21_point.xsd",
-   "bytes": 3121
-  },
-  "mim_novana_point_hits.xml": {
-   "url": "https://wfs2-miljoegis.mim.dk/ows?service=WFS&version=2.0.0&request=GetFeature&typeNames=novana%3Anovana_2017_21_point&resultType=hits",
-   "status": 200,
-   "type": "text/xml",
-   "length": "731",
-   "disposition": "inline; filename=geoserver-GetFeature.text",
-   "bytes": 731
-  },
-  "mim_novana_point_sample.json": {
-   "url": "https://wfs2-miljoegis.mim.dk/ows?service=WFS&version=2.0.0&request=GetFeature&typeNames=novana%3Anovana_2017_21_point&count=3&outputFormat=application%2Fjson",
-   "status": 200,
-   "type": "application/json;charset=UTF-8",
-   "length": "2402",
-   "disposition": "inline; filename=novana_2017_21_point.json",
-   "bytes": 2402
-  },
-  "mim_hovedopland_describe.xml": {
-   "url": "https://wfs2-miljoegis.mim.dk/ows?service=WFS&version=2.0.0&request=DescribeFeatureType&typeNames=vp4basis2026%3Avp4_ba_26_hovedoplande",
-   "status": 200,
-   "type": "application/gml+xml; version=3.2",
-   "length": "1816",
-   "disposition": "inline; filename=vp4basis2026-vp4_ba_26_hovedoplande.xsd",
-   "bytes": 1816
-  },
-  "mim_hovedopland_hits.xml": {
-   "url": "https://wfs2-miljoegis.mim.dk/ows?service=WFS&version=2.0.0&request=GetFeature&typeNames=vp4basis2026%3Avp4_ba_26_hovedoplande&resultType=hits",
-   "status": 200,
-   "type": "text/xml",
-   "length": "736",
-   "disposition": "inline; filename=geoserver-GetFeature.text",
-   "bytes": 736
-  },
-  "mim_hovedopland_sample.json": {
-   "url": "https://wfs2-miljoegis.mim.dk/ows?service=WFS&version=2.0.0&request=GetFeature&typeNames=vp4basis2026%3Avp4_ba_26_hovedoplande&count=3&outputFormat=application%2Fjson",
-   "status": 200,
-   "type": "application/json;charset=UTF-8",
-   "length": "3445145",
-   "disposition": "inline; filename=vp4_ba_26_hovedoplande.json",
-   "bytes": 400000
-  },
-  "vandageo_caps.xml": {
-   "url": "https://vanda-geo.miljoeportal.dk/geoserver/wfs?service=WFS&version=2.0.0&request=GetCapabilities",
-   "status": 200,
-   "type": "application/xml",
-   "length": null,
-   "disposition": "inline; filename=geoserver-GetCapabilities.application",
-   "bytes": 119177
-  },
-  "vg_kemi_describe.xml": {
-   "url": "https://vanda-geo.miljoeportal.dk/geoserver/wfs?service=WFS&version=2.0.0&request=DescribeFeatureType&typeNames=vanda%3Avandkemi-vandloeb",
-   "status": 200,
-   "type": "application/gml+xml; version=3.2",
-   "length": null,
-   "disposition": "inline; filename=vanda-vandkemi-vandloeb.xsd",
-   "bytes": 1596
-  },
-  "vg_kemi_hits.xml": {
-   "url": "https://vanda-geo.miljoeportal.dk/geoserver/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=vanda%3Avandkemi-vandloeb&resultType=hits",
-   "status": 200,
-   "type": "text/xml",
-   "length": null,
-   "disposition": "inline; filename=geoserver-GetFeature.text",
-   "bytes": 725
-  },
-  "vg_kemi_sample.json": {
-   "url": "https://vanda-geo.miljoeportal.dk/geoserver/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=vanda%3Avandkemi-vandloeb&count=5&outputFormat=application%2Fjson",
-   "status": 200,
-   "type": "application/json; charset=UTF-8",
-   "length": null,
-   "disposition": "inline; filename=vandkemi-vandloeb.json",
-   "bytes": 2959
-  },
-  "kemi_csv_head": {
-   "url": "https://arealdata-api.miljoeportal.dk/data/vanda-ue-27/file",
-   "error": "HTTP Error 405: Method Not Allowed"
-  },
-  "kemi_csv_first.bin": {
-   "url": "https://arealdata-api.miljoeportal.dk/data/vanda-ue-27/file",
-   "error": "HTTP Error 401: Unauthorized"
-  },
-  "kemi_preview.json": {
-   "url": "https://arealdata-api.miljoeportal.dk/data/urn:dmp:ds:vandkemi-vandloeb/preview",
-   "error": "HTTP Error 500: Internal Server Error"
-  },
-  "kemi_wfs_doc.md": {
-   "url": "https://arealdata-api.miljoeportal.dk/datasets/urn:dmp:ds:vandkemi-vandloeb/geoserver-information/wfs/markdown",
-   "error": "HTTP Error 500: Internal Server Error"
-  },
-  "flow_sample.json": {
-   "url": "https://vandah.miljoeportal.dk/api/water-flows?stationId=21006853&from=2024-01-01T00:00Z&to=2024-01-02T00:00Z&format=json",
+  "flow_a.json": {
+   "url": "https://vandah.miljoeportal.dk/api/water-flows?stationId=21006853&from=2024-06-01T00:00Z&to=2024-06-02T00:00Z",
    "status": 200,
    "type": "application/json; charset=utf-8",
-   "length": null,
-   "disposition": null,
+   "final": "https://vandah.miljoeportal.dk/api/water-flows?stationId=21006853&from=2024-06-01T00:00Z&to=2024-06-02T00:00Z",
    "bytes": 2
   },
-  "qm_sample.json": {
-   "url": "https://vandah.miljoeportal.dk/api/quality-assurance/quality-marks?stationId=21006853&year=2024",
+  "flow_b.json": {
+   "url": "https://vandah.miljoeportal.dk/api/water-flows?stationId=21006853&measurementPointNumber=1&from=2024-06-01T00:00Z&to=2024-06-02T00:00Z&format=json",
    "status": 200,
    "type": "application/json; charset=utf-8",
-   "length": null,
-   "disposition": null,
-   "bytes": 129
+   "final": "https://vandah.miljoeportal.dk/api/water-flows?stationId=21006853&measurementPointNumber=1&from=2024-06-01T00:00Z&to=2024-06-02T00:00Z&format=json",
+   "bytes": 2
   },
-  "geus_caps.xml": {
-   "url": "https://data.geus.dk/geusmap/ows/25832.jsp?service=WFS&version=1.1.0&request=GetCapabilities",
+  "flow_c.json": {
+   "url": "https://vandah.miljoeportal.dk/api/water-flows?stationId=21006853&from=2026-09-29T00:00Z&to=2026-09-30T00:00Z&format=json",
    "status": 200,
-   "type": "text/xml;charset=UTF-8",
-   "length": null,
-   "disposition": "inline",
-   "bytes": 25823
+   "type": "application/json; charset=utf-8",
+   "final": "https://vandah.miljoeportal.dk/api/water-flows?stationId=21006853&from=2026-09-29T00:00Z&to=2026-09-30T00:00Z&format=json",
+   "bytes": 33784
+  },
+  "flow_d.json": {
+   "url": "https://vandah.miljoeportal.dk/api/measurements/results/current?stationId=21006853&examinationTypeSc=27&from=2024-06-01T00:00Z&to=2024-06-02T00:00Z&format=json",
+   "status": 200,
+   "type": "application/json; charset=utf-8",
+   "final": "https://vandah.miljoeportal.dk/api/measurements/results/current?stationId=21006853&examinationTypeSc=27&from=2024-06-01T00:00Z&to=2024-06-02T00:00Z&format=json",
+   "bytes": 2
+  },
+  "flow_e.json": {
+   "url": "https://vandah.miljoeportal.dk/api/water-flows?stationId=19000467&from=2020-06-01T00:00Z&to=2020-06-02T00:00Z&format=json",
+   "status": 200,
+   "type": "application/json; charset=utf-8",
+   "final": "https://vandah.miljoeportal.dk/api/water-flows?stationId=19000467&from=2020-06-01T00:00Z&to=2020-06-02T00:00Z&format=json",
+   "bytes": 22355
+  },
+  "kemidata_home.html": {
+   "url": "https://kemidata.miljoeportal.dk/",
+   "status": 200,
+   "type": "text/html",
+   "final": "https://kemidata.miljoeportal.dk/",
+   "bytes": 1044
+  },
+  "kemidata_v1.js": {
+   "url": "https://septima.dk/septima-search-dmp/v1.js",
+   "status": 200,
+   "type": "application/javascript; charset=utf-8",
+   "final": "https://septima.dk/septima-search-dmp/v1.js",
+   "bytes": 504
+  },
+  "kemidata_uc.js": {
+   "url": "https://consent.cookiebot.com/uc.js",
+   "status": 200,
+   "type": "application/javascript",
+   "final": "https://consent.cookiebot.com/uc.js",
+   "bytes": 121004
+  },
+  "kemidata_index-DkvEG8bM.js": {
+   "url": "https://kemidata.miljoeportal.dk/assets/index-DkvEG8bM.js",
+   "status": 200,
+   "type": "application/x-javascript",
+   "final": "https://kemidata.miljoeportal.dk/assets/index-DkvEG8bM.js",
+   "bytes": 678117
+  },
+  "kemidata_api_root": {
+   "url": "https://kemidata.miljoeportal.dk/api",
+   "error": "HTTP Error 404: Not Found"
+  },
+  "kemidata_swagger": {
+   "url": "https://kemidata.miljoeportal.dk/swagger/v1/swagger.json",
+   "status": 200,
+   "type": "text/html",
+   "final": "https://kemidata.miljoeportal.dk/swagger/v1/swagger.json",
+   "bytes": 1044
+  },
+  "kemidata_api_swagger": {
+   "url": "https://kemidata-api.miljoeportal.dk/swagger/v1/swagger.json",
+   "error": "<urlopen error [Errno -5] No address associated with hostname>"
+  },
+  "oda_services_wsdl.xml": {
+   "url": "https://odaforalle.au.dk/Services.asmx?WSDL",
+   "status": 200,
+   "type": "text/xml; charset=utf-8",
+   "final": "https://odaforalle.au.dk/Services.asmx?WSDL",
+   "bytes": 549790
+  },
+  "oda_services.html": {
+   "url": "https://odaforalle.au.dk/Services.asmx",
+   "status": 200,
+   "type": "text/html; charset=utf-8",
+   "final": "https://odaforalle.au.dk/Services.asmx",
+   "bytes": 66815
+  },
+  "hip_wms_caps.xml": {
+   "url": "https://api.dataforsyningen.dk/wms/hip_oplande?service=WMS&request=GetCapabilities",
+   "error": "HTTP Error 400: Bad Request"
+  },
+  "hip_wfs_caps.xml": {
+   "url": "https://api.dataforsyningen.dk/wfs/hip_oplande?service=WFS&request=GetCapabilities",
+   "error": "HTTP Error 404: Not Found"
+  },
+  "hip_wfs_caps2.xml": {
+   "url": "https://api.dataforsyningen.dk/hip_oplande?service=WFS&request=GetCapabilities",
+   "error": "HTTP Error 404: Not Found"
   }
  },
- "vandageo_layers": [
-  "vanda:bundfauna-marin",
-  "vanda:bundfauna-soe",
-  "vanda:bundfauna-vandloeb",
-  "vanda:dfi-vandloeb",
-  "vanda:dvfi",
-  "vanda:elektorfiskeri-vandloeb",
-  "vanda:elektorfiskeri-laengdeinterval-vandloeb",
-  "vanda:feltmaaling-grundvand",
-  "vanda:feltmaaling-hydrometri",
-  "vanda:feltmaaling-marin",
-  "vanda:feltmaaling-soe",
-  "vanda:feltmaaling-vandloeb",
-  "vanda:feltobservationer-vandloeb",
-  "vanda:fisk-total-art-soe",
-  "vanda:vgis-fisk-cpue-art-soe",
-  "vanda:fisk-laengde-vaegt-soe",
-  "vanda:fisk-laengde-interval-soe",
-  "vanda:fytobenthos-soe",
-  "vanda:fytobenthos-vandloeb",
-  "vanda:fytoplankton-marin",
-  "vanda:fytoplankton-soe",
-  "vanda:gyderegistrering-vandloeb",
-  "vanda:haardbundsundersoegelser-marin",
-  "vanda:mfs-sediment-marin",
-  "vanda:mfs-sediment-soe",
-  "vanda:mfs-sediment-vandloeb",
-  "vanda:mfs-vandkemi-soe",
-  "vanda:mfs-vandkemi-vandloeb",
-  "vanda:miljoefremmede-stoffer-i-biota-fisk-marin",
-  "vanda:miljoefremmede-stoffer-i-biota-fisk-soe",
-  "vanda:miljoefremmede-stoffer-i-biota-fisk-vandloeb",
-  "vanda:miljoefremmede-stoffer-i-biota-muslinger-marin",
-  "vanda:maaledybder-marin",
-  "vanda:maaledybder-soe",
-  "vanda:sediment-marin",
-  "vanda:sediment-soe",
-  "vanda:steder",
-  "vanda:vandkemi-grundvand",
-  "vanda:vandkemi-hydrometri",
-  "vanda:vandkemi-jordvand",
-  "vanda:vandkemi-marin",
-  "vanda:vandkemi-soe",
-  "vanda:vandkemi-vandloeb",
-  "vanda:vegetation-rpa-soe",
-  "vanda:vegetation-rpa-dybdeomraade-soe",
-  "vanda:vegetation-soe",
-  "vanda:vegetation-vandloeb",
-  "vanda:vegetation-transekt-vandloeb",
-  "vanda:zooplankton-marin",
-  "vanda:aalegraes-marin"
+ "kemidata_api_strings": [
+  "https://monitoring.datakatalog.miljoeportal.dk/",
+  "https://sendmigvidere.miljoeportal.dk/api",
+  "https://www.miljoeportal.dk/"
  ],
- "geus_layers_match": []
+ "hip_wms_caps.xml_names": [],
+ "hip_wfs_caps.xml_names": [],
+ "hip_wfs_caps2.xml_names": []
 }
