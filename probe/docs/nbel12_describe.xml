@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><xsd:schema xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:vp2_2016="http://wfs2-miljoegis.mim.dk/vp2_2016" xmlns:wfs="http://www.opengis.net/wfs/2.0" xmlns:xsd="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" targetNamespace="http://wfs2-miljoegis.mim.dk/vp2_2016">
+  <xsd:import namespace="http://www.opengis.net/gml/3.2" schemaLocation="https://wfs2-miljoegis.mim.dk/schemas/gml/3.2.1/gml.xsd"/>
+  <xsd:complexType name="theme-vp2_2016nbel12_deloplandeType">
+    <xsd:complexContent>
+      <xsd:extension base="gml:AbstractFeatureType">
+        <xsd:sequence>
+          <xsd:element maxOccurs="1" minOccurs="0" name="wkb_geometry" nillable="true" type="gml:MultiSurfacePropertyType"/>
+          <xsd:element maxOccurs="1" minOccurs="0" name="hvopl_id" nillable="true" type="xsd:double"/>
+          <xsd:element maxOccurs="1" minOccurs="0" name="kystom_2id" nillable="true" type="xsd:double"/>
+          <xsd:element maxOccurs="1" minOccurs="0" name="kystom_2na" nillable="true" type="xsd:string"/>
+          <xsd:element maxOccurs="1" minOccurs="0" name="hvoplnr" nillable="true" type="xsd:double"/>
+          <xsd:element maxOccurs="1" minOccurs="0" name="n12_kgha" nillable="true" type="xsd:double"/>
+          <xsd:element maxOccurs="1" minOccurs="0" name="areal_ha" nillable="true" type="xsd:double"/>
+        </xsd:sequence>
+      </xsd:extension>
+    </xsd:complexContent>
+  </xsd:complexType>
+  <xsd:element name="theme-vp2_2016nbel12_deloplande" substitutionGroup="gml:AbstractFeature" type="vp2_2016:theme-vp2_2016nbel12_deloplandeType"/>
+</xsd:schema>

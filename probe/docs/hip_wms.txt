@@ -1,0 +1,1 @@
+{"message":"Authentication token must only be lowercase (token) or uppercase (TOKEN)!","http_status_code":400}
