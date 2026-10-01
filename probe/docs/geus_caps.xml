@@ -1,0 +1,331 @@
+<?xml version='1.0' encoding="UTF-8" ?>
+<WFS_Capabilities 
+   version="1.0.0" 
+   updateSequence="0" 
+   xmlns="http://www.opengis.net/wfs" 
+   xmlns:ogc="http://www.opengis.net/ogc" 
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.0.0/WFS-capabilities.xsd">
+
+<!-- MapServer version 7.2.2 OUTPUT=PNG OUTPUT=JPEG OUTPUT=KML SUPPORTS=PROJ SUPPORTS=AGG SUPPORTS=FREETYPE SUPPORTS=CAIRO SUPPORTS=SVG_SYMBOLS SUPPORTS=RSVG SUPPORTS=ICONV SUPPORTS=FRIBIDI SUPPORTS=WMS_SERVER SUPPORTS=WMS_CLIENT SUPPORTS=WFS_SERVER SUPPORTS=WFS_CLIENT SUPPORTS=WCS_SERVER SUPPORTS=SOS_SERVER SUPPORTS=FASTCGI SUPPORTS=THREADS SUPPORTS=GEOS SUPPORTS=PBF INPUT=JPEG INPUT=POSTGIS INPUT=OGR INPUT=GDAL INPUT=SHAPEFILE -->
+
+<Service>
+  <Name>MapServer WFS</Name>
+  <Title>GEUS map database - WFS/WMS - Primary projection EPSG:25832</Title>
+  <Abstract>GEUS map database covering Denmark and Greenland</Abstract>
+  <Keywords>
+    GEUS
+    Geology
+    Denmark
+    Greenland
+  </Keywords>
+  <OnlineResource>https://data.geus.dk/geusmap/ows/25832.jsp?whoami=</OnlineResource>
+  <Fees>none</Fees>
+  <AccessConstraints>http://data.geus.dk/geusmap/terms_20140620.pdf</AccessConstraints>
+</Service>
+
+<Capability>
+  <Request>
+    <GetCapabilities>
+      <DCPType>
+        <HTTP>
+          <Get onlineResource="https://data.geus.dk/geusmap/ows/25832.jsp?whoami=&amp;" />
+        </HTTP>
+      </DCPType>
+      <DCPType>
+        <HTTP>
+          <Post onlineResource="https://data.geus.dk/geusmap/ows/25832.jsp?whoami=&amp;" />
+        </HTTP>
+      </DCPType>
+    </GetCapabilities>
+    <DescribeFeatureType>
+      <SchemaDescriptionLanguage>
+        <XMLSCHEMA/>
+      </SchemaDescriptionLanguage>
+      <DCPType>
+        <HTTP>
+          <Get onlineResource="https://data.geus.dk/geusmap/ows/25832.jsp?whoami=&amp;" />
+        </HTTP>
+      </DCPType>
+      <DCPType>
+        <HTTP>
+          <Post onlineResource="https://data.geus.dk/geusmap/ows/25832.jsp?whoami=&amp;" />
+        </HTTP>
+      </DCPType>
+    </DescribeFeatureType>
+    <GetFeature>
+      <ResultFormat>
+        <GML2/>
+        <gml/>
+        <shape/>
+        <mapinfo/>
+        <kml/>
+        <geojson/>
+        <csv/>
+      </ResultFormat>
+      <DCPType>
+        <HTTP>
+          <Get onlineResource="https://data.geus.dk/geusmap/ows/25832.jsp?whoami=&amp;" />
+        </HTTP>
+      </DCPType>
+      <DCPType>
+        <HTTP>
+          <Post onlineResource="https://data.geus.dk/geusmap/ows/25832.jsp?whoami=&amp;" />
+        </HTTP>
+      </DCPType>
+    </GetFeature>
+  </Request>
+</Capability>
+
+<FeatureTypeList>
+  <Operations>
+    <Query/>
+  </Operations>
+    <FeatureType>
+        <Name>jupiter_boringer_ws</Name>
+        <Title>Danske boringer</Title>
+        <Abstract>Liste over boringer i Danmark med flg. bemaerkninger:
+1. Feltet [dgunr] er DGUnr uden mellemrum
+2. Feltet [formanv] viser aktuel anvendelse (sekundaert oprindeligt formaal)
+3. feltet [kode] kategoriserer boringerne i 7 kategorier efter aktuel anvendelse (sekundaert oprindeligt formaal):
+ * [V] Vandboring : [VV] Vandvaerksboring, [VS]Permanent grundvands, [V] Vandforsyningsboring, [VA] Afvaergeboring, [VD] Dambrug, [VH] Havevanding, [VI] Industri/procesvand, [VM] Markvanding/gartneri, [VP] Privat husholdning, [VR] Reserve/Noedvand, [RE] Reserveboring, [C] Broend
+ * [G] Geoteknisk: [G]Geoteknisk boring, [MG] Marin geoteknisk  
+ * [R] Raastof : [R]Raastofboring, [B]Brunkulsboring
+ * [M] Miljoe : [M]Miljoe
+ * [S] Sloejfet : [S]Sloejfet/opgivet bor, [O]Overboring
+ * [NULL] : [NULL] Ukendt, [K] Ikke oplyst
+ * [A] : Resten</Abstract>
+        <SRS>EPSG:25832</SRS>
+        <LatLongBoundingBox minx="-89188.9" miny="5.98352e+06" maxx="1.54443e+06" maxy="6.54119e+06" />
+        <MetadataURL type="TC211" format="text/html">https://data.geus.dk/geusmap/get_metadata.jsp?layer=1303</MetadataURL>
+    </FeatureType>
+    <FeatureType>
+        <Name>jupiter_anlaeg_ws</Name>
+        <Title>Danske anlaeg</Title>
+        <Abstract>Liste over Alle aktive vandindvindingsanlæg i den danske Jupiter-database. Aktiv skal tages med forbehold. Om anlægget reelt er aktivt, afhænger af flere faktorer som fx tilladelsesstatus. Kontakt evt. kommunen for berigtigelse. Datasættet kan bruges til at hente en række interessante oplysninger om anlægget såsom tilladelsesstatus, indvinding, kommune og region.</Abstract>
+        <SRS>EPSG:25832</SRS>
+        <LatLongBoundingBox minx="106926" miny="5.98352e+06" maxx="958492" maxy="6.45016e+06" />
+        <MetadataURL type="TC211" format="text/html">https://data.geus.dk/geusmap/get_metadata.jsp?layer=1304</MetadataURL>
+    </FeatureType>
+    <FeatureType>
+        <Name>jupiter_bor_anl_koblet</Name>
+        <Title>Boringer-anlaeg koblet</Title>
+        <Abstract>Oplysninger om, hvilke boringer er tilknyttet hvilke indvindingsanlæg i den danske Jupiter-database. Datasættet kan bruges til at finde relationer mellem hvor grundvand indvindes, og hvor det processeres.</Abstract>
+        <SRS>EPSG:25832</SRS>
+        <LatLongBoundingBox minx="322190" miny="6.0601e+06" maxx="976770" maxy="6.42635e+06" />
+        <MetadataURL type="TC211" format="text/html">https://data.geus.dk/geusmap/get_metadata.jsp?layer=130</MetadataURL>
+    </FeatureType>
+    <FeatureType>
+        <Name>jupiter_bor_vandfors_almen_ws</Name>
+        <Title>Danske vandforsyningsboringer</Title>
+        <Abstract>Registrerede aktive, almene vandforsyningsboringer i den danske Jupiter-database. Datasættet kan bruges til at få oplysninger om den almene vandforsyning i Danmark.
+1. En boring anses for aktiv hvis slutdato og sloejfetdato er blank eller i fremtiden, og aktivstatus er 1.
+2. En boring anses som vaerende vandboring, hvis hovedtypen er VV og indtagsanvendelsen er blank eller mindre end 2.
+3. Der vises kun kortlagte boringer inden for omraade EUREF89 zone 32 minx=100000, miny=5900000.
+4. Hvis en boring har flere indtag/anlaeg tilknyttet, vil den optraede flere gange i listen.
+5. Feltet [dgunr_trimmed] er DGUnr uden mellemrum
+6. Feltet [formanv] viser aktuel anvendelse (sekundaert oprindeligt formaal)</Abstract>
+        <SRS>EPSG:25832</SRS>
+        <LatLongBoundingBox minx="434451" miny="5.98352e+06" maxx="1.21965e+06" maxy="6.48175e+06" />
+        <MetadataURL type="TC211" format="text/html">https://data.geus.dk/geusmap/get_metadata.jsp?layer=1323</MetadataURL>
+    </FeatureType>
+    <FeatureType>
+        <Name>jupiter_bor_vandfors_andre_ws</Name>
+        <Title>Danske vandforsyningsboringer, resten</Title>
+        <Abstract>Danske, aktive ikke-almene vandforsyningsboringer fra den danske Jupiter-database - fx markvandingsboringer. Datasættet kan bruges til at få overblik over, hvor der indvindes grundvand udenom den almene drikkeforsyning samt få oplysninger om de tilknyttede boringer. Det skal noteres, at
+1. En vandforsyningsboring anses for at tilhoere kategorien -andre- hvis den ikke er almen, sloejfet, miljoe, raastof el. geoteknisk.
+2. Der vises kun kortlagte boringer inden for omraade EUREF89 zone 32 minx=100000, miny=5900000.
+3. Feltet [dgunr_trimmed] er DGUnr uden mellemrum
+4. Feltet [formanv] viser aktuel anvendelse (sekundaert oprindeligt formaal)</Abstract>
+        <SRS>EPSG:25832</SRS>
+        <LatLongBoundingBox minx="434451" miny="5.98352e+06" maxx="1.21965e+06" maxy="6.48175e+06" />
+        <MetadataURL type="TC211" format="text/html">https://data.geus.dk/geusmap/get_metadata.jsp?layer=1324</MetadataURL>
+    </FeatureType>
+    <FeatureType>
+        <Name>jupiter_paabud_ws</Name>
+        <Title>Paabud</Title>
+        <Abstract>Udstilling af paabud og dispensationer til brug for boligsalgsrapporten (tidligere Diadem) registreret af kommunerne i den danske Jupiter-database.</Abstract>
+        <SRS>EPSG:25832</SRS>
+        <LatLongBoundingBox minx="-200000" miny="5e+06" maxx="2e+06" maxy="7e+06" />
+        <MetadataURL type="TC211" format="text/html">https://data.geus.dk/geusmap/get_metadata.jsp?layer=1131</MetadataURL>
+    </FeatureType>
+    <FeatureType>
+        <Name>mc_grp_analyse</Name>
+        <Title>Analyser paa stofgrupper</Title>
+        <Abstract>Registrerede kemianalyser på boringer (grundvandsprøver) i den danske Jupiter-database grupperet på udvalgte stofgrupper: Uorganiske sporstoffer (30), Organisk mikroforurening (40), Aromatiske kulbrinter (41), Blødgørere/Phthalater (42), Detergenter (sæbe) (43), Chlorerede og bromerede fenoler (44), Alifatiske kulbrinter (45), Halogenerede flammehæmmere, PCBer, dioxiner (48), Organometaller (49), Pesticider, nedbrydningsprodukter og beslægtede stoffer (50), Halogenerede alifatiske kulbrinter + nedbrydningsprodukter (100), Perfluorerede stoffer (110), Naturlige organiske stoffer og toksiner (120). Datasættet kan bruges til at finde seneste målinger og status for udvalgte stofgrupper på boringsniveau Samtidig inkluderes en række borings- og indtagsoplysninger, der kan bidrage til vurderingen af målingens betydning - såsom boringsdybde og geologisk miljø omkring indtaget. Datasættet kan ikke bruges til at udlede kemi på drikkevandsniveau, da indvindingsanlægget kan blande og rense grundvandet, inden det sendes videre til forbrugerne.</Abstract>
+        <SRS>EPSG:25832</SRS>
+        <LatLongBoundingBox minx="-200000" miny="5e+06" maxx="2e+06" maxy="7e+06" />
+        <MetadataURL type="TC211" format="text/html">https://data.geus.dk/geusmap/get_metadata.jsp?layer=1345</MetadataURL>
+    </FeatureType>
+    <FeatureType>
+        <Name>mc_analyse</Name>
+        <Title>Analyser på stoffer</Title>
+        <Abstract>Registerede kemianalyser på boringer i den danske Jupiter-database. Brug datasættet til at finde seneste og største målte værdi for følgende enkeltstoffer: Aluminium (267), Ammoniak+ammonium (240), Arsen (270), Atrazin (846), Barium (271), Benzen (215), Bor (275), Bromid (277), Calcium (280), Carbondioxid, aggr. (58), Carbon,org,NVOC (75), Chlorid (297), Chloridazon (613), Chloroform (374), Chrom (300), 2,6-Dichlorbenzamid (438), Dihydrogensulfid (1167), DPC (1448), Fluorid (308), Forvitring indeks (-2), Hydrogencarbonat (59), Ilt (50), Ionbytning (-1), Jern (312), Kalium (317), Kobber (318), Konduktivitet (5), Magnesium (321), Mangan (322), Methan (356), MDPC (1534), MTBE (166), Natrium (324), Nikkel (326), Nitrat (246), pH (13), Phosphor (total-P) (261), Strontium (331), Sulfat (335), Temperatur (1154), Tetrachlorethylen (379), Toluen (218), Trichlorethylen (380), Trifluoreddikesyre (2251), Uran (351), Vinylchlorid (1171), Zink (353). Datasættet indeholder også oplysninger om boringen samt indtag og giver en status på, om der tidligere er fundet spor af stoffet på boringen (feltet stof_status). Desuden er angivet en række oplysninger om det geologiske miljø, hvor vandet hentes fra.</Abstract>
+        <SRS>EPSG:25832</SRS>
+        <LatLongBoundingBox minx="-200000" miny="5e+06" maxx="2e+06" maxy="7e+06" />
+        <MetadataURL type="TC211" format="text/html">https://data.geus.dk/geusmap/get_metadata.jsp?layer=1346</MetadataURL>
+    </FeatureType>
+    <FeatureType>
+        <Name>jupiter_grp_anlaegsanalyser</Name>
+        <Title>Anlaegsanalyser paa stofgrupper</Title>
+        <Abstract>Kemianalyser registreret på ledningsnet eller hos forbruger ifølge den danske Jupiter-database. Dette datasæt indeholder analyser fra vandværker og andre typer anlæg - ikke fra grundvandsboringer. Brug datasættet til at finde seneste målte værdi per vandindvindingsanlæg for udvalgte stofgrupper: Uorganiske sporstoffer (30), Organisk mikroforurening (40), Pesticider, nedbrydningsprodukter og beslægtede stoffer (50), Mikrobiologiske parametre (60), Halogenerede alifatiske kulbrinter + nedbrydningsprodukter (100), Perfluorerede stoffer (110), PFAS Sum af 4 (1104), PFAS Sum af 12 (11012), PFAS Sum af 22 (11022), Naturlige organiske stoffer og toksiner (120). Datasættet giver statistik per stofgruppe såsom største værdi, dato for største værdi, alderen på seneste prøve og status for boringen fx aktuel over kravværdi, tidligere over kravværdi, aktuelt fund under kravværdi, tidligere fund. </Abstract>
+        <SRS>EPSG:25832</SRS>
+        <LatLongBoundingBox minx="-200000" miny="5e+06" maxx="2e+06" maxy="7e+06" />
+        <MetadataURL type="TC211" format="text/html">https://data.geus.dk/geusmap/get_metadata.jsp?layer=7743</MetadataURL>
+    </FeatureType>
+    <FeatureType>
+        <Name>jupiter_anlaegsanalyser</Name>
+        <Title>Anlaeganalyser paa stoffer</Title>
+        <Abstract>Registrerede drikkevandsanalyser foretaget på ledningsnettet eller hos forbruger indlæst i den danske Jupiter-database. Brug datasættet til at finde seneste og største målte værdi for følgende enkeltstoffer: 2,6-Dichlorbenzamid (stofnr 438), Aggressiv kuldioxid (stofnr 58), Aluminium (stofnr 267), Ammoniak+ammonium (stofnr 240), Arsen (stofnr 207), Atrazin (846), Barium (stofnr 271), Benzen (stofnr 215), Bor (stofnr 275), Bromid (stofnr 277), Calcium (stofnr 280), Chlorid (stofnr 297), Chloridazon (stofnr 613), Chrom (stofnr 300), Coliforme bakterier ved 37grader. (stofnr 1194), Desphenyl chloridazon (stofnr 1448), Escherichia coli (stofnr 1229), Fluorid (stofnr 308), Forvitring indeks (stofnr -2), Hydrogencarbonat (stofnr 59), Ikke flygtigt organisk kulstof (stofnr 75), Ionbytning (stofnr -1), Jern (stofnr 312), Kalium (stofnr 317), Kobber (stofnr 318), Konduktivitet (stofnr 5), Magnesium (stofnr 321), Mangan (stofnr 322), Methan (stofnr 356), Methyl-desphenyl-chloridazon (stofnr 1534), Methyl-tert-butylether (stofnr 166), Natrium (stofnr 324), Nikkel (stofnr 326), Nitrat (stofnr 246), Oxygen indhold (stofnr 50), Phosphor, total-P (stofnr 261), Strontium (stofnr 331), Sulfat (stofnr 335), Svovlbrinte (sulfid) (stofnr 1167), Temperatur (stofnr 1154), Tetrachlorethylen (stofnr 379), Toluen (stofnr 218), Trichlorethylen (stofnr 380), Trichlormethan (stofnr 374), Trifluoreddikesyre (stofnr 2251), Uran (stofnr 351), Vinylchlorid (stofnr 1171), Zink (stofnr 353), pH (stofnr 13). Datasættet indeholder også oplysninger om vandindvindingsanlægget knyttet til ledningsnettet og giver en status på, om der tidligere er fundet spor af stoffet på boringen.</Abstract>
+        <SRS>EPSG:25832</SRS>
+        <LatLongBoundingBox minx="-200000" miny="5e+06" maxx="2e+06" maxy="7e+06" />
+        <MetadataURL type="TC211" format="text/html">https://data.geus.dk/geusmap/get_metadata.jsp?layer=7023</MetadataURL>
+    </FeatureType>
+    <FeatureType>
+        <Name>mc_vandtype</Name>
+        <Title>Vandtype fra analyser på stoffer</Title>
+        <Abstract>Vandtype fra analyser på stoffer fra grundvandsprøver i den danske Jupiter-database. Brug datasættet til at få en kategorisering (vandtype) for vandets oxidering. Vandtypen kan være A (stærkt oxideret), AB (oxideret), ABx (oxideret), Ax (Stærkt oxideret), B (Svagt oxideret), Bx (Svagt oxideret), C (Svagt reduceret), CDx (Reduceret), Cx (Svagt reduceret), D (stærkt reduceret), Dx (Reduceret) eller ikke bestemt. Datasættet indeholder tal for de parametre, der indgår i vandtypen såsom nitrat, jern, sulfat, ilt, methan, dihydrogensulfid og ammonium. Desuden indgår forvitringsindeks, bjergart, hovedvandopland, indtagsmagasin, kationsum, anionsum, ionbalance og en række oplysninger om boringen, indtaget og indvindingsanlægget.</Abstract>
+        <SRS>EPSG:25832</SRS>
+        <LatLongBoundingBox minx="-200000" miny="5e+06" maxx="2e+06" maxy="7e+06" />
+        <MetadataURL type="TC211" format="text/html">https://data.geus.dk/geusmap/get_metadata.jsp?layer=1347</MetadataURL>
+    </FeatureType>
+    <FeatureType>
+        <Name>jupiter_indvinding_ydelser</Name>
+        <Title>jupiter_indvinding_ydelser</Title>
+        <Abstract>Registrede ydelser ved indvinding i boringsindtag ifølge den danske Jupiter-database målt på m3 per time per meter sænkning. Brug datasættet til at vurdere, hvor meget vandspejlet sænker sig ved en bestemt ydelse. Datasættet rummer oplysninger om seneste pumpning og tilknyttede metadata såsom tidspunkt, ydelse, sænkning og toppen til dybeste filter på indtaget.</Abstract>
+        <SRS>EPSG:25832</SRS>
+        <LatLongBoundingBox minx="282580" miny="6.03744e+06" maxx="1.03517e+06" maxy="6.41609e+06" />
+        <MetadataURL type="TC211" format="text/xml">https://data.geus.dk/geusmap/ows/25832.jsp?whoami=&amp;request=GetMetadata&amp;layer=jupiter_indvinding_ydelser</MetadataURL>
+    </FeatureType>
+    <FeatureType>
+        <Name>jupiter_pejlinger</Name>
+        <Title>pejlinger</Title>
+        <Abstract>Senest registrerede vandstandspejling på boringsindtag i den danske Jupiter-database. Brug datasættet til at få et væld af oplysninger om boringen, dets vandivndindingsanlæg og udvalgt statistik om pejlinger på indtaget såsom link til borerapport, om indtaget er aktivt, indtagets dybde (top af indtag), boringens anvendelse, link til tidsserie, antal pejlinger foretaget, dato for første og seneste pejling samt geologiske oplysninger om indtagsbjergart, magasin over indtag, hovedvandopland og akvitare jordlag over indtaget. Alt sammen oplysninger, der kan bruges i hydrogeologisk analyse.</Abstract>
+        <SRS>EPSG:25832</SRS>
+        <LatLongBoundingBox minx="-200000" miny="5e+06" maxx="2e+06" maxy="7e+06" />
+        <MetadataURL type="TC211" format="text/html">https://data.geus.dk/geusmap/get_metadata.jsp?layer=1330</MetadataURL>
+    </FeatureType>
+    <FeatureType>
+        <Name>jupiter_boringer_seneste_pejling</Name>
+        <Title>jupiter_boringer_seneste_pejling</Title>
+        <Abstract>Seneste vandstandspejling registreret i den danske Jupiter-database. Brug datasættet til at finde boringers seneste vandstandsmåling i forhold til terræn. Der indgår kun boringer på mindst 10 meters dybde. Der er oplysninger om pejletidspunkt, link til borerapport og oplysning om, hvilket indtag er benyttet.</Abstract>
+        <SRS>EPSG:25832</SRS>
+        <LatLongBoundingBox minx="282580" miny="6.03744e+06" maxx="1.03517e+06" maxy="6.41609e+06" />
+        <MetadataURL type="TC211" format="text/xml">https://data.geus.dk/geusmap/ows/25832.jsp?whoami=&amp;request=GetMetadata&amp;layer=jupiter_boringer_seneste_pejling</MetadataURL>
+    </FeatureType>
+    <FeatureType>
+        <Name>gerda_projects</Name>
+        <Title>Geofysiske projekter</Title>
+        <Abstract>Registrerede geofysiske efterforskningsdata efter grundvand i GEUS-databasen -GERDA-. Datasættet består af et eller flere polygoner per projekt inklusive metadata såsom instrumenttype, klient, contractor, projektnavn samt et link til download af de indsamlede data.</Abstract>
+        <SRS>EPSG:25832</SRS>
+        <LatLongBoundingBox minx="-200000" miny="5e+06" maxx="2e+06" maxy="7e+06" />
+        <MetadataURL type="TC211" format="text/html">https://data.geus.dk/geusmap/get_metadata.jsp?layer=1143</MetadataURL>
+    </FeatureType>
+    <FeatureType>
+        <Name>sensordata</Name>
+        <Title>Sensordata</Title>
+        <Abstract>Sensordata fra de Jupiter-boringer, som indgår i GEUS-pejleprogrammet -Sensornet-. Datasættet viser seneste måling og linker til en tidsserie for den enkelte boring.</Abstract>
+        <SRS>EPSG:25832</SRS>
+        <LatLongBoundingBox minx="298260" miny="6.03029e+06" maxx="1.05085e+06" maxy="6.40893e+06" />
+        <MetadataURL type="TC211" format="text/xml">https://data.geus.dk/geusmap/ows/25832.jsp?whoami=&amp;request=GetMetadata&amp;layer=sensordata</MetadataURL>
+    </FeatureType>
+    <FeatureType>
+        <Name>fohm_udbredelsesomraader</Name>
+        <Title>FOHM-model udbredelsesområder</Title>
+        <Abstract>Områder der angiver FOHM-modellens udbredelse</Abstract>
+        <SRS>EPSG:25832</SRS>
+        <LatLongBoundingBox minx="-200000" miny="5e+06" maxx="2e+06" maxy="7e+06" />
+        <MetadataURL type="TC211" format="text/xml">https://data.geus.dk/geusmap/ows/25832.jsp?whoami=&amp;request=GetMetadata&amp;layer=fohm_udbredelsesomraader</MetadataURL>
+    </FeatureType>
+    <FeatureType>
+        <Name>modeldb_outlines</Name>
+        <Title>Geologiske modeller</Title>
+        <Abstract>Outlines for hydrogeologiske modeller i Jupiter-databasen. Datasættet indeholder desuden link til download af modellen samt udvalgte metadata såsom ejer, konsulent, modelnavn og område</Abstract>
+        <SRS>EPSG:25832</SRS>
+        <LatLongBoundingBox minx="-200000" miny="5e+06" maxx="2e+06" maxy="7e+06" />
+        <MetadataURL type="TC211" format="text/xml">https://data.geus.dk/geusmap/ows/25832.jsp?whoami=&amp;request=GetMetadata&amp;layer=modeldb_outlines</MetadataURL>
+    </FeatureType>
+    <FeatureType>
+        <Name>rapportdb_rapporter_pg</Name>
+        <Title>Outlines for rapporter fra rapportdatabasen</Title>
+        <Abstract>Outlines for registrerede grundvandsrapporter i Jupiter-databasen. Datasættet indeholder link til rapporten og udvalgte metadata som titel, forfatter, rådgiver, rekvirent og formål</Abstract>
+        <SRS>EPSG:25832</SRS>
+        <LatLongBoundingBox minx="368909" miny="5.98352e+06" maxx="958492" maxy="6.45016e+06" />
+        <MetadataURL type="TC211" format="text/xml">https://data.geus.dk/geusmap/ows/25832.jsp?whoami=&amp;request=GetMetadata&amp;layer=rapportdb_rapporter_pg</MetadataURL>
+    </FeatureType>
+    <FeatureType>
+        <Name>jupiter_lithologi_over_10m_dybe</Name>
+        <Title>Danske boringer o 10 m dybe</Title>
+        <Abstract>Registerede boringer i den danske Jupiter-database, som er dybere end 10 meter og har tolket geologi (lithologi). Datasættet indeholder desuden oplysninger om dybden til toppen af det dybeste filter.</Abstract>
+        <SRS>EPSG:25832</SRS>
+        <LatLongBoundingBox minx="282580" miny="6.03744e+06" maxx="1.03517e+06" maxy="6.41609e+06" />
+        <MetadataURL type="TC211" format="text/xml">https://data.geus.dk/geusmap/ows/25832.jsp?whoami=&amp;request=GetMetadata&amp;layer=jupiter_lithologi_over_10m_dybe</MetadataURL>
+    </FeatureType>
+    <FeatureType>
+        <Name>jupiter_boringer_plastisk_ler</Name>
+        <Title>jupiter_boringer_plastisk_ler</Title>
+        <Abstract>Registrerede boringer i den danske Jupiter-database, hvor den tolkede geologi indeholder plastisk ler - specifikt dgusymbolerne pl, rl, ll, ol, vl, xl og sl. Datsættet fortæller også om boringens dybde og linker til et oveblik over alle boringens stamoplysninger.</Abstract>
+        <SRS>EPSG:25832</SRS>
+        <LatLongBoundingBox minx="282580" miny="6.03744e+06" maxx="1.03517e+06" maxy="6.41609e+06" />
+        <MetadataURL type="TC211" format="text/xml">https://data.geus.dk/geusmap/ows/25832.jsp?whoami=&amp;request=GetMetadata&amp;layer=jupiter_boringer_plastisk_ler</MetadataURL>
+    </FeatureType>
+    <FeatureType>
+        <Name>kommunegraenser</Name>
+        <Title>Kommunegraenser</Title>
+        <Abstract>Danske kommunegrænser. Brug datasættet til at finde kommune ud fra koordinat eller træk et billede og se, hvilke data ligger i hvilken kommune. Datasættet kan også bruges til at oversætte mellem kommunenavn og kommunenummer samt afgøre, hvilken region kommunen tilhører</Abstract>
+        <SRS>EPSG:25832</SRS>
+        <LatLongBoundingBox minx="-200000" miny="5e+06" maxx="2e+06" maxy="7e+06" />
+        <MetadataURL type="TC211" format="text/html">https://data.geus.dk/geusmap/get_metadata.jsp?layer=1363</MetadataURL>
+    </FeatureType>
+    <FeatureType>
+        <Name>dk_atlasblade</Name>
+        <Title>Atlasblade</Title>
+        <Abstract>Atlasblade</Abstract>
+        <SRS>EPSG:25832</SRS>
+        <LatLongBoundingBox minx="-200000" miny="5e+06" maxx="2e+06" maxy="7e+06" />
+        <MetadataURL type="TC211" format="text/xml">https://data.geus.dk/geusmap/ows/25832.jsp?whoami=&amp;request=GetMetadata&amp;layer=dk_atlasblade</MetadataURL>
+    </FeatureType>
+    <FeatureType>
+        <Name>danske_vandforsyningsomraader_gruk</Name>
+        <Title>danske_vandforsyningsomraader_gruk</Title>
+        <Abstract>Registrerede forsyningsområder i den danske Jupiter-database - senest opdateret 2022 - læs mere her: https://dataverse.geus.dk/dataset.xhtml?persistentId=doi:10.22008/FK2/I5R1SS. Datasættet kan bruges til at oversætte et punkt i Danmark til et vandindvindingsanlæg. Når først vandindvindingsanlægget er kendt, kan man bruge andre datasæt til at hente kemianalyser på hhv. anlægget og dets tilknyttede boringer.</Abstract>
+        <SRS>EPSG:25832</SRS>
+        <LatLongBoundingBox minx="-200000" miny="5e+06" maxx="2e+06" maxy="7e+06" />
+        <MetadataURL type="TC211" format="text/html">https://dataverse.geus.dk/dataset.xhtml?persistentId=doi:10.22008/FK2/I5R1SS</MetadataURL>
+    </FeatureType>
+    <FeatureType>
+        <Name>jupiter_boringer_lithologi_todo</Name>
+        <Title>Boringer med ikke-digitaliseret lithologi</Title>
+        <Abstract>Boringer med skannede lithologi-dokumenter, som ikke er digitaliseret</Abstract>
+        <SRS>EPSG:25832</SRS>
+        <LatLongBoundingBox minx="-200000" miny="5e+06" maxx="2e+06" maxy="7e+06" />
+        <MetadataURL type="TC211" format="text/html">https://data.geus.dk/geusmap/get_metadata.jsp?layer=6503</MetadataURL>
+    </FeatureType>
+</FeatureTypeList>
+
+<ogc:Filter_Capabilities>
+  <ogc:Spatial_Capabilities>
+    <ogc:Spatial_Operators>
+      <ogc:Equals/>
+      <ogc:Disjoint/>
+      <ogc:Touches/>
+      <ogc:Within/>
+      <ogc:Overlaps/>
+      <ogc:Crosses/>
+      <ogc:Intersect/>
+      <ogc:Contains/>
+      <ogc:DWithin/>
+      <ogc:BBOX/>
+    </ogc:Spatial_Operators>
+  </ogc:Spatial_Capabilities>
+  <ogc:Scalar_Capabilities>
+    <ogc:Logical_Operators />
+    <ogc:Comparison_Operators>
+      <ogc:Simple_Comparisons />
+      <ogc:Like />
+      <ogc:Between />
+    </ogc:Comparison_Operators>
+  </ogc:Scalar_Capabilities>
+</ogc:Filter_Capabilities>
+
+</WFS_Capabilities>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><xsd:schema xmlns:Jordbunds_og_terraenforhold="Jordbunds_og_terraenforhold" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:wfs="http://www.opengis.net/wfs/2.0" xmlns:xsd="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" targetNamespace="Jordbunds_og_terraenforhold">
+  <xsd:import namespace="http://www.opengis.net/gml/3.2" schemaLocation="https://geodata.fvm.dk/geoserver/schemas/gml/3.2.1/gml.xsd"/>
+  <xsd:complexType name="KvaelstofretentionType">
+    <xsd:complexContent>
+      <xsd:extension base="gml:AbstractFeatureType">
+        <xsd:sequence>
+          <xsd:element maxOccurs="1" minOccurs="0" name="the_geom" nillable="true" type="gml:MultiSurfacePropertyType"/>
+          <xsd:element maxOccurs="1" minOccurs="0" name="Kategori" nillable="true" type="xsd:string"/>
+        </xsd:sequence>
+      </xsd:extension>
+    </xsd:complexContent>
+  </xsd:complexType>
+  <xsd:element name="Kvaelstofretention" substitutionGroup="gml:AbstractFeature" type="Jordbunds_og_terraenforhold:KvaelstofretentionType"/>
+</xsd:schema>
