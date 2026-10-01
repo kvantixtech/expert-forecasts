@@ -1,25 +1,28 @@
-"""Temporary probe (not part of expert-forecasts): VP4 layer schemas for a nitrogen-source study, round 5. No analysis."""
-import json, os, re, time, urllib.request, urllib.parse, urllib.error
-UA = "kvantixtech data access check (github actions; validation@kvantix.tech)"
-out = {"run_utc": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()), "layers": {}}
-os.makedirs("probe/docs", exist_ok=True)
-for f in os.listdir("probe/docs"): os.remove("probe/docs/" + f)
-def get(u, n=None):
-    with urllib.request.urlopen(urllib.request.Request(u, headers={"User-Agent": UA}), timeout=180) as r:
-        return r.read(n) if n else r.read()
-M = "https://wfs2-miljoegis.mim.dk/ows?service=WFS&version=2.0.0&"
-for lay in ["punkt_ferskdam_saml", "punkt_ind_saml", "punkt_spredt_saml", "lulc_map_poly", "opl_delopl", "opl_helopl", "opl_rensekl_pavirk", "kystvandsopland_tabel_1"]:
-    t = "vp4basis2026:vp4_ba_26_" + lay; info = {}
+"""Temporary probe (not part of expert-forecasts): live-site marker scan of kvantix.tech pages."""
+import json, os, re, time, urllib.request
+UA = "kvantixtech/site-audit check (github actions)"
+def get(u):
+    with urllib.request.urlopen(urllib.request.Request(u, headers={"User-Agent": UA, "Cache-Control": "no-cache"}), timeout=60) as r:
+        return r.status, r.read().decode("utf-8", "replace")
+out = {"run_utc": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()), "pages": {}}
+urls = set(["https://kvantix.tech/"])
+try:
+    _, idx = get("https://kvantix.tech/sitemap_index.xml")
+    for sm in re.findall(r"<loc>([^<]+)</loc>", idx):
+        try:
+            _, s = get(sm); urls |= set(re.findall(r"<loc>([^<]+)</loc>", s))
+        except Exception as e: out.setdefault("sitemap_errors", []).append(f"{sm}: {e}")
+except Exception as e: out["sitemap_error"] = str(e)
+markers = {"ga": r"googletagmanager|gtag\(|G-KGXZK5RQ0T", "monsterinsights": r"monsterinsights", "webmcp": r"WebMCP|modelContext",
+           "userfeedback": r"userfeedback", "wpconsent": r"wpconsent", "wpforms": r"wpforms", "extendify": r"extendify",
+           "old_landing_566": r"LIVE_SIGNAL_MATRIX|Transparent<br>|ENGINE LIVE", "mobilepay": r"MobilePay", "wpcode_566": r"wpcode[^>]*566",
+           "google_fonts": r"fonts\.googleapis|fonts\.gstatic", "binance_fetch": r"api\.binance\.com", "umami": r"umami"}
+for u in sorted(urls)[:80]:
     try:
-        d = get(M + "request=DescribeFeatureType&typeNames=" + t)
-        info["fields"] = [m.decode() for m in re.findall(rb'name="([^"]+)"[^>]*type="(?:xsd|gml):', d)]
-        h = get(M + "request=GetFeature&resultType=hits&typeNames=" + t, 3000)
-        info["count"] = re.findall(rb'numberMatched="(\d+)"', h)[0].decode()
-        props = [k for k in info["fields"] if k not in ("wkb_geometry", "the_geom", "geom")]
-        s = get(M + "request=GetFeature&count=3&outputFormat=application/json&typeNames=" + t + "&propertyName=" + ",".join(props), 200000)
-        info["sample"] = [f["properties"] for f in json.loads(s)["features"]]
+        st, h = get(u)
+        out["pages"][u] = {"status": st, **{k: len(re.findall(p, h, re.I)) for k, p in markers.items()}}
     except Exception as e:
-        info["error"] = str(e)[:300]
-    out["layers"][lay] = info
-json.dump(out, open("probe/result.json", "w"), indent=1, ensure_ascii=False)
+        out["pages"][u] = {"error": str(e)[:150]}
+os.makedirs("probe", exist_ok=True)
+json.dump(out, open("probe/result.json", "w"), indent=1)
 print("done")
