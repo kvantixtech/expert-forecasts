@@ -1,24 +1,9 @@
 {
- "run_utc": "2026-10-01T05:41:44Z",
+ "run_utc": "2026-10-01T05:43:03Z",
  "docs": {
-  "SR681_vand_naeringsstoftransport_2024.pdf": 19896692,
-  "SR665_kvaelstofretention.pdf": 7257456,
-  "N2024_72.pdf": 2880623
- },
- "dst": [
-  {
-   "id": "GOEDSALG",
-   "text": "Salg af handelsgødning",
-   "unit": "Ton",
-   "firstPeriod": "2022:2023",
-   "latestPeriod": "2023:2024"
-  },
-  {
-   "id": "KBB02K",
-   "text": "Vurdering af ordrebeholdningen i byggeri og anlæg, nettotal (sæson- og brudkorrigeret)",
-   "unit": "Pct.",
-   "firstPeriod": "2015M01",
-   "latestPeriod": "2026M09"
-  }
- ]
+  "baggrund_2014.pdf": 572928,
+  "oda_home.html": 2531,
+  "oda_api.html": "HTTP Error 404: Not Found",
+  "vandah_api.html": 735
+ }
 }
