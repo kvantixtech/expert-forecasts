@@ -1,77 +1,47 @@
 {
- "run_utc": "2026-10-01T16:31:00Z",
- "public": [
-  [
-   "crypto-news-parser-lite",
-   true,
-   true,
-   false
-  ],
-  [
-   "energinet-forecasts",
-   false,
-   false,
-   false
-  ],
-  [
-   "energy-price-archive",
-   false,
-   false,
-   false
-  ],
-  [
-   "expert-forecasts",
-   false,
-   true,
-   false
-  ],
-  [
-   "kvantix-reports",
-   false,
-   true,
-   false
-  ],
-  [
-   "kvantixtech",
-   false,
-   false,
-   false
-  ],
-  [
-   "local-ccxt-wrapper",
-   true,
-   true,
-   false
-  ],
-  [
-   "lock-your-prediction",
-   false,
-   true,
-   false
-  ],
-  [
-   "position-sizer",
-   true,
-   false,
-   false
-  ],
-  [
-   "validation-examples",
-   false,
-   true,
-   false
-  ],
-  [
-   "wastewater-denmark",
-   false,
-   false,
-   false
-  ],
-  [
-   "weather-forecast-test",
-   false,
-   true,
-   false
+ "run_utc": "2026-10-01T16:41:19Z",
+ "https://arealdata.miljoeportal.dk/config": {
+  "status": 200,
+  "type": "application/json",
+  "length": "422",
+  "range": null,
+  "disp": null,
+  "final": "https://arealdata.miljoeportal.dk/config",
+  "keys": [
+   "apiUrl",
+   "authority",
+   "clientId",
+   "environment",
+   "monitoringUrl",
+   "monitoringDatasetUrl",
+   "ressourceDataCollectionId"
   ]
- ]
+ },
+ "https://arealdata.miljoeportal.dk/config.json": {
+  "status": 200,
+  "type": "application/json",
+  "length": "422",
+  "range": null,
+  "disp": null,
+  "final": "https://arealdata.miljoeportal.dk/config.json",
+  "keys": [
+   "apiUrl",
+   "authority",
+   "clientId",
+   "environment",
+   "monitoringUrl",
+   "monitoringDatasetUrl",
+   "ressourceDataCollectionId"
+  ]
+ },
+ "https://arealdata-api.miljoeportal.dk/config": {
+  "status": 404,
+  "body": ""
+ },
+ "clientId_found": true,
+ "download_with_public_clientid": {
+  "status": 401,
+  "body": ""
+ },
+ "first_bytes": ""
 }
