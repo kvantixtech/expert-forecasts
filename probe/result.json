@@ -1,172 +1,353 @@
 {
- "run_utc": "2026-10-01T06:03:24Z",
- "docs": {
-  "hip_wms.txt": {
-   "url": "https://api.dataforsyningen.dk/wms/hip_oplande?service=WMS&request=GetCapabilities",
-   "status": 400,
-   "body": "{\"message\":\"Authentication token must only be lowercase (token) or uppercase (TOKEN)!\",\"http_status_code\":400}"
+ "run_utc": "2026-10-01T06:05:17Z",
+ "layers": {
+  "punkt_ferskdam_saml": {
+   "fields": [
+    "x_koord",
+    "y_koord",
+    "vandomr_id",
+    "aar",
+    "komm_nr",
+    "komm_navn",
+    "pkt_id",
+    "mst_id",
+    "ho_id",
+    "distr_id",
+    "link",
+    "pkt_type",
+    "pkt_navn",
+    "ejer",
+    "se_nr",
+    "virk_type",
+    "rens_type",
+    "wkb_geometry"
+   ],
+   "count": "130",
+   "sample": [
+    {
+     "x_koord": 482523.999999802,
+     "y_koord": 6217587.99987337,
+     "vandomr_id": null,
+     "aar": 2024,
+     "komm_nr": null,
+     "komm_navn": "Ringkøbing-Skjern",
+     "pkt_id": "ea765af2-7fe7-4279-9c33-e762434be06e",
+     "mst_id": "ea765af2-7fe7-4279-9c33-e762434be06e",
+     "ho_id": "999                                                                                                                                                                                                                                                            ",
+     "distr_id": "999                                                                                                                                                                                                                                                           ",
+     "link": "",
+     "pkt_type": "Akvakultur",
+     "pkt_navn": "ABILD DAMBRUG",
+     "ejer": "DANAQUA ApS",
+     "se_nr": null,
+     "virk_type": "Ferskvandsdambrug",
+     "rens_type": "Ferskvandsdambrug"
+    },
+    {
+     "x_koord": 537425.00000043,
+     "y_koord": 6281931.99987334,
+     "vandomr_id": null,
+     "aar": 2024,
+     "komm_nr": null,
+     "komm_navn": "Vesthimmerlands",
+     "pkt_id": "0393191c-4d3b-4b3f-a65d-f8636d90b31b",
+     "mst_id": "0393191c-4d3b-4b3f-a65d-f8636d90b31b",
+     "ho_id": "999                                                                                                                                                                                                                                                            ",
+     "distr_id": "999                                                                                                                                                                                                                                                           ",
+     "link": "",
+     "pkt_type": "Akvakultur",
+     "pkt_navn": "Abildvad Dambrug",
+     "ejer": "AQUAPRI A/S",
+     "se_nr": null,
+     "virk_type": "Ferskvandsdambrug",
+     "rens_type": "Ferskvandsdambrug"
+    },
+    {
+     "x_koord": 511839.000000135,
+     "y_koord": 6233612.99987336,
+     "vandomr_id": null,
+     "aar": 2024,
+     "komm_nr": null,
+     "komm_navn": "Viborg",
+     "pkt_id": "abdd2b7d-ce66-4219-8b84-fe98b06e436c",
+     "mst_id": "abdd2b7d-ce66-4219-8b84-fe98b06e436c",
+     "ho_id": "999                                                                                                                                                                                                                                                            ",
+     "distr_id": "999                                                                                                                                                                                                                                                           ",
+     "link": "",
+     "pkt_type": "Akvakultur",
+     "pkt_navn": "AGERSKOV DAMBRUG",
+     "ejer": "Pedersen Aqua ApS",
+     "se_nr": null,
+     "virk_type": "Ferskvandsdambrug",
+     "rens_type": "Ferskvandsdambrug"
+    }
+   ]
   },
-  "hip_wms_DAF.txt": {
-   "url": "https://api.dataforsyningen.dk/hip_oplande_DAF?service=WMS&request=GetCapabilities",
-   "status": 404,
-   "body": "<!DOCTYPE html><html lang=\"da\"><head><meta charset=\"UTF-8\"><title>Dataforsyningen API Gateway</title><style>body{font-family:Roboto,sans-serif;font-size:11px;}h1{margin-bottom:.3rem;font-size:.75rem;line-height:.875rem;letter-spacing:.06rem;text-transform:uppercase;font-weight:700;}</style></head><body><h1>Dataforsyningen<sup>&reg;</sup> API Gateway</h1><p><a href=\"https://dataforsyningen.dk\" target=\"_blank\">Dokumentation</a></p><p><strong>Brug for hj&aelig;lp ?</strong> Skriv til <a href=\"mailto:support@kds.dk\">support@kds.dk</a> | Ring til <a href=\"tel:+4578768792\">78768792</a></p></body></h"
+  "punkt_ind_saml": {
+   "fields": [
+    "x_koord",
+    "y_koord",
+    "vandomr_id",
+    "aar",
+    "komm_nr",
+    "komm_navn",
+    "pkt_id",
+    "mst_id",
+    "ho_id",
+    "distr_id",
+    "link",
+    "pkt_type",
+    "pkt_navn",
+    "ejer",
+    "se_nr",
+    "udl_type",
+    "wkb_geometry"
+   ],
+   "count": "76",
+   "sample": [
+    {
+     "x_koord": 870113,
+     "y_koord": 6129091,
+     "vandomr_id": null,
+     "aar": 2024,
+     "komm_nr": null,
+     "komm_navn": "Bornholm",
+     "pkt_id": "c05563fb-a3d5-44b4-aa77-9ab1702f5285",
+     "mst_id": "c05563fb-a3d5-44b4-aa77-9ab1702f5285",
+     "ho_id": "999                                                                                                                                                                                                                                                            ",
+     "distr_id": "999                                                                                                                                                                                                                                                           ",
+     "link": "",
+     "pkt_type": "Industri",
+     "pkt_navn": "Bornholms Andelsmejeri",
+     "ejer": "BORNHOLMS ANDELSMEJERI",
+     "se_nr": null,
+     "udl_type": "Industrispildevand"
+    },
+    {
+     "x_koord": 448999,
+     "y_koord": 6279862,
+     "vandomr_id": null,
+     "aar": 2024,
+     "komm_nr": null,
+     "komm_navn": "Lemvig",
+     "pkt_id": "fe73b693-f2de-41c9-8569-3fc22996bf28",
+     "mst_id": "fe73b693-f2de-41c9-8569-3fc22996bf28",
+     "ho_id": "999                                                                                                                                                                                                                                                            ",
+     "distr_id": "999                                                                                                                                                                                                                                                           ",
+     "link": "",
+     "pkt_type": "Industri",
+     "pkt_navn": "Høfde 42",
+     "ejer": "Region Midtjylland",
+     "se_nr": null,
+     "udl_type": "Afværgepumpning"
+    },
+    {
+     "x_koord": 529862,
+     "y_koord": 6079054,
+     "vandomr_id": null,
+     "aar": 2024,
+     "komm_nr": null,
+     "komm_navn": "Aabenraa",
+     "pkt_id": "7046f4db-ff81-41d0-878c-c416508c0b7a",
+     "mst_id": "7046f4db-ff81-41d0-878c-c416508c0b7a",
+     "ho_id": "999                                                                                                                                                                                                                                                            ",
+     "distr_id": "999                                                                                                                                                                                                                                                           ",
+     "link": "",
+     "pkt_type": "Industri",
+     "pkt_navn": "Kollund deponi",
+     "ejer": "Ørsted Bioenergy & Thermal Power A/S",
+     "se_nr": null,
+     "udl_type": "Afværgepumpning"
+    }
+   ]
   },
-  "df_wfs_test.txt": {
-   "url": "https://api.dataforsyningen.dk/wfs/hip_oplande_DAF?service=WFS&request=GetCapabilities",
-   "status": 404,
-   "body": "<!DOCTYPE html><html lang=\"da\"><head><meta charset=\"UTF-8\"><title>Dataforsyningen API Gateway</title><style>body{font-family:Roboto,sans-serif;font-size:11px;}h1{margin-bottom:.3rem;font-size:.75rem;line-height:.875rem;letter-spacing:.06rem;text-transform:uppercase;font-weight:700;}</style></head><body><h1>Dataforsyningen<sup>&reg;</sup> API Gateway</h1><p><a href=\"https://dataforsyningen.dk\" target=\"_blank\">Dokumentation</a></p><p><strong>Brug for hj&aelig;lp ?</strong> Skriv til <a href=\"mailto:support@kds.dk\">support@kds.dk</a> | Ring til <a href=\"tel:+4578768792\">78768792</a></p></body></h"
+  "punkt_spredt_saml": {
+   "fields": [
+    "komm_navn",
+    "ho_id",
+    "mst_id",
+    "distr_id",
+    "link",
+    "wkb_geometry"
+   ],
+   "count": "271627",
+   "sample": [
+    {
+     "komm_navn": "ASSENS",
+     "ho_id": "999                                                                                                                                                                                                                                                            ",
+     "mst_id": "999                                                                                                                                                                                                                                                           ",
+     "distr_id": "999                                                                                                                                                                                                                                                           ",
+     "link": "                                                                                                                                                                                                                                                               "
+    },
+    {
+     "komm_navn": "VARDE",
+     "ho_id": "999                                                                                                                                                                                                                                                            ",
+     "mst_id": "999                                                                                                                                                                                                                                                           ",
+     "distr_id": "999                                                                                                                                                                                                                                                           ",
+     "link": "                                                                                                                                                                                                                                                               "
+    },
+    {
+     "komm_navn": "RINGKØBING-SKJERN",
+     "ho_id": "999                                                                                                                                                                                                                                                            ",
+     "mst_id": "999                                                                                                                                                                                                                                                           ",
+     "distr_id": "999                                                                                                                                                                                                                                                           ",
+     "link": "                                                                                                                                                                                                                                                               "
+    }
+   ]
   },
-  "nbel12_describe.xml": {
-   "url": "https://wfs2-miljoegis.mim.dk/ows?service=WFS&version=2.0.0&request=DescribeFeatureType&typeNames=vp2_2016:theme-vp2_2016nbel12_deloplande",
-   "status": 200,
-   "bytes": 1641
+  "lulc_map_poly": {
+   "fields": [
+    "objectid",
+    "id",
+    "grid_code",
+    "shape_leng",
+    "shape_area",
+    "wkb_geometry"
+   ],
+   "count": "2271832",
+   "sample": [
+    {
+     "objectid": 1,
+     "id": 1,
+     "grid_code": 17,
+     "shape_leng": 159.999999993,
+     "shape_area": 999.999999693
+    },
+    {
+     "objectid": 2,
+     "id": 2,
+     "grid_code": 17,
+     "shape_leng": 40,
+     "shape_area": 100
+    },
+    {
+     "objectid": 3,
+     "id": 3,
+     "grid_code": 19,
+     "shape_leng": 79.9999999963,
+     "shape_area": 299.999999981
+    }
+   ]
   },
-  "nbel12_hits.xml": {
-   "url": "https://wfs2-miljoegis.mim.dk/ows?service=WFS&version=2.0.0&request=GetFeature&resultType=hits&typeNames=vp2_2016:theme-vp2_2016nbel12_deloplande",
-   "status": 200,
-   "bytes": 741
+  "opl_delopl": {
+   "fields": [
+    "delop_type",
+    "delop_id",
+    "areal",
+    "wkb_geometry"
+   ],
+   "count": "522",
+   "sample": [
+    {
+     "delop_type": "Kystvandsopland - delopland",
+     "delop_id": 1,
+     "areal": 729.15
+    },
+    {
+     "delop_type": "Søopland - delopland",
+     "delop_id": 1000,
+     "areal": 13.99
+    },
+    {
+     "delop_type": "Søopland - delopland",
+     "delop_id": 101,
+     "areal": 23.38
+    }
+   ]
   },
-  "nbel12_sample.json": {
-   "url": "https://wfs2-miljoegis.mim.dk/ows?service=WFS&version=2.0.0&request=GetFeature&count=2&outputFormat=application/json&typeNames=vp2_2016:theme-vp2_2016nbel12_deloplande",
-   "status": 200,
-   "bytes": 300000
+  "opl_helopl": {
+   "fields": [
+    "op_type",
+    "op_id",
+    "wkb_geometry"
+   ],
+   "count": "4277",
+   "sample": [
+    {
+     "op_type": "Kystvandsopland",
+     "op_id": 1
+    },
+    {
+     "op_type": "Renseklasseoplande – påvirkning",
+     "op_id": 1
+    },
+    {
+     "op_type": "Renseklasseoplande – påvirkning",
+     "op_id": 10
+    }
+   ]
   },
-  "flow_21006853_2022.json": {
-   "url": "https://vandah.miljoeportal.dk/api/water-flows?format=json&stationId=21006853&from=2022-03-01T00:00Z&to=2022-03-02T00:00Z",
-   "status": 200,
-   "bytes": 22636
+  "opl_rensekl_pavirk": {
+   "fields": [
+    "id",
+    "mst_id",
+    "ho_id",
+    "distr_id",
+    "rensklasse",
+    "areal",
+    "link",
+    "wkb_geometry"
+   ],
+   "count": "3760",
+   "sample": [
+    {
+     "id": "21",
+     "mst_id": "21",
+     "ho_id": "999                                                                                                                                                                                                                                                            ",
+     "distr_id": "999                                                                                                                                                                                                                                                            ",
+     "rensklasse": "Renseklasse - SO",
+     "areal": 1614163.05242,
+     "link": "                                                                                                                                                                                                                                                               "
+    },
+    {
+     "id": "22",
+     "mst_id": "22",
+     "ho_id": "999                                                                                                                                                                                                                                                            ",
+     "distr_id": "999                                                                                                                                                                                                                                                            ",
+     "rensklasse": "Renseklasse - O",
+     "areal": 2257723.72821,
+     "link": "                                                                                                                                                                                                                                                               "
+    },
+    {
+     "id": "24",
+     "mst_id": "24",
+     "ho_id": "999                                                                                                                                                                                                                                                            ",
+     "distr_id": "999                                                                                                                                                                                                                                                            ",
+     "rensklasse": "Renseklasse - O",
+     "areal": 2539589.34369,
+     "link": "                                                                                                                                                                                                                                                               "
+    }
+   ]
   },
-  "flow_21006853_2023.json": {
-   "url": "https://vandah.miljoeportal.dk/api/water-flows?format=json&stationId=21006853&from=2023-03-01T00:00Z&to=2023-03-02T00:00Z",
-   "status": 200,
-   "bytes": 33820
-  },
-  "flow_21006853_2024.json": {
-   "url": "https://vandah.miljoeportal.dk/api/water-flows?format=json&stationId=21006853&from=2024-03-01T00:00Z&to=2024-03-02T00:00Z",
-   "status": 200,
-   "bytes": 2
-  },
-  "flow_21006853_2025.json": {
-   "url": "https://vandah.miljoeportal.dk/api/water-flows?format=json&stationId=21006853&from=2025-03-01T00:00Z&to=2025-03-02T00:00Z",
-   "status": 200,
-   "bytes": 2
-  },
-  "flow_19000467_2022.json": {
-   "url": "https://vandah.miljoeportal.dk/api/water-flows?format=json&stationId=19000467&from=2022-03-01T00:00Z&to=2022-03-02T00:00Z",
-   "status": 200,
-   "bytes": 22454
-  },
-  "flow_19000467_2023.json": {
-   "url": "https://vandah.miljoeportal.dk/api/water-flows?format=json&stationId=19000467&from=2023-03-01T00:00Z&to=2023-03-02T00:00Z",
-   "status": 200,
-   "bytes": 22349
-  },
-  "flow_19000467_2024.json": {
-   "url": "https://vandah.miljoeportal.dk/api/water-flows?format=json&stationId=19000467&from=2024-03-01T00:00Z&to=2024-03-02T00:00Z",
-   "status": 200,
-   "bytes": 2
-  },
-  "flow_19000467_2025.json": {
-   "url": "https://vandah.miljoeportal.dk/api/water-flows?format=json&stationId=19000467&from=2025-03-01T00:00Z&to=2025-03-02T00:00Z",
-   "status": 200,
-   "bytes": 2
-  },
-  "flow_42001223_2022.json": {
-   "url": "https://vandah.miljoeportal.dk/api/water-flows?format=json&stationId=42001223&from=2022-03-01T00:00Z&to=2022-03-02T00:00Z",
-   "status": 200,
-   "bytes": 22545
-  },
-  "flow_42001223_2023.json": {
-   "url": "https://vandah.miljoeportal.dk/api/water-flows?format=json&stationId=42001223&from=2023-03-01T00:00Z&to=2023-03-02T00:00Z",
-   "status": 200,
-   "bytes": 33540
-  },
-  "flow_42001223_2024.json": {
-   "url": "https://vandah.miljoeportal.dk/api/water-flows?format=json&stationId=42001223&from=2024-03-01T00:00Z&to=2024-03-02T00:00Z",
-   "status": 200,
-   "bytes": 2
-  },
-  "flow_42001223_2025.json": {
-   "url": "https://vandah.miljoeportal.dk/api/water-flows?format=json&stationId=42001223&from=2025-03-01T00:00Z&to=2025-03-02T00:00Z",
-   "status": 200,
-   "bytes": 2
-  },
-  "flow_60000991_2022.json": {
-   "url": "https://vandah.miljoeportal.dk/api/water-flows?format=json&stationId=60000991&from=2022-03-01T00:00Z&to=2022-03-02T00:00Z",
-   "status": 200,
-   "bytes": 2
-  },
-  "flow_60000991_2023.json": {
-   "url": "https://vandah.miljoeportal.dk/api/water-flows?format=json&stationId=60000991&from=2023-03-01T00:00Z&to=2023-03-02T00:00Z",
-   "status": 200,
-   "bytes": 2
-  },
-  "flow_60000991_2024.json": {
-   "url": "https://vandah.miljoeportal.dk/api/water-flows?format=json&stationId=60000991&from=2024-03-01T00:00Z&to=2024-03-02T00:00Z",
-   "status": 200,
-   "bytes": 66675
-  },
-  "flow_60000991_2025.json": {
-   "url": "https://vandah.miljoeportal.dk/api/water-flows?format=json&stationId=60000991&from=2025-03-01T00:00Z&to=2025-03-02T00:00Z",
-   "status": 200,
-   "bytes": 66503
-  },
-  "flow_62000010_2022.json": {
-   "url": "https://vandah.miljoeportal.dk/api/water-flows?format=json&stationId=62000010&from=2022-03-01T00:00Z&to=2022-03-02T00:00Z",
-   "status": 200,
-   "bytes": 2
-  },
-  "flow_62000010_2023.json": {
-   "url": "https://vandah.miljoeportal.dk/api/water-flows?format=json&stationId=62000010&from=2023-03-01T00:00Z&to=2023-03-02T00:00Z",
-   "status": 200,
-   "bytes": 2
-  },
-  "flow_62000010_2024.json": {
-   "url": "https://vandah.miljoeportal.dk/api/water-flows?format=json&stationId=62000010&from=2024-03-01T00:00Z&to=2024-03-02T00:00Z",
-   "status": 200,
-   "bytes": 2
-  },
-  "flow_62000010_2025.json": {
-   "url": "https://vandah.miljoeportal.dk/api/water-flows?format=json&stationId=62000010&from=2025-03-01T00:00Z&to=2025-03-02T00:00Z",
-   "status": 200,
-   "bytes": 2
-  },
-  "vg_kemi_steder_describe.xml": {
-   "url": "https://vanda-geo.miljoeportal.dk/geoserver/wfs?service=WFS&version=2.0.0&request=DescribeFeatureType&typeNames=vanda:steder",
-   "status": 200,
-   "bytes": 1323
-  },
-  "vg_kemi_steder_sample.json": {
-   "url": "https://vanda-geo.miljoeportal.dk/geoserver/wfs?service=WFS&version=2.0.0&request=GetFeature&count=3&outputFormat=application/json&typeNames=vanda:steder",
-   "status": 200,
-   "bytes": 1402
-  },
-  "vg_kemi_19000467.json": {
-   "url": "https://vanda-geo.miljoeportal.dk/geoserver/wfs?service=WFS&version=2.0.0&request=GetFeature&outputFormat=application/json&typeNames=vanda:vandkemi-vandloeb&CQL_FILTER=Stationsnummer%20IN%20(%2719000467%27,%2721006853%27,%2742001223%27)",
-   "status": 200,
-   "bytes": 147
+  "kystvandsopland_tabel_1": {
+   "fields": [
+    "kystvandsnavn",
+    "oplandid",
+    "deloplandeiheloplandet",
+    "arealkm2",
+    "wkb_geometry"
+   ],
+   "count": "108",
+   "sample": [
+    {
+     "kystvandsnavn": "Roskilde Fjord, ydre",
+     "oplandid": "1",
+     "deloplandeiheloplandet": "2,1",
+     "arealkm2": 1178.05
+    },
+    {
+     "kystvandsnavn": "Genner Bugt",
+     "oplandid": "101",
+     "deloplandeiheloplandet": "101",
+     "arealkm2": 38.78
+    },
+    {
+     "kystvandsnavn": "Åbenrå Fjord",
+     "oplandid": "102",
+     "deloplandeiheloplandet": "102",
+     "arealkm2": 81.13
+    }
+   ]
   }
- },
- "flow_points_1day": {
-  "21006853_2022": 97,
-  "21006853_2023": 145,
-  "21006853_2024": 0,
-  "21006853_2025": 0,
-  "19000467_2022": 97,
-  "19000467_2023": 97,
-  "19000467_2024": 0,
-  "19000467_2025": 0,
-  "42001223_2022": 97,
-  "42001223_2023": 145,
-  "42001223_2024": 0,
-  "42001223_2025": 0,
-  "60000991_2022": 0,
-  "60000991_2023": 0,
-  "60000991_2024": 289,
-  "60000991_2025": 289,
-  "62000010_2022": 0,
-  "62000010_2023": 0,
-  "62000010_2024": 0,
-  "62000010_2025": 0
  }
 }
