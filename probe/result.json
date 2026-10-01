@@ -1,5 +1,5 @@
 {
- "run_utc": "2026-10-01T14:36:23Z",
+ "run_utc": "2026-10-01T14:41:34Z",
  "pages": {
   "https://kvantix.tech/": {
    "status": 200,
@@ -163,7 +163,27 @@
    "umami_cloud_text": 0
   },
   "https://kvantix.tech/playground/wastewater/": {
-   "error": "HTTP Error 404: Not Found"
+   "status": 200,
+   "ga": 0,
+   "monsterinsights": 0,
+   "webmcp": 0,
+   "userfeedback": 0,
+   "wpconsent": 0,
+   "wpforms": 0,
+   "extendify": 0,
+   "old_landing_566": 0,
+   "mobilepay": 0,
+   "wpcode_566": 0,
+   "google_fonts": 0,
+   "binance_fetch": 0,
+   "umami": 1,
+   "privacy_link": 1,
+   "ww_card": 2,
+   "ww_js": 1,
+   "v1001": 2,
+   "analysis_finishes": 0,
+   "request_ends": 0,
+   "umami_cloud_text": 0
   },
   "https://kvantix.tech/playground/weather/": {
    "status": 200,
@@ -223,7 +243,11 @@
   ]
  },
  "assets": {
-  "https://kvantix.tech/wp-content/uploads/kvx/kvx-wastewater.js": "HTTP Error 404: Not Found",
+  "https://kvantix.tech/wp-content/uploads/kvx/kvx-wastewater.js": [
+   200,
+   255590,
+   true
+  ],
   "https://kvantix.tech/wp-content/uploads/kvx/kvx-energy.js": [
    200,
    10432,
