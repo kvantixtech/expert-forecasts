@@ -1,5 +1,5 @@
 {
- "run_utc": "2026-10-01T13:59:21Z",
+ "run_utc": "2026-10-01T14:05:15Z",
  "pages": {
   "https://kvantix.tech/": {
    "status": 200,
@@ -18,24 +18,6 @@
    "umami": 1,
    "privacy_link": 0,
    "umami_cloud_text": 0
-  },
-  "https://kvantix.tech/661-2/": {
-   "status": 200,
-   "ga": 0,
-   "monsterinsights": 0,
-   "webmcp": 0,
-   "userfeedback": 0,
-   "wpconsent": 0,
-   "wpforms": 0,
-   "extendify": 0,
-   "old_landing_566": 0,
-   "mobilepay": 0,
-   "wpcode_566": 0,
-   "google_fonts": 0,
-   "binance_fetch": 0,
-   "umami": 3,
-   "privacy_link": 1,
-   "umami_cloud_text": 1
   },
   "https://kvantix.tech/playground/": {
    "status": 200,
@@ -164,7 +146,22 @@
    "umami_cloud_text": 0
   },
   "https://kvantix.tech/privacy/": {
-   "error": "HTTP Error 404: Not Found"
+   "status": 200,
+   "ga": 0,
+   "monsterinsights": 0,
+   "webmcp": 0,
+   "userfeedback": 0,
+   "wpconsent": 0,
+   "wpforms": 0,
+   "extendify": 0,
+   "old_landing_566": 0,
+   "mobilepay": 0,
+   "wpcode_566": 0,
+   "google_fonts": 0,
+   "binance_fetch": 0,
+   "umami": 3,
+   "privacy_link": 3,
+   "umami_cloud_text": 1
   }
  },
  "redirects": {
@@ -173,8 +170,8 @@
    "https://kvantix.tech/privacy/"
   ],
   "https://kvantix.tech/privacy": [
-   404,
-   null
+   301,
+   "https://kvantix.tech/privacy/"
   ]
  }
 }
