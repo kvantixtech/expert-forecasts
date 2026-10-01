@@ -1,353 +1,133 @@
 {
- "run_utc": "2026-10-01T06:05:17Z",
- "layers": {
-  "punkt_ferskdam_saml": {
-   "fields": [
-    "x_koord",
-    "y_koord",
-    "vandomr_id",
-    "aar",
-    "komm_nr",
-    "komm_navn",
-    "pkt_id",
-    "mst_id",
-    "ho_id",
-    "distr_id",
-    "link",
-    "pkt_type",
-    "pkt_navn",
-    "ejer",
-    "se_nr",
-    "virk_type",
-    "rens_type",
-    "wkb_geometry"
-   ],
-   "count": "130",
-   "sample": [
-    {
-     "x_koord": 482523.999999802,
-     "y_koord": 6217587.99987337,
-     "vandomr_id": null,
-     "aar": 2024,
-     "komm_nr": null,
-     "komm_navn": "Ringkøbing-Skjern",
-     "pkt_id": "ea765af2-7fe7-4279-9c33-e762434be06e",
-     "mst_id": "ea765af2-7fe7-4279-9c33-e762434be06e",
-     "ho_id": "999                                                                                                                                                                                                                                                            ",
-     "distr_id": "999                                                                                                                                                                                                                                                           ",
-     "link": "",
-     "pkt_type": "Akvakultur",
-     "pkt_navn": "ABILD DAMBRUG",
-     "ejer": "DANAQUA ApS",
-     "se_nr": null,
-     "virk_type": "Ferskvandsdambrug",
-     "rens_type": "Ferskvandsdambrug"
-    },
-    {
-     "x_koord": 537425.00000043,
-     "y_koord": 6281931.99987334,
-     "vandomr_id": null,
-     "aar": 2024,
-     "komm_nr": null,
-     "komm_navn": "Vesthimmerlands",
-     "pkt_id": "0393191c-4d3b-4b3f-a65d-f8636d90b31b",
-     "mst_id": "0393191c-4d3b-4b3f-a65d-f8636d90b31b",
-     "ho_id": "999                                                                                                                                                                                                                                                            ",
-     "distr_id": "999                                                                                                                                                                                                                                                           ",
-     "link": "",
-     "pkt_type": "Akvakultur",
-     "pkt_navn": "Abildvad Dambrug",
-     "ejer": "AQUAPRI A/S",
-     "se_nr": null,
-     "virk_type": "Ferskvandsdambrug",
-     "rens_type": "Ferskvandsdambrug"
-    },
-    {
-     "x_koord": 511839.000000135,
-     "y_koord": 6233612.99987336,
-     "vandomr_id": null,
-     "aar": 2024,
-     "komm_nr": null,
-     "komm_navn": "Viborg",
-     "pkt_id": "abdd2b7d-ce66-4219-8b84-fe98b06e436c",
-     "mst_id": "abdd2b7d-ce66-4219-8b84-fe98b06e436c",
-     "ho_id": "999                                                                                                                                                                                                                                                            ",
-     "distr_id": "999                                                                                                                                                                                                                                                           ",
-     "link": "",
-     "pkt_type": "Akvakultur",
-     "pkt_navn": "AGERSKOV DAMBRUG",
-     "ejer": "Pedersen Aqua ApS",
-     "se_nr": null,
-     "virk_type": "Ferskvandsdambrug",
-     "rens_type": "Ferskvandsdambrug"
-    }
-   ]
+ "run_utc": "2026-10-01T09:15:59Z",
+ "pages": {
+  "https://kvantix.tech/": {
+   "status": 200,
+   "ga": 0,
+   "monsterinsights": 0,
+   "webmcp": 0,
+   "userfeedback": 0,
+   "wpconsent": 0,
+   "wpforms": 0,
+   "extendify": 0,
+   "old_landing_566": 0,
+   "mobilepay": 0,
+   "wpcode_566": 0,
+   "google_fonts": 0,
+   "binance_fetch": 0,
+   "umami": 1
   },
-  "punkt_ind_saml": {
-   "fields": [
-    "x_koord",
-    "y_koord",
-    "vandomr_id",
-    "aar",
-    "komm_nr",
-    "komm_navn",
-    "pkt_id",
-    "mst_id",
-    "ho_id",
-    "distr_id",
-    "link",
-    "pkt_type",
-    "pkt_navn",
-    "ejer",
-    "se_nr",
-    "udl_type",
-    "wkb_geometry"
-   ],
-   "count": "76",
-   "sample": [
-    {
-     "x_koord": 870113,
-     "y_koord": 6129091,
-     "vandomr_id": null,
-     "aar": 2024,
-     "komm_nr": null,
-     "komm_navn": "Bornholm",
-     "pkt_id": "c05563fb-a3d5-44b4-aa77-9ab1702f5285",
-     "mst_id": "c05563fb-a3d5-44b4-aa77-9ab1702f5285",
-     "ho_id": "999                                                                                                                                                                                                                                                            ",
-     "distr_id": "999                                                                                                                                                                                                                                                           ",
-     "link": "",
-     "pkt_type": "Industri",
-     "pkt_navn": "Bornholms Andelsmejeri",
-     "ejer": "BORNHOLMS ANDELSMEJERI",
-     "se_nr": null,
-     "udl_type": "Industrispildevand"
-    },
-    {
-     "x_koord": 448999,
-     "y_koord": 6279862,
-     "vandomr_id": null,
-     "aar": 2024,
-     "komm_nr": null,
-     "komm_navn": "Lemvig",
-     "pkt_id": "fe73b693-f2de-41c9-8569-3fc22996bf28",
-     "mst_id": "fe73b693-f2de-41c9-8569-3fc22996bf28",
-     "ho_id": "999                                                                                                                                                                                                                                                            ",
-     "distr_id": "999                                                                                                                                                                                                                                                           ",
-     "link": "",
-     "pkt_type": "Industri",
-     "pkt_navn": "Høfde 42",
-     "ejer": "Region Midtjylland",
-     "se_nr": null,
-     "udl_type": "Afværgepumpning"
-    },
-    {
-     "x_koord": 529862,
-     "y_koord": 6079054,
-     "vandomr_id": null,
-     "aar": 2024,
-     "komm_nr": null,
-     "komm_navn": "Aabenraa",
-     "pkt_id": "7046f4db-ff81-41d0-878c-c416508c0b7a",
-     "mst_id": "7046f4db-ff81-41d0-878c-c416508c0b7a",
-     "ho_id": "999                                                                                                                                                                                                                                                            ",
-     "distr_id": "999                                                                                                                                                                                                                                                           ",
-     "link": "",
-     "pkt_type": "Industri",
-     "pkt_navn": "Kollund deponi",
-     "ejer": "Ørsted Bioenergy & Thermal Power A/S",
-     "se_nr": null,
-     "udl_type": "Afværgepumpning"
-    }
-   ]
+  "https://kvantix.tech/playground/": {
+   "status": 200,
+   "ga": 0,
+   "monsterinsights": 0,
+   "webmcp": 0,
+   "userfeedback": 0,
+   "wpconsent": 0,
+   "wpforms": 0,
+   "extendify": 0,
+   "old_landing_566": 0,
+   "mobilepay": 0,
+   "wpcode_566": 0,
+   "google_fonts": 0,
+   "binance_fetch": 0,
+   "umami": 1
   },
-  "punkt_spredt_saml": {
-   "fields": [
-    "komm_navn",
-    "ho_id",
-    "mst_id",
-    "distr_id",
-    "link",
-    "wkb_geometry"
-   ],
-   "count": "271627",
-   "sample": [
-    {
-     "komm_navn": "ASSENS",
-     "ho_id": "999                                                                                                                                                                                                                                                            ",
-     "mst_id": "999                                                                                                                                                                                                                                                           ",
-     "distr_id": "999                                                                                                                                                                                                                                                           ",
-     "link": "                                                                                                                                                                                                                                                               "
-    },
-    {
-     "komm_navn": "VARDE",
-     "ho_id": "999                                                                                                                                                                                                                                                            ",
-     "mst_id": "999                                                                                                                                                                                                                                                           ",
-     "distr_id": "999                                                                                                                                                                                                                                                           ",
-     "link": "                                                                                                                                                                                                                                                               "
-    },
-    {
-     "komm_navn": "RINGKØBING-SKJERN",
-     "ho_id": "999                                                                                                                                                                                                                                                            ",
-     "mst_id": "999                                                                                                                                                                                                                                                           ",
-     "distr_id": "999                                                                                                                                                                                                                                                           ",
-     "link": "                                                                                                                                                                                                                                                               "
-    }
-   ]
+  "https://kvantix.tech/playground/energy/": {
+   "status": 200,
+   "ga": 0,
+   "monsterinsights": 0,
+   "webmcp": 0,
+   "userfeedback": 0,
+   "wpconsent": 0,
+   "wpforms": 0,
+   "extendify": 0,
+   "old_landing_566": 0,
+   "mobilepay": 0,
+   "wpcode_566": 0,
+   "google_fonts": 0,
+   "binance_fetch": 0,
+   "umami": 1
   },
-  "lulc_map_poly": {
-   "fields": [
-    "objectid",
-    "id",
-    "grid_code",
-    "shape_leng",
-    "shape_area",
-    "wkb_geometry"
-   ],
-   "count": "2271832",
-   "sample": [
-    {
-     "objectid": 1,
-     "id": 1,
-     "grid_code": 17,
-     "shape_leng": 159.999999993,
-     "shape_area": 999.999999693
-    },
-    {
-     "objectid": 2,
-     "id": 2,
-     "grid_code": 17,
-     "shape_leng": 40,
-     "shape_area": 100
-    },
-    {
-     "objectid": 3,
-     "id": 3,
-     "grid_code": 19,
-     "shape_leng": 79.9999999963,
-     "shape_area": 299.999999981
-    }
-   ]
+  "https://kvantix.tech/playground/experts/": {
+   "status": 200,
+   "ga": 0,
+   "monsterinsights": 0,
+   "webmcp": 0,
+   "userfeedback": 0,
+   "wpconsent": 0,
+   "wpforms": 0,
+   "extendify": 0,
+   "old_landing_566": 0,
+   "mobilepay": 0,
+   "wpcode_566": 0,
+   "google_fonts": 0,
+   "binance_fetch": 0,
+   "umami": 1
   },
-  "opl_delopl": {
-   "fields": [
-    "delop_type",
-    "delop_id",
-    "areal",
-    "wkb_geometry"
-   ],
-   "count": "522",
-   "sample": [
-    {
-     "delop_type": "Kystvandsopland - delopland",
-     "delop_id": 1,
-     "areal": 729.15
-    },
-    {
-     "delop_type": "Søopland - delopland",
-     "delop_id": 1000,
-     "areal": 13.99
-    },
-    {
-     "delop_type": "Søopland - delopland",
-     "delop_id": 101,
-     "areal": 23.38
-    }
-   ]
+  "https://kvantix.tech/playground/lock-your-prediction/": {
+   "status": 200,
+   "ga": 0,
+   "monsterinsights": 0,
+   "webmcp": 0,
+   "userfeedback": 0,
+   "wpconsent": 0,
+   "wpforms": 0,
+   "extendify": 0,
+   "old_landing_566": 0,
+   "mobilepay": 0,
+   "wpcode_566": 0,
+   "google_fonts": 0,
+   "binance_fetch": 0,
+   "umami": 1
   },
-  "opl_helopl": {
-   "fields": [
-    "op_type",
-    "op_id",
-    "wkb_geometry"
-   ],
-   "count": "4277",
-   "sample": [
-    {
-     "op_type": "Kystvandsopland",
-     "op_id": 1
-    },
-    {
-     "op_type": "Renseklasseoplande – påvirkning",
-     "op_id": 1
-    },
-    {
-     "op_type": "Renseklasseoplande – påvirkning",
-     "op_id": 10
-    }
-   ]
+  "https://kvantix.tech/playground/luck-or-skill/": {
+   "status": 200,
+   "ga": 0,
+   "monsterinsights": 0,
+   "webmcp": 0,
+   "userfeedback": 0,
+   "wpconsent": 0,
+   "wpforms": 0,
+   "extendify": 0,
+   "old_landing_566": 0,
+   "mobilepay": 0,
+   "wpcode_566": 0,
+   "google_fonts": 0,
+   "binance_fetch": 0,
+   "umami": 1
   },
-  "opl_rensekl_pavirk": {
-   "fields": [
-    "id",
-    "mst_id",
-    "ho_id",
-    "distr_id",
-    "rensklasse",
-    "areal",
-    "link",
-    "wkb_geometry"
-   ],
-   "count": "3760",
-   "sample": [
-    {
-     "id": "21",
-     "mst_id": "21",
-     "ho_id": "999                                                                                                                                                                                                                                                            ",
-     "distr_id": "999                                                                                                                                                                                                                                                            ",
-     "rensklasse": "Renseklasse - SO",
-     "areal": 1614163.05242,
-     "link": "                                                                                                                                                                                                                                                               "
-    },
-    {
-     "id": "22",
-     "mst_id": "22",
-     "ho_id": "999                                                                                                                                                                                                                                                            ",
-     "distr_id": "999                                                                                                                                                                                                                                                            ",
-     "rensklasse": "Renseklasse - O",
-     "areal": 2257723.72821,
-     "link": "                                                                                                                                                                                                                                                               "
-    },
-    {
-     "id": "24",
-     "mst_id": "24",
-     "ho_id": "999                                                                                                                                                                                                                                                            ",
-     "distr_id": "999                                                                                                                                                                                                                                                            ",
-     "rensklasse": "Renseklasse - O",
-     "areal": 2539589.34369,
-     "link": "                                                                                                                                                                                                                                                               "
-    }
-   ]
+  "https://kvantix.tech/playground/track-record/": {
+   "status": 200,
+   "ga": 0,
+   "monsterinsights": 0,
+   "webmcp": 0,
+   "userfeedback": 0,
+   "wpconsent": 0,
+   "wpforms": 0,
+   "extendify": 0,
+   "old_landing_566": 0,
+   "mobilepay": 0,
+   "wpcode_566": 0,
+   "google_fonts": 0,
+   "binance_fetch": 0,
+   "umami": 1
   },
-  "kystvandsopland_tabel_1": {
-   "fields": [
-    "kystvandsnavn",
-    "oplandid",
-    "deloplandeiheloplandet",
-    "arealkm2",
-    "wkb_geometry"
-   ],
-   "count": "108",
-   "sample": [
-    {
-     "kystvandsnavn": "Roskilde Fjord, ydre",
-     "oplandid": "1",
-     "deloplandeiheloplandet": "2,1",
-     "arealkm2": 1178.05
-    },
-    {
-     "kystvandsnavn": "Genner Bugt",
-     "oplandid": "101",
-     "deloplandeiheloplandet": "101",
-     "arealkm2": 38.78
-    },
-    {
-     "kystvandsnavn": "Åbenrå Fjord",
-     "oplandid": "102",
-     "deloplandeiheloplandet": "102",
-     "arealkm2": 81.13
-    }
-   ]
+  "https://kvantix.tech/playground/weather/": {
+   "status": 200,
+   "ga": 0,
+   "monsterinsights": 0,
+   "webmcp": 0,
+   "userfeedback": 0,
+   "wpconsent": 0,
+   "wpforms": 0,
+   "extendify": 0,
+   "old_landing_566": 0,
+   "mobilepay": 0,
+   "wpcode_566": 0,
+   "google_fonts": 0,
+   "binance_fetch": 0,
+   "umami": 1
   }
  }
 }
