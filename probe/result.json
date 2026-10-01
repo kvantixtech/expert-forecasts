@@ -1,5 +1,5 @@
 {
- "run_utc": "2026-10-01T15:11:44Z",
+ "run_utc": "2026-10-01T16:01:13Z",
  "pages": {
   "/": {
    "status": 200,
@@ -268,8 +268,8 @@
   "https://kvantix.tech/wp-content/uploads/kvx/kvx-wastewater.js?v=20261001a": {
    "status": 200,
    "type": "application/x-javascript",
-   "bytes": 256635,
-   "same_as_build": false
+   "bytes": 259281,
+   "same_as_build": true
   },
   "https://kvantix.tech/wp-content/uploads/kvx/kvx-weather.js?v=20260929c": {
    "status": 200,
